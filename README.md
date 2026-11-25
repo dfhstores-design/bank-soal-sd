@@ -1,89 +1,108 @@
 # bank-soal-sd
 
-Satu bank soal Kelas 1–6 untuk aplikasi belajar **NaraNusa**. Soal ditulis
-dalam Markdown (sumber kanonis), lalu di-build menjadi JSON untuk dikonsumsi
-aplikasi.
+Bank soal untuk Kelas 1-6 SD yang dipakai aplikasi belajar (saat ini dipakai NaraNusa, tetapi terbuka untuk siapa saja yang ingin membangun aplikasi belajar sendiri).
 
-## Struktur folder
+## Apa isi repo ini
 
-```
-bank-soal-sd/
-├── kelas-4/
-│   ├── mtk/       (6 modul)
-│   ├── tik/       (8 modul)
-│   ├── pjok/      (5 modul)
-│   ├── seni/      (8 modul)
-│   ├── inggris/   (8 modul)
-│   ├── pai/       (11 modul)
-│   ├── bi/        (kosong — menunggu daftar isi)
-│   ├── ipas/      (kosong — menunggu daftar isi)
-│   └── pp/        (kosong — menunggu daftar isi)
-├── scripts/
-│   └── build-json.py
-└── json/
-    └── kelas-4/   (hasil build)
-```
+Repo ini berisi soal-soal SD dalam bentuk file Markdown dan hasil build-nya berupa JSON.
 
-## Status saat ini
+Saat ini yang tersedia baru **Kelas 4**, sebanyak **46 modul Markdown** dengan total **745 soal**. Semua soal berstatus **draf** dan belum final. Rincian per mata pelajaran:
 
-- **Kelas 4**: 745 soal **draf** — MTK 135, TIK 155, PJOK 85, Seni 105,
-  Inggris 75, PAI 190.
-- **BI, IPAS, PP**: menunggu foto daftar isi, belum ada soal.
-- **Kelas 1–3 dan 5–6**: masih kosong.
+| Mata pelajaran | Jumlah soal | Modul |
+|---|---|---|
+| MTK | 135 | 6 |
+| TIK | 155 | 8 |
+| PJOK | 85 | 5 |
+| Seni | 105 | 8 |
+| Inggris | 75 | 8 |
+| PAI | 190 | 11 |
 
-## Status draf
+Yang masih kosong:
+- **BI, IPAS, PP** (Kelas 4) — menunggu foto daftar isi buku.
+- **Kelas 1-3 dan Kelas 5-6** — belum diisi.
 
-Semua soal berstatus `draf` dan **wajib tinjauan guru** (D-014) sebelum
-dipakai aplikasi. Saat ini belum ada soal yang lolos tinjauan.
+Soal dikurasi dari buku Erlangga Kelas 4 (mengacu daftar isi buku) dan dibuat dengan variasi yang kuat, bukan sekadar hafalan. Semua soal wajib ditinjau guru sebelum dipakai aplikasi.
 
-## Alur
+## Untuk siapa repo ini
 
-```
-singgah/  →  tinjauan guru (batas 14 hari)  →  bank
-```
+**a. Developer / pembuat aplikasi belajar.** Kamu bisa memakai soal-soal ini di aplikasimu sendiri. Datanya tersedia dalam bentuk JSON siap konsumsi, sehingga tidak perlu menyusun soal dari nol. Cukup ambil file JSON yang dibutuhkan dan tampilkan di aplikasimu.
 
-Soal yang belum ditinjau dalam 14 hari dikembalikan ke Andri untuk
-diputuskan (terima / tolak / ingatkan peninjau).
+**b. Guru, orang tua, atau kontributor.** Kamu bisa menyumbang soal baru dengan menulis modul Markdown lalu mengirimkannya ke folder `singgah/`. Setiap kiriman akan ditinjau guru sebelum masuk ke bank soal. Identitas kontributor (nama + kontak) hanya dicatat di pengiriman, tidak ikut tampil di modul publik.
 
-## Format kanonis
+**c. Tim NaraNusa.** Repo ini adalah sumber soal utama untuk aplikasi NaraNusa. Fokus saat ini pada Kelas 4 sampai tuntas, baru kemudian kelas lain.
 
-- **Markdown** = sumber. Tiap modul berisi header bab, sub-bab, dan blok
-  `### Soal N` dengan field `Pertanyaan`, pilihan A–D, `Jawaban benar`,
-  `Pembahasan`, dan `Rujukan`.
-- **JSON** = hasil build. Satu file per mapel di `json/kelas-4/<mapel>.json`.
+## Cara memakai soal ini di aplikasimu sendiri
 
-## Build
+1. **Clone atau unduh repo ini.**
 
-Jalankan dari root repo:
+   ```
+   git clone https://github.com/dfhstores-design/bank-soal-sd.git
+   ```
 
-```bash
-python3 scripts/build-json.py
-```
+   Atau unduh sebagai ZIP lewat tombol Code di GitHub.
 
-Skrip memvalidasi keras jumlah soal per mapel (harus persis total 745).
-Kalau ada yang tidak cocok, build gagal dengan pesan error menyebut file
-dan nomor soal.
+2. **Ambil file JSON langsung, atau build sendiri.**
+   - Langsung ambil hasil build, misalnya:
+     ```
+     https://raw.githubusercontent.com/dfhstores-design/bank-soal-sd/main/json/kelas-4/mtk.json
+     ```
+   - Atau build ulang dari Markdown dengan menjalankan perintah ini dari root repo:
+     ```
+     python3 scripts/build-json.py
+     ```
+     Script ini memvalidasi jumlah soal per mapel secara ketat (harus persis 745 total). Jika tidak cocok, build gagal.
 
-Contoh output ringkasan:
+3. **Baca satu soal dari JSON.** Setiap soal punya 14 field. Contoh field penting:
 
-```
-Build selesai:
-  mtk     :  135 soal
-  tik     :  155 soal
-  pjok    :   85 soal
-  seni    :  105 soal
-  inggris :   75 soal
-  pai     :  190 soal
-  total   :  745 soal
-Output: json/kelas-4/
-```
+   ```json
+   {
+     "pertanyaan": "Berapakah hasil dari 63 : 7?\nA. 7\nB. 8\nC. 9\nD. 10",
+     "pilihan": ["7", "8", "9", "10"],
+     "jawaban_benar": "C",
+     "pembahasan": "7 × 9 = 63, jadi 63 : 7 = 9. Pembagian adalah kebalikan dari perkalian.",
+     "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab H",
+     "jenjang": "kelas-4",
+     "mapel": "mtk",
+     "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+     "sub_bab": "H: Pembagian Bilangan Cacah sampai 100",
+     "sumber": "Kurasi internal",
+     "status": "draf",
+     "pembuat": "Kurasi internal",
+     "tanggal": "2026-11-25"
+   }
+   ```
 
-## Keputusan kunci
+   Contoh di atas adalah soal sungguhan dari bank ini (MTK Bab 1). Perhatikan: pilihan A-D juga tertulis di dalam field `pertanyaan`, selain tersimpan terpisah di array `pilihan`.
 
-| Kode  | Keputusan |
-|-------|-----------|
-| D-026 | Repo terpisah, publik |
-| D-027 | Markdown sebagai sumber + JSON sebagai hasil build |
-| D-028 | Peninjau = guru D-014 yang sama; batas tinjauan 14 hari — lewat batas, Andri yang putuskan |
-| D-029 | Generator form + Google Apps Script (GAS) |
-| D-032 | Fokus Kelas 4 dulu, mapel lain menyusul |
+   Field yang perlu diperhatikan saat menampilkan soal: `pertanyaan`, `pilihan` (array 4 string, A-D), `jawaban_benar` (A/B/C/D), `pembahasan`, dan `status`.
+
+4. **Catatan penting:** semua soal berstatus **draf**. Periksa dulu atau tunggu tinjauan guru sebelum dipakai ke anak. Jangan menganggap soal draf sebagai soal final.
+
+## Cara menyumbang soal
+
+1. Tulis modul Markdown mengikuti format berikut:
+   - Header: `# Modul <MAPEL> — Bab N: <judul>`
+   - Sub-bab: `## Sub-bab X: ...`
+   - Soal: blok `### Soal N` berisi field `Pertanyaan`, pilihan `A-D`, `Jawaban benar`, `Pembahasan`, dan `Rujukan`.
+
+2. Kirim file ke folder `singgah/` pada mapel yang sesuai, misalnya `kelas-4/mtk/singgah/`. Kiriman belum masuk bank soal sampai lolos tinjauan.
+
+3. Sertakan nama dan kontak (WA atau email) di catatan pengiriman. Data ini hanya dipakai untuk komunikasi, tidak ikut ke modul publik.
+
+4. Peninjau guru akan meninjau kiriman maksimal **14 hari**. Jika lewat batas, Andri yang memutuskan: terima, tolak, atau ingatkan peninjau.
+
+## Status & keputusan
+
+| Kode | Keputusan |
+|---|---|
+| D-026 | Repo terpisah dan publik. |
+| D-027 | Markdown sebagai sumber, JSON sebagai hasil build. |
+| D-028 | Peninjau guru yang sama (D-014), batas tinjauan 14 hari. |
+| D-029 | Generator soal berupa form + Google Apps Script. |
+| D-030 | Provider API terbuka; kontributor memakai kunci sendiri per sesi, tidak disimpan. |
+| D-031 | Identitas kontributor (nama + kontak WA/email) hanya di catatan pengiriman, tidak ikut ke modul publik. |
+| D-032 | Fokus Kelas 4 dulu sampai tuntas, baru kelas lain. |
+
+## Lisensi
+
+Repo ini **belum memiliki lisensi resmi**. Untuk saat ini, jangan mengasumsikan repo ini bebas dipakai untuk keperluan komersial. Lisensi akan ditetapkan kemudian.
