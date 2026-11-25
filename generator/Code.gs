@@ -260,3 +260,267 @@ function setupAntrean() {
     return 'Gagal setup: ' + (err && err.message ? err.message : String(err));
   }
 }
+
+// D-035: Pasang fungsi di bawah pada skrip TERIKAT Sheet antrean,
+// bukan pada project Apps Script web app generator standalone.
+
+// =========================================================================
+// D-035 — Checklist tinjauan + approve bulk
+// =========================================================================
+
+// Checklist tinjauan D-035 (dokumentasi; bukan header kolom):
+// 1. Jawaban benar — kunci cocok dengan pembahasan.
+// 2. Pembahasan benar dan nyambung dengan soal.
+// 3. Materi sesuai bab/sub-bab yang dipilih kontributor.
+// 4. Bahasa sesuai jenjang.
+// 5. Soal original — bukan salinan kata-per-kata dari satu sumber.
+// 6. Variasi kuat — bukan hafalan murni.
+// 7. Empat pilihan masuk akal, tepat 1 yang benar.
+const CHECKLIST_TINJAUAN_D035 = [
+  'Jawaban benar',
+  'Pembahasan nyambung',
+  'Sesuai bab/sub-bab',
+  'Bahasa sesuai jenjang',
+  'Original',
+  'Variasi kuat',
+  '4 pilihan, 1 benar'
+];
+
+function onOpen() {
+  SpreadsheetApp.getUi()
+    .createMenu('Tinjauan')
+    .addItem('Pasang kolom checklist', 'setupChecklistTinjauan')
+    .addItem('Approve bulk (semua butir lolos)', 'approveBulkTinjauan')
+    .addToUi();
+}
+
+/*
+ * setupChecklistTinjauan — idempotent.
+ * Menambah 7 kolom checkbox tinjauan setelah kolom terakhir, mencari kolom
+ * catatan berdasarkan nama header yang mengandung "catat", dan memasang
+ * validasi checkbox pada 7 kolom checklist.
+ */
+function setupChecklistTinjauan() {
+  try {
+    const ss = SpreadsheetApp.openById(SHEET_ID);
+    const sheet = ss.getSheetByName(SHEET_NAME);
+    if (!sheet) {
+      throw new Error('Sheet "' + SHEET_NAME + '" tidak ditemukan.');
+    }
+    if (sheet.getLastRow() < 1) {
+      throw new Error('Header sheet "' + SHEET_NAME + '" belum ada. Jalankan setupAntrean dulu.');
+    }
+
+    const lastColAwal = Math.max(sheet.getLastColumn(), 1);
+    const headers = sheet.getRange(1, 1, 1, lastColAwal).getValues()[0];
+    let lastCol = lastColAwal;
+
+    const ditambah = [];
+    const sudahAda = [];
+
+    // Tambah 7 kolom checklist jika belum ada. Header dicek berdasarkan nama.
+    for (let i = 0; i < CHECKLIST_TINJAUAN_D035.length; i++) {
+      const nama = CHECKLIST_TINJAUAN_D035[i];
+      const idx = cariIndexHeaderD035_(headers, nama);
+      if (idx !== -1) {
+        sudahAda.push(headers[idx - 1]);
+      } else {
+        lastCol++;
+        sheet.getRange(1, lastCol).setValue(nama);
+        headers[lastCol - 1] = nama;
+        ditambah.push(nama);
+      }
+    }
+
+    // Cari kolom catatan berdasarkan nama header yang mengandung "catat".
+    let idxCatatan = cariIndexHeaderMengandungD035_(headers, 'catat');
+    if (idxCatatan !== -1) {
+      sudahAda.push(headers[idxCatatan - 1]);
+    } else {
+      lastCol++;
+      const namaCatatan = 'Catatan tinjauan';
+      sheet.getRange(1, lastCol).setValue(namaCatatan);
+      headers[lastCol - 1] = namaCatatan;
+      ditambah.push(namaCatatan);
+      idxCatatan = lastCol;
+    }
+
+    // Pasang checkbox pada 7 kolom checklist.
+    // Diterapkan sampai getMaxRows() agar baris baru di area sheet ikut
+    // mendapat validasi. Jika sheet tumbuh melewati getMaxRows(), perlu
+    // diperluas manual atau jalankan ulang fungsi ini.
+    const validation = SpreadsheetApp.newDataValidation().requireCheckbox().build();
+    const maxRows = Math.max(sheet.getMaxRows(), 2);
+
+    for (let c = 0; c < CHECKLIST_TINJAUAN_D035.length; c++) {
+      const idx = cariIndexHeaderD035_(headers, CHECKLIST_TINJAUAN_D035[c]);
+      if (idx === -1) {
+        throw new Error('Kolom checklist tidak ditemukan: ' + CHECKLIST_TINJAUAN_D035[c]);
+      }
+      sheet.getRange(2, idx, maxRows - 1, 1).setDataValidation(validation);
+    }
+
+    const ringkasan = { ditambah: ditambah, sudahAda: sudahAda };
+    Logger.log('setupChecklistTinjauan: ' + JSON.stringify(ringkasan));
+    return ringkasan;
+  } catch (err) {
+    const pesan = err && err.message ? err.message : String(err);
+    Logger.log('setupChecklistTinjauan gagal: ' + pesan);
+    return { ditambah: [], sudahAda: [], error: pesan };
+  }
+}
+
+/*
+ * approveBulkTinjauan — approve baris berstatus "menunggu tinjauan" hanya
+ * jika KE-7 checklist bernilai TRUE. Tidak menghapus baris, tidak mengubah
+ * isi soal, dan tidak menyentuh baris yang sudah "lolos"/"ditolak".
+ */
+function approveBulkTinjauan() {
+  const lock = LockService.getScriptLock();
+  lock.waitLock(30000);
+
+  try {
+    const ss = SpreadsheetApp.openById(SHEET_ID);
+    const sheet = ss.getSheetByName(SHEET_NAME);
+    if (!sheet) {
+      throw new Error('Sheet "' + SHEET_NAME + '" tidak ditemukan.');
+    }
+
+    const lastRow = sheet.getLastRow();
+    if (lastRow < 2) {
+      const kosong = { disetujui: 0, masihMenunggu: 0, total: 0 };
+      Logger.log('approveBulkTinjauan: ' + JSON.stringify(kosong));
+      return kosong;
+    }
+
+    const lastCol = Math.max(sheet.getLastColumn(), 1);
+    const headers = sheet.getRange(1, 1, 1, lastCol).getValues()[0];
+
+    const idxStatus = cariIndexHeaderD035_(headers, 'status');
+    if (idxStatus === -1) {
+      throw new Error('Header "status" tidak ditemukan di baris 1.');
+    }
+
+    const idxChecklist = [];
+    const checklistHilang = [];
+    for (let i = 0; i < CHECKLIST_TINJAUAN_D035.length; i++) {
+      const idx = cariIndexHeaderD035_(headers, CHECKLIST_TINJAUAN_D035[i]);
+      idxChecklist.push(idx);
+      if (idx === -1) {
+        checklistHilang.push(CHECKLIST_TINJAUAN_D035[i]);
+      }
+    }
+    if (checklistHilang.length > 0) {
+      throw new Error(
+        'Kolom checklist belum lengkap: ' + checklistHilang.join(', ') +
+        '. Jalankan setupChecklistTinjauan dulu.'
+      );
+    }
+
+    // Kolom tanggal tinjauan hanya dipakai jika header-nya jelas.
+    // Header "tanggal" biasa TIDAK dipakai karena itu tanggal submit.
+    const idxTanggalTinjauan = cariIndexTanggalTinjauanD035_(headers);
+
+    const data = sheet.getRange(2, 1, lastRow - 1, lastCol).getValues();
+    let disetujui = 0;
+    let masihMenunggu = 0;
+
+    for (let r = 0; r < data.length; r++) {
+      const status = normalisasiHeaderD035_(data[r][idxStatus - 1]);
+      if (status !== 'menunggu tinjauan') {
+        continue;
+      }
+
+      let semuaLolos = true;
+      for (let c = 0; c < idxChecklist.length; c++) {
+        if (!nilaiCheckboxTrueD035_(data[r][idxChecklist[c] - 1])) {
+          semuaLolos = false;
+          break;
+        }
+      }
+
+      if (semuaLolos) {
+        const nomorBaris = r + 2;
+        sheet.getRange(nomorBaris, idxStatus).setValue('lolos');
+        if (idxTanggalTinjauan !== -1) {
+          sheet.getRange(nomorBaris, idxTanggalTinjauan).setValue(new Date());
+        }
+        disetujui++;
+      } else {
+        masihMenunggu++;
+      }
+    }
+
+    const ringkasan = {
+      disetujui: disetujui,
+      masihMenunggu: masihMenunggu,
+      total: data.length
+    };
+
+    const infoTanggal = idxTanggalTinjauan !== -1
+      ? 'tanggal tinjauan: ' + headers[idxTanggalTinjauan - 1]
+      : 'tidak ada kolom tanggal tinjauan; hanya status yang diubah';
+
+    Logger.log('approveBulkTinjauan: ' + JSON.stringify(ringkasan) + ' | ' + infoTanggal);
+    return ringkasan;
+  } finally {
+    lock.releaseLock();
+  }
+}
+
+// =========================================================================
+// Helper internal D-035
+// =========================================================================
+
+function normalisasiHeaderD035_(nilai) {
+  if (nilai === null || nilai === undefined) {
+    return '';
+  }
+  return nilai.toString().trim().toLowerCase();
+}
+
+function cariIndexHeaderD035_(headers, nama) {
+  const target = normalisasiHeaderD035_(nama);
+  for (let i = 0; i < headers.length; i++) {
+    if (normalisasiHeaderD035_(headers[i]) === target) {
+      return i + 1;
+    }
+  }
+  return -1;
+}
+
+function cariIndexHeaderMengandungD035_(headers, kata) {
+  const target = normalisasiHeaderD035_(kata);
+  for (let i = 0; i < headers.length; i++) {
+    if (normalisasiHeaderD035_(headers[i]).indexOf(target) !== -1) {
+      return i + 1;
+    }
+  }
+  return -1;
+}
+
+function cariIndexTanggalTinjauanD035_(headers) {
+  for (let i = 0; i < headers.length; i++) {
+    const h = normalisasiHeaderD035_(headers[i]);
+    const adaTanggal = h.indexOf('tanggal') !== -1;
+    const adaTinjau =
+      h.indexOf('tinjau') !== -1 ||
+      h.indexOf('peninjau') !== -1 ||
+      h.indexOf('review') !== -1;
+
+    if (adaTanggal && adaTinjau) {
+      return i + 1;
+    }
+  }
+  return -1;
+}
+
+function nilaiCheckboxTrueD035_(nilai) {
+  if (nilai === true) {
+    return true;
+  }
+  if (nilai === false || nilai === null || nilai === undefined || nilai === '') {
+    return false;
+  }
+  return nilai.toString().trim().toUpperCase() === 'TRUE';
+}
