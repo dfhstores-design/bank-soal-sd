@@ -1,0 +1,2702 @@
+[
+  {
+    "pertanyaan": "Bilangan 4.805 dibaca ....\nA. empat ribu delapan ratus lima puluh\nB. empat ribu delapan ratus lima\nC. empat ribu delapan puluh lima\nD. empat ribu lima",
+    "pilihan": [
+      "empat ribu delapan ratus lima puluh",
+      "empat ribu delapan ratus lima",
+      "empat ribu delapan puluh lima",
+      "empat ribu lima"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Angka 4 di tempat ribuan dibaca \"empat ribu\", angka 8 di tempat ratusan dibaca \"delapan ratus\", angka 0 di tempat puluhan tidak dibaca, dan angka 5 di tempat satuan dibaca \"lima\". Jadi, 4.805 dibaca \"empat ribu delapan ratus lima\".",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "A: Membaca dan Menulis Lambang Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Lambang bilangan dari \"tujuh ribu tiga puluh dua\" adalah ....\nA. 7.032\nB. 7.320\nC. 7.302\nD. 7.32",
+    "pilihan": [
+      "7.032",
+      "7.320",
+      "7.302",
+      "7.32"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "\"Tujuh ribu\" berarti angka 7 di tempat ribuan, \"tiga puluh\" berarti angka 3 di tempat puluhan, dan \"dua\" berarti angka 2 di tempat satuan. Tempat ratusan tidak disebut, jadi diisi angka 0. Hasilnya 7.032.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "A: Membaca dan Menulis Lambang Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bilangan 1.460 dibaca ....\nA. satu ribu empat ratus enam puluh\nB. seribu empat puluh enam\nC. seribu empat ratus enam puluh\nD. seribu enam ratus empat puluh",
+    "pilihan": [
+      "satu ribu empat ratus enam puluh",
+      "seribu empat puluh enam",
+      "seribu empat ratus enam puluh",
+      "seribu enam ratus empat puluh"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Angka 1 pada tempat ribuan tidak dibaca \"satu ribu\", melainkan \"seribu\". Angka 4 di tempat ratusan dibaca \"empat ratus\" dan angka 6 di tempat puluhan dibaca \"enam puluh\". Jadi, 1.460 dibaca \"seribu empat ratus enam puluh\".",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "A: Membaca dan Menulis Lambang Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Lambang bilangan dari \"sembilan ribu dua ratus empat\" adalah ....\nA. 9.204\nB. 9.240\nC. 9.024\nD. 9.402",
+    "pilihan": [
+      "9.204",
+      "9.240",
+      "9.024",
+      "9.402"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "\"Sembilan ribu\" berarti angka 9 di tempat ribuan, \"dua ratus\" berarti angka 2 di tempat ratusan, dan \"empat\" berarti angka 4 di tempat satuan. Tempat puluhan tidak disebut, jadi diisi angka 0. Hasilnya 9.204.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "A: Membaca dan Menulis Lambang Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bilangan 6.009 dibaca ....\nA. enam ribu sembilan ratus sembilan\nB. enam ribu sembilan puluh\nC. enam ribu sembilan\nD. enam ribu sembilan ratus",
+    "pilihan": [
+      "enam ribu sembilan ratus sembilan",
+      "enam ribu sembilan puluh",
+      "enam ribu sembilan",
+      "enam ribu sembilan ratus"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Angka 6 di tempat ribuan dibaca \"enam ribu\", sedangkan angka 0 di tempat ratusan dan angka 0 di tempat puluhan tidak dibaca. Angka 9 di tempat satuan dibaca \"sembilan\". Jadi, 6.009 dibaca \"enam ribu sembilan\".",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "A: Membaca dan Menulis Lambang Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapa nilai angka 6 pada bilangan 6.735?\nA. 6\nB. 60\nC. 600\nD. 6.000",
+    "pilihan": [
+      "6",
+      "60",
+      "600",
+      "6.000"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Angka 6 pada bilangan 6.735 menempati nilai tempat ribuan, sehingga nilainya 6 × 1.000 = 6.000.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "B: Nilai Tempat Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Angka 3 pada bilangan 5.382 menempati nilai tempat apa?\nA. Ribuan\nB. Ratusan\nC. Puluhan\nD. Satuan",
+    "pilihan": [
+      "Ribuan",
+      "Ratusan",
+      "Puluhan",
+      "Satuan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pada bilangan 5.382, angka 5 menempati ribuan, angka 3 menempati ratusan, angka 8 menempati puluhan, dan angka 2 menempati satuan.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "B: Nilai Tempat Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bilangan yang terdiri dari 4 ribuan + 2 ratusan + 0 puluhan + 7 satuan adalah ....\nA. 4.270\nB. 4.207\nC. 4.027\nD. 4.702",
+    "pilihan": [
+      "4.270",
+      "4.207",
+      "4.027",
+      "4.702"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "4 ribuan = 4.000, 2 ratusan = 200, 0 puluhan = 0, dan 7 satuan = 7. Jika digabungkan: 4.000 + 200 + 0 + 7 = 4.207.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "B: Nilai Tempat Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pada bilangan 10.000, angka 1 menempati nilai tempat apa?\nA. Ribuan\nB. Puluh ribuan\nC. Ratus ribuan\nD. Satuan",
+    "pilihan": [
+      "Ribuan",
+      "Puluh ribuan",
+      "Ratus ribuan",
+      "Satuan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Bilangan 10.000 mempunyai lima angka. Angka 1 berada paling kiri dan menempati nilai tempat puluh ribuan, sehingga nilainya 10.000.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "B: Nilai Tempat Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pada bilangan 3.045, angka 0 menempati nilai tempat apa?\nA. Ribuan\nB. Ratusan\nC. Puluhan\nD. Satuan",
+    "pilihan": [
+      "Ribuan",
+      "Ratusan",
+      "Puluhan",
+      "Satuan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pada bilangan 3.045, angka 3 menempati ribuan, angka 0 menempati ratusan, angka 4 menempati puluhan, dan angka 5 menempati satuan. Walaupun nilainya 0, angka 0 tetap menempati nilai tempat ratusan.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "B: Nilai Tempat Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Tanda perbandingan yang tepat untuk 7.305 ... 7.350 adalah ....\nA. <\nB. >\nC. =\nD. ≠",
+    "pilihan": [
+      "<",
+      ">",
+      "=",
+      "≠"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Angka ribuan dan ratusannya sama (7 dan 3), tetapi angka puluhannya 0 < 5, jadi 7.305 lebih kecil dari 7.350.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "C: Membandingkan dan Mengurutkan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu membeli 1 kg mangga seharga Rp8.450,00 dan 1 kg jeruk seharga Rp8.540,00. Buah yang harganya lebih murah adalah ....\nA. Mangga\nB. Jeruk\nC. Sama harganya\nD. Tidak dapat ditentukan",
+    "pilihan": [
+      "Mangga",
+      "Jeruk",
+      "Sama harganya",
+      "Tidak dapat ditentukan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Angka ribuannya sama (8), tetapi angka ratusannya 4 < 5, jadi Rp8.450,00 lebih kecil dari Rp8.540,00. Mangga lebih murah daripada jeruk.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "C: Membandingkan dan Mengurutkan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Urutan bilangan 3.815, 3.851, 3.581, 3.518 dari yang terkecil ke yang terbesar adalah ....\nA. 3.518, 3.581, 3.815, 3.851\nB. 3.581, 3.518, 3.851, 3.815\nC. 3.851, 3.815, 3.581, 3.518\nD. 3.518, 3.815, 3.581, 3.851",
+    "pilihan": [
+      "3.518, 3.581, 3.815, 3.851",
+      "3.581, 3.518, 3.851, 3.815",
+      "3.851, 3.815, 3.581, 3.518",
+      "3.518, 3.815, 3.581, 3.851"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Angka ribuannya sama (3). Angka ratusannya 5 dan 8, jadi bilangan berawalan 3.5 lebih kecil dari 3.8. Di antara 3.518 dan 3.581, angka puluhannya 1 < 8, jadi 3.518 paling kecil; di antara 3.815 dan 3.851, angka puluhannya 1 < 5, jadi 3.815 lebih dulu.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "C: Membandingkan dan Mengurutkan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Urutan bilangan 9.876, 987, 9.786, 8.769 dari yang terbesar ke yang terkecil adalah ....\nA. 9.876, 9.786, 8.769, 987\nB. 9.876, 9.786, 987, 8.769\nC. 987, 9.876, 9.786, 8.769\nD. 8.769, 9.786, 9.876, 987",
+    "pilihan": [
+      "9.876, 9.786, 8.769, 987",
+      "9.876, 9.786, 987, 8.769",
+      "987, 9.876, 9.786, 8.769",
+      "8.769, 9.786, 9.876, 987"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bilangan 4 angka selalu lebih besar dari bilangan 3 angka, jadi 987 paling kecil. Di antara bilangan 9 ribuan, angka ratusannya 8 > 7, jadi 9.876 lebih besar dari 9.786, dan keduanya lebih besar dari 8.769.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "C: Membandingkan dan Mengurutkan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bilangan yang lebih besar dari 4.275 tetapi lebih kecil dari 4.725 adalah ....\nA. 4.257\nB. 4.527\nC. 4.752\nD. 4.725",
+    "pilihan": [
+      "4.257",
+      "4.527",
+      "4.752",
+      "4.725"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "4.257 lebih kecil dari 4.275, sedangkan 4.752 lebih besar dari 4.725, dan 4.725 tidak lebih kecil dari dirinya sendiri. Hanya 4.527 yang berada di antara 4.275 dan 4.725.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "C: Membandingkan dan Mengurutkan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Susunlah bilangan dari nilai tempat berikut: 5 ribuan + 2 ratusan + 7 puluhan + 3 satuan. Bilangan berapakah yang terbentuk?\nA. 5.273\nB. 5.372\nC. 2.573\nD. 5.237",
+    "pilihan": [
+      "5.273",
+      "5.372",
+      "2.573",
+      "5.237"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "5 ribuan bernilai 5.000, 2 ratusan bernilai 200, 7 puluhan bernilai 70, dan 3 satuan bernilai 3. Jumlahnya 5.000 + 200 + 70 + 3 = 5.273.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Uraikan bilangan 8.406 menjadi penjumlahan nilai tempatnya. Bentuk dekomposisi yang tepat adalah …\nA. 8.000 + 400 + 60 + 0\nB. 800 + 400 + 6\nC. 8.000 + 400 + 0 + 6\nD. 8.000 + 40 + 6",
+    "pilihan": [
+      "8.000 + 400 + 60 + 0",
+      "800 + 400 + 6",
+      "8.000 + 400 + 0 + 6",
+      "8.000 + 40 + 6"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pada 8.406, angka 8 menempati ribuan (8.000), angka 4 menempati ratusan (400), angka 0 menempati puluhan (0), dan angka 6 menempati satuan (6). Jadi 8.406 = 8.000 + 400 + 0 + 6.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 4.000 + 900 + 50 + 7?\nA. 4.597\nB. 4.975\nC. 4.795\nD. 4.957",
+    "pilihan": [
+      "4.597",
+      "4.975",
+      "4.795",
+      "4.957"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "4.000 adalah 4 ribuan, 900 adalah 9 ratusan, 50 adalah 5 puluhan, dan 7 adalah 7 satuan. Disusun menjadi bilangan 4.957.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dita mempunyai uang: 2 lembar uang Rp1.000, 5 lembar uang Rp100, 4 koin Rp10, dan 8 koin Rp1. Berapa jumlah uang Dita?\nA. Rp2.584\nB. Rp2.548\nC. Rp2.458\nD. Rp2.845",
+    "pilihan": [
+      "Rp2.584",
+      "Rp2.548",
+      "Rp2.458",
+      "Rp2.845"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "2 lembar Rp1.000 = Rp2.000, 5 lembar Rp100 = Rp500, 4 koin Rp10 = Rp40, dan 8 koin Rp1 = Rp8. Jumlahnya Rp2.000 + Rp500 + Rp40 + Rp8 = Rp2.548.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bilangan 7.090 dapat diuraikan menjadi …\nA. 7 ribuan + 9 ratusan + 0 puluhan + 0 satuan\nB. 7 ribuan + 0 ratusan + 9 puluhan + 0 satuan\nC. 7 ribuan + 0 ratusan + 0 puluhan + 9 satuan\nD. 7 ribuan + 9 puluhan + 0 ratusan + 0 satuan",
+    "pilihan": [
+      "7 ribuan + 9 ratusan + 0 puluhan + 0 satuan",
+      "7 ribuan + 0 ratusan + 9 puluhan + 0 satuan",
+      "7 ribuan + 0 ratusan + 0 puluhan + 9 satuan",
+      "7 ribuan + 9 puluhan + 0 ratusan + 0 satuan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pada 7.090, angka 7 menempati ribuan, angka 0 menempati ratusan, angka 9 menempati puluhan, dan angka 0 menempati satuan. Jadi 7.090 = 7 ribuan + 0 ratusan + 9 puluhan + 0 satuan.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 2.345 + 3.421?\nA. 5.766\nB. 5.676\nC. 5.666\nD. 6.766",
+    "pilihan": [
+      "5.766",
+      "5.676",
+      "5.666",
+      "6.766"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Jumlahkan sesuai nilai tempat: satuan 5 + 1 = 6, puluhan 4 + 2 = 6, ratusan 3 + 4 = 7, ribuan 2 + 3 = 5. Jadi, 2.345 + 3.421 = 5.766.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "E: Penjumlahan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 4.587 + 2.368?\nA. 6.955\nB. 6.855\nC. 6.945\nD. 7.955",
+    "pilihan": [
+      "6.955",
+      "6.855",
+      "6.945",
+      "7.955"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Jumlahkan mulai dari satuan dengan cara menyimpan: 7 + 8 = 15 (tulis 5, simpan 1), puluhan 8 + 6 + 1 = 15 (tulis 5, simpan 1), ratusan 5 + 3 + 1 = 9, ribuan 4 + 2 = 6. Jadi, 4.587 + 2.368 = 6.955.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "E: Penjumlahan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu membeli beras seharga Rp4.750,00 dan minyak goreng seharga Rp3.850,00. Berapa rupiah yang harus dibayar Ibu seluruhnya?\nA. Rp8.500,00\nB. Rp8.600,00\nC. Rp8.650,00\nD. Rp7.600,00",
+    "pilihan": [
+      "Rp8.500,00",
+      "Rp8.600,00",
+      "Rp8.650,00",
+      "Rp7.600,00"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jumlah yang harus dibayar adalah 4.750 + 3.850 = 8.600. Jadi, Ibu harus membayar Rp8.600,00 seluruhnya.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "E: Penjumlahan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah perpustakaan mempunyai 5.275 buku cerita dan 3.849 buku pelajaran. Berapa jumlah seluruh buku di perpustakaan itu?\nA. 9.124 buku\nB. 9.214 buku\nC. 8.124 buku\nD. 9.024 buku",
+    "pilihan": [
+      "9.124 buku",
+      "9.214 buku",
+      "8.124 buku",
+      "9.024 buku"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Jumlah seluruh buku adalah 5.275 + 3.849 = 9.124. Jadi, ada 9.124 buku di perpustakaan itu.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "E: Penjumlahan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 3.456 + 2.789 + 1.234?\nA. 7.479\nB. 7.379\nC. 7.489\nD. 6.479",
+    "pilihan": [
+      "7.479",
+      "7.379",
+      "7.489",
+      "6.479"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Jumlahkan ketiganya sesuai nilai tempat dengan menyimpan: satuan 6 + 9 + 4 = 19 (tulis 9, simpan 1), puluhan 5 + 8 + 3 + 1 = 17 (tulis 7, simpan 1), ratusan 4 + 7 + 2 + 1 = 14 (tulis 4, simpan 1), ribuan 3 + 2 + 1 + 1 = 7. Jadi, hasilnya 7.479.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "E: Penjumlahan Bilangan Cacah sampai 10.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 486 − 231?\nA. 245\nB. 265\nC. 255\nD. 355",
+    "pilihan": [
+      "245",
+      "265",
+      "255",
+      "355"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kurangkan per nilai tempat dari kanan ke kiri: satuan 6 − 1 = 5, puluhan 8 − 3 = 5, ratusan 4 − 2 = 2. Jadi, 486 − 231 = 255.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab F",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "F: Pengurangan Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 743 − 128?\nA. 605\nB. 625\nC. 715\nD. 615",
+    "pilihan": [
+      "605",
+      "625",
+      "715",
+      "615"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Satuan 3 kurang dari 8, jadi pinjam 1 puluhan: 13 − 8 = 5. Puluhan tinggal 3, lalu 3 − 2 = 1. Ratusan 7 − 1 = 6. Jadi, 743 − 128 = 615.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab F",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "F: Pengurangan Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu membeli 950 butir telur untuk dijual di warung. Sampai sore hari, 375 butir telur sudah terjual. Berapa butir telur yang tersisa?\nA. 565\nB. 575\nC. 585\nD. 675",
+    "pilihan": [
+      "565",
+      "575",
+      "585",
+      "675"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sisa telur = 950 − 375. Satuan 0 kurang dari 5, pinjam 1 puluhan: 10 − 5 = 5. Puluhan tinggal 4, kurang dari 7, pinjam 1 ratusan: 14 − 7 = 7. Ratusan tinggal 8, lalu 8 − 3 = 5. Jadi, tersisa 575 butir telur.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab F",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "F: Pengurangan Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "865 − ___ = 419. Bilangan berapakah yang tepat untuk mengisi titik-titik tersebut?\nA. 446\nB. 436\nC. 456\nD. 546",
+    "pilihan": [
+      "446",
+      "436",
+      "456",
+      "546"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bilangan pengurang dicari dengan 865 − 419. Satuan 5 kurang dari 9, pinjam 1 puluhan: 15 − 9 = 6. Puluhan tinggal 5, lalu 5 − 1 = 4. Ratusan 8 − 4 = 4. Jadi, bilangan yang tepat adalah 446.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab F",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "F: Pengurangan Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di perpustakaan sekolah terdapat 628 buku. Sebanyak 249 buku sedang dipinjam oleh siswa. Berapa buku yang masih ada di perpustakaan?\nA. 369\nB. 389\nC. 479\nD. 379",
+    "pilihan": [
+      "369",
+      "389",
+      "479",
+      "379"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Buku yang tersisa = 628 − 249. Satuan 8 kurang dari 9, pinjam 1 puluhan: 18 − 9 = 9. Puluhan tinggal 1, kurang dari 4, pinjam 1 ratusan: 11 − 4 = 7. Ratusan tinggal 5, lalu 5 − 2 = 3. Jadi, masih ada 379 buku di perpustakaan.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab F",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "F: Pengurangan Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 47 × 6?\nA. 262\nB. 272\nC. 282\nD. 292",
+    "pilihan": [
+      "262",
+      "272",
+      "282",
+      "292"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Uraikan dengan cara susun panjang: 47 × 6 = (40 × 6) + (7 × 6) = 240 + 42 = 282.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab G",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "G: Perkalian Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 128 × 4?\nA. 412\nB. 512\nC. 502\nD. 522",
+    "pilihan": [
+      "412",
+      "512",
+      "502",
+      "522"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Uraikan dengan cara susun panjang: 128 × 4 = (100 × 4) + (20 × 4) + (8 × 4) = 400 + 80 + 32 = 512.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab G",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "G: Perkalian Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu membeli 6 ikat bayam di pasar. Setiap ikat berisi 24 batang bayam. Berapa batang bayam yang dibeli Ibu seluruhnya?\nA. 124\nB. 134\nC. 144\nD. 154",
+    "pilihan": [
+      "124",
+      "134",
+      "144",
+      "154"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Banyak bayam seluruhnya = 6 × 24 = 144 batang, karena 24 × 6 = (20 × 6) + (4 × 6) = 120 + 24 = 144.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab G",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "G: Perkalian Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ayah membeli 3 karung beras. Setiap karung berisi 250 kg beras. Berapa kg beras yang dibeli Ayah seluruhnya?\nA. 650\nB. 700\nC. 800\nD. 750",
+    "pilihan": [
+      "650",
+      "700",
+      "800",
+      "750"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Banyak beras seluruhnya = 3 × 250 kg = 750 kg, karena 250 × 3 = (200 × 3) + (50 × 3) = 600 + 150 = 750.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab G",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "G: Perkalian Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "___ × 6 = 342. Bilangan berapakah yang tepat untuk mengisi titik-titik tersebut?\nA. 57\nB. 52\nC. 62\nD. 67",
+    "pilihan": [
+      "57",
+      "52",
+      "62",
+      "67"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bilangan yang dicari adalah 342 : 6 = 57. Periksa: 57 × 6 = (50 × 6) + (7 × 6) = 300 + 42 = 342.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab G",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "G: Perkalian Bilangan Cacah sampai 1.000",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah hasil dari 63 : 7?\nA. 7\nB. 8\nC. 9\nD. 10",
+    "pilihan": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "7 × 9 = 63, jadi 63 : 7 = 9. Pembagian adalah kebalikan dari perkalian.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab H",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "H: Pembagian Bilangan Cacah sampai 100",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu membuat 60 kue. Kue-kue itu dimasukkan ke dalam 6 kotak dengan jumlah yang sama banyak. Berapa kue dalam setiap kotak?\nA. 6 kue\nB. 10 kue\nC. 9 kue\nD. 12 kue",
+    "pilihan": [
+      "6 kue",
+      "10 kue",
+      "9 kue",
+      "12 kue"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "60 kue dibagi sama banyak ke 6 kotak, yaitu 60 : 6 = 10. Jadi, setiap kotak berisi 10 kue.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab H",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "H: Pembagian Bilangan Cacah sampai 100",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan pengurangan berulang berikut: 42 − 7 − 7 − 7 − 7 − 7 − 7 = 0. Pengurangan berulang tersebut sama dengan pembagian ....\nA. 42 : 7 = 6\nB. 42 : 6 = 7\nC. 7 : 42 = 6\nD. 42 : 7 = 7",
+    "pilihan": [
+      "42 : 7 = 6",
+      "42 : 6 = 7",
+      "7 : 42 = 6",
+      "42 : 7 = 7"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bilangan 7 dikurangkan dari 42 sebanyak 6 kali sampai habis (0), jadi 42 : 7 = 6. Pembagian dapat diartikan sebagai pengurangan berulang.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab H",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "H: Pembagian Bilangan Cacah sampai 100",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pak Guru membagikan 56 pensil kepada 7 anak sama banyak. Berapa pensil yang diterima setiap anak?\nA. 6 pensil\nB. 7 pensil\nC. 9 pensil\nD. 8 pensil",
+    "pilihan": [
+      "6 pensil",
+      "7 pensil",
+      "9 pensil",
+      "8 pensil"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "56 pensil dibagi sama banyak kepada 7 anak, yaitu 56 : 7 = 8. Jadi, setiap anak menerima 8 pensil.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab H",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "H: Pembagian Bilangan Cacah sampai 100",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu mempunyai 50 jeruk. Setiap plastik berisi 6 jeruk. Berapa plastik penuh yang didapat Ibu dan berapa sisa jeruknya?\nA. 8 plastik, sisa 4 jeruk\nB. 8 plastik, sisa 2 jeruk\nC. 7 plastik, sisa 8 jeruk\nD. 9 plastik, sisa 2 jeruk",
+    "pilihan": [
+      "8 plastik, sisa 4 jeruk",
+      "8 plastik, sisa 2 jeruk",
+      "7 plastik, sisa 8 jeruk",
+      "9 plastik, sisa 2 jeruk"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "6 × 8 = 48, dan 50 − 48 = 2. Jadi, 50 : 6 = 8 sisa 2: ada 8 plastik penuh dan sisa 2 jeruk. Sisa pembagian selalu lebih kecil dari pembagi (2 < 6).",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab H",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "H: Pembagian Bilangan Cacah sampai 100",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah bilangan berikut yang merupakan kelipatan 7?\nA. 26\nB. 35\nC. 41\nD. 50",
+    "pilihan": [
+      "26",
+      "35",
+      "41",
+      "50"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "35 = 7 × 5, jadi 35 adalah kelipatan 7. Bilangan 26, 41, dan 50 tidak habis dibagi 7.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab I",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "I: Kelipatan dan Faktor",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah bilangan berikut yang BUKAN faktor dari 36?\nA. 4\nB. 9\nC. 8\nD. 12",
+    "pilihan": [
+      "4",
+      "9",
+      "8",
+      "12"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "36 habis dibagi 4, 9, dan 12, tetapi 36 tidak habis dibagi 8 (36 : 8 = 4 sisa 4). Jadi, 8 bukan faktor dari 36.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab I",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "I: Kelipatan dan Faktor",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bilangan manakah yang merupakan kelipatan persekutuan dari 3 dan 4?\nA. 18\nB. 24\nC. 30\nD. 40",
+    "pilihan": [
+      "18",
+      "24",
+      "30",
+      "40"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Kelipatan 3 adalah 3, 6, 9, 12, 15, 18, 21, 24, ... dan kelipatan 4 adalah 4, 8, 12, 16, 20, 24, ... Bilangan 24 muncul di kedua daftar, jadi 24 adalah kelipatan persekutuan dari 3 dan 4.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab I",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "I: Kelipatan dan Faktor",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah bilangan berikut yang merupakan faktor persekutuan dari 12 dan 18?\nA. 4\nB. 6\nC. 9\nD. 12",
+    "pilihan": [
+      "4",
+      "6",
+      "9",
+      "12"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Faktor dari 12 adalah 1, 2, 3, 4, 6, 12 dan faktor dari 18 adalah 1, 2, 3, 6, 9, 18. Bilangan 6 ada di kedua daftar, jadi 6 adalah faktor persekutuan dari 12 dan 18.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab I",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "I: Kelipatan dan Faktor",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu mempunyai 30 kue. Kue itu akan dimasukkan ke dalam beberapa kotak dengan jumlah yang sama banyak di setiap kotak dan tidak ada sisa. Manakah jumlah kotak berikut yang TIDAK mungkin?\nA. 5 kotak\nB. 6 kotak\nC. 7 kotak\nD. 10 kotak",
+    "pilihan": [
+      "5 kotak",
+      "6 kotak",
+      "7 kotak",
+      "10 kotak"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Jumlah kotak harus merupakan faktor dari 30. Bilangan 5, 6, dan 10 adalah faktor dari 30, sedangkan 7 bukan faktor dari 30 karena 30 tidak habis dibagi 7. Jadi, 7 kotak tidak mungkin.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab I",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "I: Kelipatan dan Faktor",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Andi membaca bilangan 3.009 sebagai \"tiga ribu sembilan ratus sembilan\". Di mana letak kesalahan Andi, dan bagaimana bacaan yang benar?\nA. Kesalahannya pada angka 3; bacaan yang benar adalah \"sembilan ribu tiga\"\nB. Kesalahannya pada angka 9; bacaan yang benar adalah \"tiga ribu sembilan\"\nC. Kesalahannya pada angka 0; bacaan yang benar adalah \"tiga ribu sembilan puluh sembilan\"\nD. Tidak ada kesalahan; bacaan Andi sudah benar",
+    "pilihan": [
+      "Kesalahannya pada angka 3; bacaan yang benar adalah \"sembilan ribu tiga\"",
+      "Kesalahannya pada angka 9; bacaan yang benar adalah \"tiga ribu sembilan\"",
+      "Kesalahannya pada angka 0; bacaan yang benar adalah \"tiga ribu sembilan puluh sembilan\"",
+      "Tidak ada kesalahan; bacaan Andi sudah benar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pada bilangan 3.009, angka 9 menempati tempat satuan, bukan ratusan, dan angka 0 di tempat ratusan dan puluhan tidak dibaca. Jadi, bacaan yang benar adalah \"tiga ribu sembilan\".",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Angka 0 pada tempat ratusan bilangan 5.080 dihapus. Bagaimana bilangan itu dibaca sekarang dan berapa selisih nilainya dengan bilangan semula?\nA. Menjadi 580 dan selisihnya 4.500\nB. Menjadi 5.800 dan selisihnya 720\nC. Menjadi 508 dan selisihnya 4.572\nD. Menjadi 5.008 dan selisihnya 72",
+    "pilihan": [
+      "Menjadi 580 dan selisihnya 4.500",
+      "Menjadi 5.800 dan selisihnya 720",
+      "Menjadi 508 dan selisihnya 4.572",
+      "Menjadi 5.008 dan selisihnya 72"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bilangan 5.080 terdiri dari 5 ribuan, 0 ratusan, 8 puluhan, dan 0 satuan. Jika angka 0 di tempat ratusan dihapus, sisanya 5, 8, 0 sehingga menjadi 580. Selisihnya adalah 5.080 − 580 = 4.500.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sekolah A mempunyai 6.250 siswa, sedangkan sekolah B mempunyai 6.025 siswa. Tuliskan kedua bilangan itu dalam kata-kata, lalu tentukan sekolah mana yang siswanya lebih banyak.\nA. Sekolah A lebih banyak, karena 6.250 dibaca \"enam ribu dua ratus lima puluh\" dan 6.025 dibaca \"enam ribu dua puluh lima\"\nB. Sekolah B lebih banyak, karena 6.025 dibaca \"enam ribu dua ratus lima\"\nC. Sama banyak, karena kedua bilangan sama-sama diawali angka 6\nD. Sekolah A lebih banyak, karena 6.250 dibaca \"enam ribu dua puluh lima\"",
+    "pilihan": [
+      "Sekolah A lebih banyak, karena 6.250 dibaca \"enam ribu dua ratus lima puluh\" dan 6.025 dibaca \"enam ribu dua puluh lima\"",
+      "Sekolah B lebih banyak, karena 6.025 dibaca \"enam ribu dua ratus lima\"",
+      "Sama banyak, karena kedua bilangan sama-sama diawali angka 6",
+      "Sekolah A lebih banyak, karena 6.250 dibaca \"enam ribu dua puluh lima\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bilangan 6.250 dibaca \"enam ribu dua ratus lima puluh\" dan 6.025 dibaca \"enam ribu dua puluh lima\". Angka ribuannya sama (6), tetapi angka ratusannya 2 > 0, jadi 6.250 lebih besar dari 6.025. Sekolah A mempunyai siswa lebih banyak.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab A\n### Sub-bab B: Nilai Tempat Bilangan Cacah sampai 10.000",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "\"Aku bilangan 4 angka. Angka ribuanku 6, ratusanku 0, puluhanku 3, satuanku 8.\" Bilangan berapakah aku, dan berapa nilai angka 3?\nA. 6.380; nilai angka 3 adalah 300\nB. 6.038; nilai angka 3 adalah 30\nC. 6.083; nilai angka 3 adalah 3\nD. 6.308; nilai angka 3 adalah 300",
+    "pilihan": [
+      "6.380; nilai angka 3 adalah 300",
+      "6.038; nilai angka 3 adalah 30",
+      "6.083; nilai angka 3 adalah 3",
+      "6.308; nilai angka 3 adalah 300"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Susun sesuai nilai tempatnya: 6 ribuan + 0 ratusan + 3 puluhan + 8 satuan = 6.038. Angka 3 menempati tempat puluhan, sehingga nilainya 3 × 10 = 30.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Tukar tempat angka 5 dan angka 4 pada bilangan 5.432. Berapa bilangan barunya dan berapa selisihnya dengan bilangan semula?\nA. 4.532; selisihnya 900\nB. 4.352; selisihnya 1.080\nC. 5.342; selisihnya 90\nD. 5.432; selisihnya 0",
+    "pilihan": [
+      "4.532; selisihnya 900",
+      "4.352; selisihnya 1.080",
+      "5.342; selisihnya 90",
+      "5.432; selisihnya 0"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pada bilangan 5.432, angka 5 ada di tempat ribuan dan angka 4 ada di tempat ratusan. Jika keduanya bertukar tempat, bilangan baru menjadi 4.532. Selisihnya adalah 5.432 − 4.532 = 900.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah timbangan digital menunjukkan 7.050 gram. Angka 5 pada bilangan itu menempati nilai tempat apa dan berapa nilainya dalam gram?\nA. Ratusan; nilainya 500 gram\nB. Puluhan; nilainya 50 gram\nC. Satuan; nilainya 5 gram\nD. Ribuan; nilainya 5.000 gram",
+    "pilihan": [
+      "Ratusan; nilainya 500 gram",
+      "Puluhan; nilainya 50 gram",
+      "Satuan; nilainya 5 gram",
+      "Ribuan; nilainya 5.000 gram"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Bilangan 7.050 terdiri dari 7 ribuan, 0 ratusan, 5 puluhan, dan 0 satuan. Angka 5 menempati tempat puluhan, sehingga nilainya 5 × 10 = 50 gram.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab B\n### Sub-bab D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Tuliskan 4.560 dalam bentuk dekomposisi lain selain 4.000 + 500 + 60. Bentuk dekomposisi manakah yang benar?\nA. 45 ratusan + 60\nB. 4 ribuan + 65 puluhan\nC. 46 ratusan\nD. 4 ribuan + 6 ratusan",
+    "pilihan": [
+      "45 ratusan + 60",
+      "4 ribuan + 65 puluhan",
+      "46 ratusan",
+      "4 ribuan + 6 ratusan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Satu bilangan dapat diuraikan dengan banyak cara. 45 ratusan = 4.500, ditambah 60 menjadi 4.560. Pilihan lain salah jumlahnya: 4 ribuan + 65 puluhan = 4.650, 46 ratusan = 4.600, dan 4 ribuan + 6 ratusan = 4.600.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menguraikan 2.708 menjadi 2.000 + 70 + 8. Apakah uraian Dina benar? Perbaiki dan jelaskan.\nA. Benar, karena 2.000 + 70 + 8 = 2.708\nB. Salah; yang benar 2.000 + 700 + 8, karena angka 7 menempati tempat ratusan\nC. Salah; yang benar 2.000 + 700 + 80, karena angka 8 menempati tempat puluhan\nD. Salah; yang benar 2.000 + 70 + 80, karena angka 0 harus dihitung",
+    "pilihan": [
+      "Benar, karena 2.000 + 70 + 8 = 2.708",
+      "Salah; yang benar 2.000 + 700 + 8, karena angka 7 menempati tempat ratusan",
+      "Salah; yang benar 2.000 + 700 + 80, karena angka 8 menempati tempat puluhan",
+      "Salah; yang benar 2.000 + 70 + 80, karena angka 0 harus dihitung"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Uraian Dina salah: 2.000 + 70 + 8 = 2.078, bukan 2.708. Pada bilangan 2.708, angka 7 menempati tempat ratusan sehingga nilainya 700, bukan 70. Uraian yang benar adalah 2.000 + 700 + 8.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab D\n### Sub-bab I: Kelipatan dan Faktor",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Lampu merah berkedip setiap 4 detik dan lampu biru berkedip setiap 6 detik. Keduanya berkedip bersama-sama pada detik ke-0. Pada detik ke berapa keduanya berkedip bersama lagi untuk pertama kalinya?\nA. Detik ke-10\nB. Detik ke-12\nC. Detik ke-24\nD. Detik ke-8",
+    "pilihan": [
+      "Detik ke-10",
+      "Detik ke-12",
+      "Detik ke-24",
+      "Detik ke-8"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Kelipatan 4 adalah 4, 8, 12, 16, ... dan kelipatan 6 adalah 6, 12, 18, ... Bilangan pertama yang muncul di kedua daftar adalah 12, jadi KPK dari 4 dan 6 adalah 12. Keduanya berkedip bersama lagi pada detik ke-12.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab I",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Jika suatu bilangan adalah kelipatan 6, apakah bilangan itu pasti kelipatan 2 dan kelipatan 3? Jelaskan dengan contoh.\nA. Ya, karena 6 = 2 × 3, jadi setiap kelipatan 6 juga kelipatan 2 dan kelipatan 3; contohnya 12 dan 18\nB. Tidak, karena kelipatan 6 hanya kelipatan 6 saja, bukan kelipatan bilangan lain\nC. Ya, tetapi hanya bilangan genap saja yang merupakan kelipatan 3\nD. Tidak, contohnya 6 bukan kelipatan 2",
+    "pilihan": [
+      "Ya, karena 6 = 2 × 3, jadi setiap kelipatan 6 juga kelipatan 2 dan kelipatan 3; contohnya 12 dan 18",
+      "Tidak, karena kelipatan 6 hanya kelipatan 6 saja, bukan kelipatan bilangan lain",
+      "Ya, tetapi hanya bilangan genap saja yang merupakan kelipatan 3",
+      "Tidak, contohnya 6 bukan kelipatan 2"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Karena 6 = 2 × 3, setiap kelipatan 6 dapat ditulis sebagai 6 × n = 2 × (3 × n) dan juga 3 × (2 × n), sehingga pasti habis dibagi 2 dan 3. Contoh: 12 = 6 × 2, dan 12 habis dibagi 2 dan 3; 18 = 6 × 3, dan 18 juga habis dibagi 2 dan 3.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 1, Sub-bab I",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 1: Bilangan Cacah sampai 10.000",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani memotong sebuah kue menjadi 4 bagian, tetapi potongannya tidak sama besar — ada yang besar, ada yang kecil. Rani berkata satu potong kue itu adalah 1/4 bagian kue. Apakah ucapan Rani benar?\nA. Benar, karena kue itu dipotong menjadi 4 bagian\nB. Benar, karena setiap potong kue berasal dari kue yang sama\nC. Salah, karena pecahan hanya berlaku kalau semua bagiannya sama besar\nD. Salah, karena kue seharusnya dipotong menjadi 2 bagian",
+    "pilihan": [
+      "Benar, karena kue itu dipotong menjadi 4 bagian",
+      "Benar, karena setiap potong kue berasal dari kue yang sama",
+      "Salah, karena pecahan hanya berlaku kalau semua bagiannya sama besar",
+      "Salah, karena kue seharusnya dipotong menjadi 2 bagian"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pecahan hanya berlaku jika keseluruhan dibagi menjadi bagian-bagian yang sama besar. Karena potongan kue Rani tidak sama besar, satu potong itu tidak bisa disebut 1/4 bagian kue.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "A: Pembilang Satu",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu mempunyai dua kue yang sama besar. Kue pertama dipotong menjadi 2 bagian sama besar, kue kedua dipotong menjadi 4 bagian sama besar. Dina makan 1 potong dari kue pertama, Sinta makan 1 potong dari kue kedua. Siapa yang makan kue lebih banyak?\nA. Sinta, karena kue kedua dipotong menjadi lebih banyak bagian\nB. Dina, karena 1/2 kue lebih besar dari 1/4 kue\nC. Sama banyak, karena keduanya sama-sama makan 1 potong\nD. Sinta, karena 4 lebih besar dari 2",
+    "pilihan": [
+      "Sinta, karena kue kedua dipotong menjadi lebih banyak bagian",
+      "Dina, karena 1/2 kue lebih besar dari 1/4 kue",
+      "Sama banyak, karena keduanya sama-sama makan 1 potong",
+      "Sinta, karena 4 lebih besar dari 2"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Dina makan 1/2 kue, sedangkan Sinta makan 1/4 kue. Kue yang dibagi menjadi lebih sedikit bagian menghasilkan potongan yang lebih besar, jadi 1/2 lebih besar dari 1/4 dan Dina makan lebih banyak.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "A: Pembilang Satu",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sepotong pita dibagi menjadi 2 bagian sama besar, sehingga setiap bagian adalah 1/2 pita. Lalu setiap bagian itu dibagi lagi menjadi 2 bagian sama besar. Berapa bagian seluruhnya sekarang, dan setiap bagian menjadi berapa bagian pita?\nA. 3 bagian, setiap bagian 1/3 pita\nB. 4 bagian, setiap bagian 1/4 pita\nC. 2 bagian, setiap bagian tetap 1/2 pita\nD. 6 bagian, setiap bagian 1/6 pita",
+    "pilihan": [
+      "3 bagian, setiap bagian 1/3 pita",
+      "4 bagian, setiap bagian 1/4 pita",
+      "2 bagian, setiap bagian tetap 1/2 pita",
+      "6 bagian, setiap bagian 1/6 pita"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pita yang dibagi 2 lalu setiap bagiannya dibagi 2 lagi menjadi 4 bagian sama besar seluruhnya. Setiap bagian sekarang adalah 1 dari 4 bagian, yaitu 1/4 pita — lebih kecil dari 1/2 pita semula.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "A: Pembilang Satu",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Urutkan pecahan 1/3, 1/2, dan 1/5 dari yang terbesar ke yang terkecil.\nA. 1/5, 1/3, 1/2\nB. 1/3, 1/5, 1/2\nC. 1/2, 1/3, 1/5\nD. 1/2, 1/5, 1/3",
+    "pilihan": [
+      "1/5, 1/3, 1/2",
+      "1/3, 1/5, 1/2",
+      "1/2, 1/3, 1/5",
+      "1/2, 1/5, 1/3"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pada pecahan berpembilang satu, semakin besar penyebutnya, semakin kecil nilai pecahannya, karena keseluruhannya dibagi menjadi lebih banyak bagian. Jadi 1/2 (dibagi 2) paling besar, lalu 1/3, lalu 1/5 paling kecil.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "A: Pembilang Satu",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebatang cokelat dibagi menjadi 6 bagian sama besar. Budi mengambil 1 bagian cokelat itu. Pecahan yang menunjukkan bagian cokelat yang diambil Budi adalah ....\nA. 1/6\nB. 6/1\nC. 1/5\nD. 6/6",
+    "pilihan": [
+      "1/6",
+      "6/1",
+      "1/5",
+      "6/6"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Cokelat dibagi menjadi 6 bagian sama besar dan Budi mengambil 1 bagian, jadi bagiannya ditulis 1/6 — pembilang 1 menunjukkan bagian yang diambil, penyebut 6 menunjukkan jumlah seluruh bagian.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab A\n## Sub-bab B: Penyebut Sama",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "A: Pembilang Satu",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani dan Raka makan pizza yang sama besar, dipotong menjadi 8 bagian sama besar. Rani makan 3/8 bagian, sedangkan Raka makan 5/8 bagian. Lalu Rani makan lagi 2/8 bagian. Sekarang, siapa yang makan pizza lebih banyak?\nA. Rani, karena ia makan dua kali\nB. Raka, karena 5/8 lebih besar dari 3/8\nC. Sama banyak\nD. Tidak bisa ditentukan",
+    "pilihan": [
+      "Rani, karena ia makan dua kali",
+      "Raka, karena 5/8 lebih besar dari 3/8",
+      "Sama banyak",
+      "Tidak bisa ditentukan"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Rani makan 3/8 + 2/8 = 5/8 bagian. Raka makan 5/8 bagian. Karena penyebutnya sama, kedua pecahan dibandingkan lewat pembilangnya, dan 5 = 5, jadi keduanya makan sama banyak.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "B: Penyebut Sama",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menghitung 2/5 + 3/5 = 5/10, karena ia menjumlahkan pembilang dan penyebutnya. Apakah hitungan Dina benar, dan berapa hasil yang benar?\nA. Benar, hasilnya 5/10\nB. Salah; hasil yang benar adalah 5/5, yaitu 1 bagian utuh\nC. Salah; hasil yang benar adalah 6/5\nD. Salah; hasil yang benar adalah 2/10",
+    "pilihan": [
+      "Benar, hasilnya 5/10",
+      "Salah; hasil yang benar adalah 5/5, yaitu 1 bagian utuh",
+      "Salah; hasil yang benar adalah 6/5",
+      "Salah; hasil yang benar adalah 2/10"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pada pecahan berpenyebut sama, yang dijumlahkan hanya pembilangnya, sedangkan penyebutnya tetap. Jadi, 2/5 + 3/5 = (2 + 3)/5 = 5/5, yaitu 1 bagian utuh. Kesalahan Dina adalah ikut menjumlahkan penyebutnya.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "B: Penyebut Sama",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu memotong kue menjadi 10 bagian sama besar. Andi makan 3/10 bagian, lalu adiknya makan 4/10 bagian. Berapa sisa kue Ibu sekarang?\nA. 3/10 bagian\nB. 7/10 bagian\nC. 1/10 bagian\nD. 10/10 bagian",
+    "pilihan": [
+      "3/10 bagian",
+      "7/10 bagian",
+      "1/10 bagian",
+      "10/10 bagian"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Kue utuh adalah 10/10 bagian. Setelah dimakan Andi dan adiknya, sisanya 10/10 − 3/10 − 4/10 = 3/10 bagian. Penyebutnya tetap 10, yang dikurangkan hanya pembilangnya: 10 − 3 − 4 = 3.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "B: Penyebut Sama",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Tiga kelompok mendapat kertas warna dari lembar yang sama besar: kelompok A mendapat 2/8 bagian, kelompok B 5/8 bagian, dan kelompok C 3/8 bagian. Urutkan ketiga kelompok dari yang mendapat bagian paling besar, lalu tentukan selisih bagian kelompok terbesar dan kelompok terkecil.\nA. B, C, A; selisihnya 3/8\nB. A, C, B; selisihnya 3/8\nC. B, A, C; selisihnya 2/8\nD. C, B, A; selisihnya 1/8",
+    "pilihan": [
+      "B, C, A; selisihnya 3/8",
+      "A, C, B; selisihnya 3/8",
+      "B, A, C; selisihnya 2/8",
+      "C, B, A; selisihnya 1/8"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Karena penyebutnya sama, urutan ditentukan oleh pembilangnya: 5 > 3 > 2, jadi urutannya B (5/8), C (3/8), A (2/8). Selisih kelompok terbesar dan terkecil adalah 5/8 − 2/8 = 3/8.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "B: Penyebut Sama",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pecahan 2/7 dan 5/7 disebut pecahan berpenyebut sama karena ....\nA. Pembilangnya sama\nB. Penyebutnya sama, yaitu 7\nC. Hasilnya sama dengan 1\nD. Keduanya lebih kecil dari 1",
+    "pilihan": [
+      "Pembilangnya sama",
+      "Penyebutnya sama, yaitu 7",
+      "Hasilnya sama dengan 1",
+      "Keduanya lebih kecil dari 1"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Dua pecahan disebut berpenyebut sama kalau angka di bawah garis (penyebutnya) sama. Pada 2/7 dan 5/7, penyebutnya sama-sama 7, sedangkan pembilangnya berbeda.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab B\n## Sub-bab C: Senilai",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "B: Penyebut Sama",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan pecahan senilai?\nA. Pecahan yang pembilangnya sama\nB. Pecahan yang nilainya sama walaupun pembilang dan penyebutnya berbeda\nC. Pecahan yang penyebutnya sama\nD. Pecahan yang pembilangnya lebih besar dari penyebutnya",
+    "pilihan": [
+      "Pecahan yang pembilangnya sama",
+      "Pecahan yang nilainya sama walaupun pembilang dan penyebutnya berbeda",
+      "Pecahan yang penyebutnya sama",
+      "Pecahan yang pembilangnya lebih besar dari penyebutnya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pecahan senilai adalah dua pecahan atau lebih yang nilainya sama, walaupun tulisannya berbeda. Contohnya 1/2 dan 2/4 sama-sama setengah.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "C: Senilai",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta makan 2/4 bagian kue, sedangkan Budi makan 1/2 bagian kue yang sama besarnya. Sinta berkata, \"Aku makan lebih banyak dari Budi, karena aku makan 2 bagian dan Budi hanya 1 bagian.\" Apakah perkataan Sinta benar?\nA. Benar, karena 2 lebih besar dari 1\nB. Salah; 2/4 lebih kecil dari 1/2\nC. Salah; 2/4 = 1/2, jadi mereka makan sama banyak\nD. Benar, karena 4 lebih besar dari 2",
+    "pilihan": [
+      "Benar, karena 2 lebih besar dari 1",
+      "Salah; 2/4 lebih kecil dari 1/2",
+      "Salah; 2/4 = 1/2, jadi mereka makan sama banyak",
+      "Benar, karena 4 lebih besar dari 2"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pecahan 2/4 senilai dengan 1/2, karena 2/4 dapat dibagi pembilang dan penyebutnya dengan 2 menjadi 1/2. Jadi, Sinta dan Budi makan sama banyak, walaupun angka di pecahannya tampak berbeda.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "C: Senilai",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina berkata, \"2/3 senilai dengan 2/4, karena pembilangnya sama-sama 2.\" Apakah Dina benar? Pecahan manakah yang benar-benar senilai dengan 2/3?\nA. Salah; 2/3 senilai dengan 4/6\nB. Benar, karena pembilangnya sama\nC. Salah; 2/3 senilai dengan 2/6\nD. Benar, karena 2/4 nilainya lebih kecil dari 2/3",
+    "pilihan": [
+      "Salah; 2/3 senilai dengan 4/6",
+      "Benar, karena pembilangnya sama",
+      "Salah; 2/3 senilai dengan 2/6",
+      "Benar, karena 2/4 nilainya lebih kecil dari 2/3"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pembilang yang sama tidak membuat dua pecahan senilai. Pecahan 2/3 senilai dengan 4/6, karena pembilang dan penyebut 2/3 sama-sama dikali 2. Sedangkan 2/4 nilainya 1/2, berbeda dengan 2/3.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "C: Senilai",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu mengambil pecahan 1/3, lalu mengalikan pembilangnya dengan 2 tetapi penyebutnya dengan 3, sehingga diperoleh 2/9. Apakah 2/9 senilai dengan 1/3? Mengapa?\nA. Ya, karena pembilangnya dikali 2\nB. Ya, karena 2/9 lebih kecil dari 1/3\nC. Tidak, karena 2/9 lebih besar dari 1/3\nD. Tidak, karena pembilang dan penyebut harus dikali bilangan yang sama; 1/3 yang senilai adalah 2/6",
+    "pilihan": [
+      "Ya, karena pembilangnya dikali 2",
+      "Ya, karena 2/9 lebih kecil dari 1/3",
+      "Tidak, karena 2/9 lebih besar dari 1/3",
+      "Tidak, karena pembilang dan penyebut harus dikali bilangan yang sama; 1/3 yang senilai adalah 2/6"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Pecahan senilai hanya diperoleh jika pembilang dan penyebut dikali bilangan yang sama. Ibu mengalikan pembilang dengan 2 tetapi penyebut dengan 3, jadi 2/9 tidak senilai dengan 1/3. Yang benar adalah 1/3 dikali 2/2 menjadi 2/6.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "C: Senilai",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di dalam sebuah kotak ada 10 kelereng. Sebanyak 6 kelereng berwarna merah, jadi bagian kelereng merah adalah 6/10. Pecahan manakah yang senilai dengan 6/10?\nA. 2/5\nB. 3/5\nC. 6/5\nD. 1/2",
+    "pilihan": [
+      "2/5",
+      "3/5",
+      "6/5",
+      "1/2"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pecahan 6/10 dapat disederhanakan dengan membagi pembilang dan penyebutnya dengan 2, menjadi 3/5. Pilihan 2/5 sama dengan 4/10 dan 1/2 sama dengan 5/10, jadi keduanya tidak senilai dengan 6/10.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab C\n## Sub-bab D: Pecahan Desimal Persepuluhan dan Perseratusan",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "C: Senilai",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di toko, pensil A harganya Rp 2,5 ribu dan pensil B harganya Rp 2,05 ribu. Pensil mana yang lebih mahal?\nA. Pensil B, karena 05 lebih besar dari 5\nB. Pensil A, karena 2,5 sama dengan 2,50 dan 2,50 lebih besar dari 2,05\nC. Sama mahal, karena keduanya sama-sama 2 ribu\nD. Pensil B, karena harganya ditulis lebih panjang",
+    "pilihan": [
+      "Pensil B, karena 05 lebih besar dari 5",
+      "Pensil A, karena 2,5 sama dengan 2,50 dan 2,50 lebih besar dari 2,05",
+      "Sama mahal, karena keduanya sama-sama 2 ribu",
+      "Pensil B, karena harganya ditulis lebih panjang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Untuk membandingkan, samakan banyak angka di belakang koma: 2,5 = 2,50. 50 perseratusan lebih besar dari 05 perseratusan, jadi 2,5 lebih besar dari 2,05. Pensil A (Rp 2.500) lebih mahal dari pensil B (Rp 2.050).",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "D: Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani membaca bilangan 0,25 sebagai \"nol koma dua puluh lima\". Apa kesalahan Rani, dan bagaimana bacaan yang benar?\nA. Tidak ada kesalahan; bacaan Rani sudah benar\nB. Kesalahannya pada angka 2; yang benar \"nol koma lima dua\"\nC. Angka di belakang koma harus dibaca satu per satu; yang benar \"nol koma dua lima\"\nD. Kesalahannya pada kata \"nol\"; yang benar \"kosong koma dua puluh lima\"",
+    "pilihan": [
+      "Tidak ada kesalahan; bacaan Rani sudah benar",
+      "Kesalahannya pada angka 2; yang benar \"nol koma lima dua\"",
+      "Angka di belakang koma harus dibaca satu per satu; yang benar \"nol koma dua lima\"",
+      "Kesalahannya pada kata \"nol\"; yang benar \"kosong koma dua puluh lima\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Angka di belakang koma dibaca satu per satu, bukan sebagai bilangan puluhan. Jadi, 0,25 dibaca \"nol koma dua lima\", bukan \"nol koma dua puluh lima\".",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "D: Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu membeli 0,5 kg gula. Budi salah menulisnya menjadi 0,05 kg di daftar belanja. Apa yang terjadi dengan nilai yang ditulis Budi?\nA. Nilainya tetap sama, karena angka 5-nya sama\nB. Nilainya menjadi sepuluh kali lebih kecil: 0,05 kg hanya 50 gram, sedangkan 0,5 kg adalah 500 gram\nC. Nilainya menjadi sepuluh kali lebih besar\nD. Nilainya menjadi 5 kg",
+    "pilihan": [
+      "Nilainya tetap sama, karena angka 5-nya sama",
+      "Nilainya menjadi sepuluh kali lebih kecil: 0,05 kg hanya 50 gram, sedangkan 0,5 kg adalah 500 gram",
+      "Nilainya menjadi sepuluh kali lebih besar",
+      "Nilainya menjadi 5 kg"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "0,5 kg = 5/10 kg = 500 gram, sedangkan 0,05 kg = 5/100 kg = 50 gram. Satu angka 0 yang terselip di depan angka 5 membuat nilainya menjadi sepuluh kali lebih kecil.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "D: Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta berkata bahwa angka 4 pada bilangan 0,47 bernilai 4. Apakah perkataan Sinta benar?\nA. Benar, karena angka 4 memang bernilai 4\nB. Salah; angka 4 menempati tempat persepuluhan sehingga nilainya 4/10 atau 0,4\nC. Salah; angka 4 menempati tempat perseratusan sehingga nilainya 4/100\nD. Benar, karena 0,47 dibaca \"nol koma empat puluh tujuh\"",
+    "pilihan": [
+      "Benar, karena angka 4 memang bernilai 4",
+      "Salah; angka 4 menempati tempat persepuluhan sehingga nilainya 4/10 atau 0,4",
+      "Salah; angka 4 menempati tempat perseratusan sehingga nilainya 4/100",
+      "Benar, karena 0,47 dibaca \"nol koma empat puluh tujuh\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Angka pertama di belakang koma menempati tempat persepuluhan. Pada 0,47, angka 4 bernilai 4/10 = 0,4, bukan 4. Angka 7-lah yang menempati tempat perseratusan, nilainya 7/100.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "D: Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pecahan tujuh persepuluh ditulis dalam bentuk desimal menjadi ....\nA. 0,7\nB. 0,07\nC. 0,007\nD. 7,0",
+    "pilihan": [
+      "0,7",
+      "0,07",
+      "0,007",
+      "7,0"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tujuh persepuluh = 7/10. Penyebut 10 berarti satu angka di belakang koma, jadi ditulis 0,7.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab D\n## Sub-bab E: Hubungan Pecahan Desimal Persepuluhan dan Perseratusan",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "D: Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina berkata, \"0,5 sama dengan 0,50.\" Raka tidak setuju, \"0,50 lebih besar, karena angkanya lebih banyak.\" Siapa yang benar dan mengapa?\nA. Raka benar, karena 50 lebih besar dari 5\nB. Dina benar, karena 0,5 = 5/10 = 50/100 = 0,50\nC. Keduanya salah, karena 0,5 dan 0,50 tidak bisa dibandingkan\nD. Keduanya benar, karena 0,5 dan 0,50 sama-sama lebih kecil dari 1",
+    "pilihan": [
+      "Raka benar, karena 50 lebih besar dari 5",
+      "Dina benar, karena 0,5 = 5/10 = 50/100 = 0,50",
+      "Keduanya salah, karena 0,5 dan 0,50 tidak bisa dibandingkan",
+      "Keduanya benar, karena 0,5 dan 0,50 sama-sama lebih kecil dari 1"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "0,5 berarti 5 persepuluh, yaitu 5/10. Jika pembilang dan penyebut dikalikan 10, hasilnya 50/100, yaitu 0,50. Jadi, menambah 0 di belakang koma tidak mengubah nilai desimalnya, dan Dina yang benar.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "E: Hubungan Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi berkata, \"0,45 lebih besar dari 0,5, karena 45 lebih besar dari 5.\" Di mana letak kesalahan Budi?\nA. Budi salah menghitung: 45 sebenarnya lebih kecil dari 5\nB. Budi salah karena 0,45 dan 0,5 tidak boleh dibandingkan\nC. Budi salah karena ia membandingkan angka di belakang koma tanpa menyamakan banyak angkanya dulu: 0,5 = 0,50, dan 50 perseratus lebih besar dari 45 perseratus\nD. Budi benar; 0,45 memang lebih besar dari 0,5",
+    "pilihan": [
+      "Budi salah menghitung: 45 sebenarnya lebih kecil dari 5",
+      "Budi salah karena 0,45 dan 0,5 tidak boleh dibandingkan",
+      "Budi salah karena ia membandingkan angka di belakang koma tanpa menyamakan banyak angkanya dulu: 0,5 = 0,50, dan 50 perseratus lebih besar dari 45 perseratus",
+      "Budi benar; 0,45 memang lebih besar dari 0,5"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Sebelum membandingkan, samakan dulu banyak angka di belakang koma: 0,5 ditulis menjadi 0,50. Sekarang bandingkan 50 perseratus dengan 45 perseratus — 50 lebih besar dari 45, jadi 0,5 lebih besar dari 0,45, bukan sebaliknya.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "E: Hubungan Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta menulis harga sebuah pensil 0,7 pada label. Temannya menambahkan angka 0 di belakang koma sehingga tertulis 0,70. Apa yang terjadi pada harga pensil itu?\nA. Harganya menjadi 10 kali lebih mahal\nB. Harganya menjadi 10 kali lebih murah\nC. Harganya tidak berubah, karena 0,7 = 0,70\nD. Harganya berubah menjadi 7,0",
+    "pilihan": [
+      "Harganya menjadi 10 kali lebih mahal",
+      "Harganya menjadi 10 kali lebih murah",
+      "Harganya tidak berubah, karena 0,7 = 0,70",
+      "Harganya berubah menjadi 7,0"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Angka 0 yang ditambahkan di ujung kanan desimal tidak mengubah nilainya: 0,7 = 7/10 = 70/100 = 0,70. Jadi, harga pensil itu tetap sama.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "E: Hubungan Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani mempunyai pita sepanjang 0,4 meter, sedangkan pita Dina sepanjang 0,38 meter. Pita siapa yang lebih panjang, dan berapa selisihnya?\nA. Pita Dina lebih panjang; selisihnya 0,02 meter\nB. Pita Rani lebih panjang; selisihnya 0,02 meter\nC. Keduanya sama panjang, karena 4 dan 38 sama-sama di belakang koma\nD. Pita Rani lebih panjang; selisihnya 0,34 meter",
+    "pilihan": [
+      "Pita Dina lebih panjang; selisihnya 0,02 meter",
+      "Pita Rani lebih panjang; selisihnya 0,02 meter",
+      "Keduanya sama panjang, karena 4 dan 38 sama-sama di belakang koma",
+      "Pita Rani lebih panjang; selisihnya 0,34 meter"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Samakan banyak angka di belakang koma: 0,4 = 0,40. Bandingkan 40 perseratus dengan 38 perseratus — 40 lebih besar, jadi pita Rani lebih panjang. Selisihnya 0,40 − 0,38 = 0,02 meter.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "E: Hubungan Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah bilangan berikut yang nilainya BERBEDA dari 0,6?\nA. 0,60\nB. 6/10\nC. 60/100\nD. 0,06",
+    "pilihan": [
+      "0,60",
+      "6/10",
+      "60/100",
+      "0,06"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "0,6 = 6/10 = 60/100 = 0,60, ketiganya sama nilainya. Sedangkan 0,06 berarti 6 perseratus, yaitu 6/100 — sepuluh kali lebih kecil dari 0,6. Jadi, yang berbeda adalah 0,06.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 2, Sub-bab E",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 2: Pecahan",
+    "sub_bab": "E: Hubungan Pecahan Desimal Persepuluhan dan Perseratusan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka menulis barisan bilangan: 6, 11, 16, 22, 26. Ia berkata aturannya bertambah 5 setiap langkah. Apakah barisan Raka benar? Bilangan manakah yang salah, dan seharusnya berapa?\nA. Bilangan 22 salah; seharusnya 21\nB. Bilangan 26 salah; seharusnya 27\nC. Bilangan 11 salah; seharusnya 12\nD. Semua bilangan sudah benar",
+    "pilihan": [
+      "Bilangan 22 salah; seharusnya 21",
+      "Bilangan 26 salah; seharusnya 27",
+      "Bilangan 11 salah; seharusnya 12",
+      "Semua bilangan sudah benar"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Aturan bertambah 5 berarti 6, 11, 16, 21, 26. Bilangan 22 tidak mengikuti aturan itu karena 16 + 5 = 21, bukan 22.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "A: Pola Bilangan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Barisan bilangan 4, 9, 14, 19, ... aturannya bertambah 5. Mulai suku ke-5, Rani mengubah aturannya menjadi bertambah 10. Berapa bilangan ke-6 pada barisan baru itu?\nA. 29\nB. 34\nC. 39\nD. 44",
+    "pilihan": [
+      "29",
+      "34",
+      "39",
+      "44"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Suku ke-4 adalah 19. Dengan aturan baru bertambah 10, suku ke-5 = 19 + 10 = 29, lalu suku ke-6 = 29 + 10 = 39.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "A: Pola Bilangan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Barisan A: 3, 8, 13, 18, ... Barisan P: 8, 13, 18, 23, ... Barisan Q: 8, 16, 24, 32, ... Barisan manakah yang aturannya sama dengan Barisan A?\nA. Barisan P, karena sama-sama bertambah 5\nB. Barisan Q, karena sama-sama dimulai dari angka 8\nC. Barisan P dan Q, karena keduanya bertambah\nD. Tidak ada, karena angka awalnya berbeda",
+    "pilihan": [
+      "Barisan P, karena sama-sama bertambah 5",
+      "Barisan Q, karena sama-sama dimulai dari angka 8",
+      "Barisan P dan Q, karena keduanya bertambah",
+      "Tidak ada, karena angka awalnya berbeda"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Barisan A bertambah 5 setiap langkah (3 + 5 = 8, 8 + 5 = 13, dan seterusnya). Barisan P juga bertambah 5, sedangkan Barisan Q bertambah 8. Jadi, hanya Barisan P yang aturannya sama dengan Barisan A.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "A: Pola Bilangan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menabung Rp5.000 pada minggu pertama, lalu setiap minggu ia menambah tabungannya Rp5.000. Budi menabung Rp10.000 pada minggu pertama, lalu setiap minggu ia menambah tabungannya Rp2.000. Pada minggu ke-4, siapa yang menabung lebih banyak pada minggu itu, dan berapa selisihnya?\nA. Dina; Rp20.000, selisihnya Rp4.000 dari Budi\nB. Budi; Rp16.000, selisihnya Rp4.000 dari Dina\nC. Sama banyak; keduanya menabung Rp16.000\nD. Dina; Rp15.000, selisihnya Rp1.000 dari Budi",
+    "pilihan": [
+      "Dina; Rp20.000, selisihnya Rp4.000 dari Budi",
+      "Budi; Rp16.000, selisihnya Rp4.000 dari Dina",
+      "Sama banyak; keduanya menabung Rp16.000",
+      "Dina; Rp15.000, selisihnya Rp1.000 dari Budi"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tabungan Dina minggu ke-4 = 5.000 + 3 × 5.000 = Rp20.000. Tabungan Budi minggu ke-4 = 10.000 + 3 × 2.000 = Rp16.000. Jadi, Dina menabung lebih banyak dengan selisih 20.000 − 16.000 = Rp4.000.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "A: Pola Bilangan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan barisan bilangan: 50, 45, ..., 35, 30. Bilangan yang hilang pada barisan itu adalah ....\nA. 40\nB. 38\nC. 42\nD. 45",
+    "pilihan": [
+      "40",
+      "38",
+      "42",
+      "45"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Barisan ini berkurang 5 setiap langkah: 50 − 5 = 45, lalu 45 − 5 = 40, lalu 40 − 5 = 35, lalu 35 − 5 = 30. Jadi, bilangan yang hilang adalah 40.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab A\n## Sub-bab B: Pola Gambar",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "A: Pola Bilangan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani menyusun pola gambar berulang: lingkaran, segitiga, persegi, lingkaran, segitiga, persegi, lingkaran, segitiga, lingkaran. Ada satu gambar yang menyimpang dari pola. Gambar ke berapa yang menyimpang, dan seharusnya gambar apa?\nA. Gambar ke-9 menyimpang; seharusnya persegi\nB. Gambar ke-7 menyimpang; seharusnya segitiga\nC. Gambar ke-8 menyimpang; seharusnya lingkaran\nD. Tidak ada gambar yang menyimpang",
+    "pilihan": [
+      "Gambar ke-9 menyimpang; seharusnya persegi",
+      "Gambar ke-7 menyimpang; seharusnya segitiga",
+      "Gambar ke-8 menyimpang; seharusnya lingkaran",
+      "Tidak ada gambar yang menyimpang"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Polanya berulang setiap 3 gambar: lingkaran, segitiga, persegi. Gambar ke-7 adalah lingkaran dan ke-8 segitiga, jadi gambar ke-9 seharusnya persegi — tetapi Rani meletakkan lingkaran, jadi gambar ke-9-lah yang menyimpang.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "B: Pola Gambar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi membuat segitiga berantai dari batang korek api. Gambar 1 memakai 3 batang (1 segitiga), Gambar 2 memakai 5 batang (2 segitiga berantai), Gambar 3 memakai 7 batang (3 segitiga berantai). Jika pola ini diteruskan, berapa batang yang dibutuhkan untuk Gambar 5?\nA. 9 batang\nB. 11 batang\nC. 13 batang\nD. 15 batang",
+    "pilihan": [
+      "9 batang",
+      "11 batang",
+      "13 batang",
+      "15 batang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setiap segitiga baru menambah 2 batang, karena satu sisi segitiga baru memakai sisi segitiga sebelumnya. Jadi Gambar 4 memakai 7 + 2 = 9 batang, dan Gambar 5 memakai 9 + 2 = 11 batang.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "B: Pola Gambar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ada dua pola bintang yang bertumbuh. Pola A: 2, 4, 6, 8 bintang. Pola B: 3, 6, 9, 12 bintang. Jika kedua pola diteruskan sampai langkah ke-6, pola mana yang mempunyai bintang lebih banyak, dan berapa selisihnya?\nA. Pola A lebih banyak; selisihnya 6 bintang\nB. Pola B lebih banyak; selisihnya 6 bintang\nC. Keduanya sama banyak\nD. Pola B lebih banyak; selisihnya 3 bintang",
+    "pilihan": [
+      "Pola A lebih banyak; selisihnya 6 bintang",
+      "Pola B lebih banyak; selisihnya 6 bintang",
+      "Keduanya sama banyak",
+      "Pola B lebih banyak; selisihnya 3 bintang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pola A bertambah 2 setiap langkah, jadi langkah ke-6 ada 2 × 6 = 12 bintang. Pola B bertambah 3 setiap langkah, jadi langkah ke-6 ada 3 × 6 = 18 bintang. Pola B lebih banyak, selisihnya 18 − 12 = 6 bintang.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "B: Pola Gambar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta merangkai manik-manik dengan pola berulang: merah, kuning, kuning, merah, kuning, kuning, merah, kuning, kuning, ... Manik ke-10 berwarna apa?\nA. Merah\nB. Kuning\nC. Biru\nD. Tidak bisa ditentukan",
+    "pilihan": [
+      "Merah",
+      "Kuning",
+      "Biru",
+      "Tidak bisa ditentukan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Polanya berulang setiap 3 manik: merah, kuning, kuning. Manik ke-1, ke-4, ke-7, dan ke-10 jatuh pada posisi pertama dalam siklus, jadi manik ke-10 berwarna merah.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "B: Pola Gambar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta menyusun kelereng membentuk pola bertumbuh: langkah ke-1 ada 2 kelereng, langkah ke-2 ada 5 kelereng, langkah ke-3 ada 8 kelereng. Sinta berkata langkah ke-4 ada 10 kelereng. Apakah perkataan Sinta benar?\nA. Benar, langkah ke-4 ada 10 kelereng\nB. Salah; seharusnya 11 kelereng\nC. Salah; seharusnya 9 kelereng\nD. Benar, karena polanya bertambah 2 setiap langkah",
+    "pilihan": [
+      "Benar, langkah ke-4 ada 10 kelereng",
+      "Salah; seharusnya 11 kelereng",
+      "Salah; seharusnya 9 kelereng",
+      "Benar, karena polanya bertambah 2 setiap langkah"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Polanya bertambah 3 kelereng setiap langkah: 2, 5, 8, ... Jadi langkah ke-4 seharusnya 8 + 3 = 11 kelereng, bukan 10. Sinta salah karena ia hanya menambah 2.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 3: Pola Gambar dan Pola Bilangan",
+    "sub_bab": "B: Pola Gambar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dua taman di sekolah dipagari dengan pagar sepanjang yang sama. Taman A berbentuk persegi panjang 10 m × 2 m, sedangkan taman B berbentuk persegi panjang 7 m × 5 m. Taman mana yang lebih luas, dan mengapa?\nA. Taman A lebih luas, karena panjangnya 10 m, paling panjang\nB. Taman B lebih luas, karena 7 × 5 = 35 m², sedangkan taman A hanya 10 × 2 = 20 m²\nC. Keduanya sama luas, karena pagarnya sama panjang\nD. Tidak bisa ditentukan, karena hanya diketahui panjang pagarnya",
+    "pilihan": [
+      "Taman A lebih luas, karena panjangnya 10 m, paling panjang",
+      "Taman B lebih luas, karena 7 × 5 = 35 m², sedangkan taman A hanya 10 × 2 = 20 m²",
+      "Keduanya sama luas, karena pagarnya sama panjang",
+      "Tidak bisa ditentukan, karena hanya diketahui panjang pagarnya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Keliling kedua taman sama, yaitu 24 m, tetapi luasnya berbeda: taman A 10 × 2 = 20 m², sedangkan taman B 7 × 5 = 35 m². Pagar yang sama panjang belum tentu menutupi luas yang sama, jadi taman B lebih luas.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "A: Pengukuran Luas",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi menghitung luas sebuah persegi panjang berukuran 8 cm × 5 cm dengan cara menjumlahkan panjang dan lebarnya: 8 + 5 = 13 cm². Apakah hitungan Dodi benar, dan berapa luas yang benar?\nA. Benar, luasnya 13 cm²\nB. Salah; seharusnya 8 + 8 + 5 + 5 = 26 cm²\nC. Salah; luas dihitung dengan mengalikan, yaitu 8 × 5 = 40 cm²\nD. Salah; seharusnya 8 − 5 = 3 cm²",
+    "pilihan": [
+      "Benar, luasnya 13 cm²",
+      "Salah; seharusnya 8 + 8 + 5 + 5 = 26 cm²",
+      "Salah; luas dihitung dengan mengalikan, yaitu 8 × 5 = 40 cm²",
+      "Salah; seharusnya 8 − 5 = 3 cm²"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Luas persegi panjang dihitung dengan mengalikan panjang dan lebarnya, bukan menjumlahkannya. Jadi, luasnya 8 × 5 = 40 cm². Menjumlahkan semua sisinya justru menghasilkan keliling, bukan luas.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "A: Pengukuran Luas",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah meja berbentuk persegi panjang berukuran panjang 6 cm dan lebar 4 cm. Jika panjang meja itu digandakan menjadi 12 cm sedangkan lebarnya tetap 4 cm, berapa luas meja sekarang dan berapa kali lipat dari luas semula?\nA. 48 cm², 2 kali lipat dari luas semula\nB. 48 cm², 4 kali lipat dari luas semula\nC. 24 cm², tetap sama seperti semula\nD. 96 cm², 4 kali lipat dari luas semula",
+    "pilihan": [
+      "48 cm², 2 kali lipat dari luas semula",
+      "48 cm², 4 kali lipat dari luas semula",
+      "24 cm², tetap sama seperti semula",
+      "96 cm², 4 kali lipat dari luas semula"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Luas semula 6 × 4 = 24 cm². Setelah panjangnya digandakan, luasnya menjadi 12 × 4 = 48 cm². Karena 48 : 24 = 2, luasnya menjadi 2 kali lipat — menggandakan satu sisi membuat luas ikut berlipat dua.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "A: Pengukuran Luas",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani menutup dua meja dengan ubin persegi berukuran 1 cm². Meja A tertutup 5 ubin pada setiap baris dan ada 4 baris ubin. Meja B tertutup 6 ubin pada setiap baris dan ada 3 baris ubin. Meja mana yang membutuhkan ubin lebih banyak, dan berapa selisihnya?\nA. Meja B, selisihnya 2 ubin\nB. Sama banyak, karena keduanya sama-sama ditutup ubin\nC. Meja A, selisihnya 4 ubin\nD. Meja A, selisihnya 2 ubin",
+    "pilihan": [
+      "Meja B, selisihnya 2 ubin",
+      "Sama banyak, karena keduanya sama-sama ditutup ubin",
+      "Meja A, selisihnya 4 ubin",
+      "Meja A, selisihnya 2 ubin"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Meja A membutuhkan 5 × 4 = 20 ubin, sedangkan meja B membutuhkan 6 × 3 = 18 ubin. Jadi, meja A membutuhkan ubin lebih banyak, selisihnya 20 − 18 = 2 ubin.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "A: Pengukuran Luas",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah sapu tangan berbentuk persegi dengan panjang sisi 9 cm. Berapa luas sapu tangan itu?\nA. 18 cm²\nB. 36 cm²\nC. 81 cm²\nD. 90 cm²",
+    "pilihan": [
+      "18 cm²",
+      "36 cm²",
+      "81 cm²",
+      "90 cm²"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Luas persegi dihitung dengan mengalikan sisi dengan sisi. Jadi, luas sapu tangan itu 9 × 9 = 81 cm².",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab A\n## Sub-bab B: Pengukuran Volume",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "A: Pengukuran Luas",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menghitung volume sebuah kubus yang panjang sisinya 5 cm dengan cara menjumlahkan ketiga sisinya: 5 + 5 + 5 = 15 cm³. Apakah hitungan Dina benar, dan berapa volume kubus yang benar?\nA. Benar, hasilnya 15 cm³\nB. Salah; volume kubus yang benar adalah 5 × 5 × 5 = 125 cm³\nC. Salah; volume kubus yang benar adalah 5 + 5 = 10 cm³\nD. Benar, tetapi satuannya seharusnya cm²",
+    "pilihan": [
+      "Benar, hasilnya 15 cm³",
+      "Salah; volume kubus yang benar adalah 5 × 5 × 5 = 125 cm³",
+      "Salah; volume kubus yang benar adalah 5 + 5 = 10 cm³",
+      "Benar, tetapi satuannya seharusnya cm²"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Volume bukan hasil penjumlahan sisi, melainkan hasil kali ketiga ukuran: sisi × sisi × sisi. Jadi, volume kubus itu 5 × 5 × 5 = 125 cm³, bukan 15 cm³.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "B: Pengukuran Volume",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ada dua kotak mainan. Kotak A berbentuk balok berukuran panjang 10 cm, lebar 4 cm, dan tinggi 3 cm. Kotak B berbentuk kubus dengan panjang sisi 5 cm. Kotak mana yang muat mainan lebih banyak?\nA. Kotak A, karena kotaknya lebih panjang\nB. Kotak B, karena volumenya 125 cm³, lebih besar dari volume kotak A yang 120 cm³\nC. Sama banyak, karena kedua kotak sama-sama memuat mainan\nD. Kotak A, karena 10 + 4 + 3 = 17 lebih besar dari 5 + 5 + 5 = 15",
+    "pilihan": [
+      "Kotak A, karena kotaknya lebih panjang",
+      "Kotak B, karena volumenya 125 cm³, lebih besar dari volume kotak A yang 120 cm³",
+      "Sama banyak, karena kedua kotak sama-sama memuat mainan",
+      "Kotak A, karena 10 + 4 + 3 = 17 lebih besar dari 5 + 5 + 5 = 15"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Volume kotak A = 10 × 4 × 3 = 120 cm³, sedangkan volume kotak B = 5 × 5 × 5 = 125 cm³. Walaupun kotak A lebih panjang, kotak B volumenya lebih besar, jadi kotak B muat mainan lebih banyak.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "B: Pengukuran Volume",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah balok berukuran panjang 6 cm, lebar 4 cm, dan tinggi 5 cm. Jika tingginya digandakan menjadi 10 cm, sedangkan panjang dan lebarnya tetap, volumenya berubah menjadi berapa kali lipat?\nA. Tetap sama, 120 cm³\nB. Menjadi 2 kali lipat, yaitu 240 cm³\nC. Menjadi 4 kali lipat, yaitu 480 cm³\nD. Menjadi 10 kali lipat, yaitu 1.200 cm³",
+    "pilihan": [
+      "Tetap sama, 120 cm³",
+      "Menjadi 2 kali lipat, yaitu 240 cm³",
+      "Menjadi 4 kali lipat, yaitu 480 cm³",
+      "Menjadi 10 kali lipat, yaitu 1.200 cm³"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Volume awal = 6 × 4 × 5 = 120 cm³. Setelah tinggi digandakan, volume = 6 × 4 × 10 = 240 cm³. Karena hanya tingginya yang dikali 2, volumenya pun menjadi 2 kali lipat, bukan 4 atau 10 kali lipat.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "B: Pengukuran Volume",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka menyusun sebuah balok dari kubus-kubus kecil berukuran 1 cm³. Lapisan bawah balok itu terdiri atas 5 kubus memanjang dan 3 kubus melebar, dan balok itu tersusun setinggi 4 lapis kubus. Berapa volume balok Raka?\nA. 12 cm³\nB. 60 cm³\nC. 15 cm³\nD. 20 cm³",
+    "pilihan": [
+      "12 cm³",
+      "60 cm³",
+      "15 cm³",
+      "20 cm³"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Satu lapis berisi 5 × 3 = 15 kubus satuan. Ada 4 lapis, jadi seluruhnya 15 × 4 = 60 kubus satuan. Setiap kubus satuan volumenya 1 cm³, jadi volume balok itu 60 cm³.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "B: Pengukuran Volume",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah akuarium berbentuk balok berukuran panjang 8 cm, lebar 5 cm, dan tinggi 6 cm. Berapa volume akuarium itu?\nA. 240 cm³\nB. 19 cm³\nC. 120 cm³\nD. 40 cm³",
+    "pilihan": [
+      "240 cm³",
+      "19 cm³",
+      "120 cm³",
+      "40 cm³"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Volume balok = panjang × lebar × tinggi = 8 × 5 × 6 = 240 cm³.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 4: Pengukuran Luas dan Volume",
+    "sub_bab": "B: Pengukuran Volume",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menggambar empat bangun: persegi, segitiga sama sisi, segilima beraturan, dan belah ketupat. Tiga bangun di antaranya adalah segi banyak beraturan. Bangun manakah yang BUKAN segi banyak beraturan, dan mengapa?\nA. Persegi, karena sudutnya siku-siku\nB. Segitiga sama sisi, karena hanya mempunyai 3 sisi\nC. Belah ketupat, karena keempat sisinya sama panjang tetapi sudut-sudutnya tidak sama besar\nD. Segilima beraturan, karena mempunyai 5 sisi",
+    "pilihan": [
+      "Persegi, karena sudutnya siku-siku",
+      "Segitiga sama sisi, karena hanya mempunyai 3 sisi",
+      "Belah ketupat, karena keempat sisinya sama panjang tetapi sudut-sudutnya tidak sama besar",
+      "Segilima beraturan, karena mempunyai 5 sisi"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Segi banyak beraturan harus memenuhi dua syarat sekaligus: semua sisinya sama panjang DAN semua sudutnya sama besar. Belah ketupat memang keempat sisinya sama panjang, tetapi sudut-sudutnya tidak sama besar, jadi ia bukan segi banyak beraturan.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "A: Segi Banyak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka menggambar sebuah persegi, lalu ia memotong satu sudutnya dengan garis lurus. Bangun baru yang terbentuk sekarang mempunyai berapa sisi, dan disebut apa?\nA. Tetap 4 sisi, tetap disebut segiempat\nB. Menjadi 5 sisi, disebut segilima\nC. Menjadi 3 sisi, disebut segitiga\nD. Menjadi 6 sisi, disebut segienam",
+    "pilihan": [
+      "Tetap 4 sisi, tetap disebut segiempat",
+      "Menjadi 5 sisi, disebut segilima",
+      "Menjadi 3 sisi, disebut segitiga",
+      "Menjadi 6 sisi, disebut segienam"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Persegi mempunyai 4 sisi. Ketika satu sudutnya dipotong dengan garis lurus, sudut itu hilang dan digantikan oleh satu sisi baru, sehingga sisinya menjadi 5. Bangun datar tertutup bersisi 5 disebut segilima.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "A: Segi Banyak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka berkata, \"Persegi panjang adalah segi banyak beraturan, karena keempat sudutnya sama besar.\" Apakah perkataan Raka benar?\nA. Benar, karena semua sudut persegi panjang sama besar\nB. Benar, karena persegi panjang mempunyai 4 sisi\nC. Salah; segi banyak beraturan juga harus semua sisinya sama panjang, sedangkan sisi persegi panjang tidak sama panjang\nD. Salah; persegi panjang bukan segi banyak karena sisinya melengkung",
+    "pilihan": [
+      "Benar, karena semua sudut persegi panjang sama besar",
+      "Benar, karena persegi panjang mempunyai 4 sisi",
+      "Salah; segi banyak beraturan juga harus semua sisinya sama panjang, sedangkan sisi persegi panjang tidak sama panjang",
+      "Salah; persegi panjang bukan segi banyak karena sisinya melengkung"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Menjadi segi banyak beraturan tidak cukup hanya sudutnya sama besar — semua sisinya juga harus sama panjang. Persegi panjang memang keempat sudutnya sama besar, tetapi panjang dan lebarnya berbeda, jadi ia segi banyak tidak beraturan.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "A: Segi Banyak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi menggambar sebuah bangun datar tertutup yang mempunyai 6 sisi. Namun, satu di antara keenam sisinya melengkung, sedangkan lima sisi lainnya lurus. Apakah bangun Budi termasuk segi banyak? Mengapa?\nA. Ya, karena bangun itu tertutup dan mempunyai 6 sisi\nB. Ya, karena hanya satu sisi yang melengkung\nC. Tidak, karena segi banyak harus dibatasi seluruhnya oleh ruas garis lurus\nD. Tidak, karena bangun bersisi 6 harus disebut segilima",
+    "pilihan": [
+      "Ya, karena bangun itu tertutup dan mempunyai 6 sisi",
+      "Ya, karena hanya satu sisi yang melengkung",
+      "Tidak, karena segi banyak harus dibatasi seluruhnya oleh ruas garis lurus",
+      "Tidak, karena bangun bersisi 6 harus disebut segilima"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Segi banyak adalah bangun datar tertutup yang seluruh sisinya berupa ruas garis lurus. Sekali ada sisi yang melengkung, bangun itu bukan lagi segi banyak — sama seperti lingkaran yang bukan segi banyak karena tepinya melengkung.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "A: Segi Banyak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan segi banyak?\nA. Bangun datar tertutup yang dibatasi oleh ruas-ruas garis lurus\nB. Bangun datar yang dibatasi oleh garis lengkung\nC. Bangun datar yang sisinya tidak tertutup\nD. Bangun ruang yang mempunyai banyak sisi",
+    "pilihan": [
+      "Bangun datar tertutup yang dibatasi oleh ruas-ruas garis lurus",
+      "Bangun datar yang dibatasi oleh garis lengkung",
+      "Bangun datar yang sisinya tidak tertutup",
+      "Bangun ruang yang mempunyai banyak sisi"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Segi banyak adalah bangun datar tertutup yang seluruh sisinya berupa ruas garis lurus, paling sedikit 3 sisi. Namanya mengikuti banyak sisinya: segitiga, segiempat, segilima, dan seterusnya.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab A\n## Sub-bab B: Segitiga",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "A: Segi Banyak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani mempunyai 4 segitiga kertas dengan panjang sisi sebagai berikut. Segitiga A: 5 cm, 5 cm, 8 cm. Segitiga B: 6 cm, 6 cm, 6 cm. Segitiga C: 4 cm, 6 cm, 7 cm. Segitiga D: 7 cm, 7 cm, 7 cm. Segitiga manakah yang merupakan segitiga sembarang?\nA. Segitiga A, karena dua sisinya sama panjang\nB. Segitiga B, karena ketiga sisinya sama panjang\nC. Segitiga C, karena ketiga sisinya berbeda panjang\nD. Segitiga D, karena ketiga sisinya sama panjang",
+    "pilihan": [
+      "Segitiga A, karena dua sisinya sama panjang",
+      "Segitiga B, karena ketiga sisinya sama panjang",
+      "Segitiga C, karena ketiga sisinya berbeda panjang",
+      "Segitiga D, karena ketiga sisinya sama panjang"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Segitiga sembarang adalah segitiga yang ketiga sisinya berbeda panjang. Hanya segitiga C yang sisinya 4 cm, 6 cm, dan 7 cm — semuanya berbeda. Segitiga A sama kaki, sedangkan segitiga B dan D sama sisi.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "B: Segitiga",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah segitiga siku-siku mempunyai satu sudut 90°. Jika sudut itu diperbesar menjadi 120°, sedangkan dua sudut lainnya mengecil, segitiga itu berubah menjadi segitiga apa?\nA. Segitiga lancip, karena semua sudutnya menjadi kecil\nB. Segitiga tumpul, karena salah satu sudutnya lebih dari 90°\nC. Tetap segitiga siku-siku, karena bentuknya tidak berubah\nD. Segitiga sama sisi, karena sudutnya menjadi sama besar",
+    "pilihan": [
+      "Segitiga lancip, karena semua sudutnya menjadi kecil",
+      "Segitiga tumpul, karena salah satu sudutnya lebih dari 90°",
+      "Tetap segitiga siku-siku, karena bentuknya tidak berubah",
+      "Segitiga sama sisi, karena sudutnya menjadi sama besar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Segitiga tumpul adalah segitiga yang salah satu sudutnya lebih dari 90°. Setelah sudut 90° diperbesar menjadi 120°, segitiga itu mempunyai satu sudut tumpul, jadi jenisnya berubah menjadi segitiga tumpul.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "B: Segitiga",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani membuat segitiga dengan panjang sisi 6 cm, 6 cm, dan 10 cm. Dodi membuat segitiga dengan panjang sisi 6 cm, 8 cm, dan 10 cm. Segitiga siapa yang merupakan segitiga sama kaki, dan mengapa?\nA. Segitiga Dodi, karena sisinya 6 cm, 8 cm, dan 10 cm\nB. Segitiga Rani, karena dua sisinya sama panjang, yaitu 6 cm dan 6 cm\nC. Segitiga Dodi, karena sisi terpanjangnya 10 cm\nD. Keduanya sama kaki, karena sama-sama mempunyai sisi 6 cm",
+    "pilihan": [
+      "Segitiga Dodi, karena sisinya 6 cm, 8 cm, dan 10 cm",
+      "Segitiga Rani, karena dua sisinya sama panjang, yaitu 6 cm dan 6 cm",
+      "Segitiga Dodi, karena sisi terpanjangnya 10 cm",
+      "Keduanya sama kaki, karena sama-sama mempunyai sisi 6 cm"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Segitiga sama kaki adalah segitiga yang mempunyai dua sisi sama panjang. Segitiga Rani mempunyai dua sisi 6 cm, jadi ia sama kaki. Segitiga Dodi sisinya 6 cm, 8 cm, dan 10 cm — semuanya berbeda, jadi ia segitiga sembarang.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "B: Segitiga",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi berkata, \"Segitiga dengan sudut 100°, 40°, dan 40° adalah segitiga lancip, karena ada dua sudut lancip di dalamnya.\" Apakah perkataan Budi benar?\nA. Benar, karena dua sudutnya memang lancip\nB. Benar, karena sudut terbesarnya 100°\nC. Salah; segitiga itu segitiga tumpul, karena salah satu sudutnya 100°, lebih dari 90°\nD. Salah; segitiga itu segitiga siku-siku, karena jumlah sudutnya 180°",
+    "pilihan": [
+      "Benar, karena dua sudutnya memang lancip",
+      "Benar, karena sudut terbesarnya 100°",
+      "Salah; segitiga itu segitiga tumpul, karena salah satu sudutnya 100°, lebih dari 90°",
+      "Salah; segitiga itu segitiga siku-siku, karena jumlah sudutnya 180°"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Jenis segitiga berdasarkan sudut ditentukan oleh sudut terbesarnya. Sudut 100° adalah sudut tumpul (lebih dari 90°), jadi segitiga itu segitiga tumpul, walaupun dua sudut lainnya lancip. Jumlah ketiga sudut segitiga memang selalu 180° (100° + 40° + 40° = 180°), tetapi itu bukan penentu jenisnya.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "B: Segitiga",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Segitiga yang ketiga sisinya sama panjang dan ketiga sudutnya sama besar disebut segitiga ....\nA. Sama kaki\nB. Sembarang\nC. Sama sisi\nD. Siku-siku",
+    "pilihan": [
+      "Sama kaki",
+      "Sembarang",
+      "Sama sisi",
+      "Siku-siku"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Segitiga sama sisi adalah segitiga yang ketiga sisinya sama panjang. Karena sisinya sama, ketiga sudutnya pun sama besar, masing-masing 60°.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab B\n## Sub-bab C: Segi Empat",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "B: Segitiga",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina mempunyai bingkai foto berbentuk persegi panjang. Bingkai itu tidak sengaja terdorong sehingga bentuknya menjadi miring: sudut-sudutnya tidak lagi siku-siku, tetapi sisi-sisi yang berhadapan tetap sama panjang dan tetap sejajar. Bangun apakah bingkai Dina sekarang?\nA. Persegi, karena sisinya tetap sama panjang\nB. Jajar genjang, karena sisi berhadapan sama panjang dan sejajar tetapi sudutnya bukan siku-siku\nC. Trapesium, karena hanya sepasang sisinya yang sejajar\nD. Layang-layang, karena sisinya menjadi miring",
+    "pilihan": [
+      "Persegi, karena sisinya tetap sama panjang",
+      "Jajar genjang, karena sisi berhadapan sama panjang dan sejajar tetapi sudutnya bukan siku-siku",
+      "Trapesium, karena hanya sepasang sisinya yang sejajar",
+      "Layang-layang, karena sisinya menjadi miring"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Ketika persegi panjang didorong miring, sudut siku-sikunya hilang, tetapi sisi berhadapan tetap sama panjang dan sejajar. Bangun dengan ciri itu adalah jajar genjang, bukan lagi persegi panjang.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "C: Segi Empat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani menggambar empat bangun segi empat: persegi dengan sisi 5 cm, belah ketupat dengan sisi 5 cm, layang-layang dengan sisi 5 cm dan 3 cm, dan persegi dengan sisi 4 cm. Tiga dari bangun itu mempunyai keempat sisi yang sama panjang. Bangun manakah yang berbeda dari ketiganya?\nA. Persegi dengan sisi 5 cm\nB. Belah ketupat dengan sisi 5 cm\nC. Layang-layang dengan sisi 5 cm dan 3 cm\nD. Persegi dengan sisi 4 cm",
+    "pilihan": [
+      "Persegi dengan sisi 5 cm",
+      "Belah ketupat dengan sisi 5 cm",
+      "Layang-layang dengan sisi 5 cm dan 3 cm",
+      "Persegi dengan sisi 4 cm"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Persegi dan belah ketupat keempat sisinya sama panjang, berapa pun ukuran sisinya. Layang-layang berbeda: sisinya terdiri dari dua pasang sisi berdekatan yang sama panjang (5 cm dan 3 cm), jadi tidak semua sisinya sama panjang.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "C: Segi Empat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta berkata, \"Persegi dan belah ketupat itu sama saja, karena keempat sisinya sama panjang.\" Apakah perkataan Sinta benar? Apa yang membedakan kedua bangun itu?\nA. Benar, keduanya memang bangun yang sama\nB. Salah; yang membedakan adalah sudutnya — persegi keempat sudutnya siku-siku, sedangkan belah ketupat sudutnya tidak semua siku-siku\nC. Salah; yang membedakan adalah jumlah sisinya — persegi 4 sisi, belah ketupat 5 sisi\nD. Benar, karena keduanya mempunyai 4 sumbu simetri",
+    "pilihan": [
+      "Benar, keduanya memang bangun yang sama",
+      "Salah; yang membedakan adalah sudutnya — persegi keempat sudutnya siku-siku, sedangkan belah ketupat sudutnya tidak semua siku-siku",
+      "Salah; yang membedakan adalah jumlah sisinya — persegi 4 sisi, belah ketupat 5 sisi",
+      "Benar, karena keduanya mempunyai 4 sumbu simetri"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Persegi dan belah ketupat memang sama-sama mempunyai keempat sisi yang sama panjang. Yang membedakan keduanya adalah sudutnya: persegi keempat sudutnya siku-siku (90°), sedangkan belah ketupat mempunyai dua sudut lancip dan dua sudut tumpul.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "C: Segi Empat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Layang-layang dan belah ketupat itu sama, karena keduanya mempunyai dua pasang sisi yang sama panjang.\" Apakah Dodi benar? Di mana letak perbedaan keduanya?\nA. Benar, keduanya memang bangun yang sama\nB. Salah; pada belah ketupat keempat sisinya sama panjang, sedangkan pada layang-layang sisi yang sama panjang adalah sisi yang berdekatan, bukan sisi yang berhadapan\nC. Salah; pada layang-layang keempat sisinya sama panjang, sedangkan pada belah ketupat hanya dua sisinya yang sama panjang\nD. Benar, karena keduanya mempunyai diagonal yang sama panjang",
+    "pilihan": [
+      "Benar, keduanya memang bangun yang sama",
+      "Salah; pada belah ketupat keempat sisinya sama panjang, sedangkan pada layang-layang sisi yang sama panjang adalah sisi yang berdekatan, bukan sisi yang berhadapan",
+      "Salah; pada layang-layang keempat sisinya sama panjang, sedangkan pada belah ketupat hanya dua sisinya yang sama panjang",
+      "Benar, karena keduanya mempunyai diagonal yang sama panjang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pada belah ketupat, keempat sisinya sama panjang, jadi sisi yang berhadapan pun sama. Pada layang-layang, sisi yang sama panjang adalah sisi yang berdekatan (bersebelahan): dua sisi atas sama panjang, dua sisi bawah sama panjang, tetapi sisi atas dan sisi bawah berbeda panjangnya.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "C: Segi Empat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah papan berbentuk segi empat. Dua sisi yang berhadapan sejajar dan sama panjang, dua sisi lainnya juga sejajar dan sama panjang, tetapi tidak ada satu pun sudutnya yang siku-siku. Bangun apakah papan itu?\nA. Persegi panjang, karena sisi berhadapannya sama panjang\nB. Persegi, karena keempat sisinya sama panjang\nC. Jajar genjang, karena dua pasang sisi berhadapan sejajar dan sama panjang tetapi sudutnya bukan siku-siku\nD. Trapesium, karena mempunyai sepasang sisi sejajar",
+    "pilihan": [
+      "Persegi panjang, karena sisi berhadapannya sama panjang",
+      "Persegi, karena keempat sisinya sama panjang",
+      "Jajar genjang, karena dua pasang sisi berhadapan sejajar dan sama panjang tetapi sudutnya bukan siku-siku",
+      "Trapesium, karena mempunyai sepasang sisi sejajar"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Dua pasang sisi berhadapan yang sejajar dan sama panjang adalah ciri jajar genjang dan persegi panjang. Karena tidak ada sudut siku-siku, papan itu bukan persegi panjang, melainkan jajar genjang. Trapesium hanya mempunyai tepat sepasang sisi sejajar, jadi bukan trapesium.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab C\n## Sub-bab D: Komposisi dan Dekomposisi Bangun Datar",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "C: Segi Empat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka mempunyai dua segitiga siku-siku yang sama besar. Bangun manakah yang TIDAK dapat dibentuk Raka dari kedua segitiga itu?\nA. Persegi panjang\nB. Segitiga sama kaki yang lebih besar\nC. Jajargenjang\nD. Lingkaran",
+    "pilihan": [
+      "Persegi panjang",
+      "Segitiga sama kaki yang lebih besar",
+      "Jajargenjang",
+      "Lingkaran"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Dua segitiga siku-siku yang sama besar dapat digabung menjadi persegi panjang (ditempel pada sisi miringnya), segitiga sama kaki yang lebih besar (ditempel pada sisi tegaknya), atau jajargenjang — semuanya bangun bersisi lurus. Lingkaran tidak bisa dibentuk karena sisinya lengkung, sedangkan segitiga semua sisinya lurus.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bangun Datar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina mempunyai dua segitiga siku-siku sama kaki yang sama besar. Mula-mula ia menempelkan keduanya pada sisi miringnya sehingga membentuk persegi. Lalu ia membalik satu segitiga dan menempelkannya pada salah satu sisi tegaknya. Bangun apa yang terbentuk sekarang?\nA. Tetap persegi\nB. Segitiga sama kaki yang lebih besar\nC. Lingkaran\nD. Persegi panjang yang lebih besar",
+    "pilihan": [
+      "Tetap persegi",
+      "Segitiga sama kaki yang lebih besar",
+      "Lingkaran",
+      "Persegi panjang yang lebih besar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setelah dibalik dan ditempel pada sisi tegaknya, kedua sisi miring segitiga menjadi dua sisi yang sama panjang pada bangun baru, sedangkan kedua sisi tegaknya bergabung menjadi alasnya. Jadi, bangun yang terbentuk adalah segitiga sama kaki yang lebih besar, bukan persegi lagi.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bangun Datar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi membuat sebuah persegi dari 4 segitiga siku-siku sama kaki yang kecil. Sinta membuat persegi yang sama besar dari 2 segitiga siku-siku sama kaki yang besar. Siapa yang memakai potongan lebih sedikit, dan apakah kedua cara sama-sama benar?\nA. Sinta, 2 potong; kedua cara sama-sama benar\nB. Budi, 4 potong; hanya cara Budi yang benar\nC. Budi, karena 4 lebih banyak dari 2\nD. Sinta, tetapi cara Sinta salah karena segitiganya terlalu besar",
+    "pilihan": [
+      "Sinta, 2 potong; kedua cara sama-sama benar",
+      "Budi, 4 potong; hanya cara Budi yang benar",
+      "Budi, karena 4 lebih banyak dari 2",
+      "Sinta, tetapi cara Sinta salah karena segitiganya terlalu besar"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Sinta hanya memakai 2 potong, sedangkan Budi memakai 4 potong, jadi Sinta memakai potongan lebih sedikit. Kedua cara sama-sama benar karena keduanya menghasilkan persegi — satu bangun yang sama dapat disusun dengan lebih dari satu cara.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bangun Datar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah bangun berbentuk huruf L tersusun dari dua persegi panjang. Dodi berkata bangun L itu hanya bisa dipecah dengan satu cara saja. Apakah Dodi benar?\nA. Benar, hanya ada satu cara memotong bangun L\nB. Salah; bangun L bisa dipotong mendatar menjadi dua persegi panjang, atau dipotong tegak menjadi dua persegi panjang\nC. Salah; bangun L hanya bisa dipecah menjadi segitiga-segitiga\nD. Benar, karena bangun L bukan bangun datar",
+    "pilihan": [
+      "Benar, hanya ada satu cara memotong bangun L",
+      "Salah; bangun L bisa dipotong mendatar menjadi dua persegi panjang, atau dipotong tegak menjadi dua persegi panjang",
+      "Salah; bangun L hanya bisa dipecah menjadi segitiga-segitiga",
+      "Benar, karena bangun L bukan bangun datar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Bangun L dapat didekomposisi dengan lebih dari satu cara: dipotong mendatar sehingga menjadi persegi panjang atas dan bawah, atau dipotong tegak sehingga menjadi persegi panjang kiri dan kanan. Keduanya sama-sama menghasilkan dua persegi panjang.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bangun Datar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi memotong sebuah trapesium sama kaki dengan dua garis tegak sehingga menjadi 1 persegi panjang di tengah dan 2 segitiga di kiri dan kanan. Budi berkata kedua segitiga itu adalah segitiga sama sisi. Apakah Budi benar?\nA. Benar, karena kedua segitiga itu sama besar\nB. Salah; kedua segitiga itu segitiga siku-siku karena garis potongnya tegak lurus dengan alas sehingga membentuk sudut siku-siku\nC. Benar, karena trapesium sama kaki selalu menghasilkan segitiga sama sisi\nD. Salah; yang dihasilkan adalah 2 persegi panjang dan 1 segitiga",
+    "pilihan": [
+      "Benar, karena kedua segitiga itu sama besar",
+      "Salah; kedua segitiga itu segitiga siku-siku karena garis potongnya tegak lurus dengan alas sehingga membentuk sudut siku-siku",
+      "Benar, karena trapesium sama kaki selalu menghasilkan segitiga sama sisi",
+      "Salah; yang dihasilkan adalah 2 persegi panjang dan 1 segitiga"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Garis potong yang tegak lurus dengan alas membentuk sudut 90° pada segitiga di kiri dan kanan, jadi kedua segitiga itu adalah segitiga siku-siku, bukan segitiga sama sisi. Sama besar belum tentu sama sisi.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 5, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 5: Bangun Datar",
+    "sub_bab": "D: Komposisi dan Dekomposisi Bangun Datar",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina membuat tabel jumlah buku yang dibaca siswa kelas 4 selama 4 bulan. Tabelnya sebagai berikut.\n| Bulan | Januari | Februari | Maret | April | Jumlah |\n|-------|---------|----------|-------|-------|--------|\n| Banyak buku | 12 | 15 | 9 | 14 | 45 |\n\nApakah jumlah pada tabel Dina benar?\n\nA. Benar, karena 12 + 15 + 9 + 14 = 45\nB. Salah; jumlah yang benar adalah 50\nC. Salah; jumlah yang benar adalah 48\nD. Tidak bisa ditentukan, karena datanya belum lengkap",
+    "pilihan": [
+      "Benar, karena 12 + 15 + 9 + 14 = 45",
+      "Salah; jumlah yang benar adalah 50",
+      "Salah; jumlah yang benar adalah 48",
+      "Tidak bisa ditentukan, karena datanya belum lengkap"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jumlahkan semua buku: 12 + 15 + 9 + 14 = 50. Jadi, angka 45 yang ditulis Dina pada kolom Jumlah salah — jumlah yang benar adalah 50 buku.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "A: Penyajian Data dalam Bentuk Tabel",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Tabel berikut menunjukkan data kegiatan ekstrakurikuler yang diikuti siswa kelas 4.\n| Kegiatan | Sepak Bola | Pramuka | Tari | Melukis |\n|----------|-----------|---------|------|---------|\n| Banyak siswa | 14 | 10 | 6 | 8 |\n\nKemudian, 4 siswa pindah dari Pramuka ke Tari. Bagaimana isi tabel setelah perpindahan itu, dan kegiatan mana yang paling sedikit diikuti sekarang?\n\nA. Pramuka menjadi 6 siswa dan Tari menjadi 10 siswa; yang paling sedikit diikuti sekarang adalah Pramuka\nB. Pramuka menjadi 6 siswa dan Tari menjadi 10 siswa; yang paling sedikit diikuti sekarang adalah Tari\nC. Pramuka menjadi 14 siswa dan Tari menjadi 2 siswa; yang paling sedikit diikuti sekarang adalah Tari\nD. Tabel tidak berubah, karena jumlah siswa di kelas tetap sama",
+    "pilihan": [
+      "Pramuka menjadi 6 siswa dan Tari menjadi 10 siswa; yang paling sedikit diikuti sekarang adalah Pramuka",
+      "Pramuka menjadi 6 siswa dan Tari menjadi 10 siswa; yang paling sedikit diikuti sekarang adalah Tari",
+      "Pramuka menjadi 14 siswa dan Tari menjadi 2 siswa; yang paling sedikit diikuti sekarang adalah Tari",
+      "Tabel tidak berubah, karena jumlah siswa di kelas tetap sama"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Setelah 4 siswa pindah, Pramuka tinggal 10 − 4 = 6 siswa, sedangkan Tari menjadi 6 + 4 = 10 siswa. Kegiatan lain tetap: Sepak Bola 14 dan Melukis 8. Jadi, yang paling sedikit diikuti sekarang adalah Pramuka, dengan 6 siswa.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "A: Penyajian Data dalam Bentuk Tabel",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dua anak menyajikan data buah kesukaan 30 siswa kelas 4 dalam bentuk tabel.\nTabel Rani:\n\n| Buah Kesukaan | Mangga | Pisang | Apel | Jeruk |\n|---------------|--------|--------|------|-------|\n| Banyak Siswa | 12 | 8 | 6 | 4 |\n\nTabel Budi:\n\n| Buah | Banyak |\n|------|--------|\n| Apel | 6 |\n| Jeruk | 4 |\n| Mangga | 12 |\n| Pisang | 8 |\n\nTabel mana yang lebih mudah dibaca, dan mengapa?\n\nA. Tabel Rani, karena datanya diurutkan dari yang paling banyak ke yang paling sedikit sehingga yang paling disukai langsung terlihat\nB. Tabel Budi, karena tabelnya lebih pendek dan lebih sedikit kolomnya\nC. Keduanya sama mudah dibaca, karena isinya sama\nD. Tabel Budi, karena nama buahnya disusun menurut abjad",
+    "pilihan": [
+      "Tabel Rani, karena datanya diurutkan dari yang paling banyak ke yang paling sedikit sehingga yang paling disukai langsung terlihat",
+      "Tabel Budi, karena tabelnya lebih pendek dan lebih sedikit kolomnya",
+      "Keduanya sama mudah dibaca, karena isinya sama",
+      "Tabel Budi, karena nama buahnya disusun menurut abjad"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Isi kedua tabel sama, tetapi tabel Rani mengurutkan data dari yang paling banyak (Mangga 12) ke yang paling sedikit (Jeruk 4), sehingga pembaca langsung tahu buah yang paling disukai tanpa harus membandingkan satu per satu. Tabel Budi datanya acak, jadi pembaca harus memeriksa semua baris dulu.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "A: Penyajian Data dalam Bentuk Tabel",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Guru bertanya kepada 15 siswa tentang warna kesukaan mereka. Jawabannya sebagai berikut.\nMerah, Biru, Merah, Hijau, Biru, Biru, Merah, Kuning, Hijau, Biru, Merah, Kuning, Biru, Hijau, Merah\n\nTabel manakah yang menyajikan data itu dengan benar?\n\nA. Merah 5, Biru 5, Hijau 3, Kuning 2\nB. Merah 4, Biru 6, Hijau 3, Kuning 2\nC. Merah 5, Biru 4, Hijau 4, Kuning 2\nD. Merah 6, Biru 5, Hijau 2, Kuning 2",
+    "pilihan": [
+      "Merah 5, Biru 5, Hijau 3, Kuning 2",
+      "Merah 4, Biru 6, Hijau 3, Kuning 2",
+      "Merah 5, Biru 4, Hijau 4, Kuning 2",
+      "Merah 6, Biru 5, Hijau 2, Kuning 2"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Hitung jawaban yang sama: Merah muncul 5 kali, Biru 5 kali, Hijau 3 kali, dan Kuning 2 kali. Jumlahnya 5 + 5 + 3 + 2 = 15, sama dengan banyak siswa yang ditanya. Jadi, tabel yang benar adalah tabel A.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "A: Penyajian Data dalam Bentuk Tabel",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Tabel berikut menunjukkan banyak pengunjung perpustakaan sekolah dalam satu minggu.\n| Hari | Senin | Selasa | Rabu | Kamis | Jumat |\n|------|-------|--------|------|-------|-------|\n| Banyak pengunjung | 12 | 18 | 15 | 20 | 10 |\n\nPada hari apa pengunjung perpustakaan paling banyak, dan berapa selisihnya dengan hari yang pengunjungnya paling sedikit?\n\nA. Kamis; selisihnya 10 pengunjung\nB. Selasa; selisihnya 8 pengunjung\nC. Kamis; selisihnya 5 pengunjung\nD. Rabu; selisihnya 10 pengunjung",
+    "pilihan": [
+      "Kamis; selisihnya 10 pengunjung",
+      "Selasa; selisihnya 8 pengunjung",
+      "Kamis; selisihnya 5 pengunjung",
+      "Rabu; selisihnya 10 pengunjung"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pengunjung paling banyak pada hari Kamis, yaitu 20 orang, dan paling sedikit pada hari Jumat, yaitu 10 orang. Selisihnya 20 − 10 = 10 pengunjung.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab A\n## Sub-bab B: Penyajian Data dalam Bentuk Piktogram (Diagram Gambar)",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "A: Penyajian Data dalam Bentuk Tabel",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah piktogram menunjukkan buah yang terjual di toko Pak Budi. Keterangan di bawah piktogram: 1 gambar buah mewakili 5 buah. Gambar apel ada 4, gambar jeruk ada 6. Dina berkata, \"Apel yang terjual ada 4 buah.\" Apakah perkataan Dina benar?\nA. Benar, karena gambar apel ada 4\nB. Salah; apel yang terjual adalah 4 × 5 = 20 buah\nC. Salah; apel yang terjual adalah 4 + 5 = 9 buah\nD. Benar, karena kunci piktogram adalah 5 buah",
+    "pilihan": [
+      "Benar, karena gambar apel ada 4",
+      "Salah; apel yang terjual adalah 4 × 5 = 20 buah",
+      "Salah; apel yang terjual adalah 4 + 5 = 9 buah",
+      "Benar, karena kunci piktogram adalah 5 buah"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Dina lupa mengalikan dengan kunci piktogram. Satu gambar mewakili 5 buah, jadi 4 gambar apel berarti 4 × 5 = 20 buah apel yang terjual, bukan 4 buah.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "B: Penyajian Data dalam Bentuk Piktogram (Diagram Gambar)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Piktogram di perpustakaan menunjukkan buku yang dibaca siswa: hari Senin ada 6 gambar buku, hari Selasa ada 4 gambar buku. Kuncinya: 1 gambar mewakili 5 buku. Jika kunci itu diubah menjadi 1 gambar mewakili 10 buku, berapa buku yang dibaca pada hari Senin, dan bagaimana perubahannya?\nA. 30 buku, tetap sama seperti semula\nB. 35 buku, bertambah 5 buku\nC. 60 buku, dua kali lipat dari semula\nD. 50 buku, bertambah 20 buku",
+    "pilihan": [
+      "30 buku, tetap sama seperti semula",
+      "35 buku, bertambah 5 buku",
+      "60 buku, dua kali lipat dari semula",
+      "50 buku, bertambah 20 buku"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Dengan kunci baru, buku hari Senin menjadi 6 × 10 = 60 buku. Semula hanya 6 × 5 = 30 buku, jadi jumlahnya menjadi dua kali lipat — menggandakan nilai kunci menggandakan semua jumlah yang dibaca dari piktogram.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "B: Penyajian Data dalam Bentuk Piktogram (Diagram Gambar)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Piktogram kue yang terjual di kantin menunjukkan: kue cokelat 5 gambar penuh, kue keju 3 gambar penuh ditambah 1 setengah gambar. Kuncinya: 1 gambar mewakili 4 kue. Berapa kue keju yang terjual, dan berapa selisihnya dengan kue cokelat?\nA. 14 kue; selisihnya 6 kue dari kue cokelat\nB. 12 kue; selisihnya 8 kue dari kue cokelat\nC. 16 kue; selisihnya 4 kue dari kue cokelat\nD. 13 kue; selisihnya 7 kue dari kue cokelat",
+    "pilihan": [
+      "14 kue; selisihnya 6 kue dari kue cokelat",
+      "12 kue; selisihnya 8 kue dari kue cokelat",
+      "16 kue; selisihnya 4 kue dari kue cokelat",
+      "13 kue; selisihnya 7 kue dari kue cokelat"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Setengah gambar mewakili setengah dari 4, yaitu 2 kue. Jadi kue keju = 3 × 4 + 2 = 14 kue. Kue cokelat = 5 × 4 = 20 kue. Selisihnya 20 − 14 = 6 kue.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "B: Penyajian Data dalam Bentuk Piktogram (Diagram Gambar)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Piktogram olahraga favorit siswa kelas 4 menunjukkan: sepak bola 6 gambar, bulu tangkis 4 gambar, renang 2 gambar. Kuncinya: 1 gambar mewakili 2 siswa. Raka berkata, \"Siswa yang suka sepak bola jumlahnya sama dengan siswa yang suka bulu tangkis dan renang digabung.\" Apakah perkataan Raka benar?\nA. Salah; sepak bola lebih sedikit dari gabungan keduanya\nB. Salah; gabungan bulu tangkis dan renang lebih banyak\nC. Tidak bisa ditentukan dari piktogram ini\nD. Benar; sepak bola 12 siswa, gabungan bulu tangkis dan renang juga 12 siswa",
+    "pilihan": [
+      "Salah; sepak bola lebih sedikit dari gabungan keduanya",
+      "Salah; gabungan bulu tangkis dan renang lebih banyak",
+      "Tidak bisa ditentukan dari piktogram ini",
+      "Benar; sepak bola 12 siswa, gabungan bulu tangkis dan renang juga 12 siswa"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Sepak bola = 6 × 2 = 12 siswa. Bulu tangkis = 4 × 2 = 8 siswa dan renang = 2 × 2 = 4 siswa, jadi gabungannya 8 + 4 = 12 siswa. Jumlahnya sama, jadi perkataan Raka benar.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "B: Penyajian Data dalam Bentuk Piktogram (Diagram Gambar)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Piktogram hewan peliharaan siswa menunjukkan gambar kucing sebanyak 5 gambar. Kuncinya: 1 gambar mewakili 2 hewan. Berapa ekor kucing peliharaan siswa itu?\nA. 5 ekor\nB. 10 ekor\nC. 7 ekor\nD. 3 ekor",
+    "pilihan": [
+      "5 ekor",
+      "10 ekor",
+      "7 ekor",
+      "3 ekor"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Satu gambar mewakili 2 hewan, jadi 5 gambar kucing berarti 5 × 2 = 10 ekor kucing.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab B\n## Sub-bab C: Penyajian Data dalam Bentuk Diagram Batang",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "B: Penyajian Data dalam Bentuk Piktogram (Diagram Gambar)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina membuat diagram batang \"Buah Kesukaan Siswa Kelas 4\". Datanya: Apel 14 siswa, Anggur 9 siswa, Melon 11 siswa. Tetapi pada diagram Dina, batang Apel digambar lebih pendek daripada batang Anggur. Apa yang salah dari diagram Dina, dan mengapa diagram seperti itu bisa menyesatkan?\nA. Tidak ada yang salah; tinggi batang boleh bebas asalkan warnanya berbeda\nB. Salah; tinggi batang harus sesuai dengan nilainya — batang Apel yang 14 siswa harus lebih tinggi dari batang Anggur yang 9 siswa, kalau tidak pembaca mengira Anggur lebih disukai dari Apel\nC. Salah; batang harus digambar dengan warna yang sama semua\nD. Tidak ada yang salah; yang penting angkanya ditulis di bawah batang",
+    "pilihan": [
+      "Tidak ada yang salah; tinggi batang boleh bebas asalkan warnanya berbeda",
+      "Salah; tinggi batang harus sesuai dengan nilainya — batang Apel yang 14 siswa harus lebih tinggi dari batang Anggur yang 9 siswa, kalau tidak pembaca mengira Anggur lebih disukai dari Apel",
+      "Salah; batang harus digambar dengan warna yang sama semua",
+      "Tidak ada yang salah; yang penting angkanya ditulis di bawah batang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pada diagram batang, tinggi batang harus sesuai dengan nilainya: batang yang nilainya lebih besar harus lebih tinggi. Batang Apel (14 siswa) digambar lebih pendek dari batang Anggur (9 siswa), sehingga pembaca bisa salah mengira Anggur lebih disukai daripada Apel.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "C: Penyajian Data dalam Bentuk Diagram Batang",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang pengunjung perpustakaan menunjukkan data: Senin 20 orang, Selasa 28 orang, Rabu 16 orang, Kamis 32 orang, Jumat 38 orang. Hari Jumat adalah hari tersibuk. Lalu pada hari Sabtu datang 45 pengunjung. Apa yang terjadi dengan kesimpulan \"Jumat hari tersibuk\" itu?\nA. Tetap benar, karena Jumat selalu menjadi hari tersibuk\nB. Menjadi salah; hari tersibuk sekarang adalah Sabtu dengan 45 pengunjung, lebih banyak dari Jumat yang 38 pengunjung\nC. Tetap benar, karena Sabtu bukan hari sekolah\nD. Menjadi salah; hari tersibuk sekarang adalah Rabu dengan 16 pengunjung",
+    "pilihan": [
+      "Tetap benar, karena Jumat selalu menjadi hari tersibuk",
+      "Menjadi salah; hari tersibuk sekarang adalah Sabtu dengan 45 pengunjung, lebih banyak dari Jumat yang 38 pengunjung",
+      "Tetap benar, karena Sabtu bukan hari sekolah",
+      "Menjadi salah; hari tersibuk sekarang adalah Rabu dengan 16 pengunjung"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setelah data Sabtu masuk, batang tertinggi bukan lagi Jumat (38 orang) melainkan Sabtu (45 orang). Kesimpulan dari diagram bisa berubah kalau ada data baru, jadi \"Jumat hari tersibuk\" tidak lagi benar.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "C: Penyajian Data dalam Bentuk Diagram Batang",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Data hewan peliharaan siswa kelas 4 adalah: kelinci 12 ekor, hamster 8 ekor, burung 6 ekor, ikan 10 ekor. Data yang sama disajikan dua cara: diagram batang dan piktogram (1 gambar mewakili 2 ekor hewan). Dina ingin cepat tahu selisih banyak kelinci dan burung. Cara penyajian mana yang lebih mudah dipakai Dina, dan mengapa?\nA. Piktogram, karena gambar hewan lebih menarik dilihat\nB. Diagram batang, karena nilai tiap kategori terbaca langsung dari tinggi batangnya tanpa harus menghitung gambar\nC. Piktogram, karena selisihnya langsung terlihat dari banyak gambarnya\nD. Keduanya sama sulitnya, karena datanya sama",
+    "pilihan": [
+      "Piktogram, karena gambar hewan lebih menarik dilihat",
+      "Diagram batang, karena nilai tiap kategori terbaca langsung dari tinggi batangnya tanpa harus menghitung gambar",
+      "Piktogram, karena selisihnya langsung terlihat dari banyak gambarnya",
+      "Keduanya sama sulitnya, karena datanya sama"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Selisih kelinci dan burung adalah 12 − 6 = 6 ekor. Pada diagram batang, nilai 12 dan 6 terbaca langsung dari tinggi batangnya. Pada piktogram, Dina harus menghitung dulu gambarnya (kelinci 6 gambar, burung 3 gambar) lalu mengalikan dengan 2, jadi lebih lama.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "C: Penyajian Data dalam Bentuk Diagram Batang",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang penjualan jus di kantin menunjukkan data: Senin 10 gelas, Selasa 14 gelas, Rabu 12 gelas, Kamis 18 gelas, Jumat 22 gelas. Kesimpulan manakah yang benar dari diagram itu?\nA. Penjualan jus turun terus dari Senin sampai Jumat\nB. Penjualan jus paling tinggi pada hari Jumat dan cenderung naik menjelang akhir pekan\nC. Penjualan jus paling tinggi pada hari Rabu\nD. Penjualan jus hari Senin sama banyak dengan hari Jumat",
+    "pilihan": [
+      "Penjualan jus turun terus dari Senin sampai Jumat",
+      "Penjualan jus paling tinggi pada hari Jumat dan cenderung naik menjelang akhir pekan",
+      "Penjualan jus paling tinggi pada hari Rabu",
+      "Penjualan jus hari Senin sama banyak dengan hari Jumat"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Batang tertinggi adalah Jumat dengan 22 gelas, dan penjualan cenderung naik dari Senin (10) menuju Jumat (22), walaupun sempat turun sedikit pada hari Rabu (12). Jadi, jus paling laris pada hari Jumat dan penjualannya naik menjelang akhir pekan.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "C: Penyajian Data dalam Bentuk Diagram Batang",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang lomba olahraga menunjukkan data: Lari 18 siswa, Basket 12 siswa, Sepak Bola 15 siswa, Voli 9 siswa. Berapa jumlah siswa yang mengikuti lomba Lari dan Voli jika digabung?\nA. 27 siswa\nB. 30 siswa\nC. 24 siswa\nD. 21 siswa",
+    "pilihan": [
+      "27 siswa",
+      "30 siswa",
+      "24 siswa",
+      "21 siswa"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Jumlah siswa lomba Lari dan Voli adalah 18 + 9 = 27 siswa.",
+    "rujukan": "Matematika Erlangga Kelas 4, Bab 6, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "mtk",
+    "bab": "Bab 6: Piktogram dan Diagram Batang",
+    "sub_bab": "C: Penyajian Data dalam Bentuk Diagram Batang",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  }
+]

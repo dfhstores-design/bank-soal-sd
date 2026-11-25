@@ -1,0 +1,1502 @@
+[
+  {
+    "pertanyaan": "Read the dialogue.\nRina: \"Hello! My name is Rina. Where are you from?\"\nBudi: \"____\"\n\nWhich is the best answer for Budi?\n\nA. \"I'm from Yogyakarta.\"\nB. \"I'm fine, thank you.\"\nC. \"My name is Rina.\"\nD. \"I'm nine years old.\"",
+    "pilihan": [
+      "\"I'm from Yogyakarta.\"",
+      "\"I'm fine, thank you.\"",
+      "\"My name is Rina.\"",
+      "\"I'm nine years old.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pertanyaan \"Where are you from?\" menanyakan asal atau tempat tinggal, jadi dijawab dengan \"I'm from + nama tempat\", misalnya \"I'm from Yogyakarta\". Pilihan B menjawab kabar, C mengulang nama, D menjawab umur — ketiganya tidak menjawab pertanyaan tentang asal.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 1: Where Are You From?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 1: Where Are You From?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"I'm from Indonesian.\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say \"I'm from Indonesia.\" \"Indonesian\" is for nationality, not after \"from\".\nC. He should say \"I from Indonesia.\"\nD. He should say \"I'm Indonesian from.\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say \"I'm from Indonesia.\" \"Indonesian\" is for nationality, not after \"from\".",
+      "He should say \"I from Indonesia.\"",
+      "He should say \"I'm Indonesian from.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setelah kata \"from\" harus memakai nama tempat, yaitu \"Indonesia\" (nama negara). Kata \"Indonesian\" adalah kata kebangsaan, dipakai tanpa \"from\": \"I'm Indonesian.\" Jadi kalimat Dodi yang benar adalah \"I'm from Indonesia.\" atau \"I'm Indonesian.\"",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 1: Where Are You From?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 1: Where Are You From?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read the two introductions.\nSinta: \"Hello, I'm Sinta. I'm from Medan.\"\nBudi: \"Hello, I'm Budi. I'm Medan.\"\n\nWho introduces himself/herself correctly?\n\nA. Budi, because his sentence is shorter.\nB. Sinta, because she says \"I'm from Medan.\"\nC. Both are correct.\nD. Budi, because \"I'm Medan\" is correct.",
+    "pilihan": [
+      "Budi, because his sentence is shorter.",
+      "Sinta, because she says \"I'm from Medan.\"",
+      "Both are correct.",
+      "Budi, because \"I'm Medan\" is correct."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sinta benar karena memakai pola lengkap \"I'm from + nama tempat\" (\"I'm from Medan\"). Budi salah karena \"I'm Medan\" tidak memakai kata \"from\" — kalimat itu tidak menjelaskan dari mana ia berasal.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 1: Where Are You From?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 1: Where Are You From?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "A new friend from Japan says hello to you. Which sentence is correct for him to say about where he is from?\nA. \"I'm from Japan.\"\nB. \"I from Japan.\"\nC. \"I'm Japan.\"\nD. \"From Japan I am.\"",
+    "pilihan": [
+      "\"I'm from Japan.\"",
+      "\"I from Japan.\"",
+      "\"I'm Japan.\"",
+      "\"From Japan I am.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pola yang benar adalah \"I'm from + nama negara\": \"I'm from Japan.\" Pilihan B kehilangan kata \"am\", pilihan C memakai nama negara \"Japan\" sebagai kebangsaan (yang benar \"Japanese\"), dan pilihan D susunan katanya salah.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 1: Where Are You From?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 1: Where Are You From?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani lives in Surabaya. Surabaya is a city in ____.\nA. Japan\nB. Indonesia\nC. Australia\nD. Singapore",
+    "pilihan": [
+      "Japan",
+      "Indonesia",
+      "Australia",
+      "Singapore"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Surabaya adalah kota di Indonesia. Japan, Australia, dan Singapore adalah negara lain, bukan tempat Surabaya berada.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 1: Where Are You From?\n## Unit 2: What's Your Brother Like?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 1: Where Are You From?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani's brother always tells jokes. He makes everyone laugh. What is he like?\nA. He is sad.\nB. He is funny.\nC. He is angry.\nD. He is shy.",
+    "pilihan": [
+      "He is sad.",
+      "He is funny.",
+      "He is angry.",
+      "He is shy."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Seseorang yang selalu bercanda dan membuat orang lain tertawa disebut \"funny\" (lucu). \"Sad\" artinya sedih, \"angry\" artinya marah, dan \"shy\" artinya pemalu — ketiganya tidak cocok dengan perilaku kakak Rani.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 2: What's Your Brother Like?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 2: What's Your Brother Like?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "My brother is strong. He can lift a big box. My sister is smart. She always gets 100 in English. Who can lift a big box?\nA. My sister, because she is smart.\nB. My brother, because he is strong.\nC. My sister, because she gets 100 in English.\nD. My brother, because he is smart.",
+    "pilihan": [
+      "My sister, because she is smart.",
+      "My brother, because he is strong.",
+      "My sister, because she gets 100 in English.",
+      "My brother, because he is smart."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "\"Strong\" (kuat) adalah sifat yang dibutuhkan untuk mengangkat kotak besar, jadi yang bisa mengangkat kotak itu adalah kakak laki-laki (brother). Pintar (smart) dan mendapat nilai 100 tidak ada hubungannya dengan mengangkat benda berat.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 2: What's Your Brother Like?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 2: What's Your Brother Like?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka says, \"My sister is short and tall at the same time.\" What is wrong with his sentence?\nA. Nothing is wrong. A person can be short and tall.\nB. \"Short\" and \"tall\" are opposites. A person cannot be short and tall at the same time.\nC. \"Sister\" is the wrong word. He should say \"brother\".\nD. \"Short\" is the wrong word. He should say \"small\".",
+    "pilihan": [
+      "Nothing is wrong. A person can be short and tall.",
+      "\"Short\" and \"tall\" are opposites. A person cannot be short and tall at the same time.",
+      "\"Sister\" is the wrong word. He should say \"brother\".",
+      "\"Short\" is the wrong word. He should say \"small\"."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "\"Short\" (pendek) dan \"tall\" (tinggi) adalah kata yang berlawanan artinya (opposites). Seseorang tidak mungkin pendek dan tinggi pada saat yang sama, jadi kalimat Raka salah.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 2: What's Your Brother Like?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 2: What's Your Brother Like?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Your friend always helps other people. She shares her food with her classmates. What is she like?\nA. She is kind.\nB. She is lazy.\nC. She is rude.\nD. She is sad.",
+    "pilihan": [
+      "She is kind.",
+      "She is lazy.",
+      "She is rude.",
+      "She is sad."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Seseorang yang selalu menolong orang lain dan berbagi makanan disebut \"kind\" (baik hati). \"Lazy\" artinya malas, \"rude\" artinya kasar, dan \"sad\" artinya sedih — ketiganya bertentangan dengan perilaku teman itu.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 2: What's Your Brother Like?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 2: What's Your Brother Like?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "What is the opposite of \"tall\"?\nA. Big\nB. Strong\nC. Short\nD. Smart",
+    "pilihan": [
+      "Big",
+      "Strong",
+      "Short",
+      "Smart"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Lawan kata (opposite) dari \"tall\" (tinggi) adalah \"short\" (pendek). \"Big\" artinya besar, \"strong\" artinya kuat, dan \"smart\" artinya pintar — ketiganya bukan lawan kata dari \"tall\".",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 2: What's Your Brother Like?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 1-2: Unit 1-2",
+    "sub_bab": "Unit 2: What's Your Brother Like?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read the dialogue.\nRina: \"Do you like listening to jazz or pop?\"\nDina: \"____\"\n\nWhich is the best answer for Dina? She likes jazz music.\n\nA. \"I'm from Jakarta.\"\nB. \"I am nine years old.\"\nC. \"I like jazz.\"\nD. \"I like reading books.\"",
+    "pilihan": [
+      "\"I'm from Jakarta.\"",
+      "\"I am nine years old.\"",
+      "\"I like jazz.\"",
+      "\"I like reading books.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pertanyaan \"Do you like listening to jazz or pop?\" menanyakan kesukaan terhadap musik, dan Dina suka jazz. Jawaban yang tepat adalah \"I like jazz.\" Pilihan A menjawab asal, B menjawab umur, dan D menjawab kesukaan lain (membaca buku) — ketiganya tidak menjawab pertanyaan tentang jazz atau pop.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 3: Do You Like Listening to Jazz or Pop?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 3: Do You Like Listening to Jazz or Pop?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka says, \"She don't like listening to rock music.\" What is wrong with his sentence?\nA. \"like\" should be \"likes\", because the subject is \"she\"\nB. \"listening\" should be \"listen\", because we cannot use verb-ing after \"like\"\nC. Nothing is wrong. The sentence is correct.\nD. \"don't\" should be \"doesn't\", because the subject is \"she\"",
+    "pilihan": [
+      "\"like\" should be \"likes\", because the subject is \"she\"",
+      "\"listening\" should be \"listen\", because we cannot use verb-ing after \"like\"",
+      "Nothing is wrong. The sentence is correct.",
+      "\"don't\" should be \"doesn't\", because the subject is \"she\""
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Untuk subjek \"she\", bentuk negatif yang benar adalah \"doesn't\" (does not), bukan \"don't\". Kalimat yang benar: \"She doesn't like listening to rock music.\" Kata \"like\" tetap bentuk dasar setelah \"doesn't\", dan \"listening\" tetap memakai verb-ing setelah \"like\" — jadi pilihan A dan B salah.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 3: Do You Like Listening to Jazz or Pop?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 3: Do You Like Listening to Jazz or Pop?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi says, \"I like listening to jazz.\" Sinta says, \"I like listening to pop.\" Who likes jazz?\nA. Sinta\nB. Budi\nC. Both of them\nD. Nobody",
+    "pilihan": [
+      "Sinta",
+      "Budi",
+      "Both of them",
+      "Nobody"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Budi berkata ia suka mendengarkan jazz, sedangkan Sinta berkata ia suka mendengarkan pop. Jadi, yang suka jazz adalah Budi, bukan Sinta.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 3: Do You Like Listening to Jazz or Pop?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 3: Do You Like Listening to Jazz or Pop?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani sings pop songs every day. She listens to pop music at home and at school. What does Rani like?\nA. Listening to jazz\nB. Listening to pop\nC. Listening to rock\nD. Listening to dangdut",
+    "pilihan": [
+      "Listening to jazz",
+      "Listening to pop",
+      "Listening to rock",
+      "Listening to dangdut"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rani menyanyikan lagu pop setiap hari dan selalu mendengarkan musik pop di rumah dan di sekolah. Perilakunya menunjukkan bahwa ia suka mendengarkan pop, bukan jazz, rock, atau dangdut.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 3: Do You Like Listening to Jazz or Pop?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 3: Do You Like Listening to Jazz or Pop?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Which one is a kind of music?\nA. Book\nB. Ball\nC. Table\nD. Jazz",
+    "pilihan": [
+      "Book",
+      "Ball",
+      "Table",
+      "Jazz"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Jazz adalah salah satu genre musik, seperti pop, rock, dan dangdut. \"Book\" (buku), \"ball\" (bola), dan \"table\" (meja) bukan jenis musik.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 3: Do You Like Listening to Jazz or Pop?\n## Unit 4: Did You Have a Good Time?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 3: Do You Like Listening to Jazz or Pop?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read the dialogue.\nRina: \"Did you have a good time at the zoo yesterday?\"\nBudi: \"____\"\n\nWhich is the best answer for Budi?\n\nA. \"Yes, I do. I like the zoo.\"\nB. \"No, I don't. I don't like the zoo.\"\nC. \"Yes, I did. I saw the elephants and I was very happy.\"\nD. \"Yes, I am. I am happy.\"",
+    "pilihan": [
+      "\"Yes, I do. I like the zoo.\"",
+      "\"No, I don't. I don't like the zoo.\"",
+      "\"Yes, I did. I saw the elephants and I was very happy.\"",
+      "\"Yes, I am. I am happy.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pertanyaan \"Did you have a good time ... yesterday?\" menanyakan pengalaman di masa lalu, jadi jawabannya memakai bentuk past: \"Yes, I did\" atau \"No, I didn't\". Pilihan C benar karena memakai \"Yes, I did\" dan menjelaskan pengalamannya kemarin. Pilihan A dan B memakai \"do/don't\" (bentuk sekarang), sedangkan D memakai \"am\" — ketiganya tidak cocok untuk pertanyaan tentang kemarin.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 4: Did You Have a Good Time?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 4: Did You Have a Good Time?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"I didn't went to the zoo last Sunday.\" What is wrong with his sentence?\nA. He should say \"I didn't go to the zoo last Sunday\", because after \"didn't\" the verb is in the base form, not the past form.\nB. Nothing is wrong. The sentence is correct.\nC. He should say \"I don't went to the zoo last Sunday.\"\nD. He should say \"I didn't going to the zoo last Sunday.\"",
+    "pilihan": [
+      "He should say \"I didn't go to the zoo last Sunday\", because after \"didn't\" the verb is in the base form, not the past form.",
+      "Nothing is wrong. The sentence is correct.",
+      "He should say \"I don't went to the zoo last Sunday.\"",
+      "He should say \"I didn't going to the zoo last Sunday.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Setelah kata \"didn't\", kata kerja harus memakai bentuk dasar (base form), bukan bentuk past. \"Went\" adalah bentuk past dari \"go\", jadi \"didn't went\" salah. Kalimat yang benar adalah \"I didn't go to the zoo last Sunday.\"",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 4: Did You Have a Good Time?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 4: Did You Have a Good Time?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Last Sunday, Rani went to the beach. She swam and played with her friends. Budi stayed at home. He watched TV all day. Who had a good time at the beach?\nA. Budi, because he watched TV all day.\nB. Rani, because she went to the beach and played with her friends.\nC. Budi, because he stayed at home.\nD. Nobody, because they stayed at home.",
+    "pilihan": [
+      "Budi, because he watched TV all day.",
+      "Rani, because she went to the beach and played with her friends.",
+      "Budi, because he stayed at home.",
+      "Nobody, because they stayed at home."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rani pergi ke pantai (went to the beach), berenang, dan bermain dengan teman-temannya. Budi tinggal di rumah dan menonton TV. Jadi yang bersenang-senang di pantai adalah Rani, bukan Budi.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 4: Did You Have a Good Time?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 4: Did You Have a Good Time?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Last week, Sinta and her family ____ her grandmother in the village. They had a good time together.\nWhich verb is correct to complete the sentence?\n\nA. visit\nB. visiting\nC. visits\nD. visited",
+    "pilihan": [
+      "visit",
+      "visiting",
+      "visits",
+      "visited"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Kalimat ini bercerita tentang minggu lalu (\"last week\"), jadi kata kerjanya harus bentuk past. Bentuk past dari \"visit\" adalah \"visited\". Pilihan A \"visit\" dan C \"visits\" adalah bentuk sekarang, sedangkan B \"visiting\" dipakai untuk kalimat yang sedang berlangsung, bukan untuk cerita minggu lalu.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 4: Did You Have a Good Time?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 4: Did You Have a Good Time?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "What is the past form of \"go\"?\nA. Goes\nB. Going\nC. Went\nD. Gone to school",
+    "pilihan": [
+      "Goes",
+      "Going",
+      "Went",
+      "Gone to school"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "\"Go\" adalah kata kerja tak beraturan (irregular verb). Bentuk past-nya adalah \"went\", misalnya \"I went to school yesterday.\" \"Goes\" adalah bentuk sekarang untuk he/she/it, \"going\" dipakai untuk kalimat sedang berlangsung, dan \"gone to school\" bukan bentuk past yang tepat di sini.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 4: Did You Have a Good Time?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 3-4: Unit 3-4",
+    "sub_bab": "Unit 4: Did You Have a Good Time?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read the dialogue.\nTeacher: \"What subject do you like the most, Sinta?\"\nSinta: \"____\"\n\nWhich is the best answer for Sinta?\n\nA. \"I like Math the most.\"\nB. \"I like Math very much yesterday.\"\nC. \"Math is my teacher.\"\nD. \"I like the most Math.\"",
+    "pilihan": [
+      "\"I like Math the most.\"",
+      "\"I like Math very much yesterday.\"",
+      "\"Math is my teacher.\"",
+      "\"I like the most Math.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pertanyaan \"What subject do you like the most?\" menanyakan mata pelajaran yang paling disukai, jadi dijawab dengan pola \"I like + nama mata pelajaran + the most\", misalnya \"I like Math the most.\" Pilihan D susunan katanya salah, B memakai keterangan waktu yang tidak cocok, dan C menjawab hal yang lain.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 5: What Subject Do You Like the Most?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Unit 5: What Subject Do You Like the Most?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"I like the most English.\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. \"English\" is not a school subject.\nC. The words are in the wrong order. He should say, \"I like English the most.\"\nD. He should say, \"I like the most in English.\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "\"English\" is not a school subject.",
+      "The words are in the wrong order. He should say, \"I like English the most.\"",
+      "He should say, \"I like the most in English.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pola yang benar adalah \"I like + nama mata pelajaran + the most\". Kata \"the most\" diletakkan di akhir kalimat, bukan di tengah. Jadi kalimat Dodi yang benar adalah \"I like English the most.\"",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 5: What Subject Do You Like the Most?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Unit 5: What Subject Do You Like the Most?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani says, \"I like Art the most. I like Science, too, but not as much as Art.\" Budi says, \"I like Science the most.\" Who likes Art the most?\nA. Budi, because he likes Science the most.\nB. Rani, because she likes Art the most.\nC. Both, because they both like Art.\nD. Nobody, because Art is not a school subject.",
+    "pilihan": [
+      "Budi, because he likes Science the most.",
+      "Rani, because she likes Art the most.",
+      "Both, because they both like Art.",
+      "Nobody, because Art is not a school subject."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rani berkata \"I like Art the most\" — Art adalah mata pelajaran yang paling ia sukai, walaupun ia juga suka Science. Budi paling suka Science, bukan Art. Jadi yang paling suka Art adalah Rani.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 5: What Subject Do You Like the Most?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Unit 5: What Subject Do You Like the Most?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "A new friend asks you, \"What subject do you like the most?\" You love drawing and painting in Art class. Which sentence is correct for you?\nA. \"I like Art the most.\"\nB. \"I like the Art most.\"\nC. \"Art likes me the most.\"\nD. \"I most like the Art.\"",
+    "pilihan": [
+      "\"I like Art the most.\"",
+      "\"I like the Art most.\"",
+      "\"Art likes me the most.\"",
+      "\"I most like the Art.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Jawaban yang benar memakai pola \"I like + Art + the most\". Pilihan B menghilangkan \"the\", pilihan C membalik subjeknya (Art yang menyukai), dan pilihan D susunan katanya salah.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 5: What Subject Do You Like the Most?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Unit 5: What Subject Do You Like the Most?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Which one is a school subject?\nA. Ball\nB. Shoes\nC. Math\nD. Bicycle",
+    "pilihan": [
+      "Ball",
+      "Shoes",
+      "Math",
+      "Bicycle"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "\"Math\" (Matematika) adalah mata pelajaran di sekolah. \"Ball\" (bola), \"Shoes\" (sepatu), dan \"Bicycle\" (sepeda) adalah benda, bukan mata pelajaran.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 5: What Subject Do You Like the Most?\n## Review 1 (Unit 1-4)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Unit 5: What Subject Do You Like the Most?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read the dialogue.\nRudi: \"Hello! My name is Rudi. Where are you from?\"\nSari: \"____\"\n\nWhich is the best answer for Sari? Sari is from Bandung.\n\nA. \"I'm from Bandung.\"\nB. \"I'm nine years old.\"\nC. \"My name is Rudi.\"\nD. \"I like listening to pop.\"",
+    "pilihan": [
+      "\"I'm from Bandung.\"",
+      "\"I'm nine years old.\"",
+      "\"My name is Rudi.\"",
+      "\"I like listening to pop.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pertanyaan \"Where are you from?\" menanyakan asal, jadi dijawab dengan \"I'm from + nama tempat\" — \"I'm from Bandung\" (materi Unit 1). Pilihan B menjawab umur, C mengulang nama Rudi, dan D menjawab kesukaan — ketiganya tidak menjawab pertanyaan tentang asal.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 1 (Unit 1–4)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Review 1 (Unit 1-4)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "My father is tall and strong. My mother is short and kind. Who is tall and strong?\nA. My mother, because she is short and kind.\nB. My father, because he is tall and strong.\nC. Both of them, because they are my parents.\nD. Nobody, because they are short.",
+    "pilihan": [
+      "My mother, because she is short and kind.",
+      "My father, because he is tall and strong.",
+      "Both of them, because they are my parents.",
+      "Nobody, because they are short."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Ayah dideskripsikan \"tall and strong\" (tinggi dan kuat), sedangkan ibu \"short and kind\" (pendek dan baik hati). Jadi yang tinggi dan kuat adalah ayah (materi Unit 2 — mendeskripsikan orang). Pilihan A tertukar dengan deskripsi ibu, C salah karena deskripsi keduanya berbeda, dan D salah karena ayah justru tinggi.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 1 (Unit 1–4)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Review 1 (Unit 1-4)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina says, \"They likes listening to jazz.\" What is wrong with her sentence?\nA. \"likes\" should be \"like\", because the subject is \"they\"\nB. \"listening\" should be \"listen\", because we cannot use verb-ing after \"like\"\nC. Nothing is wrong. The sentence is correct.\nD. \"jazz\" should be \"pop\", because jazz is not a kind of music",
+    "pilihan": [
+      "\"likes\" should be \"like\", because the subject is \"they\"",
+      "\"listening\" should be \"listen\", because we cannot use verb-ing after \"like\"",
+      "Nothing is wrong. The sentence is correct.",
+      "\"jazz\" should be \"pop\", because jazz is not a kind of music"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Untuk subjek \"they\", kata kerjanya memakai bentuk dasar \"like\", bukan \"likes\" (bentuk -s hanya untuk he/she/it). Kalimat yang benar: \"They like listening to jazz.\" Kata \"listening\" tetap memakai verb-ing setelah \"like\", dan jazz memang salah satu genre musik (materi Unit 3).",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 1 (Unit 1–4)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Review 1 (Unit 1-4)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi went to the park last Sunday. He played football with his friends and he was very happy. Rina asks, \"Did you have a good time at the park?\" What does Budi answer?\nA. \"Yes, I do. I play football every day.\"\nB. \"Yes, I did. I played football with my friends.\"\nC. \"Yes, I am. I am happy.\"\nD. \"No, I didn't. I stayed at home all day.\"",
+    "pilihan": [
+      "\"Yes, I do. I play football every day.\"",
+      "\"Yes, I did. I played football with my friends.\"",
+      "\"Yes, I am. I am happy.\"",
+      "\"No, I didn't. I stayed at home all day.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Budi pergi ke taman hari Minggu lalu dan bermain sepak bola dengan gembira, jadi jawabannya \"Yes, I did\" (bentuk past, karena pertanyaannya tentang kemarin) ditambah ceritanya \"I played football with my friends\" (materi Unit 4). Pilihan A dan C memakai bentuk sekarang (\"do\", \"am\") yang tidak cocok untuk pertanyaan tentang masa lalu, sedangkan D bertentangan dengan cerita — Budi tidak tinggal di rumah.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 1 (Unit 1–4)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Review 1 (Unit 1-4)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Last night, my family and I ____ a funny film at home. We laughed a lot.\nWhich verb is correct to complete the sentence?\n\nA. watch\nB. watches\nC. watched\nD. watching",
+    "pilihan": [
+      "watch",
+      "watches",
+      "watched",
+      "watching"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kalimat ini bercerita tentang tadi malam (\"last night\"), jadi kata kerjanya harus bentuk past. Bentuk past dari \"watch\" adalah \"watched\" (materi Unit 4). Pilihan A \"watch\" dan B \"watches\" adalah bentuk sekarang, sedangkan D \"watching\" dipakai untuk kalimat yang sedang berlangsung, bukan untuk cerita tadi malam.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 1 (Unit 1–4)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 5 + Review 1: Unit 5 dan Review 1",
+    "sub_bab": "Review 1 (Unit 1-4)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Class starts at seven o'clock. Rina arrives at school at seven o'clock. Budi arrives at half past seven. Who follows the school rule \"You must be on time\"?\nA. Budi, because he arrives at half past seven.\nB. Rina, because she arrives at seven o'clock, when class starts.\nC. Both of them, because they both come to school.\nD. Nobody, because the rule is about homework.",
+    "pilihan": [
+      "Budi, because he arrives at half past seven.",
+      "Rina, because she arrives at seven o'clock, when class starts.",
+      "Both of them, because they both come to school.",
+      "Nobody, because the rule is about homework."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Aturan \"You must be on time\" berarti kamu harus datang tepat waktu. Kelas mulai jam tujuh tepat (seven o'clock), jadi Rina yang datang jam tujuh mengikuti aturan itu. Budi datang jam setengah delapan (half past seven), jadi ia terlambat.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 6: You Must Be on Time",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 6: Unit 6",
+    "sub_bab": "Unit 6: You Must Be on Time",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"You mustn't listen to the teacher in class.\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say \"You mustn't come to school.\"\nC. He should say \"You must listen to the teacher\", because \"mustn't\" means \"do not do it\", and listening to the teacher is a rule.\nD. He should say \"You must shout in class.\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say \"You mustn't come to school.\"",
+      "He should say \"You must listen to the teacher\", because \"mustn't\" means \"do not do it\", and listening to the teacher is a rule.",
+      "He should say \"You must shout in class.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kata \"mustn't\" berarti \"tidak boleh\" — larangan. Mendengarkan guru adalah kewajiban di kelas, jadi kalimat yang benar memakai \"must\" (harus): \"You must listen to the teacher.\" Dodi salah memakai \"mustn't\" untuk sesuatu yang wajib dilakukan.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 6: You Must Be on Time",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 6: Unit 6",
+    "sub_bab": "Unit 6: You Must Be on Time",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Look at the clock. It is half past seven. Class starts at seven o'clock. What does it mean for Sinta, who is still at home?\nA. She is late, because class started thirty minutes ago and she must hurry to school.\nB. She is on time, because half past seven is seven o'clock.\nC. She is early, because class starts later.\nD. She is free today, because class is finished.",
+    "pilihan": [
+      "She is late, because class started thirty minutes ago and she must hurry to school.",
+      "She is on time, because half past seven is seven o'clock.",
+      "She is early, because class starts later.",
+      "She is free today, because class is finished."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "\"Half past seven\" berarti jam setengah delapan (07.30). Kelas mulai jam tujuh tepat (seven o'clock), jadi jam sudah lewat 30 menit dari waktu mulai — Sinta terlambat dan harus segera berangkat ke sekolah.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 6: You Must Be on Time",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 6: Unit 6",
+    "sub_bab": "Unit 6: You Must Be on Time",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "In class, Rani raises her hand before she speaks. Dodi shouts the answer without raising his hand. Who follows the school rules, and why?\nA. Dodi, because shouting shows he knows the answer.\nB. Both of them, because they both answer the question.\nC. Nobody, because there is no rule about speaking in class.\nD. Rani, because the rule is \"You must raise your hand\" and \"You mustn't shout in class\".",
+    "pilihan": [
+      "Dodi, because shouting shows he knows the answer.",
+      "Both of them, because they both answer the question.",
+      "Nobody, because there is no rule about speaking in class.",
+      "Rani, because the rule is \"You must raise your hand\" and \"You mustn't shout in class\"."
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Aturan di kelas antara lain \"You must raise your hand\" (kamu harus mengangkat tangan) dan \"You mustn't shout in class\" (kamu tidak boleh berteriak di kelas). Rani mengikuti kedua aturan itu, sedangkan Dodi melanggarnya karena berteriak tanpa mengangkat tangan.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 6: You Must Be on Time",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 6: Unit 6",
+    "sub_bab": "Unit 6: You Must Be on Time",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "What time is it? The clock shows nine o'clock.\nA. It is half past nine.\nB. It is nine o'clock.\nC. It is a quarter past nine.\nD. It is ten o'clock.",
+    "pilihan": [
+      "It is half past nine.",
+      "It is nine o'clock.",
+      "It is a quarter past nine.",
+      "It is ten o'clock."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jam menunjukkan pukul sembilan tepat, jadi dalam Bahasa Inggris dibaca \"It is nine o'clock.\" \"Half past nine\" berarti setengah sepuluh, \"a quarter past nine\" berarti sembilan lewat seperempat, dan \"ten o'clock\" berarti jam sepuluh tepat.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 6: You Must Be on Time",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 6: Unit 6",
+    "sub_bab": "Unit 6: You Must Be on Time",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read the dialogue.\nRina: \"What do you want to be?\"\nBudi: \"____\"\n\nWhich is the best answer for Budi?\n\nA. \"I want to be a teacher.\"\nB. \"I am nine years old.\"\nC. \"My name is Budi.\"\nD. \"I like apples.\"",
+    "pilihan": [
+      "\"I want to be a teacher.\"",
+      "\"I am nine years old.\"",
+      "\"My name is Budi.\"",
+      "\"I like apples.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pertanyaan \"What do you want to be?\" menanyakan cita-cita, jadi dijawab dengan \"I want to be a/an + nama pekerjaan\", misalnya \"I want to be a teacher\". Pilihan B menjawab umur, C menjawab nama, D menjawab kesukaan — ketiganya tidak menjawab pertanyaan tentang cita-cita.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 7: What Do You Want to Be?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 7: What Do You Want to Be?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"I want to be an doctor.\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say \"I wants to be a doctor.\"\nC. He should say \"I want to be a doctor.\" \"Doctor\" starts with a consonant sound, so we use \"a\", not \"an\".\nD. He should say \"I want to be doctor.\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say \"I wants to be a doctor.\"",
+      "He should say \"I want to be a doctor.\" \"Doctor\" starts with a consonant sound, so we use \"a\", not \"an\".",
+      "He should say \"I want to be doctor.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kata \"doctor\" diawali bunyi konsonan (d), jadi memakai \"a\": \"a doctor\". Kata \"an\" dipakai sebelum kata yang diawali bunyi vokal, misalnya \"an artist\" atau \"an engineer\". Jadi kalimat Dodi yang benar adalah \"I want to be a doctor.\"",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 7: What Do You Want to Be?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 7: What Do You Want to Be?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta works in a hospital. She helps the doctor take care of sick people. What does Sinta want to be?\nA. A farmer\nB. A nurse\nC. A pilot\nD. A singer",
+    "pilihan": [
+      "A farmer",
+      "A nurse",
+      "A pilot",
+      "A singer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Orang yang bekerja di rumah sakit dan membantu dokter merawat orang sakit disebut \"nurse\" (perawat). \"Farmer\" bekerja di sawah atau ladang, \"pilot\" menerbangkan pesawat, dan \"singer\" bernyanyi — ketiganya tidak cocok dengan deskripsi Sinta.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 7: What Do You Want to Be?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 7: What Do You Want to Be?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read about two children.\nRani: \"I want to be a teacher because I like helping children learn.\"\nBudi: \"I want to be a pilot because I like flying in the sky.\"\n\nWho wants to work at school?\n\nA. Budi, because he likes flying\nB. Both of them, because they both like their jobs\nC. Nobody, because they do not want to work\nD. Rani, because a teacher works at school",
+    "pilihan": [
+      "Budi, because he likes flying",
+      "Both of them, because they both like their jobs",
+      "Nobody, because they do not want to work",
+      "Rani, because a teacher works at school"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Rani ingin menjadi guru (teacher), dan guru bekerja di sekolah (school). Budi ingin menjadi pilot, dan pilot bekerja di pesawat terbang, bukan di sekolah. Jadi yang ingin bekerja di sekolah adalah Rani.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 7: What Do You Want to Be?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 7: What Do You Want to Be?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "A person who grows rice and vegetables on a farm is a ____.\nA. Farmer\nB. Doctor\nC. Police officer\nD. Artist",
+    "pilihan": [
+      "Farmer",
+      "Doctor",
+      "Police officer",
+      "Artist"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Orang yang menanam padi dan sayuran di sawah atau ladang disebut \"farmer\" (petani). \"Doctor\" mengobati orang sakit, \"police officer\" menjaga keamanan, dan \"artist\" membuat karya seni — ketiganya bukan pekerjaan di ladang.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 7: What Do You Want to Be?\n## Unit 8: Why Do You Want to Be a Singer?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 7: What Do You Want to Be?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina asks Budi, \"Why do you want to be a singer?\" Which is the best answer for Budi?\nA. \"Because I like cooking.\"\nB. \"Because I like singing.\"\nC. \"I am a singer now.\"\nD. \"Because I am nine years old.\"",
+    "pilihan": [
+      "\"Because I like cooking.\"",
+      "\"Because I like singing.\"",
+      "\"I am a singer now.\"",
+      "\"Because I am nine years old.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pertanyaan \"Why do you want to be a singer?\" menanyakan alasan menjadi penyanyi, jadi dijawab dengan \"Because ...\" yang alasannya cocok dengan profesi itu: penyanyi bernyanyi, jadi \"Because I like singing\". Pilihan A alasannya cocok untuk chef (koki), C menjawab seolah Budi sudah menjadi penyanyi, D menjawab umur — ketiganya tidak menjawab pertanyaan tentang alasan.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 8: Why Do You Want to Be a Singer?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 8: Why Do You Want to Be a Singer?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"I want to be a singer because I like cooking.\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say, \"I am a singer now.\"\nC. The reason does not match the job. A singer sings songs. Dodi likes cooking, so a chef is a better job for him.\nD. He should say, \"Because I like singing,\" without \"I want to be\".",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say, \"I am a singer now.\"",
+      "The reason does not match the job. A singer sings songs. Dodi likes cooking, so a chef is a better job for him.",
+      "He should say, \"Because I like singing,\" without \"I want to be\"."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Alasan setelah kata \"because\" harus cocok dengan profesi yang diinginkan. Penyanyi bernyanyi, bukan memasak — jadi alasan \"because I like cooking\" tidak cocok untuk singer. Kalau Dodi suka memasak, profesi yang cocok adalah chef (koki).",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 8: Why Do You Want to Be a Singer?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 8: Why Do You Want to Be a Singer?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi says, \"I want to be a doctor because I like helping sick people.\" Sinta says, \"I want to be a doctor because I like singing.\" Who gives the right reason for the job, and why?\nA. Budi, because a doctor helps sick people.\nB. Sinta, because a doctor sings songs for sick people.\nC. Both are right, because the reason does not matter.\nD. Neither is right, because a doctor does not help people.",
+    "pilihan": [
+      "Budi, because a doctor helps sick people.",
+      "Sinta, because a doctor sings songs for sick people.",
+      "Both are right, because the reason does not matter.",
+      "Neither is right, because a doctor does not help people."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Budi benar karena alasan \"helping sick people\" (menolong orang sakit) cocok dengan pekerjaan dokter. Sinta salah karena alasan \"singing\" cocok untuk penyanyi, bukan dokter. Dalam kalimat \"I want to be a ... because ...\", alasan harus sesuai dengan profesi yang disebutkan.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 8: Why Do You Want to Be a Singer?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 8: Why Do You Want to Be a Singer?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta says, \"I want to be a farmer because I like ____.\" Which word completes her sentence correctly?\nA. teaching children\nB. helping sick people\nC. singing songs\nD. growing rice and vegetables",
+    "pilihan": [
+      "teaching children",
+      "helping sick people",
+      "singing songs",
+      "growing rice and vegetables"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Petani (farmer) bekerja di sawah dan kebun — menanam padi dan sayuran (\"growing rice and vegetables\"). Pilihan A cocok untuk teacher, B cocok untuk doctor, dan C cocok untuk singer. Jadi hanya D yang alasannya cocok dengan profesi farmer.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 8: Why Do You Want to Be a Singer?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 8: Why Do You Want to Be a Singer?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "What does a singer do?\nA. Teaches students at school.\nB. Sings songs for people.\nC. Grows rice in the field.\nD. Helps sick people at the hospital.",
+    "pilihan": [
+      "Teaches students at school.",
+      "Sings songs for people.",
+      "Grows rice in the field.",
+      "Helps sick people at the hospital."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Penyanyi (singer) bernyanyi untuk orang lain (\"sings songs for people\"). Pilihan A adalah pekerjaan teacher, C adalah pekerjaan farmer, dan D adalah pekerjaan doctor.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 8: Why Do You Want to Be a Singer?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 7-8: Unit 7–8",
+    "sub_bab": "Unit 8: Why Do You Want to Be a Singer?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi can stand on a surfboard and ride big waves in the sea. Which sentence is true about Budi?\nA. He is good at swimming.\nB. He is good at surfing.\nC. He is good at dancing.\nD. He can't surf.",
+    "pilihan": [
+      "He is good at swimming.",
+      "He is good at surfing.",
+      "He is good at dancing.",
+      "He can't surf."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Budi bisa berdiri di atas papan selancar dan menunggangi ombak besar — itu artinya ia pandai berselancar, jadi kalimat yang benar adalah \"He is good at surfing.\" Pilihan A salah karena berenang (swimming) bukan berselancar, C salah karena menari (dancing) tidak ada hubungannya, dan D bertentangan dengan fakta bahwa Budi bisa berselancar.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 9: He's Good at Surfing",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Unit 9: He's Good at Surfing",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"I am good at swim.\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say, \"I am good at swimming.\" After \"good at\" we use a verb with -ing.\nC. He should say, \"I am good at swims.\"\nD. He should say, \"I can swim good.\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say, \"I am good at swimming.\" After \"good at\" we use a verb with -ing.",
+      "He should say, \"I am good at swims.\"",
+      "He should say, \"I can swim good.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setelah \"good at\" harus memakai kata kerja bentuk -ing, jadi yang benar adalah \"I am good at swimming\", bukan \"good at swim\". Pilihan C salah karena \"swims\" bukan bentuk -ing, dan D salah karena \"good\" di sini harusnya \"well\" (\"I can swim well\") — lagipula D tidak memperbaiki kesalahan pola \"good at\".",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 9: He's Good at Surfing",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Unit 9: He's Good at Surfing",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read about two children.\nRani is good at swimming, but she can't ride a bike.\nBudi is good at riding a bike, but he can't swim.\n\nThe swimming club needs a new member. Who can join the club?\n\nA. Rani, because she is good at swimming.\nB. Budi, because he is good at riding a bike.\nC. Both of them, because they are both good at sports.\nD. Nobody, because they can't swim.",
+    "pilihan": [
+      "Rani, because she is good at swimming.",
+      "Budi, because he is good at riding a bike.",
+      "Both of them, because they are both good at sports.",
+      "Nobody, because they can't swim."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Klub renang membutuhkan anggota yang bisa berenang. Rani pandai berenang (\"good at swimming\"), jadi ia bisa bergabung. Budi pandai naik sepeda tetapi tidak bisa berenang (\"he can't swim\"), jadi ia tidak cocok untuk klub renang.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 9: He's Good at Surfing",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Unit 9: He's Good at Surfing",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta can draw beautiful pictures, but she can't sing a song. Which sentence is correct about Sinta?\nA. She can sing, but she can't draw.\nB. She can't draw and she can't sing.\nC. She can draw, but she can't sing.\nD. She can sing and draw.",
+    "pilihan": [
+      "She can sing, but she can't draw.",
+      "She can't draw and she can't sing.",
+      "She can draw, but she can't sing.",
+      "She can sing and draw."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Sinta bisa menggambar (\"can draw\") tetapi tidak bisa bernyanyi (\"can't sing\"), jadi kalimat yang benar adalah \"She can draw, but she can't sing.\" Pilihan A membalik faktanya, B salah karena Sinta bisa menggambar, dan D salah karena Sinta tidak bisa bernyanyi.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 9: He's Good at Surfing",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Unit 9: He's Good at Surfing",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "A person who stands on a board and rides the waves in the sea is a ___.\nA. Singer\nB. Surfer\nC. Teacher\nD. Farmer",
+    "pilihan": [
+      "Singer",
+      "Surfer",
+      "Teacher",
+      "Farmer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Orang yang berdiri di atas papan dan menunggangi ombak di laut disebut \"surfer\" (peselancar). \"Singer\" adalah penyanyi, \"teacher\" adalah guru, dan \"farmer\" adalah petani — ketiganya bukan orang yang berselancar.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 9: He's Good at Surfing\n## Review 2 (Units 5–8)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Unit 9: He's Good at Surfing",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read what Rina says.\n\"I like English the most, but I don't like Math.\"\n\nWhich sentence is true about Rina?\n\nA. \"Rina likes Math the most.\"\nB. \"Rina likes English the most.\"\nC. \"Rina likes English and Math the same.\"\nD. \"Rina doesn't like English.\"",
+    "pilihan": [
+      "\"Rina likes Math the most.\"",
+      "\"Rina likes English the most.\"",
+      "\"Rina likes English and Math the same.\"",
+      "\"Rina doesn't like English.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rina berkata \"I like English the most\" — English adalah mata pelajaran yang paling ia sukai (Unit 5). Ia juga berkata \"I don't like Math\", jadi pilihan A salah, dan C salah karena ia tidak menyukai keduanya sama. Pilihan D juga salah karena ia justru paling suka English.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 2 (Unit 5: What Subject Do You Like the Most?)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Review 2 (Units 5–8)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Which sentence is a school rule?\nA. \"You must be late.\"\nB. \"You mustn't listen to the teacher.\"\nC. \"You must shout in class.\"\nD. \"You must do your homework.\"",
+    "pilihan": [
+      "\"You must be late.\"",
+      "\"You mustn't listen to the teacher.\"",
+      "\"You must shout in class.\"",
+      "\"You must do your homework.\""
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Aturan sekolah memakai \"must\" untuk kewajiban dan \"mustn't\" untuk larangan (Unit 6). \"You must do your homework\" adalah kewajiban yang benar. Pilihan A salah karena aturannya \"You mustn't be late\" — kamu tidak boleh terlambat. Pilihan B salah karena mendengarkan guru itu wajib: \"You must listen to the teacher\". Pilihan C salah karena aturannya \"You mustn't shout in class\".",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 2 (Unit 6: You Must Be on Time)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Review 2 (Units 5–8)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Which sentence is correct?\nA. \"I want to be an farmer.\"\nB. \"I want to be a artist.\"\nC. \"I want to be a police officer.\"\nD. \"I want to be an teacher.\"",
+    "pilihan": [
+      "\"I want to be an farmer.\"",
+      "\"I want to be a artist.\"",
+      "\"I want to be a police officer.\"",
+      "\"I want to be an teacher.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kata \"a\" dipakai sebelum kata yang diawali bunyi konsonan, dan \"an\" sebelum kata yang diawali bunyi vokal (Unit 7). \"Farmer\" diawali bunyi konsonan (f), jadi harus \"a farmer\" — pilihan A salah. \"Artist\" diawali bunyi vokal (a), jadi harus \"an artist\" — pilihan B salah. \"Teacher\" diawali bunyi konsonan (t), jadi harus \"a teacher\" — pilihan D salah. Hanya pilihan C yang benar: \"a police officer\" karena \"police\" diawali bunyi konsonan (p).",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 2 (Unit 7: What Do You Want to Be?)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Review 2 (Units 5–8)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read the dialogue.\nTeacher: \"Why do you want to be a pilot, Dodi?\"\nDodi: \"____\"\n\nWhich is the best answer for Dodi?\n\nA. \"Because I like flying in the sky.\"\nB. \"Because I like cooking.\"\nC. \"Because I like sleeping.\"\nD. \"Because I like swimming.\"",
+    "pilihan": [
+      "\"Because I like flying in the sky.\"",
+      "\"Because I like cooking.\"",
+      "\"Because I like sleeping.\"",
+      "\"Because I like swimming.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pertanyaan \"Why ...?\" dijawab dengan \"Because ...\" yang alasannya cocok dengan profesi itu (Unit 8). Pilot menerbangkan pesawat di langit, jadi alasan yang cocok adalah \"Because I like flying in the sky\". Pilihan B cocok untuk chef, C bukan alasan memilih profesi, dan D cocok untuk swimmer — ketiganya tidak cocok untuk pilot.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 2 (Unit 8: Why Do You Want to Be a Singer?)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Review 2 (Units 5–8)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read about Rani.\nRani likes Science the most. She wants to be a doctor because she likes helping sick people.\n\nWhich sentence is true about Rani?\n\nA. \"Rani likes Math the most.\"\nB. \"Rani wants to be a teacher.\"\nC. \"Rani likes Science the most and wants to be a doctor.\"\nD. \"Rani wants to be a singer.\"",
+    "pilihan": [
+      "\"Rani likes Math the most.\"",
+      "\"Rani wants to be a teacher.\"",
+      "\"Rani likes Science the most and wants to be a doctor.\"",
+      "\"Rani wants to be a singer.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Soal ini menggabungkan dua unit. Dari Unit 5: Rani paling suka Science (\"I like Science the most\"), bukan Math — jadi pilihan A salah. Dari Unit 7 dan 8: Rani ingin menjadi doctor karena suka menolong orang sakit (\"I want to be a doctor because I like helping sick people\") — jadi pilihan B dan D salah. Hanya pilihan C yang benar, karena menyebut kedua fakta itu sekaligus.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 2 (Unit 5: What Subject Do You Like the Most? + Unit 7: What Do You Want to Be?)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 9: Unit 9 + Review 2",
+    "sub_bab": "Review 2 (Units 5–8)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina looks out of the window. It is winter, and white snow covers the street. She asks her brother, \"How much snow is there?\" Which is the best answer?\nA. \"There are three snow.\"\nB. \"There is a lot of snow.\"\nC. \"There is a snowman.\"\nD. \"It is summer.\"",
+    "pilihan": [
+      "\"There are three snow.\"",
+      "\"There is a lot of snow.\"",
+      "\"There is a snowman.\"",
+      "\"It is summer.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pertanyaan \"How much snow is there?\" menanyakan jumlah salju. Salju (snow) adalah benda yang tidak bisa dihitung satu per satu, jadi jawabannya memakai \"There is a lot of snow\" (ada banyak salju). Pilihan A salah karena \"snow\" tidak bisa dihitung dengan angka; C menjawab dengan benda lain (snowman); D salah karena musimnya winter, bukan summer.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 10: How Much Snow Is There?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 10: How Much Snow Is There?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"How many snow is there?\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say, \"How many snows are there?\"\nC. He should say, \"How much snow is there?\" \"Snow\" cannot be counted, so we use \"how much\", not \"how many\".\nD. He should say, \"How much snowman is there?\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say, \"How many snows are there?\"",
+      "He should say, \"How much snow is there?\" \"Snow\" cannot be counted, so we use \"how much\", not \"how many\".",
+      "He should say, \"How much snowman is there?\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "\"How many\" dipakai untuk benda yang bisa dihitung (misalnya \"How many snowmen are there?\"), sedangkan \"how much\" dipakai untuk benda yang tidak bisa dihitung satu per satu, seperti snow, rain, dan water. Jadi kalimat Dodi yang benar adalah \"How much snow is there?\"",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 10: How Much Snow Is There?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 10: How Much Snow Is There?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "In City A, there is a little snow on the ground. In City B, there is a lot of snow, and the snow is very deep. In which city can the children build a big snowman?\nA. City A, because a little snow is enough for a big snowman.\nB. Neither city, because snowmen are built in summer.\nC. Both cities, because snowmen do not need snow.\nD. City B, because a lot of snow is needed to build a big snowman.",
+    "pilihan": [
+      "City A, because a little snow is enough for a big snowman.",
+      "Neither city, because snowmen are built in summer.",
+      "Both cities, because snowmen do not need snow.",
+      "City B, because a lot of snow is needed to build a big snowman."
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "\"A little snow\" berarti salju sedikit, sedangkan \"a lot of snow\" berarti salju banyak. Untuk membuat boneka salju yang besar (big snowman), anak-anak butuh banyak salju — jadi Kota B yang tepat. Boneka salju dibuat di musim dingin (winter), bukan di musim panas (summer).",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 10: How Much Snow Is There?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 10: How Much Snow Is There?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "It is winter in Canada. The weather is cold and snowy. Sinta wants to play outside with her friends. What should she wear, and what can they do outside?\nA. She should wear a warm jacket and boots, and they can build a snowman.\nB. She should wear shorts and a T-shirt, and they can swim in the sea.\nC. She should wear a raincoat, because it is sunny.\nD. She should stay inside, because children never play in winter.",
+    "pilihan": [
+      "She should wear a warm jacket and boots, and they can build a snowman.",
+      "She should wear shorts and a T-shirt, and they can swim in the sea.",
+      "She should wear a raincoat, because it is sunny.",
+      "She should stay inside, because children never play in winter."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Musim dingin (winter) itu dingin dan bersalju (cold and snowy), jadi Sinta harus memakai pakaian hangat seperti jaket tebal (warm jacket) dan sepatu bot (boots). Kegiatan yang cocok di musim dingin bersalju adalah membuat boneka salju (build a snowman). Pilihan B cocok untuk musim panas di pantai, C salah karena raincoat dipakai saat hujan bukan saat cerah, dan D salah karena anak-anak tetap bisa bermain di musim dingin dengan pakaian yang tepat.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 10: How Much Snow Is There?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 10: How Much Snow Is There?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "What does \"snowy\" mean?\nA. Cerah\nB. Bersalju\nC. Berangin\nD. Berawan",
+    "pilihan": [
+      "Cerah",
+      "Bersalju",
+      "Berangin",
+      "Berawan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "\"Snowy\" berarti bersalju, dari kata \"snow\" (salju). \"Sunny\" berarti cerah, \"windy\" berarti berangin, dan \"cloudy\" berarti berawan.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 10: How Much Snow Is There?\n## Unit 11: Do You Know How to Play Chess?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 10: How Much Snow Is There?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina asks Budi, \"Do you know how to play chess?\" Budi can play chess very well. Which is the best answer for Budi?\nA. \"No, I don't. I can't play chess.\"\nB. \"Yes, I do. I can play chess.\"\nC. \"Yes, I am. I play chess.\"\nD. \"No, I am not. I play football.\"",
+    "pilihan": [
+      "\"No, I don't. I can't play chess.\"",
+      "\"Yes, I do. I can play chess.\"",
+      "\"Yes, I am. I play chess.\"",
+      "\"No, I am not. I play football.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pertanyaan \"Do you know how to play chess?\" menanyakan apakah seseorang bisa bermain catur, jadi dijawab dengan \"Yes, I do\" kalau bisa, atau \"No, I don't\" kalau tidak bisa. Budi bisa bermain catur dengan baik, jadi jawaban yang benar adalah \"Yes, I do. I can play chess.\" Pilihan C dan D salah karena pertanyaan \"Do you ...?\" tidak dijawab dengan \"Yes, I am\" atau \"No, I am not\".",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 11: Do You Know How to Play Chess?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 11: Do You Know How to Play Chess?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"Do you know how play chess?\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say, \"Do you know how to plays chess?\"\nC. He should say, \"Do you know how to play chess?\" After \"how\" we use \"to\" before the verb.\nD. He should say, \"Do you knows how to play chess?\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say, \"Do you know how to plays chess?\"",
+      "He should say, \"Do you know how to play chess?\" After \"how\" we use \"to\" before the verb.",
+      "He should say, \"Do you knows how to play chess?\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pola yang benar adalah \"Do you know how to play ...?\" — setelah kata \"how\" harus ada \"to\" sebelum kata kerja. Jadi kalimat Dodi yang benar adalah \"Do you know how to play chess?\" Pilihan B salah karena \"plays\" tidak dipakai setelah \"to\", dan D salah karena setelah \"Do you\" kata kerjanya \"know\", bukan \"knows\".",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 11: Do You Know How to Play Chess?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 11: Do You Know How to Play Chess?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read about two games.\nChess is played on a board with pieces. Football is played on a field with a ball.\n\nWhich sentence is true?\n\nA. Chess is played on a board, and football is played on a field with a ball.\nB. Chess is played on a field, and football is played on a board.\nC. Chess and football are both played with a ball.\nD. Chess and football are both played on a board.",
+    "pilihan": [
+      "Chess is played on a board, and football is played on a field with a ball.",
+      "Chess is played on a field, and football is played on a board.",
+      "Chess and football are both played with a ball.",
+      "Chess and football are both played on a board."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Catur (chess) dimainkan di atas papan (board) dengan bidak (pieces), sedangkan sepak bola (football) dimainkan di lapangan (field) dengan bola (ball). Jadi hanya pilihan A yang benar. Pilihan B menukar tempatnya, C salah karena catur tidak memakai bola, dan D salah karena sepak bola tidak dimainkan di papan.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 11: Do You Know How to Play Chess?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 11: Do You Know How to Play Chess?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta plays a game. She hits a shuttlecock with a racket over a net. What game does Sinta play?\nA. Chess\nB. Football\nC. Hide and seek\nD. Badminton",
+    "pilihan": [
+      "Chess",
+      "Football",
+      "Hide and seek",
+      "Badminton"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Permainan yang dimainkan dengan memukul shuttlecock (kok) memakai raket melewati net adalah badminton (bulu tangkis). Catur (chess) dimainkan dengan bidak di papan, sepak bola (football) dimainkan dengan menendang bola, dan hide and seek (petak umpet) adalah permainan bersembunyi — ketiganya tidak memakai raket dan shuttlecock.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 11: Do You Know How to Play Chess?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 11: Do You Know How to Play Chess?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "In hide and seek, one child closes his eyes and counts, and the other children hide. What is the game?\nA. Chess\nB. Hide and seek\nC. Badminton\nD. Football",
+    "pilihan": [
+      "Chess",
+      "Hide and seek",
+      "Badminton",
+      "Football"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Hide and seek (petak umpet) adalah permainan di mana satu anak menutup mata dan berhitung, sementara anak-anak lain bersembunyi. Catur (chess) dimainkan dengan bidak di papan, badminton dimainkan dengan raket dan shuttlecock, dan sepak bola (football) dimainkan dengan menendang bola — ketiganya bukan permainan bersembunyi.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 11: Do You Know How to Play Chess?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 10-11: Unit 10–11",
+    "sub_bab": "Unit 11: Do You Know How to Play Chess?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina asks Budi, \"How often do you do the laundry, Budi?\" Which is the best answer for Budi?\nA. \"I am nine years old.\"\nB. \"I do it twice a week.\"\nC. \"My name is Budi.\"\nD. \"I like apples.\"",
+    "pilihan": [
+      "\"I am nine years old.\"",
+      "\"I do it twice a week.\"",
+      "\"My name is Budi.\"",
+      "\"I like apples.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pertanyaan \"How often do you do the laundry?\" menanyakan seberapa sering Budi mencuci pakaian, jadi dijawab dengan frekuensi, misalnya \"I do it twice a week\" (seminggu dua kali). Pilihan A menjawab umur, C menjawab nama, D menjawab kesukaan — ketiganya tidak menjawab pertanyaan tentang frekuensi.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 12: How Often Do You Do the Laundry?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Unit 12: How Often Do You Do the Laundry?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"I do always the laundry on Sunday.\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say, \"I always does the laundry on Sunday.\"\nC. He should say, \"I always do the laundry on Sunday.\" The adverb \"always\" comes before the main verb.\nD. He should say, \"I do the laundry on always Sunday.\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say, \"I always does the laundry on Sunday.\"",
+      "He should say, \"I always do the laundry on Sunday.\" The adverb \"always\" comes before the main verb.",
+      "He should say, \"I do the laundry on always Sunday.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kata keterangan frekuensi seperti \"always\" diletakkan sebelum kata kerja utama, jadi yang benar adalah \"I always do the laundry on Sunday\", bukan \"I do always the laundry\". Pilihan B salah karena \"does\" dipakai untuk he/she/it, bukan untuk \"I\". Pilihan D salah karena \"always\" tidak diletakkan setelah kata \"on\".",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 12: How Often Do You Do the Laundry?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Unit 12: How Often Do You Do the Laundry?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani does the laundry twice a week. Budi does the laundry once a week. Who does the laundry more often?\nA. Rani, because twice a week is more often than once a week.\nB. Budi, because once a week is more often than twice a week.\nC. Both of them, because they do it the same number of times.\nD. Nobody, because they never do the laundry.",
+    "pilihan": [
+      "Rani, because twice a week is more often than once a week.",
+      "Budi, because once a week is more often than twice a week.",
+      "Both of them, because they do it the same number of times.",
+      "Nobody, because they never do the laundry."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "\"Twice a week\" berarti dua kali dalam seminggu, sedangkan \"once a week\" berarti satu kali dalam seminggu. Dua kali lebih sering daripada satu kali, jadi Rani mencuci pakaian lebih sering daripada Budi.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 12: How Often Do You Do the Laundry?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Unit 12: How Often Do You Do the Laundry?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta waters the plants every day. Which sentence is true about Sinta?\nA. She never waters the plants.\nB. She sometimes waters the plants.\nC. She rarely waters the plants.\nD. She always waters the plants.",
+    "pilihan": [
+      "She never waters the plants.",
+      "She sometimes waters the plants.",
+      "She rarely waters the plants.",
+      "She always waters the plants."
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "\"Always\" berarti selalu — setiap kali, tanpa kecuali. Sinta menyiram tanaman setiap hari (every day), jadi kalimat yang benar adalah \"She always waters the plants\". Pilihan A salah karena \"never\" berarti tidak pernah, B salah karena \"sometimes\" berarti hanya kadang-kadang, dan C salah karena \"rarely\" berarti jarang.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 12: How Often Do You Do the Laundry?",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Unit 12: How Often Do You Do the Laundry?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina cleans the floor with a broom every morning. What does Rina do every morning?\nA. She washes the dishes.\nB. She sweeps the floor.\nC. She makes the bed.\nD. She waters the plants.",
+    "pilihan": [
+      "She washes the dishes.",
+      "She sweeps the floor.",
+      "She makes the bed.",
+      "She waters the plants."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Membersihkan lantai dengan sapu dalam Bahasa Inggris disebut \"sweep the floor\" (menyapu lantai). \"Wash the dishes\" berarti mencuci piring, \"make the bed\" berarti merapikan tempat tidur, dan \"water the plants\" berarti menyiram tanaman — ketiganya bukan pekerjaan Rina di soal ini.",
+    "rujukan": "Bahasa Inggris Kelas 4, Unit 12: How Often Do You Do the Laundry?\n## Review 3 (Units 9–12)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Unit 12: How Often Do You Do the Laundry?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi says, \"He can swims very fast.\" What is wrong with his sentence?\nA. Nothing is wrong. The sentence is correct.\nB. He should say, \"He can swim very fast.\" After \"can\" we use the base form of the verb, without -s.\nC. He should say, \"He cans swim very fast.\"\nD. He should say, \"He can swimming very fast.\"",
+    "pilihan": [
+      "Nothing is wrong. The sentence is correct.",
+      "He should say, \"He can swim very fast.\" After \"can\" we use the base form of the verb, without -s.",
+      "He should say, \"He cans swim very fast.\"",
+      "He should say, \"He can swimming very fast.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setelah \"can\" harus memakai kata kerja bentuk dasar (base form), tanpa akhiran -s atau -ing (Unit 9). Jadi yang benar adalah \"He can swim very fast\", bukan \"can swims\" atau \"can swimming\". Pilihan C salah karena \"cans\" bukan kata kerja bantu yang benar.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 3 (Unit 9: He's Good at Surfing)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Review 3 (Units 9–12)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read about the season.\n\"The leaves turn yellow and fall from the trees. The weather is cool, and people wear jackets.\"\n\nWhat season is it?\n\nA. Summer\nB. Spring\nC. Autumn\nD. Winter",
+    "pilihan": [
+      "Summer",
+      "Spring",
+      "Autumn",
+      "Winter"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Daun yang menguning dan gugur dari pohon serta cuaca yang sejuk adalah ciri musim gugur (autumn/fall) (Unit 10). Summer itu panas dan cerah, spring itu lebih hangat dan bunga tumbuh, winter itu dingin dan bersalju — ketiganya tidak cocok dengan daun yang berguguran.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 3 (Unit 10: How Much Snow Is There?)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Review 3 (Units 9–12)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina asks Budi, \"Do you know how to play chess?\" Budi says, \"Yes, I do. First, we ____.\"\nWhich is the best answer for Budi?\n\nA. put the pieces on the board\nB. kick the ball into the goal\nC. run around the field\nD. swim in the pool",
+    "pilihan": [
+      "put the pieces on the board",
+      "kick the ball into the goal",
+      "run around the field",
+      "swim in the pool"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Catur (chess) adalah permainan papan (board game) untuk dua pemain — langkah pertama adalah menata bidak-bidak di atas papan (Unit 11). Pilihan B dan C cocok untuk sepak bola, D cocok untuk berenang — ketiganya bukan cara bermain catur.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 3 (Unit 11: Do You Know How to Play Chess?)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Review 3 (Units 9–12)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Mother asks Sinta, \"How often do you do the laundry?\" Sinta says, \"I do the laundry every Sunday.\" How often does Sinta do the laundry?\nA. Once a year\nB. Never\nC. Every day\nD. Once a week",
+    "pilihan": [
+      "Once a year",
+      "Never",
+      "Every day",
+      "Once a week"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Sinta mencuci pakaian setiap hari Minggu (every Sunday) — artinya satu kali dalam seminggu, yaitu \"once a week\" (Unit 12). \"Once a year\" berarti satu kali setahun, \"never\" berarti tidak pernah, dan \"every day\" berarti setiap hari — ketiganya tidak cocok dengan \"every Sunday\".",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 3 (Unit 12: How Often Do You Do the Laundry?)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Review 3 (Units 9–12)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Read about Budi.\n\"Budi is good at playing chess. He plays chess every Saturday.\"\n\nWhich sentence is true about Budi?\n\nA. \"Budi is good at chess and plays it once a week.\"\nB. \"Budi can't play chess.\"\nC. \"Budi plays chess every day.\"\nD. \"Budi is good at swimming.\"",
+    "pilihan": [
+      "\"Budi is good at chess and plays it once a week.\"",
+      "\"Budi can't play chess.\"",
+      "\"Budi plays chess every day.\"",
+      "\"Budi is good at swimming.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Soal ini menggabungkan tiga unit. Dari Unit 9: Budi pandai bermain catur (\"good at playing chess\"). Dari Unit 11: catur adalah permainan papan yang ia mainkan. Dari Unit 12: ia bermain setiap hari Sabtu (every Saturday), artinya satu kali seminggu (\"once a week\") — bukan setiap hari, jadi pilihan C salah. Pilihan B bertentangan dengan fakta bahwa ia pandai bermain catur, dan D salah karena tidak ada yang menyebut berenang.",
+    "rujukan": "Bahasa Inggris Kelas 4, Review 3 (Unit 9: He's Good at Surfing + Unit 11: Do You Know How to Play Chess? + Unit 12: How Often Do You Do the Laundry?)",
+    "jenjang": "kelas-4",
+    "mapel": "inggris",
+    "bab": "Bab 12: Unit 12 + Review 3",
+    "sub_bab": "Review 3 (Units 9–12)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  }
+]

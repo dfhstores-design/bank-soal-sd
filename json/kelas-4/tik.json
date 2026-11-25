@@ -1,0 +1,3102 @@
+[
+  {
+    "pertanyaan": "Apa yang dimaksud dengan algoritma?\nA. Kumpulan gambar yang menarik\nB. Urutan langkah-langkah yang jelas dan berurutan untuk menyelesaikan suatu masalah\nC. Alat untuk menggambar di komputer\nD. Nama sebuah permainan di komputer",
+    "pilihan": [
+      "Kumpulan gambar yang menarik",
+      "Urutan langkah-langkah yang jelas dan berurutan untuk menyelesaikan suatu masalah",
+      "Alat untuk menggambar di komputer",
+      "Nama sebuah permainan di komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Algoritma adalah urutan langkah yang jelas dan berurutan untuk menyelesaikan suatu masalah atau mencapai suatu tujuan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "A: Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah kegiatan berikut yang merupakan contoh algoritma?\nA. Menonton televisi tanpa tujuan\nB. Tidur siang di kamar\nC. Resep membuat teh manis yang langkahnya ditulis berurutan\nD. Bermain bola di lapangan",
+    "pilihan": [
+      "Menonton televisi tanpa tujuan",
+      "Tidur siang di kamar",
+      "Resep membuat teh manis yang langkahnya ditulis berurutan",
+      "Bermain bola di lapangan"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Resep adalah contoh algoritma karena berisi langkah-langkah yang jelas dan berurutan; kalau langkahnya diikuti dengan benar, hasilnya akan sesuai.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "A: Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah urutan langkah membuat mi instan yang benar?\nA. Rebus air — masukkan mi — tiriskan mi — masukkan bumbu lalu aduk\nB. Masukkan bumbu — rebus air — masukkan mi — aduk\nC. Aduk bumbu — tiriskan mi — masukkan mi — rebus air\nD. Masukkan mi — aduk — rebus air — masukkan bumbu",
+    "pilihan": [
+      "Rebus air — masukkan mi — tiriskan mi — masukkan bumbu lalu aduk",
+      "Masukkan bumbu — rebus air — masukkan mi — aduk",
+      "Aduk bumbu — tiriskan mi — masukkan mi — rebus air",
+      "Masukkan mi — aduk — rebus air — masukkan bumbu"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Air harus direbus dulu sampai mendidih, baru mi dimasukkan. Setelah mi matang, mi ditiriskan lalu dicampur bumbu dan diaduk sampai rata.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "A: Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Andi menulis urutan memakai seragam sekolah: (1) Memakai sepatu. (2) Memakai kaos kaki. (3) Memakai baju seragam. (4) Memakai celana seragam. Apa yang salah dari urutan tersebut?\nA. Tidak ada yang salah\nB. Baju seragam harus dipakai paling akhir\nC. Celana seragam tidak perlu dipakai\nD. Kaos kaki harus dipakai sebelum sepatu",
+    "pilihan": [
+      "Tidak ada yang salah",
+      "Baju seragam harus dipakai paling akhir",
+      "Celana seragam tidak perlu dipakai",
+      "Kaos kaki harus dipakai sebelum sepatu"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Kaos kaki harus dipakai dulu sebelum sepatu, karena sepatu dipakai di luar kaos kaki. Kalau urutannya tertukar, langkahnya tidak bisa dijalankan dengan benar.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "A: Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah ciri langkah-langkah yang baik dalam sebuah algoritma?\nA. Langkahnya acak dan membingungkan\nB. Langkahnya jelas, berurutan, dan mempunyai awal dan akhir\nC. Langkahnya sebanyak mungkin supaya terlihat sulit\nD. Langkahnya hanya boleh satu langkah",
+    "pilihan": [
+      "Langkahnya acak dan membingungkan",
+      "Langkahnya jelas, berurutan, dan mempunyai awal dan akhir",
+      "Langkahnya sebanyak mungkin supaya terlihat sulit",
+      "Langkahnya hanya boleh satu langkah"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Algoritma yang baik langkahnya jelas, berurutan, dan mempunyai awal dan akhir, sehingga orang lain bisa mengikutinya dan mendapat hasil yang sama.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "A: Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan dekomposisi?\nA. Mengerjakan semua tugas sekaligus tanpa jeda\nB. Memecah tugas besar menjadi bagian-bagian kecil yang mudah dikerjakan\nC. Mencari kesamaan dari beberapa masalah\nD. Menghapus bagian tugas yang sulit",
+    "pilihan": [
+      "Mengerjakan semua tugas sekaligus tanpa jeda",
+      "Memecah tugas besar menjadi bagian-bagian kecil yang mudah dikerjakan",
+      "Mencari kesamaan dari beberapa masalah",
+      "Menghapus bagian tugas yang sulit"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Dekomposisi adalah memecah masalah atau tugas besar menjadi bagian-bagian kecil. Bagian kecil itu lebih mudah dipahami dan dikerjakan satu per satu.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "B: Dekomposisi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Kelas 4 akan mengadakan bazar. Dina memecah persiapan bazar menjadi beberapa bagian: menentukan barang jualan, menghitung modal, membuat poster, dan mengatur jadwal jaga. Cara Dina ini disebut ....\nA. Dekomposisi\nB. Abstraksi\nC. Pengenalan pola\nD. Algoritma",
+    "pilihan": [
+      "Dekomposisi",
+      "Abstraksi",
+      "Pengenalan pola",
+      "Algoritma"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Dina memecah satu tugas besar (persiapan bazar) menjadi bagian-bagian kecil. Itulah dekomposisi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "B: Dekomposisi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka ingin merapikan kamarnya yang berantakan. Manakah langkah berikut yang menunjukkan dekomposisi?\nA. Raka langsung tidur dan membiarkan kamarnya berantakan\nB. Raka membagi pekerjaan menjadi: merapikan tempat tidur, menyusun buku, lalu menyapu lantai\nC. Raka hanya merapikan mainan yang paling dia suka\nD. Raka meminta ibunya merapikan seluruh kamar",
+    "pilihan": [
+      "Raka langsung tidur dan membiarkan kamarnya berantakan",
+      "Raka membagi pekerjaan menjadi: merapikan tempat tidur, menyusun buku, lalu menyapu lantai",
+      "Raka hanya merapikan mainan yang paling dia suka",
+      "Raka meminta ibunya merapikan seluruh kamar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Raka memecah pekerjaan besar \"merapikan kamar\" menjadi bagian-bagian kecil yang dikerjakan satu per satu. Itulah dekomposisi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "B: Dekomposisi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta mendapat tugas membuat prakarya dari kardus bekas. Ia membagi tugas itu menjadi: menyiapkan alat dan bahan, menggambar pola, menggunting, lalu menempel dan menghias. Manfaat cara Sinta adalah ....\nA. Tugas terasa lebih berat karena banyak langkah\nB. Tugas menjadi lebih mudah karena dikerjakan bagian demi bagian\nC. Tugas selesai tanpa perlu alat dan bahan\nD. Tugas bisa selesai tanpa dikerjakan",
+    "pilihan": [
+      "Tugas terasa lebih berat karena banyak langkah",
+      "Tugas menjadi lebih mudah karena dikerjakan bagian demi bagian",
+      "Tugas selesai tanpa perlu alat dan bahan",
+      "Tugas bisa selesai tanpa dikerjakan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Dengan dekomposisi, tugas besar yang sulit menjadi bagian-bagian kecil yang mudah dikerjakan satu per satu, sehingga tugas terasa lebih ringan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "B: Dekomposisi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang BUKAN contoh dekomposisi?\nA. Memecah persiapan pentas seni menjadi: latihan tari, menyiapkan kostum, dan menata panggung\nB. Membagi tugas membersihkan kelas menjadi: menyapu, mengepel, dan membersihkan papan tulis\nC. Mengerjakan soal ujian yang sulit dengan menebak jawaban secara acak\nD. Membagi tugas membuat majalah dinding menjadi: menulis artikel, menggambar, dan menempel hasil karya",
+    "pilihan": [
+      "Memecah persiapan pentas seni menjadi: latihan tari, menyiapkan kostum, dan menata panggung",
+      "Membagi tugas membersihkan kelas menjadi: menyapu, mengepel, dan membersihkan papan tulis",
+      "Mengerjakan soal ujian yang sulit dengan menebak jawaban secara acak",
+      "Membagi tugas membuat majalah dinding menjadi: menulis artikel, menggambar, dan menempel hasil karya"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Menebak jawaban secara acak bukan memecah masalah menjadi bagian kecil, jadi itu bukan dekomposisi. Pilihan A, B, dan D semuanya memecah tugas besar menjadi bagian-bagian kecil.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "B: Dekomposisi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan pola bilangan berikut: 5, 10, 15, 20, .... Bilangan berikutnya adalah ....\nA. 22\nB. 24\nC. 25\nD. 30",
+    "pilihan": [
+      "22",
+      "24",
+      "25",
+      "30"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Setiap bilangan bertambah 5 dari bilangan sebelumnya (5 + 5 = 10, 10 + 5 = 15, 15 + 5 = 20). Jadi, bilangan berikutnya adalah 20 + 5 = 25.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "C: Pola",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan pola gambar berikut: lingkaran, segitiga, lingkaran, segitiga, lingkaran, .... Gambar berikutnya adalah ....\nA. Lingkaran\nB. Segitiga\nC. Persegi\nD. Bintang",
+    "pilihan": [
+      "Lingkaran",
+      "Segitiga",
+      "Persegi",
+      "Bintang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Polanya berulang setiap dua gambar: lingkaran lalu segitiga. Setelah lingkaran kelima, giliran segitiga lagi. Jadi, gambar berikutnya adalah segitiga.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "C: Pola",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan pola bilangan berikut: 40, 36, 32, 28, .... Bilangan berikutnya adalah ....\nA. 20\nB. 22\nC. 24\nD. 26",
+    "pilihan": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Setiap bilangan berkurang 4 dari bilangan sebelumnya (40 − 4 = 36, 36 − 4 = 32, 32 − 4 = 28). Jadi, bilangan berikutnya adalah 28 − 4 = 24.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "C: Pola",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu menyiram tanaman setiap 3 hari sekali. Jika Ibu menyiram tanaman pada hari Senin, kapan Ibu menyiram tanaman lagi?\nA. Selasa\nB. Rabu\nC. Kamis\nD. Jumat",
+    "pilihan": [
+      "Selasa",
+      "Rabu",
+      "Kamis",
+      "Jumat"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kegiatan yang berulang dengan jarak tetap juga membentuk pola. Tiga hari setelah Senin adalah Kamis, jadi Ibu menyiram tanaman lagi pada hari Kamis.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "C: Pola",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan pola bilangan berikut: 3, 6, 9, 12, 16, 18. Bilangan manakah yang TIDAK sesuai dengan pola?\nA. 6\nB. 9\nC. 16\nD. 18",
+    "pilihan": [
+      "6",
+      "9",
+      "16",
+      "18"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Polanya bertambah 3 setiap kali: 3, 6, 9, 12, lalu seharusnya 15, lalu 18. Bilangan 16 tidak mengikuti aturan itu, jadi 16 adalah bilangan yang tidak sesuai dengan pola.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "C: Pola",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan abstraksi dalam berpikir komputasional?\nA. Memecah masalah besar menjadi bagian-bagian kecil\nB. Memilih informasi yang penting dan mengabaikan informasi yang tidak perlu\nC. Menyusun langkah-langkah secara berurutan\nD. Mencari kesamaan dari beberapa kejadian",
+    "pilihan": [
+      "Memecah masalah besar menjadi bagian-bagian kecil",
+      "Memilih informasi yang penting dan mengabaikan informasi yang tidak perlu",
+      "Menyusun langkah-langkah secara berurutan",
+      "Mencari kesamaan dari beberapa kejadian"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Abstraksi berarti berfokus pada informasi yang penting dan berguna untuk menyelesaikan masalah, lalu mengabaikan detail yang tidak diperlukan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "D: Abstraksi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina membuat peta sekolah untuk teman barunya. Supaya peta itu mudah dibaca, Dina hanya menggambar ruang kelas, kantor, perpustakaan, dan kantin. Warna dinding dan bentuk pagar sekolah tidak ia gambar. Tindakan Dina adalah contoh ....\nA. Dekomposisi\nB. Pengenalan pola\nC. Abstraksi\nD. Algoritma",
+    "pilihan": [
+      "Dekomposisi",
+      "Pengenalan pola",
+      "Abstraksi",
+      "Algoritma"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Dina hanya menampilkan informasi yang penting (letak ruangan) dan membuang detail yang tidak perlu (warna dinding dan bentuk pagar). Memilih informasi penting seperti itu disebut abstraksi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "D: Abstraksi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan cerita berikut. \"Sinta membeli 3 buku tulis seharga Rp5.000,00 per buku. Sinta memakai baju berwarna biru dan berangkat ke toko pukul 08.00. Berapa rupiah yang harus dibayar Sinta?\" Informasi yang penting untuk menjawab soal tersebut adalah ....\nA. Warna baju Sinta dan jam berangkat ke toko\nB. Jam berangkat ke toko dan harga satu buku tulis\nC. Warna baju Sinta dan jumlah buku yang dibeli\nD. Harga satu buku tulis dan jumlah buku yang dibeli",
+    "pilihan": [
+      "Warna baju Sinta dan jam berangkat ke toko",
+      "Jam berangkat ke toko dan harga satu buku tulis",
+      "Warna baju Sinta dan jumlah buku yang dibeli",
+      "Harga satu buku tulis dan jumlah buku yang dibeli"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Untuk menghitung uang yang dibayar, yang dibutuhkan hanya harga satu buku (Rp5.000,00) dan jumlah buku (3). Warna baju dan jam berangkat tidak memengaruhi jawaban, jadi informasi itu diabaikan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "D: Abstraksi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Guru membuat daftar hadir kelas. Daftar itu hanya berisi nama siswa dan tanda hadir. Warna kesukaan dan makanan kesukaan siswa tidak ditulis di daftar itu. Hal ini menunjukkan bahwa guru melakukan ....\nA. Abstraksi\nB. Dekomposisi\nC. Algoritma\nD. Pengenalan pola",
+    "pilihan": [
+      "Abstraksi",
+      "Dekomposisi",
+      "Algoritma",
+      "Pengenalan pola"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Daftar hadir hanya menyimpan informasi yang diperlukan (nama dan kehadiran) dan mengabaikan informasi yang tidak relevan (warna dan makanan kesukaan). Itu adalah abstraksi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "D: Abstraksi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rudi membuat kartu nama untuk kelompok belajarnya. Di kartu itu ia hanya menulis nama, kelas, dan nomor telepon. Ia tidak menulis warna sepatu dan tinggi badan teman-temannya. Informasi yang ditulis Rudi adalah informasi yang ....\nA. Paling banyak jumlahnya\nB. Paling sulit dicari\nC. Paling penting untuk menghubungi teman\nD. Paling baru didapat",
+    "pilihan": [
+      "Paling banyak jumlahnya",
+      "Paling sulit dicari",
+      "Paling penting untuk menghubungi teman",
+      "Paling baru didapat"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Nama, kelas, dan nomor telepon adalah informasi yang penting untuk menghubungi teman. Warna sepatu dan tinggi badan tidak diperlukan, jadi tidak ditulis. Memilih informasi penting seperti ini disebut abstraksi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "D: Abstraksi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina dan Budi sama-sama menulis langkah-langkah membuat jus buah. Rina menulis 8 langkah yang jelas: menyiapkan buah, mencuci buah, memotong buah, memasukkan buah ke blender, menambahkan gula dan air, menyalakan blender, menunggu sampai halus, lalu menuang jus ke gelas. Budi hanya menulis 3 langkah yang samar: \"siapkan buah, buat jus, minum\". Algoritma siapa yang lebih baik, dan mengapa?\nA. Algoritma Budi lebih baik, karena lebih pendek dan cepat ditulis\nB. Algoritma Rina lebih baik, karena langkahnya jelas dan lengkap sehingga orang lain bisa mengikutinya\nC. Keduanya sama baiknya, karena sama-sama menghasilkan jus\nD. Algoritma Budi lebih baik, karena tidak perlu banyak langkah",
+    "pilihan": [
+      "Algoritma Budi lebih baik, karena lebih pendek dan cepat ditulis",
+      "Algoritma Rina lebih baik, karena langkahnya jelas dan lengkap sehingga orang lain bisa mengikutinya",
+      "Keduanya sama baiknya, karena sama-sama menghasilkan jus",
+      "Algoritma Budi lebih baik, karena tidak perlu banyak langkah"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Algoritma yang baik langkahnya harus jelas dan lengkap, supaya orang lain bisa mengikuti langkah itu dan mendapat hasil yang sama. Langkah Budi terlalu samar — orang yang membacanya tidak tahu apa yang harus dilakukan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Kelas 4 akan mengadakan lomba kebersihan kelas. Tiga anak memecah tugas itu dengan cara berbeda. Rani memecahnya menjadi: menentukan jadwal, membagi tugas, menyiapkan alat kebersihan, dan memeriksa hasil. Dodi hanya menulis: \"bersihkan kelas\". Sinta memecahnya menjadi: menentukan jadwal dan membagi tugas saja. Pemecahan manakah yang paling baik, dan mengapa?\nA. Pemecahan Rani paling baik, karena lengkap dan masuk akal — semua bagian penting ada\nB. Pemecahan Dodi paling baik, karena paling singkat\nC. Pemecahan Sinta paling baik, karena hanya ada dua bagian\nD. Ketiganya sama baiknya, karena sama-sama tentang kebersihan kelas",
+    "pilihan": [
+      "Pemecahan Rani paling baik, karena lengkap dan masuk akal — semua bagian penting ada",
+      "Pemecahan Dodi paling baik, karena paling singkat",
+      "Pemecahan Sinta paling baik, karena hanya ada dua bagian",
+      "Ketiganya sama baiknya, karena sama-sama tentang kebersihan kelas"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pemecahan yang baik harus lengkap: semua bagian penting ada dan masuk akal. Cara Dodi terlalu samar, sedangkan cara Sinta kehilangan bagian penting — tidak ada yang menyiapkan alat dan memeriksa hasil.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi mendapat tugas membuat maket rumah. Ia mengerjakan semuanya sekaligus tanpa memecah-mecah tugas itu: langsung menempel semua bagian, mengecat, dan menghias dalam satu waktu. Apa yang terjadi pada Dodi?\nA. Dodi mudah bingung dan lupa langkah, tugas terasa berat, dan ia gampang salah\nB. Tugas Dodi langsung selesai lebih cepat dan hasilnya sempurna\nC. Dodi tidak perlu alat dan bahan sama sekali\nD. Maket Dodi jadi lebih bagus karena dikerjakan sekaligus",
+    "pilihan": [
+      "Dodi mudah bingung dan lupa langkah, tugas terasa berat, dan ia gampang salah",
+      "Tugas Dodi langsung selesai lebih cepat dan hasilnya sempurna",
+      "Dodi tidak perlu alat dan bahan sama sekali",
+      "Maket Dodi jadi lebih bagus karena dikerjakan sekaligus"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tugas besar yang tidak dipecah-pecah akan terasa berat dan membingungkan: mudah lupa langkah dan gampang salah. Kalau dipecah menjadi bagian-bagian kecil, setiap bagian lebih mudah dikerjakan satu per satu.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Kelas 4 akan piknik. Persiapan piknik dipecah menjadi: membawa makanan dan tikar. Bagian apa yang hilang dari pemecahan itu, dan mengapa bagian itu perlu ada?\nA. Tidak ada yang hilang; makanan dan tikar sudah cukup untuk piknik\nB. Membawa lebih banyak makanan supaya tidak lapar\nC. Transportasi ke tempat piknik dan membersihkan sampah setelah piknik — tanpa kendaraan rombongan tidak bisa sampai ke tempat piknik, dan tanpa membersihkan sampah tempat itu jadi kotor\nD. Membawa payung saja, karena cuaca tidak penting",
+    "pilihan": [
+      "Tidak ada yang hilang; makanan dan tikar sudah cukup untuk piknik",
+      "Membawa lebih banyak makanan supaya tidak lapar",
+      "Transportasi ke tempat piknik dan membersihkan sampah setelah piknik — tanpa kendaraan rombongan tidak bisa sampai ke tempat piknik, dan tanpa membersihkan sampah tempat itu jadi kotor",
+      "Membawa payung saja, karena cuaca tidak penting"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pemecahan yang baik harus mencakup semua bagian penting. Transportasi dan kebersihan adalah bagian yang tidak boleh ketinggalan: tanpa kendaraan rombongan tidak bisa sampai, dan sampah yang tidak dibersihkan akan mengotori tempat piknik.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina membuat peta sekolah, tetapi ia menggambar SEMUA detail: warna dinding setiap ruangan, bentuk pagar, dan jumlah jendela di tiap gedung. Apa akibatnya bagi orang yang membaca peta itu?\nA. Peta jadi rumit dan sulit dibaca; orang sulit menemukan ruangan yang dicari\nB. Peta jadi lebih mudah dibaca karena semua detail ada\nC. Peta jadi lebih cepat digambar dan lebih cepat dibaca\nD. Semua ruangan jadi lebih mudah ditemukan karena peta sangat lengkap",
+    "pilihan": [
+      "Peta jadi rumit dan sulit dibaca; orang sulit menemukan ruangan yang dicari",
+      "Peta jadi lebih mudah dibaca karena semua detail ada",
+      "Peta jadi lebih cepat digambar dan lebih cepat dibaca",
+      "Semua ruangan jadi lebih mudah ditemukan karena peta sangat lengkap"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tanpa abstraksi, peta dipenuhi detail yang tidak perlu sehingga sulit dibaca. Orang yang mencari ruangan justru kebingungan. Karena itu peta yang baik hanya menampilkan informasi yang penting.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 1, Sub-bab D",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 1: Berpikir Komputasional",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan file di komputer?\nA. Program untuk menjalankan komputer\nB. Dokumen atau data yang disimpan di komputer\nC. Wadah untuk menyimpan file lain\nD. Nama komputer",
+    "pilihan": [
+      "Program untuk menjalankan komputer",
+      "Dokumen atau data yang disimpan di komputer",
+      "Wadah untuk menyimpan file lain",
+      "Nama komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "File adalah dokumen atau data yang disimpan di komputer, misalnya tugas sekolah, foto, lagu, dan video.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "A: Pengelolaan File dan Folder",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa fungsi utama folder di komputer?\nA. Menjalankan program\nB. Menghapus semua file\nC. Mengelompokkan file sejenis agar mudah ditemukan\nD. Membuat komputer menyala lebih cepat",
+    "pilihan": [
+      "Menjalankan program",
+      "Menghapus semua file",
+      "Mengelompokkan file sejenis agar mudah ditemukan",
+      "Membuat komputer menyala lebih cepat"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Folder adalah wadah untuk menyimpan file. Dengan folder, file-file yang sejenis dikelompokkan sehingga mudah dicari dan tidak mudah hilang.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "A: Pengelolaan File dan Folder",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina selesai mengetik tugas Matematika Bab 3. Manakah nama file yang paling baik untuk tugas itu?\nA. Tugas_Matematika_Bab3_Rina\nB. aaaaa\nC. 12345\nD. Dokumen Baru (2)",
+    "pilihan": [
+      "Tugas_Matematika_Bab3_Rina",
+      "aaaaa",
+      "12345",
+      "Dokumen Baru (2)"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Nama file yang baik jelas dan spesifik, sehingga mudah dikenali dan dicari kembali. Nama \"Tugas_Matematika_Bab3_Rina\" menjelaskan isi file, pelajaran, dan pemiliknya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "A: Pengelolaan File dan Folder",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina ingin mengganti nama file \"Tugas.docx\" menjadi \"Tugas_IPA.docx\". Langkah yang benar adalah ....\nA. Menghapus file lalu membuat file baru\nB. Mengubah .docx menjadi .jpg\nC. Memindahkan file ke Recycle Bin\nD. Klik kanan file lalu pilih Rename, ketik nama baru, tekan Enter",
+    "pilihan": [
+      "Menghapus file lalu membuat file baru",
+      "Mengubah .docx menjadi .jpg",
+      "Memindahkan file ke Recycle Bin",
+      "Klik kanan file lalu pilih Rename, ketik nama baru, tekan Enter"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Nama file diganti dengan klik kanan lalu pilih Rename, ketik nama baru, dan tekan Enter. Ekstensi file (.docx) jangan diubah supaya file tetap bisa dibuka.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "A: Pengelolaan File dan Folder",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina mempunyai banyak file di komputer: tugas Matematika, tugas IPA, foto liburan, dan lagu kesukaannya. Cara merapikan file-file itu yang paling baik adalah ....\nA. Menyimpan semua file di desktop tanpa folder\nB. Membuat folder \"Pelajaran\" dengan subfolder Matematika dan IPA, serta folder \"Foto\" dan \"Musik\"\nC. Menghapus semua file yang sudah lama\nD. Memberi semua file nama yang sama",
+    "pilihan": [
+      "Menyimpan semua file di desktop tanpa folder",
+      "Membuat folder \"Pelajaran\" dengan subfolder Matematika dan IPA, serta folder \"Foto\" dan \"Musik\"",
+      "Menghapus semua file yang sudah lama",
+      "Memberi semua file nama yang sama"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "File dirapikan dengan membuat folder dan subfolder sesuai jenisnya, misalnya folder \"Pelajaran\" berisi subfolder Matematika dan IPA, serta folder \"Foto\" dan \"Musik\". Dengan begitu file mudah dicari kembali.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "A: Pengelolaan File dan Folder",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah urutan menyalakan komputer yang benar?\nA. Tekan tombol power pada monitor — tekan tombol power pada CPU — cabut kabel listrik\nB. Pastikan kabel listrik tersambung — tekan tombol power pada CPU — tekan tombol power pada monitor — tunggu sampai layar desktop muncul\nC. Tekan tombol power pada CPU — cabut kabel listrik — tekan tombol power pada monitor\nD. Tunggu sampai layar desktop muncul — tekan tombol power pada CPU — tekan tombol power pada monitor",
+    "pilihan": [
+      "Tekan tombol power pada monitor — tekan tombol power pada CPU — cabut kabel listrik",
+      "Pastikan kabel listrik tersambung — tekan tombol power pada CPU — tekan tombol power pada monitor — tunggu sampai layar desktop muncul",
+      "Tekan tombol power pada CPU — cabut kabel listrik — tekan tombol power pada monitor",
+      "Tunggu sampai layar desktop muncul — tekan tombol power pada CPU — tekan tombol power pada monitor"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Komputer dinyalakan dengan memastikan kabel listrik tersambung dulu, lalu menekan tombol power pada CPU dan monitor, kemudian menunggu sampai sistem selesai menyala dan layar desktop muncul.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "B: Menggunakan Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta selesai mengetik tugas di komputer. Sebelum mematikan komputer, apa yang harus Sinta lakukan terlebih dahulu?\nA. Langsung mencabut kabel listrik dari stop kontak\nB. Menekan tombol power pada CPU sampai komputer mati\nC. Menyalakan monitor sekali lagi\nD. Menyimpan pekerjaannya dan menutup semua aplikasi yang sedang dibuka",
+    "pilihan": [
+      "Langsung mencabut kabel listrik dari stop kontak",
+      "Menekan tombol power pada CPU sampai komputer mati",
+      "Menyalakan monitor sekali lagi",
+      "Menyimpan pekerjaannya dan menutup semua aplikasi yang sedang dibuka"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Sebelum komputer dimatikan, pekerjaan harus disimpan dulu dan semua aplikasi ditutup, supaya tugas tidak hilang. Setelah itu komputer dimatikan melalui menu Start > Power > Shutdown.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "B: Menggunakan Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka ingin membuka aplikasi menggambar di komputer. Ia mengarahkan pointer mouse ke ikon aplikasi itu. Apa yang harus Raka lakukan?\nA. Menekan tombol kanan mouse satu kali\nB. Menggerakkan mouse ke kiri dan ke kanan terus-menerus\nC. Mengeklik tombol kiri mouse dua kali dengan cepat (klik ganda)\nD. Menekan tombol Enter pada keyboard",
+    "pilihan": [
+      "Menekan tombol kanan mouse satu kali",
+      "Menggerakkan mouse ke kiri dan ke kanan terus-menerus",
+      "Mengeklik tombol kiri mouse dua kali dengan cepat (klik ganda)",
+      "Menekan tombol Enter pada keyboard"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Untuk membuka aplikasi atau folder, ikonnya diklik ganda, yaitu tombol kiri mouse ditekan dua kali dengan cepat. Klik satu kali hanya memilih, sedangkan klik kanan membuka menu tambahan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "B: Menggunakan Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina sedang mengetik namanya di komputer, tetapi ada satu huruf yang salah ketik. Tombol keyboard apakah yang dipakai Dina untuk menghapus huruf yang salah itu?\nA. Tombol Backspace\nB. Tombol Enter\nC. Tombol Shift\nD. Tombol arah ke atas",
+    "pilihan": [
+      "Tombol Backspace",
+      "Tombol Enter",
+      "Tombol Shift",
+      "Tombol arah ke atas"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tombol Backspace dipakai untuk menghapus huruf yang berada di sebelah kiri kursor. Tombol Enter dipakai untuk pindah ke baris baru, sedangkan tombol arah dipakai untuk menggerakkan kursor.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "B: Menggunakan Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi selesai bermain gim di komputer dan ingin menutup aplikasi gim itu. Manakah cara menutup aplikasi yang benar?\nA. Langsung mematikan monitor\nB. Mengeklik tombol silang (X) di sudut jendela aplikasi\nC. Mencabut kabel mouse dari komputer\nD. Menekan semua tombol keyboard sekaligus",
+    "pilihan": [
+      "Langsung mematikan monitor",
+      "Mengeklik tombol silang (X) di sudut jendela aplikasi",
+      "Mencabut kabel mouse dari komputer",
+      "Menekan semua tombol keyboard sekaligus"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Aplikasi ditutup dengan mengeklik tombol silang (X) yang ada di sudut jendela aplikasi. Mematikan monitor atau mencabut kabel tidak menutup aplikasi dan bisa merusak komputer.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "B: Menggunakan Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah posisi duduk yang benar saat menggunakan komputer?\nA. Duduk tegak dengan punggung bersandar pada kursi\nB. Duduk membungkuk dengan dagu hampir menempel ke meja\nC. Duduk miring ke kiri sambil menahan kepala dengan tangan\nD. Duduk dengan kaki terangkat di atas kursi",
+    "pilihan": [
+      "Duduk tegak dengan punggung bersandar pada kursi",
+      "Duduk membungkuk dengan dagu hampir menempel ke meja",
+      "Duduk miring ke kiri sambil menahan kepala dengan tangan",
+      "Duduk dengan kaki terangkat di atas kursi"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Duduk tegak dengan punggung bersandar pada kursi menjaga tulang punggung tetap lurus, sehingga badan tidak cepat pegal dan lelah.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "C: Sikap yang Tepat ketika Menggunakan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berapakah jarak mata ke layar komputer yang tepat?\nA. Mata menempel pada layar\nB. Sekitar satu lengan dari layar, tidak terlalu dekat dan tidak terlalu jauh\nC. Sejauh dua meter dari layar\nD. Sedekat mungkin supaya tulisan terlihat besar",
+    "pilihan": [
+      "Mata menempel pada layar",
+      "Sekitar satu lengan dari layar, tidak terlalu dekat dan tidak terlalu jauh",
+      "Sejauh dua meter dari layar",
+      "Sedekat mungkin supaya tulisan terlihat besar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jarak mata ke layar sebaiknya sekitar satu lengan (kira-kira 40–75 cm) dan layar sejajar dengan mata. Kalau terlalu dekat, mata cepat lelah; kalau terlalu jauh, tulisan jadi sulit dibaca.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "C: Sikap yang Tepat ketika Menggunakan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina sudah satu jam mengetik tugas di komputer tanpa berhenti. Matanya mulai terasa perih. Apa yang sebaiknya dilakukan Dina?\nA. Terus mengetik sampai tugas selesai tanpa berhenti\nB. Mendekatkan wajah ke layar supaya mata tidak perih\nC. Beristirahat sejenak, berdiri, dan mengalihkan pandangan dari layar\nD. Menggosok mata dengan tangan yang kotor",
+    "pilihan": [
+      "Terus mengetik sampai tugas selesai tanpa berhenti",
+      "Mendekatkan wajah ke layar supaya mata tidak perih",
+      "Beristirahat sejenak, berdiri, dan mengalihkan pandangan dari layar",
+      "Menggosok mata dengan tangan yang kotor"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Mata yang menatap layar terlalu lama perlu istirahat. Berdiri sejenak dan melihat ke arah lain membuat mata dan badan kembali segar.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "C: Sikap yang Tepat ketika Menggunakan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Mengapa kita tidak boleh makan dan minum di dekat komputer?\nA. Supaya makanan tidak cepat habis\nB. Karena makanan dan minuman bisa tumpah dan merusak keyboard serta mengotori komputer\nC. Karena komputer tidak suka bau makanan\nD. Supaya orang lain tidak ikut makan",
+    "pilihan": [
+      "Supaya makanan tidak cepat habis",
+      "Karena makanan dan minuman bisa tumpah dan merusak keyboard serta mengotori komputer",
+      "Karena komputer tidak suka bau makanan",
+      "Supaya orang lain tidak ikut makan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Makanan dan minuman yang tumpah bisa masuk ke sela-sela keyboard dan merusak komputer, serta membuat perangkat menjadi kotor dan lengket.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "C: Sikap yang Tepat ketika Menggunakan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka bermain gim di komputer dari pagi sampai sore tanpa berhenti. Akibatnya badannya pegal dan matanya merah. Sikap yang tepat untuk Raka adalah ....\nA. Tetap bermain sampai malam karena sudah tanggung\nB. Membatasi waktu bermain, beristirahat, dan bergerak sejenak secara berkala\nC. Bermain sambil tiduran supaya badan tidak pegal\nD. Menambah kecerahan layar supaya mata tidak merah",
+    "pilihan": [
+      "Tetap bermain sampai malam karena sudah tanggung",
+      "Membatasi waktu bermain, beristirahat, dan bergerak sejenak secara berkala",
+      "Bermain sambil tiduran supaya badan tidak pegal",
+      "Menambah kecerahan layar supaya mata tidak merah"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menggunakan komputer terlalu lama tanpa jeda membuat badan pegal dan mata lelah. Waktu penggunaan perlu dibatasi dan diselingi istirahat serta gerak badan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "C: Sikap yang Tepat ketika Menggunakan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka menyimpan semua tugas sekolahnya langsung di desktop, sedangkan Sinta menyimpan tugasnya di dalam folder per mata pelajaran. Sebulan kemudian, keduanya mencari tugas Matematika Bab 3. Siapa yang lebih mudah menemukan tugasnya dan mengapa?\nA. Raka, karena file di desktop selalu terlihat di layar\nB. Sinta, karena file tugasnya terkelompok rapi dalam folder sehingga mudah dicari\nC. Raka, karena file di desktop tidak perlu dibuka foldernya\nD. Sama saja, karena semua file tetap ada di komputer",
+    "pilihan": [
+      "Raka, karena file di desktop selalu terlihat di layar",
+      "Sinta, karena file tugasnya terkelompok rapi dalam folder sehingga mudah dicari",
+      "Raka, karena file di desktop tidak perlu dibuka foldernya",
+      "Sama saja, karena semua file tetap ada di komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "File yang disimpan di desktop bercampur dengan file lain dan mudah tertimbun, sehingga makin lama makin sulit dicari. File di dalam folder terkelompok rapi per mata pelajaran, jadi tugas yang dicari cepat ditemukan walaupun sudah sebulan berlalu.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab A\n### Sub-bab B: Menggunakan Perangkat TIK",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina sedang mengetik tugas di komputer, tetapi ia belum sempat menyimpannya. Lalu ia mematikan komputer langsung dengan menekan tombol power. Apa yang terjadi pada tugas Dina?\nA. Tugas tersimpan otomatis dan aman\nB. Tugas tetap ada karena komputer sudah pernah menyala\nC. Tugas yang belum disimpan akan hilang dan harus diketik ulang\nD. Tugas berpindah sendiri ke folder lain",
+    "pilihan": [
+      "Tugas tersimpan otomatis dan aman",
+      "Tugas tetap ada karena komputer sudah pernah menyala",
+      "Tugas yang belum disimpan akan hilang dan harus diketik ulang",
+      "Tugas berpindah sendiri ke folder lain"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pekerjaan yang belum disimpan hanya ada di memori sementara komputer. Kalau komputer dimatikan mendadak, tugas itu hilang dan harus diketik ulang — karena itu selalu simpan pekerjaan sebelum mematikan komputer.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi ingin membuka aplikasi menggambar, jadi ia mengklik ganda ikonnya. Lalu ia ingin melihat pilihan lain, misalnya membuka aplikasi itu dengan cara lain. Kapan klik ganda dipakai dan kapan klik kanan dipakai?\nA. Klik ganda untuk membuka aplikasi, klik kanan untuk melihat pilihan lain\nB. Klik kanan untuk membuka aplikasi, klik ganda untuk menutup aplikasi\nC. Klik ganda dan klik kanan sama saja, boleh dipakai kapan saja\nD. Klik kanan untuk membuka aplikasi, klik ganda untuk menghapus aplikasi",
+    "pilihan": [
+      "Klik ganda untuk membuka aplikasi, klik kanan untuk melihat pilihan lain",
+      "Klik kanan untuk membuka aplikasi, klik ganda untuk menutup aplikasi",
+      "Klik ganda dan klik kanan sama saja, boleh dipakai kapan saja",
+      "Klik kanan untuk membuka aplikasi, klik ganda untuk menghapus aplikasi"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Klik ganda, yaitu tombol kiri mouse ditekan dua kali dengan cepat, dipakai untuk membuka aplikasi atau folder. Klik kanan dipakai kalau ingin melihat pilihan lain, misalnya membuka dengan cara lain atau melihat informasi tentang file.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka mengeklik ikon aplikasi, tetapi aplikasi itu tidak mau terbuka dan komputer tidak merespons. Apa langkah pertama yang paling tepat?\nA. Langsung mencabut kabel listrik dari stop kontak\nB. Menunggu sebentar, lalu memberitahu guru atau orang tua\nC. Menekan semua tombol keyboard sekaligus\nD. Mematikan monitor lalu menyalakannya lagi",
+    "pilihan": [
+      "Langsung mencabut kabel listrik dari stop kontak",
+      "Menunggu sebentar, lalu memberitahu guru atau orang tua",
+      "Menekan semua tombol keyboard sekaligus",
+      "Mematikan monitor lalu menyalakannya lagi"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Komputer yang tidak merespons kadang hanya perlu waktu sebentar untuk memproses. Kalau tetap tidak bisa, beri tahu guru atau orang tua — jangan mencabut kabel, karena bisa merusak komputer dan menghilangkan pekerjaan yang belum disimpan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B\n### Sub-bab C: Sikap yang Tepat ketika Menggunakan Komputer",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta beristirahat setiap 30 menit saat memakai komputer, sedangkan Dodi menatap layar tanpa henti dari pagi sampai sore. Siapa yang lebih sehat dan mengapa?\nA. Dodi, karena ia berlatih menahan lelah\nB. Sinta, karena mata dan badannya sempat beristirahat sehingga tidak cepat lelah\nC. Sama saja, karena keduanya memakai komputer yang sama\nD. Dodi, karena ia tidak membuang waktu untuk istirahat",
+    "pilihan": [
+      "Dodi, karena ia berlatih menahan lelah",
+      "Sinta, karena mata dan badannya sempat beristirahat sehingga tidak cepat lelah",
+      "Sama saja, karena keduanya memakai komputer yang sama",
+      "Dodi, karena ia tidak membuang waktu untuk istirahat"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Mata dan badan yang dipakai tanpa henti akan cepat lelah dan pegal. Dengan beristirahat berkala, Sinta memberi waktu bagi mata dan badannya untuk pulih, jadi ia lebih sehat daripada Dodi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Andi selalu duduk membungkuk di depan komputer setiap hari selama berbulan-bulan. Apa yang mungkin terjadi pada badannya?\nA. Badannya menjadi lebih kuat karena terbiasa membungkuk\nB. Punggung dan lehernya sakit, dan badannya tidak sehat\nC. Matanya menjadi lebih tajam karena dekat dengan layar\nD. Tidak terjadi apa-apa, karena posisi duduk tidak berpengaruh pada badan",
+    "pilihan": [
+      "Badannya menjadi lebih kuat karena terbiasa membungkuk",
+      "Punggung dan lehernya sakit, dan badannya tidak sehat",
+      "Matanya menjadi lebih tajam karena dekat dengan layar",
+      "Tidak terjadi apa-apa, karena posisi duduk tidak berpengaruh pada badan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Duduk membungkuk setiap hari membuat tulang punggung dan leher tertekan terus-menerus. Lama-kelamaan punggung dan leher bisa sakit, jadi duduk tegak itu penting untuk kesehatan badan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka membuat satu folder bernama \"Tugas\", lalu memasukkan SEMUA file ke dalamnya: tugas Matematika, tugas IPA, foto liburan, lagu, dan video — tanpa subfolder sama sekali. Apakah file Raka sudah rapi?\nA. Sudah rapi, karena semua file sudah masuk ke dalam folder\nB. Belum rapi; satu folder besar tanpa subfolder hampir sama sulit dicarinya dengan desktop — perlu subfolder per mata pelajaran atau jenis file, misalnya \"Matematika\", \"Foto\", dan \"Musik\"\nC. Belum rapi; solusinya menghapus semua foto dan lagu supaya foldernya ringan\nD. Sudah rapi; yang penting file tidak ada di desktop",
+    "pilihan": [
+      "Sudah rapi, karena semua file sudah masuk ke dalam folder",
+      "Belum rapi; satu folder besar tanpa subfolder hampir sama sulit dicarinya dengan desktop — perlu subfolder per mata pelajaran atau jenis file, misalnya \"Matematika\", \"Foto\", dan \"Musik\"",
+      "Belum rapi; solusinya menghapus semua foto dan lagu supaya foldernya ringan",
+      "Sudah rapi; yang penting file tidak ada di desktop"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Folder hanya membantu kalau isinya dikelompokkan. Satu folder besar berisi semua jenis file sama saja dengan desktop: file tetap bercampur dan sulit dicari. Raka perlu membuat subfolder per mata pelajaran atau jenis file.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menyimpan 50 foto liburan dengan nama \"Foto (1)\" sampai \"Foto (50)\" tanpa keterangan lain. Sebulan kemudian ia mencari foto pantai. Apa masalahnya, dan bagaimana seharusnya ia menamai file itu sejak awal?\nA. Tidak ada masalah; nomor urut sudah cukup untuk menemukan foto pantai\nB. Masalahnya fotonya terlalu banyak; seharusnya ia menghapus sebagian foto\nC. Nama bernomor tanpa keterangan isi tidak bisa dicari; seharusnya ia menamai berdasarkan isi atau tempatnya, misalnya \"Foto_Pantai_Bali\"\nD. Masalahnya ia memakai tanda kurung; seharusnya ia memakai huruf saja",
+    "pilihan": [
+      "Tidak ada masalah; nomor urut sudah cukup untuk menemukan foto pantai",
+      "Masalahnya fotonya terlalu banyak; seharusnya ia menghapus sebagian foto",
+      "Nama bernomor tanpa keterangan isi tidak bisa dicari; seharusnya ia menamai berdasarkan isi atau tempatnya, misalnya \"Foto_Pantai_Bali\"",
+      "Masalahnya ia memakai tanda kurung; seharusnya ia memakai huruf saja"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Nama file yang baik menjelaskan isi file. \"Foto (1)\" sampai \"Foto (50)\" tidak memberi petunjuk foto mana yang diambil di pantai, jadi Dina harus membuka satu per satu. Nama seperti \"Foto_Pantai_Bali\" langsung menunjukkan isinya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab A\n### Sub-bab B: Menggunakan Perangkat TIK",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka menyalakan komputer dengan menekan tombol power pada CPU lalu pada monitor, tetapi ia lupa memeriksa kabel listrik. Layar tetap gelap. Apa yang mungkin menjadi penyebabnya, dan apa yang harus ia periksa pertama kali?\nA. Komputernya pasti rusak dan harus dibeli yang baru\nB. Kabel listrik mungkin belum tersambung; periksa sambungan kabel listrik ke stop kontak dan ke CPU atau monitor terlebih dahulu\nC. Ia harus menekan tombol power berulang-ulang sampai layar menyala\nD. Monitornya pasti rusak; langsung ganti monitor baru",
+    "pilihan": [
+      "Komputernya pasti rusak dan harus dibeli yang baru",
+      "Kabel listrik mungkin belum tersambung; periksa sambungan kabel listrik ke stop kontak dan ke CPU atau monitor terlebih dahulu",
+      "Ia harus menekan tombol power berulang-ulang sampai layar menyala",
+      "Monitornya pasti rusak; langsung ganti monitor baru"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Layar yang tetap gelap belum tentu berarti komputer rusak — penyebab paling sederhana adalah kabel listrik yang belum tersambung. Karena itu, periksa dulu sambungan kabel ke stop kontak dan ke perangkat sebelum menyimpulkan ada kerusakan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab B\n### Sub-bab C: Sikap yang Tepat ketika Menggunakan Komputer",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina memakai komputer di ruangan gelap dengan layar yang sangat terang, sedangkan Sinta memakai komputer di ruangan terang dengan kecerahan layar sedang. Siapa yang matanya lebih cepat lelah dan mengapa?\nA. Sinta, karena ruangan terang membuat layar sulit dibaca\nB. Dina, karena kontras yang ekstrem antara layar sangat terang dan ruangan gelap membuat mata bekerja lebih keras\nC. Sama saja, karena keduanya memakai kecerahan layar yang berbeda\nD. Sinta, karena kecerahan sedang membuat tulisan tidak jelas",
+    "pilihan": [
+      "Sinta, karena ruangan terang membuat layar sulit dibaca",
+      "Dina, karena kontras yang ekstrem antara layar sangat terang dan ruangan gelap membuat mata bekerja lebih keras",
+      "Sama saja, karena keduanya memakai kecerahan layar yang berbeda",
+      "Sinta, karena kecerahan sedang membuat tulisan tidak jelas"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Mata harus menyesuaikan diri dengan perbedaan terang antara layar dan ruangan di sekitarnya. Layar sangat terang di ruangan gelap menciptakan kontras yang ekstrem, sehingga mata Dina bekerja lebih keras dan lebih cepat lelah daripada mata Sinta.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 2, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 2: Teknologi Informasi dan Komunikasi",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan perangkat keras (hardware) komputer?\nA. Program yang memberi perintah kepada komputer\nB. Data yang disimpan di dalam komputer\nC. Bagian fisik komputer yang dapat dilihat dan disentuh\nD. Orang yang memakai komputer",
+    "pilihan": [
+      "Program yang memberi perintah kepada komputer",
+      "Data yang disimpan di dalam komputer",
+      "Bagian fisik komputer yang dapat dilihat dan disentuh",
+      "Orang yang memakai komputer"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Hardware adalah bagian-bagian fisik komputer yang dapat dilihat dan diraba, misalnya monitor, keyboard, dan mouse. Program dan data bukan hardware, karena tidak berwujud.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "A: Hardware (Perangkat Keras)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang termasuk perangkat input?\nA. Monitor\nB. Keyboard\nC. Printer\nD. Speaker",
+    "pilihan": [
+      "Monitor",
+      "Keyboard",
+      "Printer",
+      "Speaker"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Keyboard adalah perangkat input karena dipakai untuk memasukkan data dan perintah, yaitu mengetik huruf dan angka, ke dalam komputer. Monitor, printer, dan speaker adalah perangkat output.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "A: Hardware (Perangkat Keras)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani mengetik sebuah cerita di komputer, lalu cerita itu muncul di layar. Perangkat yang menampilkan cerita Rani adalah ....\nA. Monitor\nB. Mouse\nC. Keyboard\nD. CPU",
+    "pilihan": [
+      "Monitor",
+      "Mouse",
+      "Keyboard",
+      "CPU"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Monitor adalah perangkat output yang menampilkan hasil pengolahan komputer berupa gambar dan teks di layar. Keyboard dipakai untuk mengetik, sedangkan CPU memproses data di dalam unit sistem.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "A: Hardware (Perangkat Keras)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perangkat yang disebut \"otak komputer\" karena memproses semua data dan perintah adalah ....\nA. Monitor\nB. Printer\nC. Keyboard\nD. CPU (prosesor)",
+    "pilihan": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "CPU (prosesor)"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "CPU atau prosesor disebut otak komputer karena tugasnya memproses dan mengolah semua data serta perintah yang membuat komputer dapat bekerja.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "A: Hardware (Perangkat Keras)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pak Guru ingin hasil tugas siswa dicetak di atas kertas. Perangkat yang dipakai Pak Guru adalah ....\nA. Speaker\nB. Scanner\nC. Printer\nD. Mouse",
+    "pilihan": [
+      "Speaker",
+      "Scanner",
+      "Printer",
+      "Mouse"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Printer adalah perangkat output yang mencetak hasil pengolahan komputer, berupa teks atau gambar, menjadi bentuk cetakan di atas kertas. Speaker mengeluarkan suara, sedangkan scanner justru memindai kertas menjadi data digital.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "A: Hardware (Perangkat Keras)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan perangkat lunak (software)?\nA. Bagian komputer yang bisa disentuh dan dipegang\nB. Kumpulan instruksi atau program yang memberi perintah kepada komputer\nC. Kabel yang menghubungkan komputer dengan listrik\nD. Kotak tempat menyimpan semua bagian komputer",
+    "pilihan": [
+      "Bagian komputer yang bisa disentuh dan dipegang",
+      "Kumpulan instruksi atau program yang memberi perintah kepada komputer",
+      "Kabel yang menghubungkan komputer dengan listrik",
+      "Kotak tempat menyimpan semua bagian komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Perangkat lunak adalah kumpulan instruksi atau program yang memberi tahu komputer apa yang harus dilakukan. Berbeda dengan perangkat keras, perangkat lunak tidak berwujud fisik sehingga tidak bisa disentuh.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "B: Software (Perangkat Lunak)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang merupakan perangkat lunak?\nA. Keyboard\nB. Monitor\nC. Microsoft Word\nD. Mouse",
+    "pilihan": [
+      "Keyboard",
+      "Monitor",
+      "Microsoft Word",
+      "Mouse"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Microsoft Word adalah program aplikasi untuk mengetik, jadi ia perangkat lunak. Keyboard, monitor, dan mouse adalah benda fisik yang bisa disentuh, jadi mereka perangkat keras.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "B: Software (Perangkat Lunak)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani menyalakan laptop, lalu muncul tampilan Windows. Windows pada laptop Rani adalah contoh ....\nA. Sistem operasi\nB. Perangkat keras\nC. Aplikasi menggambar\nD. Permainan",
+    "pilihan": [
+      "Sistem operasi",
+      "Perangkat keras",
+      "Aplikasi menggambar",
+      "Permainan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Windows adalah sistem operasi, yaitu perangkat lunak yang mengatur seluruh kerja perangkat keras dan program lain di komputer. Tanpa sistem operasi, aplikasi tidak bisa dijalankan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "B: Software (Perangkat Lunak)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi ingin mengetik tugas cerita di komputer. Aplikasi yang paling tepat untuk Budi adalah ....\nA. Paint\nB. Google Chrome\nC. Media Player\nD. Microsoft Word",
+    "pilihan": [
+      "Paint",
+      "Google Chrome",
+      "Media Player",
+      "Microsoft Word"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Microsoft Word adalah aplikasi pengolah kata, yaitu program yang dibuat khusus untuk mengetik dan mengolah dokumen. Paint untuk menggambar, Chrome untuk menjelajah internet, dan Media Player untuk memutar lagu atau video.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "B: Software (Perangkat Lunak)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang BUKAN perangkat lunak?\nA. Google Chrome\nB. Printer\nC. Paint\nD. Permainan (game)",
+    "pilihan": [
+      "Google Chrome",
+      "Printer",
+      "Paint",
+      "Permainan (game)"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Printer adalah mesin pencetak yang bisa disentuh, jadi ia perangkat keras. Google Chrome, Paint, dan permainan adalah program yang berjalan di komputer, jadi mereka perangkat lunak.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "B: Software (Perangkat Lunak)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan brainware?\nA. Bagian komputer yang bisa dilihat dan disentuh\nB. Manusia yang menggunakan dan mengoperasikan komputer\nC. Program yang ada di dalam komputer\nD. Alat untuk mencetak tulisan dari komputer",
+    "pilihan": [
+      "Bagian komputer yang bisa dilihat dan disentuh",
+      "Manusia yang menggunakan dan mengoperasikan komputer",
+      "Program yang ada di dalam komputer",
+      "Alat untuk mencetak tulisan dari komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Brainware adalah manusia yang menggunakan, memakai, dan mengoperasikan komputer. Kita sendiri, saat memakai komputer untuk belajar, termasuk brainware.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "C: Brainware (Pengguna)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah kegiatan berikut yang menunjukkan brainware?\nA. Monitor menampilkan gambar di layar\nB. Microsoft Word digunakan untuk mengetik\nC. Siswa mengetik tugas sekolah di komputer\nD. Keyboard ditekan lalu huruf muncul di layar",
+    "pilihan": [
+      "Monitor menampilkan gambar di layar",
+      "Microsoft Word digunakan untuk mengetik",
+      "Siswa mengetik tugas sekolah di komputer",
+      "Keyboard ditekan lalu huruf muncul di layar"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Brainware adalah orangnya, bukan alatnya. Siswa yang mengetik tugas adalah manusia yang memakai komputer, jadi ia adalah brainware. Monitor dan keyboard adalah hardware, sedangkan Microsoft Word adalah software.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "C: Brainware (Pengguna)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah sistem komputer yang lengkap terdiri dari tiga komponen. Ketiga komponen itu adalah ....\nA. Hardware, software, dan brainware\nB. Monitor, keyboard, dan mouse\nC. Hardware dan software saja\nD. Internet, listrik, dan brainware",
+    "pilihan": [
+      "Hardware, software, dan brainware",
+      "Monitor, keyboard, dan mouse",
+      "Hardware dan software saja",
+      "Internet, listrik, dan brainware"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Sistem komputer yang lengkap terdiri dari hardware (perangkat keras), software (perangkat lunak), dan brainware (pengguna). Ketiganya harus ada dan bekerja sama agar komputer bisa digunakan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "C: Brainware (Pengguna)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di ruang komputer sekolah ada sebuah komputer yang sudah lengkap: ada monitor, keyboard, mouse, dan programnya. Namun, tidak ada satu pun siswa atau guru yang datang hari itu. Apa yang terjadi dengan komputer itu?\nA. Komputer mengerjakan tugas sendiri\nB. Komputer tetap diam dan tidak bisa dipakai\nC. Komputer menyalakan dirinya sendiri\nD. Komputer membuat tugas sendiri untuk siswa",
+    "pilihan": [
+      "Komputer mengerjakan tugas sendiri",
+      "Komputer tetap diam dan tidak bisa dipakai",
+      "Komputer menyalakan dirinya sendiri",
+      "Komputer membuat tugas sendiri untuk siswa"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Komputer hanyalah sebuah alat. Tanpa manusia yang menyalakan dan memberi perintah, komputer tidak dapat bekerja sendiri. Manusia sebagai pengguna komputer itulah yang disebut brainware.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "C: Brainware (Pengguna)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Siapa yang memberi perintah agar komputer mengetik huruf yang kita inginkan?\nA. Printer\nB. Monitor\nC. Speaker\nD. Pengguna yang menekan keyboard",
+    "pilihan": [
+      "Printer",
+      "Monitor",
+      "Speaker",
+      "Pengguna yang menekan keyboard"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Huruf muncul di layar karena pengguna (brainware) menekan tombol di keyboard. Printer, monitor, dan speaker adalah perangkat keras yang tidak bisa memberi perintah sendiri.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "C: Brainware (Pengguna)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani ingin menggambar di komputer. Ia mempunyai keyboard dan mouse. Perangkat mana yang paling membantunya menggambar dan mengapa?\nA. Keyboard, karena keyboard bisa menggambar garis dengan menekan tombol huruf\nB. Mouse, karena mouse bisa menggerakkan kursor dan menggambar bebas di layar\nC. Keyboard, karena mengetik lebih cepat daripada menggerakkan mouse\nD. Mouse dan keyboard sama saja, keduanya bisa menggambar dengan sama baiknya",
+    "pilihan": [
+      "Keyboard, karena keyboard bisa menggambar garis dengan menekan tombol huruf",
+      "Mouse, karena mouse bisa menggerakkan kursor dan menggambar bebas di layar",
+      "Keyboard, karena mengetik lebih cepat daripada menggerakkan mouse",
+      "Mouse dan keyboard sama saja, keduanya bisa menggambar dengan sama baiknya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Mouse menggerakkan kursor ke mana pun di layar, sehingga Rani bisa menggambar garis dan bentuk dengan bebas. Keyboard hanya dipakai untuk mengetik huruf dan angka, bukan untuk menggambar.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "CPU sebuah komputer rusak. Apa yang terjadi pada monitor, keyboard, dan printer?\nA. Semuanya tetap bekerja seperti biasa, hanya lebih lambat\nB. Semuanya tidak bisa bekerja, karena tidak ada yang memproses data dan perintah\nC. Hanya monitor yang mati, keyboard dan printer tetap bekerja\nD. Hanya printer yang berhenti, monitor dan keyboard tetap bekerja",
+    "pilihan": [
+      "Semuanya tetap bekerja seperti biasa, hanya lebih lambat",
+      "Semuanya tidak bisa bekerja, karena tidak ada yang memproses data dan perintah",
+      "Hanya monitor yang mati, keyboard dan printer tetap bekerja",
+      "Hanya printer yang berhenti, monitor dan keyboard tetap bekerja"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "CPU adalah otak komputer yang memproses semua data dan perintah. Kalau CPU rusak, monitor tidak menampilkan apa-apa dan keyboard serta printer tidak bisa bekerja, karena tidak ada yang memproses perintah mereka.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Printer adalah perangkat input, karena kita memasukkan kertas ke dalamnya.\" Apakah Dodi benar? Jelaskan.\nA. Benar, karena kertas dimasukkan ke dalam printer\nB. Benar, karena printer menerima kertas dari kita\nC. Salah, karena printer mengeluarkan hasil cetakan, jadi perangkat output; memasukkan kertas bukan memasukkan data\nD. Salah, karena printer adalah perangkat lunak",
+    "pilihan": [
+      "Benar, karena kertas dimasukkan ke dalam printer",
+      "Benar, karena printer menerima kertas dari kita",
+      "Salah, karena printer mengeluarkan hasil cetakan, jadi perangkat output; memasukkan kertas bukan memasukkan data",
+      "Salah, karena printer adalah perangkat lunak"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perangkat input memasukkan data atau perintah ke komputer, sedangkan printer mengeluarkan hasil dari komputer ke atas kertas, jadi ia perangkat output. Memasukkan kertas ke printer bukan memasukkan data ke komputer.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab A\n### Sub-bab B: Software (Perangkat Lunak)",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta ingin membuat undangan ulang tahun yang berisi gambar dan tulisan. Ia mempunyai Paint dan Microsoft Word. Aplikasi mana yang lebih tepat dan mengapa?\nA. Paint, karena Paint bisa mengetik tulisan yang rapi seperti Word\nB. Microsoft Word, karena Word bisa menggabungkan tulisan yang rapi dengan gambar dalam satu undangan\nC. Paint, karena undangan hanya perlu gambar, tidak perlu tulisan\nD. Keduanya sama saja, hasilnya pasti sama",
+    "pilihan": [
+      "Paint, karena Paint bisa mengetik tulisan yang rapi seperti Word",
+      "Microsoft Word, karena Word bisa menggabungkan tulisan yang rapi dengan gambar dalam satu undangan",
+      "Paint, karena undangan hanya perlu gambar, tidak perlu tulisan",
+      "Keduanya sama saja, hasilnya pasti sama"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Undangan membutuhkan tulisan yang rapi dan gambar. Microsoft Word dibuat untuk mengolah tulisan dan bisa menambahkan gambar, sedangkan Paint hanya untuk menggambar dan tidak cocok untuk menulis teks yang rapi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Komputer dinyalakan, tetapi sistem operasinya rusak dan tidak bisa dipakai. Apa yang terjadi? Bisakah Budi langsung membuka Microsoft Word?\nA. Ya, Budi bisa langsung membuka Word karena Word tidak butuh sistem operasi\nB. Tidak, karena tanpa sistem operasi aplikasi tidak bisa dijalankan dan komputer tidak bisa dipakai\nC. Ya, tetapi hanya Word yang bisa dibuka, aplikasi lain tidak\nD. Ya, tetapi komputer hanya bisa dipakai untuk mengetik saja",
+    "pilihan": [
+      "Ya, Budi bisa langsung membuka Word karena Word tidak butuh sistem operasi",
+      "Tidak, karena tanpa sistem operasi aplikasi tidak bisa dijalankan dan komputer tidak bisa dipakai",
+      "Ya, tetapi hanya Word yang bisa dibuka, aplikasi lain tidak",
+      "Ya, tetapi komputer hanya bisa dipakai untuk mengetik saja"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sistem operasi mengatur seluruh kerja komputer dan menjadi dasar bagi aplikasi untuk berjalan. Tanpa sistem operasi, Microsoft Word pun tidak bisa dibuka, jadi komputer tidak bisa dipakai.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka berkata, \"Google Chrome adalah perangkat keras, karena kita bisa melihatnya di layar.\" Apakah Raka benar? Jelaskan.\nA. Benar, karena semua yang terlihat di layar adalah perangkat keras\nB. Benar, karena Chrome bisa disentuh dengan jari di layar\nC. Salah, karena Chrome adalah program/aplikasi, jadi perangkat lunak; yang terlihat di layar hanyalah tampilannya, bukan bendanya\nD. Salah, karena Chrome adalah brainware",
+    "pilihan": [
+      "Benar, karena semua yang terlihat di layar adalah perangkat keras",
+      "Benar, karena Chrome bisa disentuh dengan jari di layar",
+      "Salah, karena Chrome adalah program/aplikasi, jadi perangkat lunak; yang terlihat di layar hanyalah tampilannya, bukan bendanya",
+      "Salah, karena Chrome adalah brainware"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Google Chrome adalah program yang berjalan di komputer, jadi ia perangkat lunak. Yang terlihat di layar hanyalah tampilannya; bendanya tidak bisa disentuh, berbeda dengan monitor atau keyboard.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab B\n### Sub-bab C: Brainware (Pengguna)",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Semua program di komputer sekolah sudah terpasang lengkap, tetapi tidak ada satu pun orang di sekolah yang tahu cara memakainya. Apa yang terjadi dengan komputer itu?\nA. Komputer tetap bisa dipakai dengan baik, karena programnya sudah lengkap\nB. Komputer bekerja sendiri dan menyelesaikan tugas tanpa bantuan\nC. Komputer tidak bisa dipakai dengan baik — brainware harus belajar dulu cara mengoperasikannya\nD. Komputer otomatis mengajari dirinya sendiri cara bekerja",
+    "pilihan": [
+      "Komputer tetap bisa dipakai dengan baik, karena programnya sudah lengkap",
+      "Komputer bekerja sendiri dan menyelesaikan tugas tanpa bantuan",
+      "Komputer tidak bisa dipakai dengan baik — brainware harus belajar dulu cara mengoperasikannya",
+      "Komputer otomatis mengajari dirinya sendiri cara bekerja"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Secanggih apa pun komputer dan selengkap apa pun programnya, komputer tetap membutuhkan pengguna yang tahu cara mengoperasikannya. Tanpa brainware yang paham, komputer tidak bisa dipakai dengan baik.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "\"Komputer di lab sudah paling canggih, jadi tugas pasti selesai dengan baik.\" Apakah pernyataan ini benar? Jelaskan.\nA. Benar, karena komputer canggih selalu menghasilkan tugas yang baik\nB. Benar, karena komputer canggih tidak pernah membuat kesalahan\nC. Salah, karena komputer tidak bisa bekerja sendiri; hasil tugas tergantung pengguna yang memberi perintah dan menggunakannya dengan benar\nD. Salah, karena komputer canggih tidak bisa dipakai untuk tugas sekolah",
+    "pilihan": [
+      "Benar, karena komputer canggih selalu menghasilkan tugas yang baik",
+      "Benar, karena komputer canggih tidak pernah membuat kesalahan",
+      "Salah, karena komputer tidak bisa bekerja sendiri; hasil tugas tergantung pengguna yang memberi perintah dan menggunakannya dengan benar",
+      "Salah, karena komputer canggih tidak bisa dipakai untuk tugas sekolah"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Komputer hanyalah alat; ia tidak bisa bekerja sendiri. Bagus tidaknya tugas tergantung pada pengguna yang memberi perintah dan memakai komputer dengan benar, bukan pada kecanggihan komputernya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 3, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 3: Sistem Komputer",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan jaringan komputer?\nA. Satu komputer yang dipakai sendirian tanpa terhubung ke perangkat lain\nB. Dua atau lebih komputer yang saling terhubung dan dapat bertukar data serta berbagi sumber daya\nC. Sebuah program untuk menggambar di komputer\nD. Kabel yang dipakai untuk menyalakan komputer",
+    "pilihan": [
+      "Satu komputer yang dipakai sendirian tanpa terhubung ke perangkat lain",
+      "Dua atau lebih komputer yang saling terhubung dan dapat bertukar data serta berbagi sumber daya",
+      "Sebuah program untuk menggambar di komputer",
+      "Kabel yang dipakai untuk menyalakan komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jaringan komputer adalah dua atau lebih perangkat komputer yang saling terhubung, baik dengan kabel maupun tanpa kabel, sehingga dapat bertukar data, berbagi sumber daya, dan berkomunikasi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "A: Jaringan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di laboratorium komputer sekolah, semua komputer saling terhubung dan dapat memakai satu printer yang sama. Keadaan ini adalah contoh ....\nA. Komputer yang rusak\nB. Perangkat lunak\nC. Jaringan komputer\nD. Brainware",
+    "pilihan": [
+      "Komputer yang rusak",
+      "Perangkat lunak",
+      "Jaringan komputer",
+      "Brainware"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Komputer-komputer di laboratorium yang saling terhubung dan dapat memakai printer yang sama membentuk jaringan komputer, karena mereka berbagi sumber daya melalui hubungan antarperangkat.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "A: Jaringan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina menyimpan tugas sekolah di komputer laboratorium. Dari komputer lain yang terhubung dalam jaringan yang sama, Rina dapat membuka tugas itu tanpa memakai flashdisk. Manfaat jaringan komputer yang ditunjukkan Rina adalah ....\nA. Berbagi data antar komputer\nB. Membuat komputer menyala lebih cepat\nC. Mengganti keyboard yang rusak\nD. Mematikan semua komputer sekaligus",
+    "pilihan": [
+      "Berbagi data antar komputer",
+      "Membuat komputer menyala lebih cepat",
+      "Mengganti keyboard yang rusak",
+      "Mematikan semua komputer sekaligus"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Dengan jaringan komputer, data yang tersimpan di satu komputer dapat dibuka dari komputer lain yang terhubung dalam jaringan yang sama, tanpa perlu memindahkan file dengan flashdisk.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "A: Jaringan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang BUKAN contoh jaringan komputer?\nA. Komputer di rumah yang terhubung ke Wi-Fi dan dapat memakai printer yang sama dengan laptop ayah\nB. Komputer-komputer di laboratorium sekolah yang saling terhubung\nC. Dua laptop yang saling terhubung dengan kabel untuk bertukar file\nD. Satu komputer yang berdiri sendiri dan tidak terhubung ke komputer lain",
+    "pilihan": [
+      "Komputer di rumah yang terhubung ke Wi-Fi dan dapat memakai printer yang sama dengan laptop ayah",
+      "Komputer-komputer di laboratorium sekolah yang saling terhubung",
+      "Dua laptop yang saling terhubung dengan kabel untuk bertukar file",
+      "Satu komputer yang berdiri sendiri dan tidak terhubung ke komputer lain"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Jaringan komputer selalu melibatkan dua atau lebih perangkat yang saling terhubung. Satu komputer yang berdiri sendiri dan tidak terhubung ke perangkat lain bukanlah jaringan komputer.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "A: Jaringan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina mengirim gambar hasil karyanya dari komputernya ke komputer temannya melalui jaringan sekolah. Hal ini menunjukkan bahwa jaringan komputer dapat digunakan untuk ....\nA. Mempercepat komputer yang lambat\nB. Berkomunikasi dan bertukar informasi antar pengguna\nC. Menghapus virus dari komputer\nD. Memperbaiki monitor yang rusak",
+    "pilihan": [
+      "Mempercepat komputer yang lambat",
+      "Berkomunikasi dan bertukar informasi antar pengguna",
+      "Menghapus virus dari komputer",
+      "Memperbaiki monitor yang rusak"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Melalui jaringan komputer, pengguna dapat mengirim pesan, gambar, dan file kepada pengguna lain, sehingga jaringan membantu orang berkomunikasi dan bertukar informasi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "A: Jaringan Komputer",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan internet?\nA. Satu komputer yang sangat besar di dalam sekolah\nB. Kabel yang menghubungkan komputer dengan listrik\nC. Jaringan besar yang menghubungkan jutaan komputer di seluruh dunia\nD. Program untuk mengetik tugas di komputer",
+    "pilihan": [
+      "Satu komputer yang sangat besar di dalam sekolah",
+      "Kabel yang menghubungkan komputer dengan listrik",
+      "Jaringan besar yang menghubungkan jutaan komputer di seluruh dunia",
+      "Program untuk mengetik tugas di komputer"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Internet adalah jaringan komputer terbesar di dunia yang menghubungkan jutaan komputer di berbagai negara, sehingga orang di tempat yang jauh bisa berbagi informasi dan berkomunikasi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "B: Internet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani mendapat tugas IPA tentang daur hidup kupu-kupu. Cara tercepat mencari informasi itu dengan internet adalah ....\nA. Membuka peramban dan mencari informasi tentang daur hidup kupu-kupu\nB. Menunggu sampai ada teman yang bercerita tentang kupu-kupu\nC. Mematikan komputer lalu menyalakannya lagi\nD. Menghapus semua file di komputer",
+    "pilihan": [
+      "Membuka peramban dan mencari informasi tentang daur hidup kupu-kupu",
+      "Menunggu sampai ada teman yang bercerita tentang kupu-kupu",
+      "Mematikan komputer lalu menyalakannya lagi",
+      "Menghapus semua file di komputer"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Dengan internet, Rani bisa membuka peramban dan mencari informasi tentang daur hidup kupu-kupu dengan cepat, tanpa harus menunggu atau pergi ke perpustakaan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "B: Internet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi ingin mengirim tugas cerita kepada Pak Guru lewat surat elektronik. Layanan internet yang dipakai Budi adalah ....\nA. Permainan daring\nB. Surat elektronik (email)\nC. Kalkulator\nD. Pemutar musik",
+    "pilihan": [
+      "Permainan daring",
+      "Surat elektronik (email)",
+      "Kalkulator",
+      "Pemutar musik"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Surat elektronik atau email adalah layanan internet untuk mengirim pesan dan tugas kepada orang lain dengan cepat, misalnya kepada guru.\n**Catatan:** Soal bonus (Andri, 25 Nov 2026) — jawabannya mudah ditebak dari pertanyaan; dipakai sebagai soal pemanasan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "B: Internet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa perbedaan internet dengan jaringan komputer di ruang komputer sekolah?\nA. Internet hanya ada di sekolah, jaringan sekolah ada di mana-mana\nB. Jaringan sekolah menghubungkan komputer di seluruh dunia\nC. Internet dan jaringan sekolah tidak ada bedanya\nD. Internet menghubungkan komputer di berbagai negara, sedangkan jaringan sekolah hanya menghubungkan komputer di satu tempat",
+    "pilihan": [
+      "Internet hanya ada di sekolah, jaringan sekolah ada di mana-mana",
+      "Jaringan sekolah menghubungkan komputer di seluruh dunia",
+      "Internet dan jaringan sekolah tidak ada bedanya",
+      "Internet menghubungkan komputer di berbagai negara, sedangkan jaringan sekolah hanya menghubungkan komputer di satu tempat"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Jaringan di ruang komputer sekolah hanya menghubungkan komputer-komputer di satu tempat. Internet jauh lebih besar: ia menghubungkan komputer di berbagai negara di seluruh dunia.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "B: Internet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang BUKAN penggunaan internet yang baik untuk anak sekolah?\nA. Menonton video pembelajaran\nB. Mencari materi pelajaran untuk tugas sekolah\nC. Bermain gim daring sepanjang hari tanpa berhenti\nD. Mengikuti kelas daring bersama guru",
+    "pilihan": [
+      "Menonton video pembelajaran",
+      "Mencari materi pelajaran untuk tugas sekolah",
+      "Bermain gim daring sepanjang hari tanpa berhenti",
+      "Mengikuti kelas daring bersama guru"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Internet sebaiknya dipakai untuk hal yang bermanfaat, seperti belajar dan mengerjakan tugas. Bermain gim daring sepanjang hari tanpa berhenti bukan penggunaan yang baik dan bisa membuat badan lelah.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "B: Internet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Mengapa data di komputer perlu dilindungi?\nA. Supaya komputer menyala lebih cepat\nB. Karena data bisa dicuri dan disalahgunakan oleh orang yang tidak bertanggung jawab\nC. Supaya layar komputer lebih terang\nD. Supaya komputer tidak cepat panas",
+    "pilihan": [
+      "Supaya komputer menyala lebih cepat",
+      "Karena data bisa dicuri dan disalahgunakan oleh orang yang tidak bertanggung jawab",
+      "Supaya layar komputer lebih terang",
+      "Supaya komputer tidak cepat panas"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Data yang dikirim lewat jaringan atau internet, terutama Wi-Fi di tempat umum, dapat disalin oleh orang yang tidak bertanggung jawab. Karena itu data perlu dilindungi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "C: Cara Melindungi Data dan File",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah kata sandi berikut yang paling kuat?\nA. \"12345\"\nB. \"udin123\"\nC. \"B3l4j4r!R4j1n\"\nD. \"nama saya\"",
+    "pilihan": [
+      "\"12345\"",
+      "\"udin123\"",
+      "\"B3l4j4r!R4j1n\"",
+      "\"nama saya\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kata sandi yang kuat memakai delapan karakter atau lebih dengan kombinasi huruf besar, huruf kecil, angka, dan simbol. Kata sandi \"B3l4j4r!R4j1n\" memenuhi syarat itu, sedangkan angka berurutan dan nama mudah ditebak.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "C: Cara Melindungi Data dan File",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani menerima pesan dari orang yang tidak dikenal di internet. Orang itu meminta nama lengkap dan alamat rumah Rani. Apa yang sebaiknya dilakukan Rani?\nA. Memberikan nama dan alamatnya supaya sopan\nB. Meminta kata sandi orang itu sebagai gantinya\nC. Memberikan alamat sekolahnya saja\nD. Tidak memberikan data pribadinya dan memberi tahu guru atau orang tua",
+    "pilihan": [
+      "Memberikan nama dan alamatnya supaya sopan",
+      "Meminta kata sandi orang itu sebagai gantinya",
+      "Memberikan alamat sekolahnya saja",
+      "Tidak memberikan data pribadinya dan memberi tahu guru atau orang tua"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Nama lengkap dan alamat rumah adalah data pribadi yang tidak boleh diberikan kepada orang yang tidak dikenal. Rani harus menolak dan memberi tahu guru atau orang tua.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "C: Cara Melindungi Data dan File",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi selesai memakai komputer di perpustakaan sekolah. Sebelum pergi, apa yang harus Budi lakukan?\nA. Log out dari semua akun yang ia buka\nB. Membiarkan akunnya tetap terbuka supaya cepat dipakai lagi\nC. Mematikan monitor saja\nD. Menulis kata sandinya di atas meja",
+    "pilihan": [
+      "Log out dari semua akun yang ia buka",
+      "Membiarkan akunnya tetap terbuka supaya cepat dipakai lagi",
+      "Mematikan monitor saja",
+      "Menulis kata sandinya di atas meja"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Setelah memakai komputer bersama atau komputer di tempat umum, kita harus selalu log out dari semua akun supaya orang lain tidak bisa membuka akun kita.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "C: Cara Melindungi Data dan File",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang BUKAN cara melindungi data dan file?\nA. Membuat salinan cadangan file penting\nB. Memakai kata sandi yang kuat dan berbeda untuk setiap akun\nC. Memberitahu kata sandi kepada teman supaya bisa membantu\nD. Log out setelah memakai komputer di tempat umum",
+    "pilihan": [
+      "Membuat salinan cadangan file penting",
+      "Memakai kata sandi yang kuat dan berbeda untuk setiap akun",
+      "Memberitahu kata sandi kepada teman supaya bisa membantu",
+      "Log out setelah memakai komputer di tempat umum"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kata sandi adalah rahasia dan tidak boleh diberitahu kepada siapa pun, termasuk teman. Pilihan A, B, dan D adalah cara melindungi data dan file yang benar.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "C: Cara Melindungi Data dan File",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Kabel jaringan di laboratorium komputer sekolah terputus. Apa yang masih bisa dan tidak bisa lagi dilakukan komputer-komputer itu?\nA. Masih bisa berbagi printer, tetapi tidak bisa dipakai sendiri-sendiri\nB. Masih bisa dipakai sendiri-sendiri, tetapi tidak bisa lagi berbagi printer dan berbagi file\nC. Semua komputer langsung mati dan tidak bisa dipakai sama sekali\nD. Tidak ada yang berubah, semua tetap bisa dilakukan seperti biasa",
+    "pilihan": [
+      "Masih bisa berbagi printer, tetapi tidak bisa dipakai sendiri-sendiri",
+      "Masih bisa dipakai sendiri-sendiri, tetapi tidak bisa lagi berbagi printer dan berbagi file",
+      "Semua komputer langsung mati dan tidak bisa dipakai sama sekali",
+      "Tidak ada yang berubah, semua tetap bisa dilakukan seperti biasa"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Kabel yang terputus memutus hubungan antar komputer, sehingga mereka tidak bisa lagi berbagi printer dan berbagi file. Tetapi setiap komputer masih bisa dipakai sendiri-sendiri, misalnya untuk mengetik.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina mau mengirim tugas ke temannya. Ia bisa memakai flashdisk atau mengirim lewat jaringan sekolah. Mana yang lebih praktis dan mengapa?\nA. Flashdisk, karena harus dibawa dan dicolokkan ke komputer teman\nB. Lewat jaringan sekolah, karena file bisa dibuka dari komputer mana pun yang terhubung tanpa membawa benda apa pun\nC. Flashdisk, karena file di jaringan mudah hilang\nD. Sama saja, karena keduanya sama-sama memerlukan kabel",
+    "pilihan": [
+      "Flashdisk, karena harus dibawa dan dicolokkan ke komputer teman",
+      "Lewat jaringan sekolah, karena file bisa dibuka dari komputer mana pun yang terhubung tanpa membawa benda apa pun",
+      "Flashdisk, karena file di jaringan mudah hilang",
+      "Sama saja, karena keduanya sama-sama memerlukan kabel"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Lewat jaringan, file bisa dibuka dari komputer mana pun yang terhubung tanpa perlu membawa benda fisik. Dengan flashdisk, Rina harus membawa dan mencolokkan flashdisknya ke komputer teman, jadi lebih repot.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab A\n### Sub-bab B: Internet",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta mencari informasi di internet dan menemukan dua jawaban yang berbeda di dua situs tentang hal yang sama. Apa yang sebaiknya ia lakukan?\nA. Langsung memakai jawaban dari situs yang pertama ditemukan\nB. Memilih jawaban yang paling pendek supaya cepat selesai\nC. Memeriksa sumber lain dan bertanya kepada guru sebelum memutuskan mana yang benar\nD. Menyalin kedua jawaban itu apa adanya tanpa memilih",
+    "pilihan": [
+      "Langsung memakai jawaban dari situs yang pertama ditemukan",
+      "Memilih jawaban yang paling pendek supaya cepat selesai",
+      "Memeriksa sumber lain dan bertanya kepada guru sebelum memutuskan mana yang benar",
+      "Menyalin kedua jawaban itu apa adanya tanpa memilih"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Tidak semua informasi di internet benar, dan dua situs bisa berbeda isinya. Sinta harus memeriksa sumber lain atau bertanya kepada guru sebelum memutuskan mana yang benar, bukan langsung percaya pada satu situs saja.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 4, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 4: Jaringan Komputer dan Internet",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan data?\nA. Cerita yang dibuat-buat tanpa bukti\nB. Kumpulan fakta, angka, atau informasi yang diperoleh dari pengamatan\nC. Alat untuk menulis di komputer\nD. Gambar yang dipajang di dinding kelas",
+    "pilihan": [
+      "Cerita yang dibuat-buat tanpa bukti",
+      "Kumpulan fakta, angka, atau informasi yang diperoleh dari pengamatan",
+      "Alat untuk menulis di komputer",
+      "Gambar yang dipajang di dinding kelas"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Data adalah kumpulan fakta, angka, atau informasi yang diperoleh dari pengamatan atau pengukuran, misalnya nilai ulangan dan jumlah siswa di kelas.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "A: Data",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang merupakan data berupa angka?\nA. Warna biru\nB. Nama \"Sinta\"\nC. 28 siswa di kelas 4\nD. Gambar kucing",
+    "pilihan": [
+      "Warna biru",
+      "Nama \"Sinta\"",
+      "28 siswa di kelas 4",
+      "Gambar kucing"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Data berupa angka menunjukkan jumlah atau ukuran yang bisa dihitung, seperti 28 siswa. Warna, nama, dan gambar adalah data yang bukan berupa angka.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "A: Data",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Guru mencatat warna kesukaan siswa kelas 4: 8 siswa suka biru, 6 siswa suka merah, dan 5 siswa suka hijau. Catatan guru itu adalah contoh ....\nA. Data\nB. Permainan\nC. Cerita dongeng\nD. Lagu",
+    "pilihan": [
+      "Data",
+      "Permainan",
+      "Cerita dongeng",
+      "Lagu"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Catatan tentang warna kesukaan adalah kumpulan fakta yang diperoleh guru dari bertanya kepada siswa, jadi catatan itu adalah data.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "A: Data",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani ingin tahu makanan kesukaan teman-teman sekelasnya. Cara yang tepat untuk mendapatkan data itu adalah ....\nA. Menebak-nebak sendiri tanpa bertanya\nB. Bertanya langsung kepada teman-temannya dan mencatat jawabannya\nC. Menyalin jawaban dari teman sebelah\nD. Menunggu sampai ada yang memberitahu tanpa bertanya",
+    "pilihan": [
+      "Menebak-nebak sendiri tanpa bertanya",
+      "Bertanya langsung kepada teman-temannya dan mencatat jawabannya",
+      "Menyalin jawaban dari teman sebelah",
+      "Menunggu sampai ada yang memberitahu tanpa bertanya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Data dikumpulkan dengan cara bertanya, mengamati, atau mengukur, lalu hasilnya dicatat. Menebak-nebak bukan cara memperoleh data yang benar.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "A: Data",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang BUKAN data berupa angka?\nA. Nilai ulangan 90\nB. Tinggi badan 130 cm\nC. Jumlah buku 25 buah\nD. Nama hewan peliharaan \"Milo\"",
+    "pilihan": [
+      "Nilai ulangan 90",
+      "Tinggi badan 130 cm",
+      "Jumlah buku 25 buah",
+      "Nama hewan peliharaan \"Milo\""
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Nama adalah data berupa kata, bukan angka. Nilai ulangan, tinggi badan, dan jumlah buku semuanya berupa angka yang bisa dihitung.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "A: Data",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan diagram batang?\nA. Tabel yang berisi baris dan kolom untuk menunjukkan data\nB. Penyajian data dengan batang-batang persegi panjang yang tingginya menunjukkan banyak data\nC. Gambar lingkaran yang dibagi menjadi beberapa bagian sesuai data\nD. Garis yang menghubungkan titik-titik data dari waktu ke waktu",
+    "pilihan": [
+      "Tabel yang berisi baris dan kolom untuk menunjukkan data",
+      "Penyajian data dengan batang-batang persegi panjang yang tingginya menunjukkan banyak data",
+      "Gambar lingkaran yang dibagi menjadi beberapa bagian sesuai data",
+      "Garis yang menghubungkan titik-titik data dari waktu ke waktu"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Diagram batang menyajikan data dengan batang-batang persegi panjang. Batang yang lebih tinggi berarti datanya lebih banyak, sehingga data mudah dibandingkan hanya dengan melihat tinggi batangnya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "B: Data dalam Bentuk Diagram",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang \"Warna Kesukaan Siswa Kelas 4\" menunjukkan data berikut: Merah 6 siswa, Biru 10 siswa, Hijau 8 siswa, Kuning 4 siswa. Berapa banyak siswa yang menyukai warna biru?\nA. 4 siswa\nB. 6 siswa\nC. 8 siswa\nD. 10 siswa",
+    "pilihan": [
+      "4 siswa",
+      "6 siswa",
+      "8 siswa",
+      "10 siswa"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Batang warna biru pada diagram menunjukkan angka 10, jadi ada 10 siswa yang menyukai warna biru.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "B: Data dalam Bentuk Diagram",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang \"Jumlah Siswa Kelas 4\" menunjukkan data berikut: Kelas 4A 24 siswa, Kelas 4B 28 siswa, Kelas 4C 20 siswa, Kelas 4D 26 siswa. Kelas manakah yang jumlah siswanya paling banyak?\nA. Kelas 4A\nB. Kelas 4B\nC. Kelas 4C\nD. Kelas 4D",
+    "pilihan": [
+      "Kelas 4A",
+      "Kelas 4B",
+      "Kelas 4C",
+      "Kelas 4D"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Batang Kelas 4B paling tinggi, yaitu 28 siswa, lebih banyak dari Kelas 4A (24), Kelas 4D (26), dan Kelas 4C (20). Jadi, Kelas 4B mempunyai siswa paling banyak.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "B: Data dalam Bentuk Diagram",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang \"Kegiatan Ekstrakurikuler yang Diikuti Siswa Kelas 4\" menunjukkan data berikut: Sepak Bola 14 siswa, Pramuka 10 siswa, Tari 6 siswa, Melukis 8 siswa. Berapa selisih banyak siswa yang mengikuti Sepak Bola dan Tari?\nA. 8 siswa\nB. 4 siswa\nC. 6 siswa\nD. 10 siswa",
+    "pilihan": [
+      "8 siswa",
+      "4 siswa",
+      "6 siswa",
+      "10 siswa"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Selisih dihitung dengan mengurangkan dua nilai: 14 − 6 = 8. Jadi, siswa yang mengikuti Sepak Bola lebih banyak 8 siswa daripada yang mengikuti Tari.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "B: Data dalam Bentuk Diagram",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang \"Buku yang Dipinjam dari Perpustakaan\" menunjukkan data berikut: Senin 12 buku, Selasa 18 buku, Rabu 15 buku. Berapa jumlah seluruh buku yang dipinjam selama tiga hari itu?\nA. 35 buku\nB. 40 buku\nC. 45 buku\nD. 50 buku",
+    "pilihan": [
+      "35 buku",
+      "40 buku",
+      "45 buku",
+      "50 buku"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Jumlah seluruh buku dihitung dengan menjumlahkan ketiga batang: 12 + 18 + 15 = 45. Jadi, ada 45 buku yang dipinjam selama tiga hari itu.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "B: Data dalam Bentuk Diagram",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani hanya bertanya kepada 3 dari 30 teman sekelasnya tentang makanan kesukaan, lalu ia menyimpulkan makanan kesukaan seluruh kelas. Apakah kesimpulan Rani bisa dipercaya?\nA. Ya, karena 3 teman sudah cukup mewakili seluruh kelas\nB. Tidak, karena datanya terlalu sedikit dan tidak mewakili seluruh kelas\nC. Ya, karena Rani bertanya langsung kepada teman-temannya\nD. Tidak, karena makanan kesukaan tidak bisa dihitung",
+    "pilihan": [
+      "Ya, karena 3 teman sudah cukup mewakili seluruh kelas",
+      "Tidak, karena datanya terlalu sedikit dan tidak mewakili seluruh kelas",
+      "Ya, karena Rani bertanya langsung kepada teman-temannya",
+      "Tidak, karena makanan kesukaan tidak bisa dihitung"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Kesimpulan yang baik harus didukung data yang cukup dan mewakili. Bertanya hanya kepada 3 dari 30 teman membuat datanya terlalu sedikit, sehingga kesimpulan tentang seluruh kelas tidak bisa dipercaya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta mengukur tinggi badan teman-temannya dengan meteran, sedangkan Dodi menebak tinggi badan dari penampilan. Cara siapa yang datanya lebih dapat dipercaya dan mengapa?\nA. Dodi, karena menebak lebih cepat daripada mengukur\nB. Sinta, karena datanya berasal dari pengukuran nyata, bukan tebakan\nC. Sama saja, karena keduanya sama-sama data\nD. Dodi, karena penampilan sudah cukup untuk mengetahui tinggi badan",
+    "pilihan": [
+      "Dodi, karena menebak lebih cepat daripada mengukur",
+      "Sinta, karena datanya berasal dari pengukuran nyata, bukan tebakan",
+      "Sama saja, karena keduanya sama-sama data",
+      "Dodi, karena penampilan sudah cukup untuk mengetahui tinggi badan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Data yang diperoleh dengan mengukur memakai alat lebih dapat dipercaya, karena angkanya benar-benar diukur. Tebakan dari penampilan bisa salah, sehingga datanya tidak bisa dipercaya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab A\n### Sub-bab B: Data dalam Bentuk Diagram",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang \"Warna Kesukaan Siswa Kelas 4\" menunjukkan data berikut: Merah 6 siswa, Biru 10 siswa, Hijau 8 siswa, Kuning 4 siswa. Warna apa yang paling sedikit disukai, dan apa yang sebaiknya dilakukan guru kalau mau membeli kertas warna untuk kelas?\nA. Kuning paling sedikit (4 siswa); guru sebaiknya membeli kertas biru paling banyak dan kertas kuning paling sedikit\nB. Merah paling sedikit (6 siswa); guru sebaiknya membeli kertas merah paling banyak\nC. Biru paling sedikit (10 siswa); guru sebaiknya membeli kertas biru paling sedikit\nD. Hijau paling sedikit (8 siswa); guru sebaiknya membeli semua warna sama banyak",
+    "pilihan": [
+      "Kuning paling sedikit (4 siswa); guru sebaiknya membeli kertas biru paling banyak dan kertas kuning paling sedikit",
+      "Merah paling sedikit (6 siswa); guru sebaiknya membeli kertas merah paling banyak",
+      "Biru paling sedikit (10 siswa); guru sebaiknya membeli kertas biru paling sedikit",
+      "Hijau paling sedikit (8 siswa); guru sebaiknya membeli semua warna sama banyak"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Kuning adalah warna yang paling sedikit disukai, hanya 4 siswa, sedangkan biru paling banyak, 10 siswa. Kalau membeli kertas warna, guru sebaiknya menyesuaikan dengan jumlahnya: kertas biru paling banyak dan kertas kuning paling sedikit.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Diagram batang \"Kegiatan Ekstrakurikuler yang Diikuti Siswa Kelas 4\" menunjukkan data berikut: Sepak Bola 14 siswa, Pramuka 10 siswa, Tari 6 siswa, Melukis 8 siswa. Kemudian ada 4 siswa yang pindah dari kegiatan lain ke Sepak Bola. Berapa banyak siswa Sepak Bola sekarang, dan apakah Sepak Bola masih menjadi kegiatan yang paling banyak diikuti?\nA. 18 siswa; ya, masih paling banyak\nB. 10 siswa; tidak, Pramuka sekarang paling banyak\nC. 14 siswa; tidak berubah karena siswa pindahan tidak dihitung\nD. 18 siswa; tidak, Tari sekarang paling banyak",
+    "pilihan": [
+      "18 siswa; ya, masih paling banyak",
+      "10 siswa; tidak, Pramuka sekarang paling banyak",
+      "14 siswa; tidak berubah karena siswa pindahan tidak dihitung",
+      "18 siswa; tidak, Tari sekarang paling banyak"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Siswa Sepak Bola menjadi 14 + 4 = 18 siswa. Kegiatan lain tetap: Pramuka 10, Tari 6, Melukis 8. Jadi Sepak Bola masih menjadi kegiatan yang paling banyak diikuti.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menggambar diagram batang, tetapi batang \"6 siswa\" digambar lebih tinggi daripada batang \"10 siswa\". Apa yang salah dari diagram Dina, dan mengapa diagram seperti itu bisa menyesatkan orang yang membacanya?\nA. Tidak ada yang salah; tinggi batang boleh bebas asalkan warnanya berbeda\nB. Salah; tinggi batang harus sesuai dengan nilainya, kalau tidak pembaca bisa mengira yang 6 lebih banyak dari yang 10\nC. Salah; batang harus digambar dengan warna yang sama semua\nD. Tidak ada yang salah; yang penting angkanya ditulis di bawah batang",
+    "pilihan": [
+      "Tidak ada yang salah; tinggi batang boleh bebas asalkan warnanya berbeda",
+      "Salah; tinggi batang harus sesuai dengan nilainya, kalau tidak pembaca bisa mengira yang 6 lebih banyak dari yang 10",
+      "Salah; batang harus digambar dengan warna yang sama semua",
+      "Tidak ada yang salah; yang penting angkanya ditulis di bawah batang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pada diagram batang, tinggi batang harus sesuai dengan nilainya: batang yang nilainya lebih besar harus lebih tinggi. Kalau batang 6 digambar lebih tinggi dari batang 10, pembaca bisa salah mengira bahwa yang 6 lebih banyak dari yang 10.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 5, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 5: Analisis Data",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan menulis algoritma?\nA. Menggambar komputer\nB. Menuliskan langkah-langkah penyelesaian masalah secara jelas dan berurutan\nC. Menghafal semua nama aplikasi di komputer\nD. Menyalin teks dari buku ke dalam komputer",
+    "pilihan": [
+      "Menggambar komputer",
+      "Menuliskan langkah-langkah penyelesaian masalah secara jelas dan berurutan",
+      "Menghafal semua nama aplikasi di komputer",
+      "Menyalin teks dari buku ke dalam komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menulis algoritma berarti menuangkan langkah-langkah penyelesaian masalah ke dalam tulisan yang jelas, berurutan, dan lengkap, supaya orang lain bisa mengikutinya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "A: Penulisan Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan algoritma mencuci tangan berikut: (1) Basahi tangan dengan air bersih. (2) Oleskan sabun ke telapak tangan. (3) Gosok tangan hingga bersih. (4) Keringkan tangan dengan handuk. Langkah yang hilang dari algoritma tersebut adalah ....\nA. Membilas tangan dengan air bersih\nB. Memakai sarung tangan\nC. Memakai jam tangan\nD. Mengeringkan handuk",
+    "pilihan": [
+      "Membilas tangan dengan air bersih",
+      "Memakai sarung tangan",
+      "Memakai jam tangan",
+      "Mengeringkan handuk"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Setelah tangan digosok dengan sabun, tangan harus dibilas dulu dengan air bersih sebelum dikeringkan. Tanpa langkah membilas, algoritmanya tidak lengkap.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "A: Penulisan Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah penulisan algoritma menyikat gigi yang benar?\nA. Bilas mulut — oleskan pasta gigi — gosok gigi — ambil sikat gigi\nB. Gosok gigi — ambil sikat gigi — bilas mulut — oleskan pasta gigi\nC. Ambil sikat gigi dan pasta gigi — oleskan pasta gigi pada sikat gigi — gosok gigi selama 2 menit — bilas mulut dengan air bersih\nD. Oleskan pasta gigi — bilas sikat gigi — ambil sikat gigi — gosok gigi",
+    "pilihan": [
+      "Bilas mulut — oleskan pasta gigi — gosok gigi — ambil sikat gigi",
+      "Gosok gigi — ambil sikat gigi — bilas mulut — oleskan pasta gigi",
+      "Ambil sikat gigi dan pasta gigi — oleskan pasta gigi pada sikat gigi — gosok gigi selama 2 menit — bilas mulut dengan air bersih",
+      "Oleskan pasta gigi — bilas sikat gigi — ambil sikat gigi — gosok gigi"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Sikat gigi dan pasta gigi harus diambil dulu, lalu pasta dioleskan pada sikat, kemudian gigi digosok, dan terakhir mulut dibilas. Urutan lain tidak masuk akal karena langkahnya tertukar.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "A: Penulisan Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Andi menulis algoritma membuat jus buah: (1) Siapkan blender, buah, gula, dan air. (2) Nyalakan blender dan tunggu hingga halus. (3) Masukkan buah, gula, dan air ke dalam blender. (4) Tuang jus ke dalam gelas. Apa yang salah dari penulisan algoritma Andi?\nA. Tidak ada yang salah\nB. Langkah 2 dan 3 tertukar — buah harus dimasukkan dulu, baru blender dinyalakan\nC. Jus tidak perlu dituang ke dalam gelas\nD. Blender tidak perlu disiapkan",
+    "pilihan": [
+      "Tidak ada yang salah",
+      "Langkah 2 dan 3 tertukar — buah harus dimasukkan dulu, baru blender dinyalakan",
+      "Jus tidak perlu dituang ke dalam gelas",
+      "Blender tidak perlu disiapkan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Blender tidak boleh dinyalakan sebelum bahan dimasukkan. Langkah 2 dan 3 tertukar: bahan harus masuk ke blender dulu, baru blender dinyalakan hingga halus.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "A: Penulisan Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Algoritma dapat ditulis dalam bentuk ....\nA. Kalimat dan diagram alir (flowchart)\nB. Hanya gambar pemandangan\nC. Hanya angka-angka tanpa penjelasan\nD. Lagu dan puisi",
+    "pilihan": [
+      "Kalimat dan diagram alir (flowchart)",
+      "Hanya gambar pemandangan",
+      "Hanya angka-angka tanpa penjelasan",
+      "Lagu dan puisi"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Algoritma bisa ditulis sebagai kalimat yang menjelaskan langkah demi langkah, atau sebagai diagram alir (flowchart) yang memakai simbol, misalnya oval untuk mulai dan selesai serta persegi panjang untuk proses.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "A: Penulisan Algoritma",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan program?\nA. Gambar yang dipajang di dinding kelas\nB. Kumpulan instruksi yang ditulis agar komputer mengerjakan sesuatu\nC. Alat untuk mencetak tugas dari komputer\nD. Nama sebuah permainan di komputer",
+    "pilihan": [
+      "Gambar yang dipajang di dinding kelas",
+      "Kumpulan instruksi yang ditulis agar komputer mengerjakan sesuatu",
+      "Alat untuk mencetak tugas dari komputer",
+      "Nama sebuah permainan di komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Program adalah kumpulan instruksi atau perintah yang ditulis dalam bahasa pemrograman agar komputer mengerjakan suatu tugas. Tanpa program, komputer tidak tahu apa yang harus dilakukan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "B: Istilah dalam Pemrograman",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani membuat animasi kucing berjalan dengan menyusun blok-blok berwarna di Scratch. Scratch adalah contoh ....\nA. Perangkat keras\nB. Jaringan internet\nC. Bahasa pemrograman\nD. Pemrogram (orang yang menulis program)",
+    "pilihan": [
+      "Perangkat keras",
+      "Jaringan internet",
+      "Bahasa pemrograman",
+      "Pemrogram (orang yang menulis program)"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Scratch adalah bahasa pemrograman visual — perintahnya berbentuk blok berwarna yang disusun dengan cara diseret dan disambung, sehingga anak bisa membuat program tanpa mengetik kode.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "B: Istilah dalam Pemrograman",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di Scratch, gambar kucing oranye yang bisa digerakkan dan diberi perintah disebut ....\nA. Sprite\nB. Stage\nC. Backdrop\nD. Script",
+    "pilihan": [
+      "Sprite",
+      "Stage",
+      "Backdrop",
+      "Script"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Sprite adalah gambar atau objek di Scratch yang bisa diprogram, misalnya kucing oranye yang bisa bergerak, bersuara, atau berganti kostum. Stage adalah tempat hasil program ditampilkan, backdrop adalah latar belakangnya, dan script adalah rangkaian blok perintahnya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "B: Istilah dalam Pemrograman",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menyusun beberapa blok perintah menjadi satu rangkaian agar kucingnya berjalan lalu bersuara. Rangkaian blok perintah itu disebut ....\nA. Stage\nB. Backdrop\nC. Printer\nD. Script",
+    "pilihan": [
+      "Stage",
+      "Backdrop",
+      "Printer",
+      "Script"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Script adalah rangkaian blok perintah yang disusun menjadi satu kesatuan dan bekerja sebagai satu perilaku, misalnya kucing berjalan lalu bersuara.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "B: Istilah dalam Pemrograman",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Untuk menjalankan program yang sudah dibuat di Scratch, tombol apa yang harus ditekan?\nA. Tombol stop berbentuk segi enam merah\nB. Tombol bendera hijau\nC. Tombol Backspace pada keyboard\nD. Tombol power pada CPU",
+    "pilihan": [
+      "Tombol stop berbentuk segi enam merah",
+      "Tombol bendera hijau",
+      "Tombol Backspace pada keyboard",
+      "Tombol power pada CPU"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Program di Scratch dijalankan dengan mengeklik tombol bendera hijau. Tombol segi enam merah justru untuk menghentikan program yang sedang berjalan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "B: Istilah dalam Pemrograman",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka sudah menyusun blok agar kucing berjalan, tapi lupa mengeklik tombol bendera hijau. Apa yang terjadi?\nA. Kucing langsung berjalan sendiri\nB. Program tidak berjalan, kucing tetap diam\nC. Komputer langsung mati\nD. Semua blok hilang dari layar",
+    "pilihan": [
+      "Kucing langsung berjalan sendiri",
+      "Program tidak berjalan, kucing tetap diam",
+      "Komputer langsung mati",
+      "Semua blok hilang dari layar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Program hanya berjalan kalau dijalankan dengan tombol bendera hijau. Tanpa diklik, blok-blok itu hanya susunan perintah yang belum bekerja, jadi kucing tetap diam.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina membuat game memancing di Scratch. Latarnya laut biru, dan ada ikan yang berenang ke sana kemari. Mana yang sprite dan mana yang stage?\nA. Ikan = stage, laut = sprite\nB. Ikan = sprite, laut = stage\nC. Ikan dan laut sama-sama sprite\nD. Ikan dan laut sama-sama stage",
+    "pilihan": [
+      "Ikan = stage, laut = sprite",
+      "Ikan = sprite, laut = stage",
+      "Ikan dan laut sama-sama sprite",
+      "Ikan dan laut sama-sama stage"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Ikan adalah sprite karena bisa bergerak dan diberi perintah, sedangkan laut adalah stage, yaitu tempat hasil program ditampilkan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta ingin kucingnya berjalan dulu, baru bersuara. Tapi ia menyusun blok \"bersuara\" di atas blok \"berjalan\". Apa yang terjadi saat program dijalankan, dan bagaimana memperbaikinya?\nA. Kucing berjalan dulu baru bersuara; tidak perlu diperbaiki\nB. Kucing bersuara dulu baru berjalan; tukar urutan bloknya supaya blok \"berjalan\" di atas\nC. Program tidak berjalan sama sekali; hapus semua bloknya\nD. Kucing tidak bisa bersuara; ganti kucingnya",
+    "pilihan": [
+      "Kucing berjalan dulu baru bersuara; tidak perlu diperbaiki",
+      "Kucing bersuara dulu baru berjalan; tukar urutan bloknya supaya blok \"berjalan\" di atas",
+      "Program tidak berjalan sama sekali; hapus semua bloknya",
+      "Kucing tidak bisa bersuara; ganti kucingnya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Blok dijalankan dari atas ke bawah, jadi urutan blok menentukan urutan kejadian. Karena Sinta mau kucing berjalan dulu, blok \"berjalan\" harus diletakkan di atas blok \"bersuara\".",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 6, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 6: Algoritma dan Pemrograman",
+    "sub_bab": "Soal Tambahan — Variasi (Aturan Baru 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina tinggal jauh dari neneknya. Dengan ponsel, Rina bisa menelepon dan melihat wajah neneknya setiap minggu. Hal itu menunjukkan salah satu dampak positif perangkat TIK, yaitu ....\nA. Membuat kita malas belajar\nB. Membuat mata cepat lelah\nC. Mempermudah komunikasi jarak jauh\nD. Membuat kita kecanduan gim",
+    "pilihan": [
+      "Membuat kita malas belajar",
+      "Membuat mata cepat lelah",
+      "Mempermudah komunikasi jarak jauh",
+      "Membuat kita kecanduan gim"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perangkat TIK membuat komunikasi jarak jauh menjadi mudah dan murah. Rina tetap bisa berhubungan dengan neneknya walaupun tinggal berjauhan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "A: Dampak Positif dan Negatif Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pak Guru memberi tugas mencari gambar hewan langka. Budi membuka internet dan menemukan banyak gambar beserta penjelasannya dalam waktu singkat. Hal ini menunjukkan perangkat TIK dapat ....\nA. Membantu belajar dan mencari informasi dengan cepat\nB. Membuat Budi lupa waktu bermain\nC. Membuat mata Budi cepat lelah\nD. Membuat Budi malas membaca buku",
+    "pilihan": [
+      "Membantu belajar dan mencari informasi dengan cepat",
+      "Membuat Budi lupa waktu bermain",
+      "Membuat mata Budi cepat lelah",
+      "Membuat Budi malas membaca buku"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Internet membantu siswa menemukan informasi belajar dengan cepat, misalnya gambar dan penjelasan tentang hewan langka untuk tugas sekolah.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "A: Dampak Positif dan Negatif Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi bermain gim di tablet dari pulang sekolah sampai malam tanpa berhenti. Akibatnya, ia lupa mengerjakan PR dan bangun kesiangan keesokan harinya. Dampak negatif yang dialami Dodi adalah ....\nA. Ia menjadi lebih pintar\nB. Ia kecanduan gim sehingga melupakan tugas dan kewajibannya\nC. Ia menjadi lebih rajin belajar\nD. Ia lebih banyak bergerak",
+    "pilihan": [
+      "Ia menjadi lebih pintar",
+      "Ia kecanduan gim sehingga melupakan tugas dan kewajibannya",
+      "Ia menjadi lebih rajin belajar",
+      "Ia lebih banyak bergerak"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Bermain gim tanpa batas waktu bisa membuat anak kecanduan, sehingga lupa mengerjakan PR dan mengganggu kegiatan lain seperti bangun pagi untuk sekolah.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "A: Dampak Positif dan Negatif Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta membaca pesan di internet yang mengatakan bahwa besok sekolah libur. Ternyata pesan itu tidak benar dan Sinta terlambat masuk sekolah. Hal yang dialami Sinta menunjukkan salah satu dampak negatif perangkat TIK, yaitu ....\nA. Internet membuat belajar lebih cepat\nB. Internet membantu Sinta berkomunikasi\nC. Internet membuat Sinta lebih rajin\nD. Adanya informasi yang tidak benar (hoaks) di internet",
+    "pilihan": [
+      "Internet membuat belajar lebih cepat",
+      "Internet membantu Sinta berkomunikasi",
+      "Internet membuat Sinta lebih rajin",
+      "Adanya informasi yang tidak benar (hoaks) di internet"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Tidak semua informasi di internet benar; ada berita palsu (hoaks) yang bisa menyesatkan. Karena itu, informasi dari internet perlu diperiksa kebenarannya sebelum dipercaya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "A: Dampak Positif dan Negatif Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang BUKAN contoh dampak positif perangkat TIK?\nA. Raka belajar mengetik dan membuat presentasi di komputer\nB. Ibu menelepon ayah yang sedang bekerja di luar kota\nC. Andi bermain gim semalaman sampai matanya merah dan badannya pegal\nD. Sinta mencari bahan tugas tentang tumbuhan di internet",
+    "pilihan": [
+      "Raka belajar mengetik dan membuat presentasi di komputer",
+      "Ibu menelepon ayah yang sedang bekerja di luar kota",
+      "Andi bermain gim semalaman sampai matanya merah dan badannya pegal",
+      "Sinta mencari bahan tugas tentang tumbuhan di internet"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Bermain gim semalaman sampai mata merah dan badan pegal adalah dampak negatif (kecanduan dan gangguan kesehatan), bukan dampak positif. Pilihan A, B, dan D semuanya dampak positif perangkat TIK.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "A: Dampak Positif dan Negatif Perangkat TIK",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan etika berkomunikasi digital?\nA. Aturan memakai komputer supaya cepat\nB. Cara mengetik dengan sepuluh jari\nC. Aturan sopan santun saat berkomunikasi lewat internet\nD. Cara membuat akun media sosial",
+    "pilihan": [
+      "Aturan memakai komputer supaya cepat",
+      "Cara mengetik dengan sepuluh jari",
+      "Aturan sopan santun saat berkomunikasi lewat internet",
+      "Cara membuat akun media sosial"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Etika berkomunikasi digital adalah aturan sopan santun saat kita berkomunikasi lewat media digital seperti chat atau media sosial, supaya orang lain merasa nyaman dan dihormati.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "B: Etika Berkomunikasi Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina ingin mengirim pesan kepada gurunya lewat chat. Manakah pesan yang paling sopan?\nA. \"Bu, tugasnya apa ya? Terima kasih, Bu.\"\nB. \"Bu, tugasnya apa? Cepetan jawab dong.\"\nC. \"Tugasnya mana? Kok lama banget sih?\"\nD. \"Bu, aku nggak mau ngerjain tugas.\"",
+    "pilihan": [
+      "\"Bu, tugasnya apa ya? Terima kasih, Bu.\"",
+      "\"Bu, tugasnya apa? Cepetan jawab dong.\"",
+      "\"Tugasnya mana? Kok lama banget sih?\"",
+      "\"Bu, aku nggak mau ngerjain tugas.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pesan kepada guru harus memakai bahasa yang sopan dan jelas. Kata-kata yang memerintah, tidak sabar, atau menolak tugas tidak sopan dan bisa menyinggung perasaan guru.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "B: Etika Berkomunikasi Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka menerima pesan di grup kelas yang mengatakan sekolah libur besok, padahal belum ada pengumuman resmi dari guru. Apa yang sebaiknya dilakukan Raka?\nA. Langsung meneruskan pesan itu ke semua grup\nB. Menambah-nambahi cerita supaya lebih seru\nC. Mengejek teman yang mengirim pesan itu\nD. Tidak langsung meneruskan, dan bertanya dulu kepada guru apakah kabar itu benar",
+    "pilihan": [
+      "Langsung meneruskan pesan itu ke semua grup",
+      "Menambah-nambahi cerita supaya lebih seru",
+      "Mengejek teman yang mengirim pesan itu",
+      "Tidak langsung meneruskan, dan bertanya dulu kepada guru apakah kabar itu benar"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Kabar yang belum tentu benar tidak boleh disebarkan, karena bisa jadi hoaks dan merugikan orang lain. Raka harus memeriksa kebenarannya dulu, misalnya dengan bertanya kepada guru.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "B: Etika Berkomunikasi Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di grup chat kelas, ada teman yang mengejek hasil gambar Beni. Sikap yang benar adalah ....\nA. Ikut mengejek supaya ramai\nB. Membiarkan saja karena bukan urusanku\nC. Mengingatkan teman itu agar berkata sopan dan tidak mengejek\nD. Membalas dengan ejekan yang lebih kasar",
+    "pilihan": [
+      "Ikut mengejek supaya ramai",
+      "Membiarkan saja karena bukan urusanku",
+      "Mengingatkan teman itu agar berkata sopan dan tidak mengejek",
+      "Membalas dengan ejekan yang lebih kasar"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Mengejek di internet sama dengan mengejek di dunia nyata — bisa menyakiti perasaan orang lain. Kita harus mengingatkan teman agar berkata sopan dan menghormati orang lain di dunia digital.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "B: Etika Berkomunikasi Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebelum mengirim pesan di internet, apa yang sebaiknya kita lakukan?\nA. Langsung mengirim secepat mungkin\nB. Membaca lagi pesan itu dan memikirkan apakah kata-katanya sopan dan benar\nC. Menambahkan kata-kata kasar supaya terlihat lucu\nD. Mengirim pesan yang sama berulang-ulang",
+    "pilihan": [
+      "Langsung mengirim secepat mungkin",
+      "Membaca lagi pesan itu dan memikirkan apakah kata-katanya sopan dan benar",
+      "Menambahkan kata-kata kasar supaya terlihat lucu",
+      "Mengirim pesan yang sama berulang-ulang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sebelum mengirim pesan, baca lagi dan pikirkan: apakah kata-katanya sopan, benar, dan tidak menyakiti orang lain? Pesan yang sudah terkirim sulit ditarik kembali, jadi berpikir dulu sebelum mengirim itu penting.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "B: Etika Berkomunikasi Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan hak karya digital?\nA. Hak semua orang untuk memakai gambar, lagu, dan video apa pun di internet secara bebas\nB. Hak pembuat karya digital atas hasil karyanya, seperti gambar, lagu, video, dan tulisan\nC. Hak komputer untuk menyimpan semua file yang ada di internet\nD. Hak pembeli untuk menjual kembali lagu dan film yang sudah dibeli",
+    "pilihan": [
+      "Hak semua orang untuk memakai gambar, lagu, dan video apa pun di internet secara bebas",
+      "Hak pembuat karya digital atas hasil karyanya, seperti gambar, lagu, video, dan tulisan",
+      "Hak komputer untuk menyimpan semua file yang ada di internet",
+      "Hak pembeli untuk menjual kembali lagu dan film yang sudah dibeli"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Hak karya digital adalah hak yang dimiliki pembuat karya digital atas hasil karyanya. Gambar, lagu, video, dan tulisan di internet dibuat oleh seseorang, dan pembuatnya berhak atas karya itu.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "C: Hak Karya Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah berikut ini yang termasuk karya digital yang dilindungi hak karya digital?\nA. Meja dan kursi di ruang kelas\nB. Buku tulis dan pensil\nC. Gambar, lagu, video, dan tulisan di internet\nD. Sepeda dan bola di halaman sekolah",
+    "pilihan": [
+      "Meja dan kursi di ruang kelas",
+      "Buku tulis dan pensil",
+      "Gambar, lagu, video, dan tulisan di internet",
+      "Sepeda dan bola di halaman sekolah"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Karya digital adalah karya yang dibuat dan disimpan dalam bentuk digital, misalnya gambar, lagu, video, dan tulisan di internet. Meja, buku tulis, sepeda, dan bola adalah benda biasa, bukan karya digital.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "C: Hak Karya Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta ingin memakai gambar dari internet untuk tugas sekolahnya. Cara Sinta yang paling tepat adalah ....\nA. Meminta izin kepada pembuat gambar dan menyebutkan nama pembuatnya\nB. Mengunduh gambar lalu mengaku bahwa gambar itu buatannya sendiri\nC. Memakai gambar apa saja tanpa peduli siapa pembuatnya\nD. Menghapus nama pembuat gambar supaya tidak ketahuan",
+    "pilihan": [
+      "Meminta izin kepada pembuat gambar dan menyebutkan nama pembuatnya",
+      "Mengunduh gambar lalu mengaku bahwa gambar itu buatannya sendiri",
+      "Memakai gambar apa saja tanpa peduli siapa pembuatnya",
+      "Menghapus nama pembuat gambar supaya tidak ketahuan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Karya orang lain boleh dipakai untuk tugas, tetapi dengan cara yang benar: meminta izin kepada pembuatnya dan menyebutkan nama pembuatnya. Mengaku karya orang lain sebagai karya sendiri adalah perbuatan yang tidak jujur.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "C: Hak Karya Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah perbuatan berikut yang TIDAK menghargai hak karya digital?\nA. Membeli lagu dari toko musik resmi di internet\nB. Menyebutkan nama pembuat gambar saat memakai gambarnya untuk tugas\nC. Memakai gambar yang memang dibagikan gratis untuk dipakai ulang\nD. Mengunduh film bajakan lalu mengunggahnya dan mengaku sebagai film buatan sendiri",
+    "pilihan": [
+      "Membeli lagu dari toko musik resmi di internet",
+      "Menyebutkan nama pembuat gambar saat memakai gambarnya untuk tugas",
+      "Memakai gambar yang memang dibagikan gratis untuk dipakai ulang",
+      "Mengunduh film bajakan lalu mengunggahnya dan mengaku sebagai film buatan sendiri"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Mengunduh film bajakan sudah salah, apalagi mengunggahnya dan mengaku sebagai karya sendiri. Itu melanggar hak pembuat film dan tidak menghargai kerja kerasnya. Pilihan A, B, dan C adalah cara yang benar menghargai karya digital.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "C: Hak Karya Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Mengapa kita harus menyebutkan sumber saat memakai karya orang lain di internet?\nA. Supaya tugas terlihat lebih panjang\nB. Supaya pembuat karya dihargai dan semua orang tahu siapa pembuat aslinya\nC. Supaya kita tidak perlu meminta izin kepada siapa pun\nD. Supaya karya itu menjadi milik kita",
+    "pilihan": [
+      "Supaya tugas terlihat lebih panjang",
+      "Supaya pembuat karya dihargai dan semua orang tahu siapa pembuat aslinya",
+      "Supaya kita tidak perlu meminta izin kepada siapa pun",
+      "Supaya karya itu menjadi milik kita"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menyebutkan sumber adalah tanda kita menghargai kerja keras pembuat karya dan bersikap jujur. Dengan begitu, semua orang tahu siapa pembuat asli karya itu.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "C: Hak Karya Digital",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta memakai tablet 30 menit untuk belajar, lalu berhenti. Dodi memakai tablet 5 jam setiap hari untuk bermain gim. Siapa yang mendapat manfaat dan siapa yang dirugikan, dan mengapa?\nA. Sinta mendapat manfaat, Dodi dirugikan — Sinta memakai tablet untuk belajar lalu berhenti, sedangkan Dodi kecanduan gim, lupa tugas, dan badannya tidak sehat\nB. Dodi mendapat manfaat, Sinta dirugikan — Dodi berlatih bermain gim setiap hari, sedangkan Sinta terlalu cepat berhenti belajar\nC. Keduanya sama-sama mendapat manfaat, karena keduanya memakai tablet setiap hari\nD. Keduanya sama-sama dirugikan, karena memakai tablet selalu merugikan",
+    "pilihan": [
+      "Sinta mendapat manfaat, Dodi dirugikan — Sinta memakai tablet untuk belajar lalu berhenti, sedangkan Dodi kecanduan gim, lupa tugas, dan badannya tidak sehat",
+      "Dodi mendapat manfaat, Sinta dirugikan — Dodi berlatih bermain gim setiap hari, sedangkan Sinta terlalu cepat berhenti belajar",
+      "Keduanya sama-sama mendapat manfaat, karena keduanya memakai tablet setiap hari",
+      "Keduanya sama-sama dirugikan, karena memakai tablet selalu merugikan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Manfaat atau kerugian perangkat TIK tergantung cara memakainya. Sinta memakai tablet secukupnya untuk belajar, sedangkan Dodi memakainya berjam-jam untuk gim sampai kecanduan, lupa tugas, dan badannya tidak sehat.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Andi bermain gim semalaman setiap hari selama seminggu. Apa yang terjadi pada tugas dan kesehatannya?\nA. Tugasnya selesai lebih cepat dan badannya menjadi lebih segar\nB. Tugas tidak dikerjakan, badan lelah, mata merah, dan bangun kesiangan\nC. Ia menjadi lebih pintar karena banyak bermain gim\nD. Tidak terjadi apa-apa, karena bermain gim tidak berpengaruh pada tugas dan kesehatan",
+    "pilihan": [
+      "Tugasnya selesai lebih cepat dan badannya menjadi lebih segar",
+      "Tugas tidak dikerjakan, badan lelah, mata merah, dan bangun kesiangan",
+      "Ia menjadi lebih pintar karena banyak bermain gim",
+      "Tidak terjadi apa-apa, karena bermain gim tidak berpengaruh pada tugas dan kesehatan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Bermain gim semalaman setiap hari membuat waktu belajar hilang dan badan tidak cukup istirahat. Akibatnya tugas tidak dikerjakan, badan lelah, mata merah, dan Andi bangun kesiangan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab A\n### Sub-bab B: Etika Berkomunikasi Digital",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina mengirim pesan ke grup kelas: \"Tugasnya gampang banget, yang nggak bisa berarti bodoh!\" Apa yang salah dari pesan itu dan bagaimana seharusnya Dina menulisnya?\nA. Tidak ada yang salah, pesan itu hanya berkata jujur\nB. Pesan itu mengejek dan merendahkan teman; seharusnya Dina menulis dengan sopan, misalnya menawarkan bantuan kepada teman yang kesulitan\nC. Yang salah adalah mengirim pesan ke grup kelas; seharusnya Dina tidak usah mengirim apa-apa\nD. Pesan itu salah karena terlalu pendek; seharusnya ditulis lebih panjang",
+    "pilihan": [
+      "Tidak ada yang salah, pesan itu hanya berkata jujur",
+      "Pesan itu mengejek dan merendahkan teman; seharusnya Dina menulis dengan sopan, misalnya menawarkan bantuan kepada teman yang kesulitan",
+      "Yang salah adalah mengirim pesan ke grup kelas; seharusnya Dina tidak usah mengirim apa-apa",
+      "Pesan itu salah karena terlalu pendek; seharusnya ditulis lebih panjang"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Kata-kata yang merendahkan teman bisa menyakiti perasaan orang lain, walaupun ditulis lewat chat. Dina seharusnya menulis dengan sopan, misalnya menawarkan bantuan kepada teman yang kesulitan mengerjakan tugas.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab B\n### Sub-bab C: Hak Karya Digital",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Gambar yang dibuat Sinta dipakai orang lain tanpa izin, lalu diakui sebagai karya orang itu. Apa yang dirasakan Sinta dan apa yang seharusnya dilakukan orang itu?\nA. Sinta senang karena gambarnya dipakai orang lain; orang itu tidak perlu berbuat apa-apa\nB. Sinta sedih dan kecewa; orang itu seharusnya meminta izin dan menyebutkan nama Sinta sebagai pembuatnya\nC. Sinta tidak merasakan apa-apa, karena gambar di internet adalah milik semua orang\nD. Sinta harus menghapus gambarnya supaya tidak dipakai orang lain",
+    "pilihan": [
+      "Sinta senang karena gambarnya dipakai orang lain; orang itu tidak perlu berbuat apa-apa",
+      "Sinta sedih dan kecewa; orang itu seharusnya meminta izin dan menyebutkan nama Sinta sebagai pembuatnya",
+      "Sinta tidak merasakan apa-apa, karena gambar di internet adalah milik semua orang",
+      "Sinta harus menghapus gambarnya supaya tidak dipakai orang lain"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Karya yang diakui orang lain membuat pembuatnya sedih dan kecewa, karena kerja kerasnya tidak dihargai. Orang itu seharusnya meminta izin dulu dan menyebutkan nama Sinta sebagai pembuat gambar.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Raka memakai lagu untuk video tugasnya. Cara pertama: membeli lagu dari toko resmi. Cara kedua: mengunduh lagu dari situs bajakan. Mana yang menghargai pembuat karya dan mengapa?\nA. Membeli dari toko resmi, karena pembuat lagu mendapat penghargaan dan penghasilan dari karyanya\nB. Mengunduh dari situs bajakan, karena lagunya gratis dan mudah didapat\nC. Keduanya sama baiknya, karena lagunya tetap dipakai untuk tugas sekolah\nD. Mengunduh dari situs bajakan, karena pembuat lagu sudah terkenal dan tidak butuh penghasilan",
+    "pilihan": [
+      "Membeli dari toko resmi, karena pembuat lagu mendapat penghargaan dan penghasilan dari karyanya",
+      "Mengunduh dari situs bajakan, karena lagunya gratis dan mudah didapat",
+      "Keduanya sama baiknya, karena lagunya tetap dipakai untuk tugas sekolah",
+      "Mengunduh dari situs bajakan, karena pembuat lagu sudah terkenal dan tidak butuh penghasilan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Membeli karya dari toko resmi berarti pembuat karya mendapat penghargaan dan penghasilan dari kerja kerasnya. Mengunduh dari situs bajakan justru merugikan pembuatnya, karena karyanya dipakai tanpa izin dan tanpa bayaran.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 7, Sub-bab C",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 7: Dampak Sosial Informatika",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan proses desain?\nA. Cara menghafal pelajaran dengan cepat\nB. Langkah-langkah merancang dan membuat sebuah karya untuk menyelesaikan masalah\nC. Cara bermain permainan di komputer\nD. Cara menyimpan file di komputer",
+    "pilihan": [
+      "Cara menghafal pelajaran dengan cepat",
+      "Langkah-langkah merancang dan membuat sebuah karya untuk menyelesaikan masalah",
+      "Cara bermain permainan di komputer",
+      "Cara menyimpan file di komputer"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Proses desain adalah langkah-langkah yang dilakukan untuk merancang dan membuat sebuah karya yang menyelesaikan suatu masalah atau memenuhi sebuah kebutuhan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "A: Mengenal Proses Desain",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Manakah urutan tahapan proses desain yang benar?\nA. Membuat karya — menguji — mengenali masalah — membuat rencana\nB. Menguji — membuat rencana — mengenali masalah — membuat karya\nC. Mengenali masalah — membuat rencana — membuat karya — menguji dan memperbaiki\nD. Membuat rencana — menguji — membuat karya — mengenali masalah",
+    "pilihan": [
+      "Membuat karya — menguji — mengenali masalah — membuat rencana",
+      "Menguji — membuat rencana — mengenali masalah — membuat karya",
+      "Mengenali masalah — membuat rencana — membuat karya — menguji dan memperbaiki",
+      "Membuat rencana — menguji — membuat karya — mengenali masalah"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Proses desain dimulai dari mengenali masalah atau kebutuhan, lalu membuat rencana (sketsa dan bahan yang dibutuhkan), kemudian membuat karya, dan terakhir menguji karya lalu memperbaikinya bila ada kekurangan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "A: Mengenal Proses Desain",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta melihat pensil teman-temannya berserakan di meja. Ia ingin membuat tempat pensil dari kardus bekas. Langkah pertama yang dilakukan Sinta adalah ....\nA. Mengenali masalah: pensil berserakan dan butuh tempat\nB. Langsung menggunting kardus tanpa rencana\nC. Menguji tempat pensil yang sudah jadi\nD. Membuang semua pensil yang berserakan",
+    "pilihan": [
+      "Mengenali masalah: pensil berserakan dan butuh tempat",
+      "Langsung menggunting kardus tanpa rencana",
+      "Menguji tempat pensil yang sudah jadi",
+      "Membuang semua pensil yang berserakan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tahap pertama proses desain adalah mengenali masalah atau kebutuhan. Sinta melihat masalah (pensil berserakan) sebelum ia merancang tempat pensil.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "A: Mengenal Proses Desain",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebelum membuat tempat pensil dari kardus, Dina menggambar bentuk tempat pensil di kertas dan menulis bahan-bahan yang dibutuhkan. Kegiatan Dina adalah tahap ....\nA. Menguji karya\nB. Memperbaiki karya\nC. Mengenali masalah\nD. Membuat rencana (sketsa)",
+    "pilihan": [
+      "Menguji karya",
+      "Memperbaiki karya",
+      "Mengenali masalah",
+      "Membuat rencana (sketsa)"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Menggambar bentuk karya dan menentukan bahan yang dibutuhkan adalah tahap membuat rencana atau sketsa. Tahap ini dilakukan sebelum karya dibuat.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "A: Mengenal Proses Desain",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Setelah tempat pensil selesai dibuat, Raka mencoba memasukkan pensil ke dalamnya. Ternyata tempat pensil itu mudah miring. Apa yang sebaiknya dilakukan Raka?\nA. Membuang tempat pensil itu dan tidak membuat lagi\nB. Menguji dan memperbaiki: memperkuat bagian bawah tempat pensil lalu mencoba lagi\nC. Membiarkan tempat pensil miring begitu saja\nD. Memakai tempat pensil untuk menyimpan benda lain",
+    "pilihan": [
+      "Membuang tempat pensil itu dan tidak membuat lagi",
+      "Menguji dan memperbaiki: memperkuat bagian bawah tempat pensil lalu mencoba lagi",
+      "Membiarkan tempat pensil miring begitu saja",
+      "Memakai tempat pensil untuk menyimpan benda lain"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setelah karya dibuat, karya perlu diuji. Kalau ada kekurangan, karya diperbaiki lalu diuji lagi sampai berfungsi dengan baik.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "A: Mengenal Proses Desain",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa tujuan dari game bunyi alat musik yang dibuat pada proyek ini?\nA. Menonton video alat musik tanpa suara\nB. Mendengarkan sebuah bunyi lalu menebak alat musik yang menghasilkannya\nC. Menghafal nama semua alat musik yang ada di dunia\nD. Menggambar alat musik sebanyak-banyaknya",
+    "pilihan": [
+      "Menonton video alat musik tanpa suara",
+      "Mendengarkan sebuah bunyi lalu menebak alat musik yang menghasilkannya",
+      "Menghafal nama semua alat musik yang ada di dunia",
+      "Menggambar alat musik sebanyak-banyaknya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Inti game ini adalah pemain mendengarkan sebuah bunyi, lalu menebak alat musik apa yang menghasilkan bunyi itu. Tebakan yang benar mendapat poin.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "B: Membuat Game Bunyi Alat Musik",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bunyi \"Jreng... jreng...\" dihasilkan oleh alat musik yang dimainkan dengan cara dipetik. Alat musik itu adalah ....\nA. Drum\nB. Seruling\nC. Gitar\nD. Tamborin",
+    "pilihan": [
+      "Drum",
+      "Seruling",
+      "Gitar",
+      "Tamborin"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Gitar dimainkan dengan cara memetik senarnya, sehingga menghasilkan bunyi \"jreng\". Drum dipukul, seruling ditiup, dan tamborin digoyang.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "B: Membuat Game Bunyi Alat Musik",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bunyi \"Dug... dug... dum...\" dihasilkan oleh alat musik yang dimainkan dengan cara dipukul. Alat musik itu adalah ....\nA. Drum\nB. Piano\nC. Biola\nD. Seruling",
+    "pilihan": [
+      "Drum",
+      "Piano",
+      "Biola",
+      "Seruling"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Drum dimainkan dengan cara dipukul memakai stik atau tangan, sehingga menghasilkan bunyi \"dug\". Piano dimainkan dengan menekan tuts, biola dengan menggesek, dan seruling dengan meniup.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "B: Membuat Game Bunyi Alat Musik",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Urutan langkah membuat game bunyi alat musik yang benar adalah ....\nA. Menguji game — memilih alat musik dan bunyinya — membuat tombol dan aturan main — memperbaiki kesalahan\nB. Memperbaiki kesalahan — menguji game — membuat tombol dan aturan main — memilih alat musik dan bunyinya\nC. Membuat tombol dan aturan main — menguji game — memilih alat musik dan bunyinya — memperbaiki kesalahan\nD. Memilih alat musik dan bunyinya — membuat tombol dan aturan main — menguji game — memperbaiki kesalahan",
+    "pilihan": [
+      "Menguji game — memilih alat musik dan bunyinya — membuat tombol dan aturan main — memperbaiki kesalahan",
+      "Memperbaiki kesalahan — menguji game — membuat tombol dan aturan main — memilih alat musik dan bunyinya",
+      "Membuat tombol dan aturan main — menguji game — memilih alat musik dan bunyinya — memperbaiki kesalahan",
+      "Memilih alat musik dan bunyinya — membuat tombol dan aturan main — menguji game — memperbaiki kesalahan"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Proyek dibuat secara berurutan: rencanakan dulu (pilih alat musik dan bunyinya), lalu buat gamenya (tombol dan aturan main), kemudian uji gamenya, dan terakhir perbaiki bagian yang salah.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "B: Membuat Game Bunyi Alat Musik",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Setelah game bunyi alat musik selesai dibuat, apa yang sebaiknya dilakukan sebelum game itu dimainkan teman-teman?\nA. Menguji game dengan memainkannya sendiri dan meminta teman mencoba, lalu memperbaiki bagian yang salah\nB. Langsung membagikan game tanpa dicoba terlebih dahulu\nC. Menghapus semua bunyi dari dalam game\nD. Menyembunyikan game supaya tidak ada yang memainkannya",
+    "pilihan": [
+      "Menguji game dengan memainkannya sendiri dan meminta teman mencoba, lalu memperbaiki bagian yang salah",
+      "Langsung membagikan game tanpa dicoba terlebih dahulu",
+      "Menghapus semua bunyi dari dalam game",
+      "Menyembunyikan game supaya tidak ada yang memainkannya"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Game yang baru dibuat harus diuji dulu — dimainkan sendiri dan dicoba teman — supaya kesalahan, misalnya bunyi yang salah atau tombol yang tidak berfungsi, bisa diperbaiki sebelum game dibagikan.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "B: Membuat Game Bunyi Alat Musik",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina dan Raka sama-sama akan membuat poster kelas. Dina menggambar sketsa posternya dulu di kertas dan menulis bahan yang dibutuhkan. Raka langsung menggunting dan menempel kertas tanpa membuat rencana. Siapa yang hasil karyanya lebih mungkin berhasil dan mengapa?\nA. Raka, karena bekerja tanpa rencana lebih cepat selesai\nB. Dina, karena sketsa dan rencana membantu menghindari kesalahan ukuran dan bahan\nC. Sama saja, karena keduanya memakai bahan yang sama\nD. Raka, karena sketsa hanya membuang waktu",
+    "pilihan": [
+      "Raka, karena bekerja tanpa rencana lebih cepat selesai",
+      "Dina, karena sketsa dan rencana membantu menghindari kesalahan ukuran dan bahan",
+      "Sama saja, karena keduanya memakai bahan yang sama",
+      "Raka, karena sketsa hanya membuang waktu"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Membuat sketsa dan rencana sebelum bekerja membantu kita tahu ukuran dan bahan yang dibutuhkan, sehingga kesalahan bisa dihindari sejak awal. Bekerja tanpa rencana lebih berisiko gagal dan harus mengulang.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta selesai membuat rak buku dari kardus, lalu rak itu langsung dipakai teman-teman tanpa diuji dulu. Apa yang bisa terjadi?\nA. Rak buku pasti kuat karena baru dibuat\nB. Cacat pada rak buku baru ketahuan setelah dipakai, dan tidak sempat diperbaiki\nC. Rak buku menjadi lebih kuat karena sering dipakai\nD. Tidak terjadi apa-apa, karena menguji hanya perlu untuk permainan",
+    "pilihan": [
+      "Rak buku pasti kuat karena baru dibuat",
+      "Cacat pada rak buku baru ketahuan setelah dipakai, dan tidak sempat diperbaiki",
+      "Rak buku menjadi lebih kuat karena sering dipakai",
+      "Tidak terjadi apa-apa, karena menguji hanya perlu untuk permainan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Tahap menguji ada supaya cacat ketahuan sebelum karya dipakai orang lain. Kalau karya langsung dipakai tanpa diuji, cacat baru ketahuan setelah dipakai dan tidak sempat diperbaiki.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab A",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi membuat permainan papan dari kardus tanpa menggambar sketsa dan tanpa mengujinya. Setelah jadi, ternyata papan permainannya terlalu kecil sehingga pion tidak muat. Tahap apa yang dilewati Budi dan apa akibatnya?\nA. Ia melewati tahap mengenali masalah; akibatnya ia tidak tahu harus membuat apa\nB. Ia melewati tahap membuat rencana dan menguji; akibatnya ukuran salah dan tidak sempat diperbaiki\nC. Ia melewati tahap membuat karya; akibatnya permainannya tidak jadi\nD. Ia tidak melewati tahap apa pun; papan yang kecil sudah benar",
+    "pilihan": [
+      "Ia melewati tahap mengenali masalah; akibatnya ia tidak tahu harus membuat apa",
+      "Ia melewati tahap membuat rencana dan menguji; akibatnya ukuran salah dan tidak sempat diperbaiki",
+      "Ia melewati tahap membuat karya; akibatnya permainannya tidak jadi",
+      "Ia tidak melewati tahap apa pun; papan yang kecil sudah benar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Tanpa sketsa, Budi tidak tahu ukuran papan yang dibutuhkan, sehingga papan jadi terlalu kecil. Tanpa menguji, kesalahan itu tidak ketahuan sebelum permainan selesai. Ia melewati tahap membuat rencana dan tahap menguji.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab A\n### Sub-bab B: Membuat Game Bunyi Alat Musik",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di dalam game bunyi alat musik, tombol bunyi gitar salah dipasangkan dengan gambar drum. Apa yang terjadi saat pemain menebak bunyi itu?\nA. Pemain yang menebak dengan benar justru disalahkan, sehingga gamenya jadi tidak adil\nB. Pemain mendapat poin lebih banyak\nC. Tidak terjadi apa-apa, karena gambar tidak penting\nD. Bunyi gitar berubah menjadi bunyi drum",
+    "pilihan": [
+      "Pemain yang menebak dengan benar justru disalahkan, sehingga gamenya jadi tidak adil",
+      "Pemain mendapat poin lebih banyak",
+      "Tidak terjadi apa-apa, karena gambar tidak penting",
+      "Bunyi gitar berubah menjadi bunyi drum"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Kalau tombol bunyi dan gambar tidak cocok, pemain yang mendengar bunyi gitar dan menebak gitar akan disalahkan oleh game. Game yang tidak adil membuat pemain tidak mau bermain lagi.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Game A hanya memakai 2 alat musik yang bunyinya sangat berbeda, sedangkan game B memakai 6 alat musik yang bunyinya mirip-mirip. Mana yang lebih menantang dan mengapa?\nA. Game A, karena hanya ada 2 alat musik\nB. Game B, karena bunyi yang mirip lebih sulit dibedakan\nC. Sama saja, karena jumlah alat musik tidak penting\nD. Game A, karena bunyi yang berbeda lebih sulit diingat",
+    "pilihan": [
+      "Game A, karena hanya ada 2 alat musik",
+      "Game B, karena bunyi yang mirip lebih sulit dibedakan",
+      "Sama saja, karena jumlah alat musik tidak penting",
+      "Game A, karena bunyi yang berbeda lebih sulit diingat"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menebak menjadi lebih sulit kalau bunyi-bunyinya mirip, karena pemain harus mendengarkan dengan lebih teliti. Bunyi yang sangat berbeda mudah dibedakan, jadi gamenya kurang menantang.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta membuat game bunyi alat musik, tetapi ia memakai bunyi yang sama untuk dua alat musik yang berbeda. Apakah gamenya bagus? Mengapa?\nA. Ya, karena pemain tidak perlu menghafal banyak bunyi\nB. Tidak, karena pemain tidak bisa membedakan kedua alat musik itu — tiap alat musik perlu bunyi yang berbeda\nC. Ya, karena gamenya jadi lebih mudah\nD. Tidak, karena alat musiknya terlalu banyak",
+    "pilihan": [
+      "Ya, karena pemain tidak perlu menghafal banyak bunyi",
+      "Tidak, karena pemain tidak bisa membedakan kedua alat musik itu — tiap alat musik perlu bunyi yang berbeda",
+      "Ya, karena gamenya jadi lebih mudah",
+      "Tidak, karena alat musiknya terlalu banyak"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Inti game ini adalah menebak alat musik dari bunyinya. Kalau dua alat musik memakai bunyi yang sama, pemain tidak bisa membedakan keduanya, jadi tebakannya tidak ada gunanya.",
+    "rujukan": "Informatika Erlangga Kelas 4, Bab 8, Sub-bab B",
+    "jenjang": "kelas-4",
+    "mapel": "tik",
+    "bab": "Bab 8: Praktik Lintas Bidang",
+    "sub_bab": "Soal Tambahan — Variasi Kuat (Ronde 2, 25 Nov 2026)",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  }
+]
