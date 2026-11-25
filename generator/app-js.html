@@ -44,7 +44,7 @@
     gemini: {
       label: 'Gemini',
       baseURL: 'https://generativelanguage.googleapis.com/v1beta/openai/',
-      model: 'gemini-2.0-flash',
+      model: 'gemini-3.8-flash',
       guideURL: 'https://aistudio.google.com/apikey',
       guideSteps: [
         'Buka https://aistudio.google.com/apikey',
@@ -386,6 +386,7 @@
     // muat kunci
     var inKey = $('inputApiKey');
     if (inKey) inKey.value = loadKey(pid);
+    updateGenerateState();
   }
 
   // ============================================================
@@ -805,8 +806,11 @@
     google.script.run
       .withSuccessHandler(function (res) {
         if (res && res.ok === true) {
-          setSubmitStatus('Terkirim: ' + state.soalList.length +
+          var jumlah = state.soalList.length;
+          setSubmitStatus('Terkirim: ' + jumlah +
             ' soal, status menunggu tinjauan.', false);
+          state.soalList = [];
+          renderReview();
         } else {
           setSubmitStatus('Gagal kirim: ' +
             (res && res.error ? res.error : 'respons server tidak valid.'), true);
