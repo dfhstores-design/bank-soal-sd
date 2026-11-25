@@ -214,6 +214,7 @@ function submitSoal(payload) {
     lock.waitLock(30000);
     try {
       const startRow = sheet.getLastRow() + 1;
+      sheet.getRange(startRow, 1, rows.length, HEADER_ROW.length).setNumberFormat('@');
       sheet.getRange(startRow, 1, rows.length, HEADER_ROW.length).setValues(rows);
     } finally {
       lock.releaseLock();

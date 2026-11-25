@@ -278,6 +278,7 @@
       subSel.appendChild(opt);
     });
     subSel.onchange = updateGenerateState;
+    updateGenerateState();
   }
 
   function updateGenerateState() {
@@ -290,7 +291,9 @@
     if (mapelId && BAB_DATA['kelas-4'] && BAB_DATA['kelas-4'][mapelId]) {
       if (BAB_DATA['kelas-4'][mapelId].tersedia === false) mapelDisabled = true;
     }
-    btn.disabled = !(sub && !mapelDisabled && !mapelNoteVisible) || state.generating;
+    var inKeyEl = $('inputApiKey');
+    var keyVal = inKeyEl ? inKeyEl.value.trim() : '';
+    btn.disabled = !(sub && !mapelDisabled && !mapelNoteVisible && keyVal) || state.generating;
   }
 
   // ============================================================
@@ -316,6 +319,7 @@
         if (state.activeProvider) {
           saveKey(state.activeProvider, inputKey.value.trim());
         }
+        updateGenerateState();
       });
     }
 
@@ -326,6 +330,7 @@
           saveKey(state.activeProvider, '');
         }
         if (inputKey) inputKey.value = '';
+        updateGenerateState();
       });
     }
 

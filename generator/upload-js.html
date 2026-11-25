@@ -74,7 +74,7 @@ function validasiFile(daftarSoal) {
     return errors;
   }
   for (var i = 0; i < daftarSoal.length; i++) {
-    var msg = validasiSoal(daftarSoal[i], i + 1);
+    var msg = validasiSoal(daftarSoal[i], i);
     if (msg) errors.push(msg);
   }
   return errors;
