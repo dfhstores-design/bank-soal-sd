@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Generator Soal — Bank Soal</title>
+<?!= include('data-bab'); ?>
+<script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+<style>
+  :root{
+    --teal:#0f766e; --teal-dark:#0d5f59; --teal-light:#ccfbf1;
+    --bg:#fdfbf7; --card:#ffffff; --border:#e5e7eb; --text:#111827;
+    --muted:#6b7280; --err:#b91c1c; --ok:#15803d; --warn:#b45309;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg); color:var(--text); line-height:1.5; font-size:15px;
+  }
+  .wrap{max-width:880px; margin:0 auto; padding:16px 14px 60px;}
+  header.top{
+    background:var(--teal); color:#fff; padding:14px 16px; border-radius:12px;
+    margin-bottom:16px;
+  }
+  header.top h1{margin:0; font-size:20px;}
+  header.top p{margin:4px 0 0; font-size:13px; opacity:.9;}
+  section.card{
+    background:var(--card); border:1px solid var(--border); border-radius:12px;
+    padding:16px; margin-bottom:16px;
+  }
+  section.card h2{
+    margin:0 0 12px; font-size:16px; color:var(--teal-dark);
+    border-bottom:2px solid var(--teal-light); padding-bottom:6px;
+  }
+  label.field{display:block; margin-bottom:12px;}
+  label.field > span{display:block; font-size:13px; font-weight:600; color:#374151; margin-bottom:4px;}
+  select,input[type=text],input[type=email],input[type=password],input[type=url],textarea{
+    width:100%; padding:9px 10px; border:1px solid var(--border); border-radius:8px;
+    font-size:14px; font-family:inherit; background:#fff; color:var(--text);
+  }
+  select:disabled,input:disabled{background:#f3f4f6; color:#9ca3af; cursor:not-allowed;}
+  textarea{resize:vertical; min-height:60px;}
+  button{
+    font-family:inherit; font-size:14px; padding:10px 16px; border-radius:8px;
+    border:none; cursor:pointer; font-weight:600;
+  }
+  button.primary{background:var(--teal); color:#fff;}
+  button.primary:disabled{background:#9ca3af; cursor:not-allowed;}
+  button.primary:not(:disabled):hover{background:var(--teal-dark);}
+  button.ghost{background:#fff; border:1px solid var(--border); color:#374151;}
+  button.ghost:hover{background:#f9fafb;}
+  button.danger{background:#fee2e2; color:var(--err); border:1px solid #fecaca;}
+  button.danger:hover{background:#fecaca;}
+  .row{display:flex; gap:10px; flex-wrap:wrap;}
+  .row > *{flex:1; min-width:180px;}
+  .note{
+    background:#fffbeb; border:1px solid #fde68a; color:#92400e;
+    padding:8px 12px; border-radius:8px; font-size:13px; margin:8px 0;
+  }
+  .note.blue{background:#eff6ff; border-color:#bfdbfe; color:#1e40af;}
+  .note.err{background:#fef2f2; border-color:#fecaca; color:var(--err);}
+  .note.ok{background:#f0fdf4; border-color:#bbf7d0; color:var(--ok);}
+  details.guide{
+    margin:10px 0; border:1px solid var(--border); border-radius:8px; padding:8px 12px;
+    background:#fafafa;
+  }
+  details.guide summary{cursor:pointer; font-weight:600; font-size:13px; color:var(--teal-dark);}
+  details.guide ol{margin:8px 0 6px 20px; padding:0; font-size:13px;}
+  details.guide a{color:var(--teal-dark); word-break:break-all;}
+  .kartu-soal{
+    border:1px solid var(--border); border-radius:10px; padding:12px; margin-bottom:12px;
+    background:#fafafa;
+  }
+  .kartu-soal .head{display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;}
+  .kartu-soal .head strong{color:var(--teal-dark);}
+  .pilihan-grid{display:grid; grid-template-columns:1fr 1fr; gap:8px; margin-bottom:8px;}
+  .pilihan-grid .p-item{display:flex; gap:6px; align-items:center;}
+  .pilihan-grid .p-item b{width:18px; text-align:center; color:var(--muted);}
+  .status-proses{font-size:14px; color:var(--teal-dark); padding:8px 0; font-weight:600;}
+  .spinner{
+    display:inline-block; width:14px; height:14px; border:2px solid var(--teal-light);
+    border-top-color:var(--teal); border-radius:50%; animation:spin .8s linear infinite;
+    vertical-align:middle; margin-right:6px;
+  }
+  @keyframes spin{to{transform:rotate(360deg);}}
+  .sum{font-size:13px; color:var(--muted); margin-top:8px;}
+  @media(max-width:560px){
+    .pilihan-grid{grid-template-columns:1fr;}
+  }
+  .hidden{display:none !important;}
+  .checkbox-row{display:flex; gap:10px; align-items:flex-start; margin:12px 0;}
+  .checkbox-row input{margin-top:3px; width:18px; height:18px; flex-shrink:0;}
+  .checkbox-row label{font-size:14px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <h1>Generator Soal</h1>
+    <p>Buat soal pilihan ganda untuk bank soal — Kelas 4 SD</p>
+  </header>
+
+  <!-- ================= §1 PILIH JENJANG/MAPEL/BAB/SUB-BAB ================= -->
+  <section class="card">
+    <h2>1. Pilih Materi</h2>
+    <label class="field">
+      <span>Jenjang</span>
+      <select id="selJenjang"></select>
+    </label>
+    <label class="field">
+      <span>Mata Pelajaran</span>
+      <select id="selMapel"></select>
+    </label>
+    <div id="mapelNote" class="note hidden"></div>
+    <label class="field">
+      <span>Bab</span>
+      <select id="selBab"></select>
+    </label>
+    <label class="field">
+      <span>Sub-bab</span>
+      <select id="selSubBab"></select>
+    </label>
+  </section>
+
+  <!-- ================= §2 PROVIDER + API KEY ================= -->
+  <section class="card">
+    <h2>2. Provider &amp; API Key</h2>
+    <label class="field">
+      <span>Provider</span>
+      <select id="selProvider"></select>
+    </label>
+
+    <div id="providerLainnyaWrap" class="hidden">
+      <label class="field">
+        <span>Base URL (Provider lainnya)</span>
+        <input type="url" id="inputBaseURL" placeholder="https://contoh.com/v1">
+      </label>
+      <label class="field">
+        <span>Nama Model (Provider lainnya)</span>
+        <input type="text" id="inputModel" placeholder="nama-model-default">
+      </label>
+    </div>
+
+    <label class="field">
+      <span>API Key</span>
+      <input type="password" id="inputApiKey" placeholder="Tempel kunci API di sini" autocomplete="off">
+    </label>
+    <div class="row" style="margin-bottom:10px;">
+      <button type="button" class="ghost" id="btnHapusKunci">Hapus Kunci</button>
+    </div>
+    <div class="note blue">
+      Kunci hanya tersimpan di browser perangkat ini (per provider), tidak pernah dikirim ke server, Sheet, atau log — dan tidak bisa dilihat akun lain termasuk pemilik aplikasi.
+    </div>
+
+    <details class="guide" id="guideBox">
+      <summary>Cara mendapatkan API key</summary>
+      <div id="guideContent" style="font-size:13px; margin-top:8px;"></div>
+    </details>
+    <div id="geminiNote" class="note hidden">
+      Gemini di sini dipakai orang dewasa untuk membuat soal — bukan layanan live ke anak.
+    </div>
+  </section>
+
+  <!-- ================= §3 GENERATE ================= -->
+  <section class="card">
+    <h2>3. Generate Soal</h2>
+    <button type="button" class="primary" id="btnGenerate" disabled>Generate 5 Soal</button>
+    <div id="statusProses" class="status-proses hidden"></div>
+    <div id="errorGenerate" class="note err hidden"></div>
+  </section>
+
+  <!-- ================= §4 REVIEW HASIL ================= -->
+  <section class="card hidden" id="reviewSection">
+    <h2>4. Review Soal</h2>
+    <div id="reviewList"></div>
+    <div class="sum" id="reviewSum"></div>
+  </section>
+
+  <!-- ================= §5 KONTRIBUTOR + LISENSI + SUBMIT ================= -->
+  <section class="card hidden" id="kontributorSection">
+    <h2>5. Kontributor &amp; Lisensi</h2>
+    <label class="field">
+      <span>Nama Kontributor</span>
+      <input type="text" id="inputNama" placeholder="Nama Anda (dicantumkan sebagai sumber)">
+    </label>
+    <div class="row">
+      <label class="field">
+        <span>Kontak (WA/email)</span>
+        <input type="text" id="inputKontak" placeholder="08xx... atau email@contoh.com">
+      </label>
+      <label class="field">
+        <span>Media Kontak</span>
+        <select id="selMediaKontak">
+          <option value="WA">WA</option>
+          <option value="email">email</option>
+          <option value="keduanya">keduanya</option>
+        </select>
+      </label>
+    </div>
+    <div class="checkbox-row">
+      <input type="checkbox" id="chkLisensi">
+      <label for="chkLisensi">Saya setuju soal yang saya kirim, jika lolos tinjauan, diterbitkan di bank soal dengan lisensi CC BY-NC 4.0 dan nama saya dicantumkan sebagai sumber.</label>
+    </div>
+    <button type="button" class="primary" id="btnSubmit" disabled>Kirim Soal</button>
+    <div id="statusSubmit" class="note hidden" style="margin-top:10px;"></div>
+  </section>
+
+  <!-- ================= §6 UNGGAH MANUAL ================= -->
+  <section class="card">
+    <h2>6. Jalan Kedua — Unggah Manual</h2>
+    <div class="note blue">
+      Format: JSON array soal (14 field), atau CSV/XLS/XLSX dengan baris pertama = nama kolom. Kolom pilihan bisa 4 kolom <code>pilihan_a..pilihan_d</code> ATAU satu kolom <code>pilihan</code> berisi 4 pilihan dipisah <code>|</code>.
+    </div>
+    <label class="field">
+      <span>Berkas (.json, .csv, .xls, .xlsx)</span>
+      <input type="file" id="inputFile" accept=".json,.csv,.xls,.xlsx">
+    </label>
+    <button type="button" class="primary" id="btnProsesFile">Proses Berkas</button>
+    <div id="statusUnggah" class="note hidden" style="margin-top:10px;"></div>
+  </section>
+
+</div>
+<?!= include('app-js'); ?>
+<?!= include('upload-js'); ?>
+</body>
+</html>
