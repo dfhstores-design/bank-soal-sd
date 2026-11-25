@@ -54,6 +54,10 @@ function normalizeRow(row) {
     pilihan = ['', '', '', ''];
   }
   soal.pilihan = pilihan;
+  soal.pilihan_a = pilihan[0] || '';
+  soal.pilihan_b = pilihan[1] || '';
+  soal.pilihan_c = pilihan[2] || '';
+  soal.pilihan_d = pilihan[3] || '';
 
   // 3) jawaban_benar → huruf besar tunggal.
   var jb = soal.jawaban_benar;

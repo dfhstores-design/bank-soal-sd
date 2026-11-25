@@ -249,7 +249,7 @@
     babList.forEach(function (b) {
       var opt = document.createElement('option');
       opt.value = b.id || b.nama;
-      opt.textContent = b.nama;
+      opt.textContent = b.judul || b.nama || '';
       babSel.appendChild(opt);
     });
     babSel.onchange = onBabChange;
@@ -272,7 +272,7 @@
     (bab.sub_bab || bab.subBab || []).forEach(function (s) {
       var opt = document.createElement('option');
       var val = s.id || s.nama || s;
-      var txt = s.nama || s;
+      var txt = (typeof s === 'string') ? s : (s.judul || s.nama || s);
       opt.value = val;
       opt.textContent = txt;
       subSel.appendChild(opt);
@@ -404,12 +404,12 @@
           return (b.id || b.nama) === babId;
         });
         if (bab) {
-          babNama = bab.nama || babId;
+          babNama = bab.judul || bab.nama || babId;
           var subs = bab.sub_bab || bab.subBab || [];
           var sub = subs.find(function (s) {
             return (s.id || s.nama || s) === subId;
           });
-          if (sub) subNama = sub.nama || sub;
+          if (sub) subNama = (typeof sub === 'string') ? sub : (sub.judul || sub.nama || sub);
         }
       }
     }
@@ -596,7 +596,11 @@
       out.pilihan_b = s.pilihan[1] || '';
       out.pilihan_c = s.pilihan[2] || '';
       out.pilihan_d = s.pilihan[3] || '';
+      out.pilihan = [s.pilihan[0] || '', s.pilihan[1] || '', s.pilihan[2] || '', s.pilihan[3] || ''];
+    } else {
+      out.pilihan = [out.pilihan_a, out.pilihan_b, out.pilihan_c, out.pilihan_d];
     }
+    out.tanggal = s.tanggal || todayISO();
     out.jawaban_benar = String(out.jawaban_benar || '').trim().toUpperCase();
     return out;
   }
@@ -777,10 +781,31 @@
       return;
     }
 
+    var soalKirim = state.soalList.map(function (s) {
+      var o = {};
+      for (var k in s) { if (Object.prototype.hasOwnProperty.call(s, k)) o[k] = s[k]; }
+      o.sumber = nama;
+      o.pembuat = nama;
+      o.status = 'menunggu tinjauan';
+      o.tanggal = o.tanggal || todayISO();
+      o.pilihan = [
+        o.pilihan_a || '',
+        o.pilihan_b || '',
+        o.pilihan_c || '',
+        o.pilihan_d || ''
+      ];
+      return o;
+    });
+
     google.script.run
       .withSuccessHandler(function (res) {
-        setSubmitStatus('Terkirim: ' + state.soalList.length +
-          ' soal, status menunggu tinjauan.', false);
+        if (res && res.ok === true) {
+          setSubmitStatus('Terkirim: ' + state.soalList.length +
+            ' soal, status menunggu tinjauan.', false);
+        } else {
+          setSubmitStatus('Gagal kirim: ' +
+            (res && res.error ? res.error : 'respons server tidak valid.'), true);
+        }
         updateSubmitState();
       })
       .withFailureHandler(function (err) {
@@ -788,10 +813,22 @@
         updateSubmitState();
       })
       .submitSoal({
-        soal: state.soalList,
+        soal: soalKirim,
         kontributor: { nama: nama, kontak: kontak, media: media },
         lisensi: true
       });
   }
+
+  initJenjang();
+  initProviders();
+
+  var _bGen = $('btnGenerate');
+  if (_bGen) _bGen.addEventListener('click', doGenerate);
+  var _bSub = $('btnSubmit');
+  if (_bSub) _bSub.addEventListener('click', doSubmit);
+  var _cLis = $('chkLisensi');
+  if (_cLis) _cLis.addEventListener('change', updateSubmitState);
+
+  updateSubmitState();
 
 </script>
