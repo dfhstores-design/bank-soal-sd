@@ -188,7 +188,7 @@
     hide($('mapelNote'));
     updateGenerateState();
 
-    if (!window.BAB_DATA || !BAB_DATA[jenjang]) return;
+    if (typeof BAB_DATA === 'undefined' || !BAB_DATA[jenjang]) return;
 
     var mapelObj = BAB_DATA[jenjang];
     var order = ['mtk', 'bi', 'ipas', 'pp', 'tik', 'pjok', 'seni', 'inggris', 'pai'];
