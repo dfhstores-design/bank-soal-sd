@@ -1,0 +1,871 @@
+{
+  "kelas-4": {
+    "mtk": {
+      "nama": "Matematika",
+      "tersedia": true,
+      "bab": [
+        {
+          "id": "bab-1",
+          "judul": "Bab 1: Bilangan Cacah sampai 10.000",
+          "sub_bab": [
+            {
+              "id": "1A",
+              "judul": "A: Membaca dan Menulis Lambang Bilangan Cacah sampai 10.000"
+            },
+            {
+              "id": "1B",
+              "judul": "B: Nilai Tempat Bilangan Cacah sampai 10.000"
+            },
+            {
+              "id": "1C",
+              "judul": "C: Membandingkan dan Mengurutkan Bilangan Cacah sampai 10.000"
+            },
+            {
+              "id": "1D",
+              "judul": "D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000"
+            },
+            {
+              "id": "1E",
+              "judul": "E: Penjumlahan Bilangan Cacah sampai 10.000"
+            },
+            {
+              "id": "1F",
+              "judul": "F: Pengurangan Bilangan Cacah sampai 1.000"
+            },
+            {
+              "id": "1G",
+              "judul": "G: Perkalian Bilangan Cacah sampai 1.000"
+            },
+            {
+              "id": "1H",
+              "judul": "H: Pembagian Bilangan Cacah sampai 100"
+            },
+            {
+              "id": "1I",
+              "judul": "I: Kelipatan dan Faktor"
+            }
+          ]
+        },
+        {
+          "id": "bab-2",
+          "judul": "Bab 2: Pecahan",
+          "sub_bab": [
+            {
+              "id": "2A",
+              "judul": "A: Pecahan dengan Pembilang Satu"
+            },
+            {
+              "id": "2B",
+              "judul": "B: Pecahan dengan Penyebut Sama"
+            },
+            {
+              "id": "2C",
+              "judul": "C: Pecahan Senilai"
+            },
+            {
+              "id": "2D",
+              "judul": "D: Pecahan Desimal Persepuluhan dan Perseratusan"
+            },
+            {
+              "id": "2E",
+              "judul": "E: Hubungan Pecahan Desimal Persepuluhan dan Perseratusan"
+            }
+          ]
+        },
+        {
+          "id": "bab-3",
+          "judul": "Bab 3: Pola Gambar dan Pola Bilangan",
+          "sub_bab": [
+            {
+              "id": "3A",
+              "judul": "A: Pola Bilangan"
+            },
+            {
+              "id": "3B",
+              "judul": "B: Pola Gambar"
+            }
+          ]
+        },
+        {
+          "id": "bab-4",
+          "judul": "Bab 4: Pengukuran Luas dan Volume",
+          "sub_bab": [
+            {
+              "id": "4A",
+              "judul": "A: Pengukuran Luas"
+            },
+            {
+              "id": "4B",
+              "judul": "B: Pengukuran Volume"
+            }
+          ]
+        },
+        {
+          "id": "bab-5",
+          "judul": "Bab 5: Bangun Datar",
+          "sub_bab": [
+            {
+              "id": "5A",
+              "judul": "A: Segi Banyak"
+            },
+            {
+              "id": "5B",
+              "judul": "B: Segitiga"
+            },
+            {
+              "id": "5C",
+              "judul": "C: Segi Empat"
+            },
+            {
+              "id": "5D",
+              "judul": "D: Komposisi dan Dekomposisi Bangun Datar"
+            }
+          ]
+        },
+        {
+          "id": "bab-6",
+          "judul": "Bab 6: Piktogram dan Diagram Batang",
+          "sub_bab": [
+            {
+              "id": "6A",
+              "judul": "A: Penyajian Data dalam Bentuk Tabel"
+            },
+            {
+              "id": "6B",
+              "judul": "B: Penyajian Data dalam Bentuk Piktogram (Diagram Gambar)"
+            },
+            {
+              "id": "6C",
+              "judul": "C: Penyajian Data dalam Bentuk Diagram Batang"
+            }
+          ]
+        }
+      ]
+    },
+    "bi": {
+      "nama": "Bahasa Indonesia",
+      "tersedia": false,
+      "bab": [
+        {
+          "id": "bab-1",
+          "judul": "Bab 1: Arah Perjalanan yang tepat",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-2",
+          "judul": "Bab 2: Cerita tentang berbagai pekerjaan",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-3",
+          "judul": "Bab 3: Indahnya kata-kata dalam puisi",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-4",
+          "judul": "Bab 4: Laporan tentang tempat bersejarah",
+          "sub_bab": []
+        }
+      ]
+    },
+    "ipas": {
+      "nama": "IPAS",
+      "tersedia": false,
+      "bab": []
+    },
+    "pp": {
+      "nama": "Pendidikan Pancasila",
+      "tersedia": false,
+      "bab": []
+    },
+    "tik": {
+      "nama": "Informatika (TIK)",
+      "tersedia": true,
+      "bab": [
+        {
+          "id": "bab-1",
+          "judul": "Bab 1: Berpikir Komputasional",
+          "sub_bab": [
+            {
+              "id": "1A",
+              "judul": "A: Algoritma"
+            },
+            {
+              "id": "1B",
+              "judul": "B: Dekomposisi"
+            },
+            {
+              "id": "1C",
+              "judul": "C: Pola"
+            },
+            {
+              "id": "1D",
+              "judul": "D: Abstraksi"
+            }
+          ]
+        },
+        {
+          "id": "bab-2",
+          "judul": "Bab 2: Teknologi Informasi dan Komunikasi",
+          "sub_bab": [
+            {
+              "id": "2A",
+              "judul": "A: Pengelolaan File dan Folder"
+            },
+            {
+              "id": "2B",
+              "judul": "B: Menggunakan Perangkat TIK"
+            },
+            {
+              "id": "2C",
+              "judul": "C: Sikap yang Tepat ketika Menggunakan Komputer"
+            }
+          ]
+        },
+        {
+          "id": "bab-3",
+          "judul": "Bab 3: Sistem Komputer",
+          "sub_bab": [
+            {
+              "id": "3A",
+              "judul": "A: Hardware (Perangkat Keras)"
+            },
+            {
+              "id": "3B",
+              "judul": "B: Software (Perangkat Lunak)"
+            },
+            {
+              "id": "3C",
+              "judul": "C: Brainware (Pengguna)"
+            }
+          ]
+        },
+        {
+          "id": "bab-4",
+          "judul": "Bab 4: Jaringan Komputer dan Internet",
+          "sub_bab": [
+            {
+              "id": "4A",
+              "judul": "A: Jaringan Komputer"
+            },
+            {
+              "id": "4B",
+              "judul": "B: Internet"
+            },
+            {
+              "id": "4C",
+              "judul": "C: Cara Melindungi Data dan File"
+            }
+          ]
+        },
+        {
+          "id": "bab-5",
+          "judul": "Bab 5: Analisis Data",
+          "sub_bab": [
+            {
+              "id": "5A",
+              "judul": "A: Data"
+            },
+            {
+              "id": "5B",
+              "judul": "B: Data dalam Bentuk Diagram"
+            }
+          ]
+        },
+        {
+          "id": "bab-6",
+          "judul": "Bab 6: Algoritma dan Pemrograman",
+          "sub_bab": [
+            {
+              "id": "6A",
+              "judul": "A: Penulisan Algoritma"
+            },
+            {
+              "id": "6B",
+              "judul": "B: Istilah dalam Pemrograman"
+            }
+          ]
+        },
+        {
+          "id": "bab-7",
+          "judul": "Bab 7: Dampak Sosial Informatika",
+          "sub_bab": [
+            {
+              "id": "7A",
+              "judul": "A: Dampak Positif dan Negatif Perangkat TIK"
+            },
+            {
+              "id": "7B",
+              "judul": "B: Etika Berkomunikasi Digital"
+            },
+            {
+              "id": "7C",
+              "judul": "C: Hak Karya Digital"
+            }
+          ]
+        },
+        {
+          "id": "bab-8",
+          "judul": "Bab 8: Praktik Lintas Bidang",
+          "sub_bab": [
+            {
+              "id": "8A",
+              "judul": "A: Mengenal Proses Desain"
+            },
+            {
+              "id": "8B",
+              "judul": "B: Membuat Game Bunyi Alat Musik"
+            }
+          ]
+        }
+      ]
+    },
+    "pjok": {
+      "nama": "PJOK",
+      "tersedia": true,
+      "bab": [
+        {
+          "id": "bab-1",
+          "judul": "Bab 1: Waktunya Bergerak",
+          "sub_bab": [
+            {
+              "id": "1A",
+              "judul": "A: Gerak Berpindah Tempat"
+            },
+            {
+              "id": "1B",
+              "judul": "B: Gerak Tanpa Berpindah Tempat"
+            },
+            {
+              "id": "1C",
+              "judul": "C: Gerak Menggunakan Benda"
+            },
+            {
+              "id": "1D",
+              "judul": "D: Gerak di Air"
+            }
+          ]
+        },
+        {
+          "id": "bab-2",
+          "judul": "Bab 2: Saatnya Bermain",
+          "sub_bab": [
+            {
+              "id": "2A",
+              "judul": "A: Aktivitas Permainan Invasi"
+            },
+            {
+              "id": "2B",
+              "judul": "B: Aktivitas Permainan Net"
+            },
+            {
+              "id": "2C",
+              "judul": "C: Aktivitas Permainan Lapangan"
+            },
+            {
+              "id": "2D",
+              "judul": "D: Aktivitas Permainan Target"
+            }
+          ]
+        },
+        {
+          "id": "bab-3",
+          "judul": "Bab 3: Belajar Memadukan Gerak",
+          "sub_bab": [
+            {
+              "id": "3A",
+              "judul": "A: Aktivitas Gerak Berirama"
+            },
+            {
+              "id": "3B",
+              "judul": "B: Aktivitas Senam Lantai"
+            },
+            {
+              "id": "3C",
+              "judul": "C: Seni Bela Diri Pencak Silat"
+            }
+          ]
+        },
+        {
+          "id": "bab-4",
+          "judul": "Bab 4: Aktif dan Bugar",
+          "sub_bab": [
+            {
+              "id": "4A",
+              "judul": "A: Macam-Macam Aktivitas Fisik"
+            },
+            {
+              "id": "4B",
+              "judul": "B: Aktif dalam Berbagai Aktivitas Fisik"
+            },
+            {
+              "id": "4C",
+              "judul": "C: Pentingnya Kebugaran Jasmani"
+            }
+          ]
+        },
+        {
+          "id": "bab-5",
+          "judul": "Bab 5: Gaya Hidup Sehat",
+          "sub_bab": [
+            {
+              "id": "5A",
+              "judul": "A: Hindari Kebiasaan Screen Time Berlebihan"
+            },
+            {
+              "id": "5B",
+              "judul": "B: Makanan Sehat dan Bergizi"
+            },
+            {
+              "id": "5C",
+              "judul": "C: Penanganan Cedera Ringan"
+            }
+          ]
+        }
+      ]
+    },
+    "seni": {
+      "nama": "Seni",
+      "tersedia": true,
+      "bab": [
+        {
+          "id": "bab-1",
+          "judul": "Bab 1: Seni Rupa: Lingkungan sebagai Objek Seni",
+          "sub_bab": [
+            {
+              "id": "1A",
+              "judul": "A: Menggambar Rumah"
+            },
+            {
+              "id": "1B",
+              "judul": "B: Tekstur"
+            }
+          ]
+        },
+        {
+          "id": "bab-2",
+          "judul": "Bab 2: Seni Musik: Bunyi Nada dan Alat Musik",
+          "sub_bab": [
+            {
+              "id": "2A",
+              "judul": "A: Bunyi"
+            },
+            {
+              "id": "2B",
+              "judul": "B: Nada"
+            },
+            {
+              "id": "2C",
+              "judul": "C: Alat Musik"
+            }
+          ]
+        },
+        {
+          "id": "bab-3",
+          "judul": "Bab 3: Seni Tari: Mengenal Lingkungan dengan Tari",
+          "sub_bab": [
+            {
+              "id": "3A",
+              "judul": "A: Mengenal Gerakan Alam"
+            },
+            {
+              "id": "3B",
+              "judul": "B: Unsur Gerak Tari"
+            },
+            {
+              "id": "3C",
+              "judul": "C: Apresiasi Tari Bertema Lingkungan"
+            }
+          ]
+        },
+        {
+          "id": "bab-4",
+          "judul": "Bab 4: Seni Teater: Mengenal Seni Teater",
+          "sub_bab": [
+            {
+              "id": "4A",
+              "judul": "A: Meniru Suara dan Gerak Lingkungan Sekitar"
+            },
+            {
+              "id": "4B",
+              "judul": "B: Bermain Peran"
+            }
+          ]
+        },
+        {
+          "id": "bab-5",
+          "judul": "Bab 5: Seni Rupa: Mengenal Kreasi Seni Rupa",
+          "sub_bab": [
+            {
+              "id": "5A",
+              "judul": "A: Mengenal Karya Seni Kriya dari Limbah Plastik"
+            },
+            {
+              "id": "5B",
+              "judul": "B: Membuat Kreasi Seni"
+            },
+            {
+              "id": "5C",
+              "judul": "C: Apresiasi Terhadap Kerajinan Seni"
+            }
+          ]
+        },
+        {
+          "id": "bab-6",
+          "judul": "Bab 6: Seni Musik: Irama, Dinamika, dan Ragam Lagu",
+          "sub_bab": [
+            {
+              "id": "6A",
+              "judul": "A: Irama"
+            },
+            {
+              "id": "6B",
+              "judul": "B: Ragam Lagu"
+            },
+            {
+              "id": "6C",
+              "judul": "C: Dinamika"
+            }
+          ]
+        },
+        {
+          "id": "bab-7",
+          "judul": "Bab 7: Seni Tari: Mengenal Tari Melalui Permainan dan Cerita Rakyat",
+          "sub_bab": [
+            {
+              "id": "7A",
+              "judul": "A: Gerak dan Makna Permainan Tradisional"
+            },
+            {
+              "id": "7B",
+              "judul": "B: Tari Cerita Rakyat"
+            }
+          ]
+        },
+        {
+          "id": "bab-8",
+          "judul": "Bab 8: Seni Teater: Berkreasi Seni Teater",
+          "sub_bab": [
+            {
+              "id": "8A",
+              "judul": "A: Bermain Peran Fabel dan Legenda"
+            },
+            {
+              "id": "8B",
+              "judul": "B: Mendongeng"
+            },
+            {
+              "id": "8C",
+              "judul": "C: Melakukan Pementasan Teater"
+            }
+          ]
+        }
+      ]
+    },
+    "inggris": {
+      "nama": "Bahasa Inggris",
+      "tersedia": true,
+      "bab": [
+        {
+          "id": "bab-1",
+          "judul": "Unit 1: Where Are You From?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-2",
+          "judul": "Unit 2: What's Your Brother Like?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-3",
+          "judul": "Unit 3: Do You Like Listening to Jazz or Pop?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-4",
+          "judul": "Unit 4: Did You Have a Good Time?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-5",
+          "judul": "Review 1",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-6",
+          "judul": "Unit 5: What Subject Do You Like the Most?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-7",
+          "judul": "Unit 6: You Must Be on Time",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-8",
+          "judul": "Unit 7: What Do You Want to Be?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-9",
+          "judul": "Unit 8: Why Do You Want to Be a Singer?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-10",
+          "judul": "Review 2",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-11",
+          "judul": "Unit 9: He's Good at Surfing",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-12",
+          "judul": "Unit 10: How Much Snow Is There?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-13",
+          "judul": "Unit 11: Do You Know How to Play Chess?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-14",
+          "judul": "Unit 12: How Often Do You Do the Laundry?",
+          "sub_bab": []
+        },
+        {
+          "id": "bab-15",
+          "judul": "Review 3",
+          "sub_bab": []
+        }
+      ]
+    },
+    "pai": {
+      "nama": "Pendidikan Agama Islam dan Budi Pekerti",
+      "tersedia": true,
+      "bab": [
+        {
+          "id": "bab-1",
+          "judul": "Bab 1: Menjaga Hubungan Baik dengan Sesama",
+          "sub_bab": [
+            {
+              "id": "1A",
+              "judul": "A: Q.S. Al-Hujurat/49:13"
+            },
+            {
+              "id": "1B",
+              "judul": "B: Hadis Terkait Menjaga Hubungan Baik dengan Sesama"
+            },
+            {
+              "id": "1C",
+              "judul": "C: Cara Menjaga Hubungan Baik dengan Sesama"
+            }
+          ]
+        },
+        {
+          "id": "bab-2",
+          "judul": "Bab 2: Asmaulhusna",
+          "sub_bab": [
+            {
+              "id": "2A",
+              "judul": "A: Al-Malik"
+            },
+            {
+              "id": "2B",
+              "judul": "B: Al-'Aziz"
+            },
+            {
+              "id": "2C",
+              "judul": "C: Al-Quddus"
+            },
+            {
+              "id": "2D",
+              "judul": "D: As-Salam"
+            },
+            {
+              "id": "2E",
+              "judul": "E: Al-Mu'min"
+            }
+          ]
+        },
+        {
+          "id": "bab-3",
+          "judul": "Bab 3: Indahnya Keragaman",
+          "sub_bab": [
+            {
+              "id": "3A",
+              "judul": "A: Keragaman sebagai Sunatullah"
+            },
+            {
+              "id": "3B",
+              "judul": "B: Ajaran Kebaikan dari Agama Islam dan Selain Islam"
+            },
+            {
+              "id": "3C",
+              "judul": "C: Toleransi Antarumat Agama"
+            }
+          ]
+        },
+        {
+          "id": "bab-4",
+          "judul": "Bab 4: Norma dalam Kehidupan",
+          "sub_bab": [
+            {
+              "id": "4A",
+              "judul": "A: Pengertian Norma"
+            },
+            {
+              "id": "4B",
+              "judul": "B: Macam-Macam Norma"
+            },
+            {
+              "id": "4C",
+              "judul": "C: Manfaat Norma dalam Kehidupan"
+            }
+          ]
+        },
+        {
+          "id": "bab-5",
+          "judul": "Bab 5: Tanda-Tanda Balig",
+          "sub_bab": [
+            {
+              "id": "5A",
+              "judul": "A: Pengertian dan Tanda-Tanda Balig"
+            },
+            {
+              "id": "5B",
+              "judul": "B: Kewajiban setelah Memasuki Usia Balig"
+            }
+          ]
+        },
+        {
+          "id": "bab-6",
+          "judul": "Bab 6: Hijrahnya Nabi Muhammad Saw.",
+          "sub_bab": [
+            {
+              "id": "6A",
+              "judul": "A: Penyebab Hijrahnya Nabi Muhammad Saw. ke Madinah"
+            },
+            {
+              "id": "6B",
+              "judul": "B: Perjalanan Hijrah Nabi Muhammad Saw. ke Madinah"
+            },
+            {
+              "id": "6C",
+              "judul": "C: Meneladani Hijrahnya Nabi Muhammad Saw. ke Madinah"
+            },
+            {
+              "id": "6D",
+              "judul": "D: Hikmah Hijrah Nabi Muhammad Saw. ke Madinah"
+            }
+          ]
+        },
+        {
+          "id": "bab-7",
+          "judul": "Bab 7: Pentingnya Silaturahim",
+          "sub_bab": [
+            {
+              "id": "7A",
+              "judul": "A: Surah At-Tin"
+            },
+            {
+              "id": "7B",
+              "judul": "B: Q.S. An-Nisa'/4:1"
+            },
+            {
+              "id": "7C",
+              "judul": "C: Hadis Silaturahim"
+            },
+            {
+              "id": "7D",
+              "judul": "D: Hukum Bacaan Nun Sukun dan Tanwin"
+            }
+          ]
+        },
+        {
+          "id": "bab-8",
+          "judul": "Bab 8: Iman kepada Nabi dan Rasul",
+          "sub_bab": [
+            {
+              "id": "8A",
+              "judul": "A: Pengertian Iman kepada Nabi dan Rasul"
+            },
+            {
+              "id": "8B",
+              "judul": "B: Perbedaan Nabi dan Rasul"
+            },
+            {
+              "id": "8C",
+              "judul": "C: Nama-Nama Nabi dan Rasul"
+            },
+            {
+              "id": "8D",
+              "judul": "D: Sifat-Sifat Rasul"
+            },
+            {
+              "id": "8E",
+              "judul": "E: Tujuan Diutusnya Para Rasul"
+            },
+            {
+              "id": "8F",
+              "judul": "F: Penerapan Iman kepada Nabi dan Rasul"
+            }
+          ]
+        },
+        {
+          "id": "bab-9",
+          "judul": "Bab 9: Sikap Terpuji",
+          "sub_bab": [
+            {
+              "id": "9A",
+              "judul": "A: Percaya Diri"
+            },
+            {
+              "id": "9B",
+              "judul": "B: Musyawarah"
+            },
+            {
+              "id": "9C",
+              "judul": "C: Persatuan"
+            }
+          ]
+        },
+        {
+          "id": "bab-10",
+          "judul": "Bab 10: Salat Jumat dan Salat Sunah",
+          "sub_bab": [
+            {
+              "id": "10A",
+              "judul": "A: Pelaksanaan Salat Jumat"
+            },
+            {
+              "id": "10B",
+              "judul": "B: Salat Sunah"
+            }
+          ]
+        },
+        {
+          "id": "bab-11",
+          "judul": "Bab 11: Nabi Muhammad Saw. Membangun Kota Madinah",
+          "sub_bab": [
+            {
+              "id": "11A",
+              "judul": "A: Membangun Masjid"
+            },
+            {
+              "id": "11B",
+              "judul": "B: Mempersaudarakan Kaum Muhajirin dan Ansar"
+            },
+            {
+              "id": "11C",
+              "judul": "C: Meneladani Kisah Nabi Muhammad Saw. Membangun Kota Madinah"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

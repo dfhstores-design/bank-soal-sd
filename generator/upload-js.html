@@ -1,0 +1,198 @@
+<script>
+// ===== §6 — Unggah Manual =====
+// Bagian ini dimuat sesudah app-js.html. Mengandalkan global yang sudah ada:
+// state, $, setText, PROMPT_FIELDS, validasiSoal, renderReview, updateSubmitState.
+
+function setUnggahStatus(msg, isErr) {
+  var el = $('statusUnggah');
+  if (!el) return;
+  el.textContent = msg || '';
+  el.className = isErr ? 'note err' : 'note';
+}
+
+function normalizeRow(row) {
+  var soal = {};
+  var i, f, v;
+
+  // 1) Salin field dasar dari PROMPT_FIELDS (kecuali 'pilihan' yang butuh
+  //    perlakuan khusus) — null/undefined → string kosong, trim.
+  for (i = 0; i < PROMPT_FIELDS.length; i++) {
+    f = PROMPT_FIELDS[i];
+    if (f === 'pilihan') continue;
+    v = row[f];
+    if (v === null || v === undefined) v = '';
+    else v = String(v).trim();
+    soal[f] = v;
+  }
+
+  // 2) Normalisasi 'pilihan' — tiga bentuk didukung.
+  var pilihan;
+  if (Array.isArray(row.pilihan)) {
+    pilihan = row.pilihan.slice(0, 4);
+    while (pilihan.length < 4) pilihan.push('');
+    pilihan = pilihan.map(function (x) {
+      return x === null || x === undefined ? '' : String(x).trim();
+    });
+  } else if (
+    row.pilihan_a !== undefined ||
+    row.pilihan_b !== undefined ||
+    row.pilihan_c !== undefined ||
+    row.pilihan_d !== undefined
+  ) {
+    pilihan = ['pilihan_a', 'pilihan_b', 'pilihan_c', 'pilihan_d'].map(function (k) {
+      var x = row[k];
+      return x === null || x === undefined ? '' : String(x).trim();
+    });
+  } else if (typeof row.pilihan === 'string' && row.pilihan.length > 0) {
+    var parts = row.pilihan.split('|');
+    pilihan = [];
+    for (var j = 0; j < 4; j++) {
+      var p = parts[j];
+      pilihan.push(p === undefined || p === null ? '' : String(p).trim());
+    }
+  } else {
+    pilihan = ['', '', '', ''];
+  }
+  soal.pilihan = pilihan;
+  soal.pilihan_a = pilihan[0] || '';
+  soal.pilihan_b = pilihan[1] || '';
+  soal.pilihan_c = pilihan[2] || '';
+  soal.pilihan_d = pilihan[3] || '';
+
+  // 3) jawaban_benar → huruf besar tunggal.
+  var jb = soal.jawaban_benar;
+  if (jb === null || jb === undefined) jb = '';
+  soal.jawaban_benar = String(jb).trim().toUpperCase();
+
+  return soal;
+}
+
+function validasiFile(daftarSoal) {
+  var errors = [];
+  if (!daftarSoal || daftarSoal.length === 0) {
+    errors.push('Berkas tidak berisi soal.');
+    return errors;
+  }
+  for (var i = 0; i < daftarSoal.length; i++) {
+    var msg = validasiSoal(daftarSoal[i], i);
+    if (msg) errors.push(msg);
+  }
+  return errors;
+}
+
+(function attachProsesFileListener() {
+  var btn = $('btnProsesFile');
+  if (!btn) return;
+
+  btn.addEventListener('click', function () {
+    var input = $('inputFile');
+    if (!input || !input.files || input.files.length === 0) {
+      setUnggahStatus('Pilih berkas dulu.', true);
+      return;
+    }
+
+    var file = input.files[0];
+    var name = String(file.name || '').toLowerCase();
+    var ext = '';
+    var dotIdx = name.lastIndexOf('.');
+    if (dotIdx >= 0) ext = name.slice(dotIdx);
+
+    // Nonaktifkan tombol selama proses.
+    var btnEl = btn;
+    btnEl.disabled = true;
+
+    function done() {
+      btnEl.disabled = false;
+    }
+
+    function handleSuccess(daftarSoal) {
+      var errors = validasiFile(daftarSoal);
+      if (errors.length > 0) {
+        setUnggahStatus(errors.join('\n'), true);
+        done();
+        return;
+      }
+      // Tambahkan ke state.
+      for (var i = 0; i < daftarSoal.length; i++) {
+        state.soalList.push(daftarSoal[i]);
+      }
+      if (typeof renderReview === 'function') renderReview();
+      if (typeof updateSubmitState === 'function') updateSubmitState();
+      setUnggahStatus(
+        'Berkas valid: ' + daftarSoal.length + ' soal ditambahkan ke review.',
+        false
+      );
+      done();
+    }
+
+    function handleError(msg) {
+      setUnggahStatus(msg, true);
+      done();
+    }
+
+    try {
+      if (ext === '.json') {
+        var readerJson = new FileReader();
+        readerJson.onload = function (ev) {
+          var text = ev.target.result;
+          var parsed;
+          try {
+            parsed = JSON.parse(text);
+          } catch (e) {
+            handleError('JSON tidak valid: ' + (e && e.message ? e.message : 'parse gagal'));
+            return;
+          }
+          if (!Array.isArray(parsed)) {
+            handleError('Berkas JSON harus berisi array soal.');
+            return;
+          }
+          var daftar = [];
+          for (var i = 0; i < parsed.length; i++) {
+            daftar.push(normalizeRow(parsed[i] || {}));
+          }
+          handleSuccess(daftar);
+        };
+        readerJson.onerror = function () {
+          handleError('Gagal membaca berkas JSON.');
+        };
+        readerJson.readAsText(file);
+        return;
+      }
+
+      if (ext === '.csv' || ext === '.xls' || ext === '.xlsx') {
+        if (typeof XLSX === 'undefined') {
+          handleError('Pustaka XLSX tidak dimuat; tidak bisa membaca berkas ini.');
+          return;
+        }
+        var readerBin = new FileReader();
+        readerBin.onload = function (ev) {
+          var data = ev.target.result;
+          var wb, sheet, rows;
+          try {
+            wb = XLSX.read(data, { type: 'array' });
+            sheet = wb.Sheets[wb.SheetNames[0]];
+            rows = XLSX.utils.sheet_to_json(sheet, { defval: '' });
+          } catch (e) {
+            handleError('Gagal membaca berkas spreadsheet: ' + (e && e.message ? e.message : 'unknown error'));
+            return;
+          }
+          var daftar = [];
+          for (var i = 0; i < rows.length; i++) {
+            daftar.push(normalizeRow(rows[i] || {}));
+          }
+          handleSuccess(daftar);
+        };
+        readerBin.onerror = function () {
+          handleError('Gagal membaca berkas spreadsheet.');
+        };
+        readerBin.readAsArrayBuffer(file);
+        return;
+      }
+
+      handleError('Format berkas tidak didukung. Pakai .json, .csv, .xls, atau .xlsx.');
+    } catch (e) {
+      handleError('Terjadi kesalahan saat memproses berkas: ' + (e && e.message ? e.message : 'unknown'));
+    }
+  });
+})();
+</script>

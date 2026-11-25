@@ -1,0 +1,843 @@
+<script>
+'use strict';
+
+  // ============================================================
+  // CONSTANTS & STATE
+  // ============================================================
+
+  var PROVIDERS = {
+    deepseek: {
+      label: 'DeepSeek',
+      baseURL: 'https://api.deepseek.com/v1',
+      model: 'deepseek-chat',
+      guideURL: 'https://platform.deepseek.com/api_keys',
+      guideSteps: [
+        'Buka https://platform.deepseek.com/api_keys',
+        'Daftar / masuk ke akun DeepSeek Anda.',
+        'Buat API key baru di halaman tersebut.',
+        'Salin kunci dan tempel di kolom API key.'
+      ]
+    },
+    openrouter: {
+      label: 'OpenRouter',
+      baseURL: 'https://openrouter.ai/api/v1',
+      model: 'openai/gpt-4o-mini',
+      guideURL: 'https://openrouter.ai/keys',
+      guideSteps: [
+        'Buka https://openrouter.ai/keys',
+        'Daftar / masuk ke akun OpenRouter.',
+        'Klik "Create Key", beri nama, lalu salin kunci.',
+        'Tempel kunci di kolom API key.'
+      ]
+    },
+    arx: {
+      label: 'Arx',
+      baseURL: 'https://arxpay.my.id/v1',
+      model: 'deepseek-chat',
+      guideURL: 'https://arxpay.my.id',
+      guideSteps: [
+        'Buka https://arxpay.my.id, daftar/masuk, ambil API key dari dashboard akun.',
+        'Salin kunci yang tampil di dashboard.',
+        'Tempel kunci di kolom API key.'
+      ]
+    },
+    gemini: {
+      label: 'Gemini',
+      baseURL: 'https://generativelanguage.googleapis.com/v1beta/openai/',
+      model: 'gemini-3.8-flash',
+      guideURL: 'https://aistudio.google.com/apikey',
+      guideSteps: [
+        'Buka https://aistudio.google.com/apikey',
+        'Masuk dengan akun Google.',
+        'Klik "Create API key".',
+        'Salin kunci dan tempel di kolom API key.'
+      ]
+    },
+    openai: {
+      label: 'OpenAI',
+      baseURL: 'https://api.openai.com/v1',
+      model: 'gpt-4o-mini',
+      guideURL: 'https://platform.openai.com/api-keys',
+      guideSteps: [
+        'Buka https://platform.openai.com/api-keys',
+        'Masuk ke akun OpenAI Anda.',
+        'Klik "Create new secret key".',
+        'Salin kunci (hanya tampil sekali) dan tempel di kolom API key.'
+      ]
+    },
+    kimi: {
+      label: 'Kimi',
+      baseURL: 'https://api.moonshot.ai/v1',
+      model: 'moonshot-v1-8k',
+      guideURL: 'https://platform.moonshot.ai/console/api-keys',
+      guideSteps: [
+        'Buka https://platform.moonshot.ai/console/api-keys',
+        'Daftar / masuk ke akun Moonshot (Kimi).',
+        'Buat API key baru dan salin.',
+        'Tempel kunci di kolom API key.'
+      ]
+    },
+    lainnya: {
+      label: 'Provider lainnya',
+      baseURL: '',
+      model: '',
+      guideURL: '',
+      guideSteps: [
+        'Isi Base URL (contoh: https://api.contoh.com/v1) dan nama model pada kolom yang tersedia.',
+        'Pastikan provider kompatibel dengan format OpenAI Chat Completions.',
+        'Tempel API key penyedia Anda di kolom API key.'
+      ]
+    }
+  };
+
+  var PROMPT_FIELDS = [
+    'jenjang', 'mapel', 'bab', 'sub_bab',
+    'pertanyaan', 'pilihan_a', 'pilihan_b', 'pilihan_c', 'pilihan_d',
+    'jawaban_benar', 'pembahasan', 'rujukan', 'tingkat_kesulitan', 'tags'
+  ];
+
+  var state = {
+    soalList: [],
+    activeProvider: null,
+    currentTemplate: null,
+    generating: false
+  };
+
+  // ============================================================
+  // HELPERS
+  // ============================================================
+
+  function $(id) { return document.getElementById(id); }
+  function show(el) { if (el) el.classList.remove('hidden'); }
+  function hide(el) { if (el) el.classList.add('hidden'); }
+  function setText(el, t) { if (el) el.textContent = t; }
+  function todayISO() {
+    var d = new Date();
+    var m = String(d.getMonth() + 1).padStart(2, '0');
+    var day = String(d.getDate()).padStart(2, '0');
+    return d.getFullYear() + '-' + m + '-' + day;
+  }
+
+  function loadKey(providerId) {
+    try { return localStorage.getItem('genapi_' + providerId) || ''; }
+    catch (e) { return ''; }
+  }
+  function saveKey(providerId, key) {
+    try {
+      if (key) localStorage.setItem('genapi_' + providerId, key);
+      else localStorage.removeItem('genapi_' + providerId);
+    } catch (e) { /* ignore quota */ }
+  }
+
+  function cleanMarkdownFence(text) {
+    if (typeof text !== 'string') return text;
+    var t = text.trim();
+    if (t.indexOf('```') === 0) {
+      t = t.replace(/^```[a-zA-Z]*\s*\n?/, '');
+      t = t.replace(/\n?```\s*$/, '');
+    }
+    return t.trim();
+  }
+
+  function extractJSONArray(raw) {
+    var cleaned = cleanMarkdownFence(raw);
+    try { return JSON.parse(cleaned); } catch (e) { /* fallthrough */ }
+    // coba cari array JSON di dalam teks
+    var start = cleaned.indexOf('[');
+    var end = cleaned.lastIndexOf(']');
+    if (start !== -1 && end !== -1 && end > start) {
+      var sub = cleaned.slice(start, end + 1);
+      try { return JSON.parse(sub); } catch (e2) { /* fallthrough */ }
+    }
+    return null;
+  }
+
+  // ============================================================
+  // §1 JENJANG / MAPEL / BAB / SUB-BAB
+  // ============================================================
+
+  function initJenjang() {
+    var sel = $('selJenjang');
+    if (!sel) return;
+    sel.innerHTML = '';
+    for (var i = 1; i <= 6; i++) {
+      var opt = document.createElement('option');
+      var val = 'kelas-' + i;
+      opt.value = val;
+      if (i === 4) {
+        opt.textContent = 'Kelas ' + i;
+      } else {
+        opt.textContent = 'Kelas ' + i + ' (belum tersedia)';
+        opt.disabled = true;
+      }
+      sel.appendChild(opt);
+    }
+    sel.value = 'kelas-4';
+    sel.addEventListener('change', onJenjangChange);
+    onJenjangChange();
+  }
+
+  function onJenjangChange() {
+    var jenjang = $('selJenjang').value;
+    var mapelSel = $('selMapel');
+    var babSel = $('selBab');
+    var subSel = $('selSubBab');
+    mapelSel.innerHTML = '';
+    babSel.innerHTML = '';
+    subSel.innerHTML = '';
+    hide($('mapelNote'));
+    updateGenerateState();
+
+    if (typeof BAB_DATA === 'undefined' || !BAB_DATA[jenjang]) return;
+
+    var mapelObj = BAB_DATA[jenjang];
+    var order = ['mtk', 'bi', 'ipas', 'pp', 'tik', 'pjok', 'seni', 'inggris', 'pai'];
+    var seen = {};
+    var ids = order.filter(function (id) { return mapelObj[id]; });
+    Object.keys(mapelObj).forEach(function (id) {
+      if (ids.indexOf(id) === -1) ids.push(id);
+    });
+
+    ids.forEach(function (id) {
+      if (seen[id]) return;
+      seen[id] = true;
+      var m = mapelObj[id];
+      var opt = document.createElement('option');
+      opt.value = id;
+      opt.textContent = m.nama + (m.tersedia === false ? ' (belum tersedia)' : '');
+      if (m.tersedia === false) opt.disabled = true;
+      mapelSel.appendChild(opt);
+    });
+
+    // Pilih mapel pertama yang tersedia
+    var firstAvailable = ids.find(function (id) { return mapelObj[id].tersedia !== false; });
+    if (firstAvailable) {
+      mapelSel.value = firstAvailable;
+    } else if (ids.length) {
+      mapelSel.value = ids[0];
+    }
+
+    mapelSel.onchange = onMapelChange;
+    onMapelChange();
+  }
+
+  function onMapelChange() {
+    var jenjang = $('selJenjang').value;
+    var mapelId = $('selMapel').value;
+    var babSel = $('selBab');
+    var subSel = $('selSubBab');
+    babSel.innerHTML = '';
+    subSel.innerHTML = '';
+    hide($('mapelNote'));
+    updateGenerateState();
+
+    if (!mapelId || !BAB_DATA[jenjang] || !BAB_DATA[jenjang][mapelId]) return;
+    var mapel = BAB_DATA[jenjang][mapelId];
+    if (mapel.tersedia === false) {
+      show($('mapelNote'));
+      setText($('mapelNote'), 'Bab untuk mapel ini belum tersedia');
+      return;
+    }
+
+    var babList = mapel.bab || [];
+    if (!babList.length) {
+      show($('mapelNote'));
+      setText($('mapelNote'), 'Bab untuk mapel ini belum tersedia');
+      return;
+    }
+
+    babList.forEach(function (b) {
+      var opt = document.createElement('option');
+      opt.value = b.id || b.nama;
+      opt.textContent = b.judul || b.nama || '';
+      babSel.appendChild(opt);
+    });
+    babSel.onchange = onBabChange;
+    onBabChange();
+  }
+
+  function onBabChange() {
+    var subSel = $('selSubBab');
+    subSel.innerHTML = '';
+    updateGenerateState();
+
+    var jenjang = $('selJenjang').value;
+    var mapelId = $('selMapel').value;
+    var babId = $('selBab').value;
+    if (!babId || !BAB_DATA[jenjang] || !BAB_DATA[jenjang][mapelId]) return;
+    var mapel = BAB_DATA[jenjang][mapelId];
+    var bab = (mapel.bab || []).find(function (b) { return (b.id || b.nama) === babId; });
+    if (!bab) return;
+
+    (bab.sub_bab || bab.subBab || []).forEach(function (s) {
+      var opt = document.createElement('option');
+      var val = s.id || s.nama || s;
+      var txt = (typeof s === 'string') ? s : (s.judul || s.nama || s);
+      opt.value = val;
+      opt.textContent = txt;
+      subSel.appendChild(opt);
+    });
+    subSel.onchange = updateGenerateState;
+    updateGenerateState();
+  }
+
+  function updateGenerateState() {
+    var btn = $('btnGenerate');
+    if (!btn) return;
+    var sub = $('selSubBab').value;
+    var mapelId = $('selMapel').value;
+    var mapelNoteVisible = !$('mapelNote').classList.contains('hidden');
+    var mapelDisabled = false;
+    if (mapelId && BAB_DATA['kelas-4'] && BAB_DATA['kelas-4'][mapelId]) {
+      if (BAB_DATA['kelas-4'][mapelId].tersedia === false) mapelDisabled = true;
+    }
+    var inKeyEl = $('inputApiKey');
+    var keyVal = inKeyEl ? inKeyEl.value.trim() : '';
+    btn.disabled = !(sub && !mapelDisabled && !mapelNoteVisible && keyVal) || state.generating;
+  }
+
+  // ============================================================
+  // §2 PROVIDER + API KEY
+  // ============================================================
+
+  function initProviders() {
+    var sel = $('selProvider');
+    if (!sel) return;
+    sel.innerHTML = '';
+    Object.keys(PROVIDERS).forEach(function (id) {
+      var opt = document.createElement('option');
+      opt.value = id;
+      opt.textContent = PROVIDERS[id].label;
+      sel.appendChild(opt);
+    });
+    sel.value = 'deepseek';
+    sel.addEventListener('change', onProviderChange);
+
+    var inputKey = $('inputApiKey');
+    if (inputKey) {
+      inputKey.addEventListener('input', function () {
+        if (state.activeProvider) {
+          saveKey(state.activeProvider, inputKey.value.trim());
+        }
+        updateGenerateState();
+      });
+    }
+
+    var btnHapus = $('btnHapusKunci');
+    if (btnHapus) {
+      btnHapus.addEventListener('click', function () {
+        if (state.activeProvider) {
+          saveKey(state.activeProvider, '');
+        }
+        if (inputKey) inputKey.value = '';
+        updateGenerateState();
+      });
+    }
+
+    onProviderChange();
+  }
+
+  function onProviderChange() {
+    var sel = $('selProvider');
+    if (!sel) return;
+    var pid = sel.value;
+    state.activeProvider = pid;
+    var cfg = PROVIDERS[pid];
+
+    var wrap = $('providerLainnyaWrap');
+    var inBase = $('inputBaseURL');
+    var inModel = $('inputModel');
+    var geminiNote = $('geminiNote');
+    var guideBox = $('guideBox');
+    var guideContent = $('guideContent');
+
+    if (pid === 'lainnya') {
+      show(wrap);
+      // pertahankan isian sebelumnya
+      if (!inBase.value) inBase.value = '';
+      if (!inModel.value) inModel.value = '';
+    } else {
+      hide(wrap);
+      inBase.value = cfg.baseURL;
+      inModel.value = cfg.model;
+    }
+
+    if (pid === 'gemini') show(geminiNote); else hide(geminiNote);
+
+    // guide
+    if (guideContent) {
+      guideContent.innerHTML = '';
+      cfg.guideSteps.forEach(function (s) {
+        var p = document.createElement('p');
+        p.textContent = s;
+        guideContent.appendChild(p);
+      });
+      if (cfg.guideURL) {
+        var a = document.createElement('a');
+        a.href = cfg.guideURL;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        a.textContent = cfg.guideURL;
+        guideContent.appendChild(a);
+      }
+    }
+    if (guideBox) show(guideBox);
+
+    // muat kunci
+    var inKey = $('inputApiKey');
+    if (inKey) inKey.value = loadKey(pid);
+    updateGenerateState();
+  }
+
+  // ============================================================
+  // §3 GENERATE
+  // ============================================================
+
+  function getSelectedLabels() {
+    var jenjang = $('selJenjang').value || 'kelas-4';
+    var mapelId = $('selMapel').value;
+    var babId = $('selBab').value;
+    var subId = $('selSubBab').value;
+
+    var mapelNama = '';
+    var babNama = '';
+    var subNama = '';
+
+    if (BAB_DATA[jenjang]) {
+      if (mapelId && BAB_DATA[jenjang][mapelId]) {
+        mapelNama = BAB_DATA[jenjang][mapelId].nama || mapelId;
+        var bab = (BAB_DATA[jenjang][mapelId].bab || []).find(function (b) {
+          return (b.id || b.nama) === babId;
+        });
+        if (bab) {
+          babNama = bab.judul || bab.nama || babId;
+          var subs = bab.sub_bab || bab.subBab || [];
+          var sub = subs.find(function (s) {
+            return (s.id || s.nama || s) === subId;
+          });
+          if (sub) subNama = (typeof sub === 'string') ? sub : (sub.judul || sub.nama || sub);
+        }
+      }
+    }
+    return {
+      jenjang: jenjang,
+      mapel: mapelNama,
+      bab: babNama,
+      sub_bab: subNama
+    };
+  }
+
+  function fillTemplate(tpl, vars) {
+    var out = tpl;
+    Object.keys(vars).forEach(function (k) {
+      var re = new RegExp('\\{\\{' + k + '\\}\\}', 'g');
+      out = out.replace(re, vars[k] == null ? '' : String(vars[k]));
+    });
+    return out;
+  }
+
+  function setError(msg) {
+    var el = $('errorGenerate');
+    if (!el) return;
+    if (msg) { setText(el, msg); show(el); } else { setText(el, ''); hide(el); }
+  }
+  function setStatus(msg) {
+    var el = $('statusProses');
+    if (!el) return;
+    if (msg) { setText(el, msg); show(el); } else { setText(el, ''); hide(el); }
+  }
+
+  function ensureTemplate(cb) {
+    if (state.currentTemplate) { cb(null, state.currentTemplate); return; }
+    if (typeof google === 'undefined' || !google.script || !google.script.run) {
+      cb('google.script.run tidak tersedia', null);
+      return;
+    }
+    google.script.run
+      .withSuccessHandler(function (tpl) {
+        if (!tpl || typeof tpl !== 'string') {
+          cb('Template prompt kosong dari server', null);
+          return;
+        }
+        state.currentTemplate = tpl;
+        cb(null, tpl);
+      })
+      .withFailureHandler(function (err) {
+        cb('Gagal mengambil prompt template: ' + (err && err.message ? err.message : err), null);
+      })
+      .getPromptTemplate();
+  }
+
+  function doGenerate() {
+    if (state.generating) return;
+    var btn = $('btnGenerate');
+    setError('');
+    setStatus('Menghubungi provider…');
+    state.generating = true;
+    if (btn) btn.disabled = true;
+
+    var inKey = $('inputApiKey');
+    var apiKey = inKey ? inKey.value.trim() : '';
+    if (!apiKey) {
+      finishGenerate('API key belum diisi. Tempel kunci di kolom API key.');
+      return;
+    }
+
+    var pid = state.activeProvider;
+    var cfg = PROVIDERS[pid];
+    var baseURL, model;
+    if (pid === 'lainnya') {
+      baseURL = ($('inputBaseURL').value || '').trim();
+      model = ($('inputModel').value || '').trim();
+      if (!baseURL || !model) {
+        finishGenerate('Base URL dan model wajib diisi untuk provider lainnya.');
+        return;
+      }
+    } else {
+      baseURL = cfg.baseURL;
+      model = cfg.model;
+    }
+    baseURL = baseURL.replace(/\/+$/, '');
+
+    ensureTemplate(function (err, tpl) {
+      if (err) { finishGenerate(err); return; }
+
+      var labels = getSelectedLabels();
+      var nama = ($('inputNama').value || '').trim();
+      var prompt = fillTemplate(tpl, {
+        JENJANG: labels.jenjang,
+        MAPEL: labels.mapel,
+        BAB: labels.bab,
+        SUB_BAB: labels.sub_bab,
+        NAMA: nama,
+        TANGGAL: todayISO()
+      });
+
+      var url = baseURL + '/chat/completions';
+      var body = {
+        model: model,
+        messages: [{ role: 'user', content: prompt }],
+        temperature: 0.7
+      };
+
+      fetch(url, {
+        method: 'POST',
+        headers: {
+          'Authorization': 'Bearer ' + apiKey,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(body)
+      }).then(function (res) {
+        return res.text().then(function (text) {
+          if (!res.ok) {
+            var msg = 'HTTP ' + res.status + ' dari provider.';
+            if (text) {
+              try {
+                var j = JSON.parse(text);
+                if (j.error && j.error.message) msg += ' ' + j.error.message;
+                else msg += ' ' + text.slice(0, 200);
+              } catch (e) { msg += ' ' + text.slice(0, 200); }
+            }
+            throw new Error(msg);
+          }
+          return text;
+        });
+      }).then(function (text) {
+        var outer;
+        try { outer = JSON.parse(text); }
+        catch (e) {
+          throw new Error('Respons provider bukan JSON yang valid.');
+        }
+        var content = '';
+        if (outer && outer.choices && outer.choices[0]) {
+          var c = outer.choices[0];
+          content = (c.message && c.message.content) || c.text || '';
+        }
+        if (!content) throw new Error('Provider tidak mengembalikan konten soal.');
+
+        var arr = extractJSONArray(content);
+        if (!Array.isArray(arr)) {
+          throw new Error('Gagal mem-parse soal dari provider (bukan array JSON).');
+        }
+        if (arr.length !== 5) {
+          throw new Error('Jumlah soal dari provider bukan 5 (dapat ' + arr.length + '). Coba lagi.');
+        }
+        // Normalisasi tiap soal ke 14 field
+        var normalized = arr.map(function (s) { return normalizeSoal(s, labels); });
+        state.soalList = normalized;
+        renderReview();
+        setStatus('');
+        finishGenerate(null, true);
+      }).catch(function (e) {
+        var msg = e && e.message ? e.message : String(e);
+        finishGenerate(msg);
+      });
+    });
+  }
+
+  function finishGenerate(errMsg, ok) {
+    state.generating = false;
+    updateGenerateState();
+    if (ok) {
+      setError('');
+      setStatus('');
+      return;
+    }
+    setStatus('');
+    if (errMsg) {
+      setError(errMsg + ' Klik Generate untuk mencoba lagi.');
+    }
+  }
+
+  function normalizeSoal(s, labels) {
+    var out = {};
+    PROMPT_FIELDS.forEach(function (f) { out[f] = s[f] != null ? s[f] : ''; });
+    if (!out.jenjang) out.jenjang = labels.jenjang;
+    if (!out.mapel) out.mapel = labels.mapel;
+    if (!out.bab) out.bab = labels.bab;
+    if (!out.sub_bab) out.sub_bab = labels.sub_bab;
+    // kadang pilihan_* bisa berupa array "pilihan"
+    if (Array.isArray(s.pilihan)) {
+      out.pilihan_a = s.pilihan[0] || '';
+      out.pilihan_b = s.pilihan[1] || '';
+      out.pilihan_c = s.pilihan[2] || '';
+      out.pilihan_d = s.pilihan[3] || '';
+      out.pilihan = [s.pilihan[0] || '', s.pilihan[1] || '', s.pilihan[2] || '', s.pilihan[3] || ''];
+    } else {
+      out.pilihan = [out.pilihan_a, out.pilihan_b, out.pilihan_c, out.pilihan_d];
+    }
+    out.tanggal = s.tanggal || todayISO();
+    out.jawaban_benar = String(out.jawaban_benar || '').trim().toUpperCase();
+    return out;
+  }
+
+  // ============================================================
+  // §4 REVIEW
+  // ============================================================
+
+  function renderReview() {
+    var sec = $('reviewSection');
+    var list = $('reviewList');
+    var sum = $('reviewSum');
+    var kontrib = $('kontributorSection');
+    if (!list) return;
+    list.innerHTML = '';
+    state.soalList.forEach(function (soal, i) {
+      list.appendChild(buildKartu(soal, i));
+    });
+    if (sum) {
+      setText(sum, 'Total: ' + state.soalList.length +
+        ' soal. Edit bila perlu, lalu isi kontributor dan kirim.');
+    }
+    if (state.soalList.length) { show(sec); show(kontrib); }
+    else { hide(sec); hide(kontrib); }
+    updateSubmitState();
+  }
+
+  function buildKartu(soal, i) {
+    var card = document.createElement('div');
+    card.className = 'kartu-soal';
+
+    var header = document.createElement('div');
+    header.style.display = 'flex';
+    header.style.justifyContent = 'space-between';
+    header.style.alignItems = 'center';
+    header.style.marginBottom = '8px';
+    var h = document.createElement('strong');
+    h.textContent = 'Soal ' + (i + 1);
+    header.appendChild(h);
+
+    var del = document.createElement('button');
+    del.type = 'button';
+    del.className = 'danger';
+    del.textContent = 'Hapus';
+    del.addEventListener('click', function () {
+      state.soalList.splice(i, 1);
+      renderReview();
+    });
+    header.appendChild(del);
+    card.appendChild(header);
+
+    function field(labelText, key, tag, opts) {
+      var wrap = document.createElement('div');
+      wrap.style.margin = '6px 0';
+      var lbl = document.createElement('label');
+      lbl.textContent = labelText;
+      lbl.style.display = 'block';
+      lbl.style.fontSize = '13px';
+      lbl.style.marginBottom = '2px';
+      wrap.appendChild(lbl);
+      var input;
+      if (tag === 'textarea') {
+        input = document.createElement('textarea');
+        input.rows = 2;
+      } else if (tag === 'select') {
+        input = document.createElement('select');
+        (opts || ['A', 'B', 'C', 'D']).forEach(function (o) {
+          var op = document.createElement('option');
+          op.value = o; op.textContent = o;
+          input.appendChild(op);
+        });
+      } else {
+        input = document.createElement('input');
+        input.type = 'text';
+      }
+      input.style.width = '100%';
+      input.style.boxSizing = 'border-box';
+      input.value = soal[key] || '';
+      input.addEventListener('input', function () { soal[key] = input.value; });
+      input.addEventListener('change', function () { soal[key] = input.value; });
+      wrap.appendChild(input);
+      card.appendChild(wrap);
+      return input;
+    }
+
+    field('Pertanyaan', 'pertanyaan', 'textarea');
+    field('Pilihan A', 'pilihan_a', 'input');
+    field('Pilihan B', 'pilihan_b', 'input');
+    field('Pilihan C', 'pilihan_c', 'input');
+    field('Pilihan D', 'pilihan_d', 'input');
+    field('Jawaban benar', 'jawaban_benar', 'select');
+    field('Pembahasan', 'pembahasan', 'textarea');
+    field('Rujukan', 'rujukan', 'input');
+
+    return card;
+  }
+
+  function validasiSoal(soal, i) {
+    var errs = [];
+    var missing = [];
+    PROMPT_FIELDS.forEach(function (f) {
+      if (soal[f] == null || String(soal[f]).trim() === '') missing.push(f);
+    });
+    // Field wajib dianggap terisi: pertanyaan, pilihan_*, jawaban_benar, pembahasan, rujukan
+    // jenjang/mapel/bab/sub_bab/tingkat/tags boleh kosong kalau memang tidak diisi, tapi
+    // brief menuntut 14 field; kita laporkan yang benar-benar kosong namun tidak blokir
+    // field opsional. Kita blokir hanya yang inti.
+    var inti = ['pertanyaan', 'pilihan_a', 'pilihan_b', 'pilihan_c', 'pilihan_d',
+                'jawaban_benar', 'pembahasan', 'rujukan'];
+    inti.forEach(function (f) {
+      if (soal[f] == null || String(soal[f]).trim() === '') {
+        errs.push('field "' + f + '" kosong');
+      }
+    });
+    var pilihanTerisi = ['pilihan_a', 'pilihan_b', 'pilihan_c', 'pilihan_d']
+      .filter(function (f) { return soal[f] && String(soal[f]).trim() !== ''; });
+    if (pilihanTerisi.length !== 4) {
+      errs.push('pilihan terisi ' + pilihanTerisi.length + ' dari 4');
+    }
+    var jb = String(soal.jawaban_benar || '').trim().toUpperCase();
+    if (['A', 'B', 'C', 'D'].indexOf(jb) === -1) {
+      errs.push('jawaban_benar bukan A/B/C/D (nilai: "' + (soal.jawaban_benar || '') + '")');
+    }
+    if (errs.length === 0) return null;
+    return 'Soal ' + (i + 1) + ': ' + errs.join('; ');
+  }
+
+  function validasiSemua() {
+    var errs = [];
+    state.soalList.forEach(function (s, i) {
+      var e = validasiSoal(s, i);
+      if (e) errs.push(e);
+    });
+    return errs;
+  }
+
+  // ============================================================
+  // §5 SUBMIT
+  // ============================================================
+
+  function updateSubmitState() {
+    var btn = $('btnSubmit');
+    var chk = $('chkLisensi');
+    if (!btn) return;
+    btn.disabled = !(chk && chk.checked && state.soalList.length > 0);
+  }
+
+  function setSubmitStatus(msg, isErr) {
+    var el = $('statusSubmit');
+    if (!el) return;
+    el.className = 'note' + (isErr ? ' err' : '');
+    setText(el, msg);
+  }
+
+  function doSubmit() {
+    var nama = ($('inputNama').value || '').trim();
+    var kontak = ($('inputKontak').value || '').trim();
+    var media = ($('selMediaKontak').value || '').trim();
+    var lisensi = $('chkLisensi').checked;
+
+    if (!nama) { setSubmitStatus('Nama kontributor wajib diisi.', true); return; }
+    if (!kontak) { setSubmitStatus('Kontak wajib diisi.', true); return; }
+    if (!lisensi) { setSubmitStatus('Centang lisensi terlebih dahulu.', true); return; }
+    if (!state.soalList.length) { setSubmitStatus('Belum ada soal untuk dikirim.', true); return; }
+    var errs = validasiSemua();
+    if (errs.length) {
+      setSubmitStatus('Validasi gagal: ' + errs.join(' | '), true);
+      return;
+    }
+
+    var btn = $('btnSubmit');
+    if (btn) btn.disabled = true;
+    setSubmitStatus('Mengirim…');
+
+    if (typeof google === 'undefined' || !google.script || !google.script.run) {
+      setSubmitStatus('google.script.run tidak tersedia.', true);
+      updateSubmitState();
+      return;
+    }
+
+    var soalKirim = state.soalList.map(function (s) {
+      var o = {};
+      for (var k in s) { if (Object.prototype.hasOwnProperty.call(s, k)) o[k] = s[k]; }
+      o.sumber = nama;
+      o.pembuat = nama;
+      o.status = 'menunggu tinjauan';
+      o.tanggal = o.tanggal || todayISO();
+      o.pilihan = [
+        o.pilihan_a || '',
+        o.pilihan_b || '',
+        o.pilihan_c || '',
+        o.pilihan_d || ''
+      ];
+      return o;
+    });
+
+    google.script.run
+      .withSuccessHandler(function (res) {
+        if (res && res.ok === true) {
+          var jumlah = state.soalList.length;
+          setSubmitStatus('Terkirim: ' + jumlah +
+            ' soal, status menunggu tinjauan.', false);
+          state.soalList = [];
+          renderReview();
+        } else {
+          setSubmitStatus('Gagal kirim: ' +
+            (res && res.error ? res.error : 'respons server tidak valid.'), true);
+        }
+        updateSubmitState();
+      })
+      .withFailureHandler(function (err) {
+        setSubmitStatus('Gagal kirim: ' + (err && err.message ? err.message : err), true);
+        updateSubmitState();
+      })
+      .submitSoal({
+        soal: soalKirim,
+        kontributor: { nama: nama, kontak: kontak, media: media },
+        lisensi: true
+      });
+  }
+
+  initJenjang();
+  initProviders();
+
+  var _bGen = $('btnGenerate');
+  if (_bGen) _bGen.addEventListener('click', doGenerate);
+  var _bSub = $('btnSubmit');
+  if (_bSub) _bSub.addEventListener('click', doSubmit);
+  var _cLis = $('chkLisensi');
+  if (_cLis) _cLis.addEventListener('change', updateSubmitState);
+
+  updateSubmitState();
+
+</script>
