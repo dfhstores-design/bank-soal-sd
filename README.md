@@ -25,7 +25,7 @@ Soal dikurasi dari buku Erlangga Kelas 4 (mengacu daftar isi buku) dan dibuat de
 
 ## Untuk siapa repo ini
 
-**a. Developer / pembuat aplikasi belajar.** Kamu bisa memakai soal-soal ini di aplikasimu sendiri. Datanya tersedia dalam bentuk JSON siap konsumsi, sehingga tidak perlu menyusun soal dari nol. Cukup ambil file JSON yang dibutuhkan dan tampilkan di aplikasimu.
+**a. Developer / pembuat aplikasi belajar.** Kamu bisa memakai soal-soal ini di aplikasimu sendiri — selama bukan untuk tujuan komersial (lihat [Lisensi](#lisensi)). Datanya tersedia dalam bentuk JSON siap konsumsi, sehingga tidak perlu menyusun soal dari nol. Cukup ambil file JSON yang dibutuhkan dan tampilkan di aplikasimu.
 
 **b. Guru, orang tua, atau kontributor.** Kamu bisa menyumbang soal baru dengan menulis modul Markdown lalu mengirimkannya ke folder `singgah/`. Setiap kiriman akan ditinjau guru sebelum masuk ke bank soal. Identitas kontributor (nama + kontak) hanya dicatat di pengiriman, tidak ikut tampil di modul publik.
 
@@ -102,7 +102,26 @@ Soal dikurasi dari buku Erlangga Kelas 4 (mengacu daftar isi buku) dan dibuat de
 | D-030 | Provider API terbuka; kontributor memakai kunci sendiri per sesi, tidak disimpan. |
 | D-031 | Identitas kontributor (nama + kontak WA/email) hanya di catatan pengiriman, tidak ikut ke modul publik. |
 | D-032 | Fokus Kelas 4 dulu sampai tuntas, baru kelas lain. |
+| D-033 | Lisensi CC BY-NC 4.0 — boleh dipakai pribadi dan kalangan terbatas, tidak boleh untuk fungsi komersial, wajib cantumkan sumber. |
 
 ## Lisensi
 
-Repo ini **belum memiliki lisensi resmi**. Untuk saat ini, jangan mengasumsikan repo ini bebas dipakai untuk keperluan komersial. Lisensi akan ditetapkan kemudian.
+Hak cipta © 2026 dfhstores-design. Soal-soal di repo ini dilisensikan di bawah **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**. Teks lengkap lisensinya ada di file [LICENSE](LICENSE), dan versi ringkasnya di https://creativecommons.org/licenses/by-nc/4.0/.
+
+Artinya, dalam bahasa sederhana:
+
+- **Boleh:** dipakai untuk keperluan pribadi dan kalangan terbatas (belajar sendiri, di kelas, di keluarga, di komunitas belajar non-komersial). Boleh dibagikan dan diubah/diadaptasi.
+- **Tidak boleh:** dipakai untuk fungsi komersial — tidak boleh dijual, tidak boleh dipakai di aplikasi berbayar, dan tidak boleh dipakai untuk keuntungan komersial.
+- **Wajib:** cantumkan sumbernya setiap kali memakai atau membagikan soal dari repo ini. Contoh pencantuman sumber:
+
+  > Soal dari bank-soal-sd (github.com/dfhstores-design/bank-soal-sd), lisensi CC BY-NC 4.0.
+
+## Rencana ke depan
+
+Yang belum dilakukan — README ini akan diperbarui mengikuti perkembangan bank soal:
+
+- **BI, IPAS, PP Kelas 4** — menunggu foto daftar isi buku dari Andri.
+- **Kelas 1-3 dan Kelas 5-6** — belum diisi; dikerjakan setelah Kelas 4 tuntas (D-032).
+- **Tinjauan guru** — 745 soal draf Kelas 4 masih menunggu ditinjau guru (D-014, batas 14 hari, D-028).
+- **Generator soal** — aplikasi form + Google Apps Script untuk guru/orang tua membuat soal sendiri (D-029), belum dibangun.
+- **Kiriman kontributor** — folder `singgah/` sudah siap menerima kiriman; proses tinjauannya berjalan mengikuti D-028.
