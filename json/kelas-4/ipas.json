@@ -1498,5 +1498,1605 @@
     "status": "draf",
     "pembuat": "Kurasi internal",
     "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di kebun Pak RT ada tiga pohon mangga: mangga arumanis, mangga manalagi, dan mangga golek. Buahnya berbeda-beda rasa dan bentuknya, tetapi ketiganya sama-sama satu jenis mangga. Keragaman apakah yang ditunjukkan oleh ketiga pohon mangga itu?\nA. Keragaman ekosistem, karena ketiganya hidup di kebun yang sama\nB. Keragaman gen, karena ketiganya satu spesies yang sama tetapi berbeda varietas\nC. Keragaman spesies, karena ketiganya berasal dari genus yang berbeda\nD. Keragaman habitat, karena ketiganya ditanam di tempat yang berbeda",
+    "pilihan": [
+      "Keragaman ekosistem, karena ketiganya hidup di kebun yang sama",
+      "Keragaman gen, karena ketiganya satu spesies yang sama tetapi berbeda varietas",
+      "Keragaman spesies, karena ketiganya berasal dari genus yang berbeda",
+      "Keragaman habitat, karena ketiganya ditanam di tempat yang berbeda"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Mangga arumanis, manalagi, dan golek adalah tiga varietas dari satu spesies yang sama, yaitu Mangifera indica. Perbedaan rasa dan bentuk buahnya terjadi karena variasi gen di dalam satu spesies — itulah keragaman gen. Pilihan A salah karena keragaman ekosistem adalah perbedaan habitat, bukan perbedaan varietas dalam satu spesies. Pilihan C salah karena ketiganya bukan spesies yang berbeda, melainkan satu spesies yang sama. Pilihan D salah karena ketiganya ditanam di kebun yang sama.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab A: Tingkatan Keragaman Hayati",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "A: Tingkatan Keragaman Hayati",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di halaman sekolah ada jeruk bali, jeruk nipis, dan jeruk manis. Ketiganya sama-sama dari genus Citrus, tetapi buahnya berbeda ukuran, rasa, dan bentuknya. Sementara itu, di kebun ada mangga arumanis dan mangga manalagi yang buahnya juga berbeda. Manakah pasangan yang menunjukkan keragaman spesies?\nA. Mangga arumanis dan mangga manalagi, karena buahnya berbeda rasa\nB. Jeruk bali dan jeruk nipis, karena keduanya spesies yang berbeda dalam satu genus Citrus\nC. Jeruk bali dan mangga arumanis, karena keduanya sama-sama buah\nD. Mangga manalagi dan jeruk manis, karena keduanya sama-sama manis",
+    "pilihan": [
+      "Mangga arumanis dan mangga manalagi, karena buahnya berbeda rasa",
+      "Jeruk bali dan jeruk nipis, karena keduanya spesies yang berbeda dalam satu genus Citrus",
+      "Jeruk bali dan mangga arumanis, karena keduanya sama-sama buah",
+      "Mangga manalagi dan jeruk manis, karena keduanya sama-sama manis"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jeruk bali (Citrus maxima), jeruk nipis (Citrus aurantifolia), dan jeruk manis (Citrus nobilis) adalah tiga spesies yang berbeda dalam satu genus yang sama, yaitu Citrus — itulah keragaman spesies. Mangga arumanis dan mangga manalagi justru satu spesies yang sama (Mangifera indica) dengan varietas berbeda, sehingga menunjukkan keragaman gen, bukan spesies. Pilihan C dan D salah karena membandingkan buah dari genus yang berbeda tidak menunjukkan keragaman spesies.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab A: Tingkatan Keragaman Hayati",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "A: Tingkatan Keragaman Hayati",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta berwisata ke tiga tempat: hutan hujan tropis, pantai, dan sawah. Di hutan ia melihat pohon besar, kera, dan burung. Di pantai ia melihat pohon kelapa, burung pantai, dan kepiting. Di sawah ia melihat padi, katak, dan belut. Mengapa makhluk hidup di ketiga tempat itu berbeda-beda?\nA. Karena ketiga tempat itu mempunyai ekosistem yang berbeda — letak, iklim, suhu, dan curah hujannya berbeda sehingga makhluk hidupnya pun berbeda\nB. Karena makhluk hidup di hutan, pantai, dan sawah berasal dari spesies yang sama\nC. Karena ketiga tempat itu mempunyai gen yang sama\nD. Karena Sinta mengunjungi ketiga tempat itu pada hari yang sama",
+    "pilihan": [
+      "Karena ketiga tempat itu mempunyai ekosistem yang berbeda — letak, iklim, suhu, dan curah hujannya berbeda sehingga makhluk hidupnya pun berbeda",
+      "Karena makhluk hidup di hutan, pantai, dan sawah berasal dari spesies yang sama",
+      "Karena ketiga tempat itu mempunyai gen yang sama",
+      "Karena Sinta mengunjungi ketiga tempat itu pada hari yang sama"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Hutan hujan tropis, pantai, dan sawah adalah tiga ekosistem yang berbeda. Perbedaan letak geografis menyebabkan perbedaan iklim, suhu, dan curah hujan, sehingga tumbuhan dan hewan yang hidup di tiap tempat pun berbeda — itulah keragaman ekosistem. Pilihan B salah karena makhluk hidup di ketiga tempat itu berasal dari banyak spesies yang berbeda. Pilihan C salah karena gen hanya menjelaskan variasi dalam satu spesies, bukan perbedaan antar habitat. Pilihan D tidak ada hubungannya dengan perbedaan makhluk hidup.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab A: Tingkatan Keragaman Hayati",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "A: Tingkatan Keragaman Hayati",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Mangga arumanis dan mangga manalagi itu spesiesnya berbeda, karena rasa dan bentuk buahnya tidak sama.\" Apakah perkataan Dodi benar?\nA. Benar, karena buah yang berbeda rasa pasti berbeda spesies\nB. Benar, karena mangga arumanis dan mangga manalagi berasal dari genus yang berbeda\nC. Salah; mangga arumanis dan mangga manalagi adalah satu spesies yang sama (Mangifera indica), perbedaannya hanya varietas — itu keragaman gen, bukan keragaman spesies\nD. Salah; mangga arumanis dan mangga manalagi adalah ekosistem yang berbeda",
+    "pilihan": [
+      "Benar, karena buah yang berbeda rasa pasti berbeda spesies",
+      "Benar, karena mangga arumanis dan mangga manalagi berasal dari genus yang berbeda",
+      "Salah; mangga arumanis dan mangga manalagi adalah satu spesies yang sama (Mangifera indica), perbedaannya hanya varietas — itu keragaman gen, bukan keragaman spesies",
+      "Salah; mangga arumanis dan mangga manalagi adalah ekosistem yang berbeda"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Mangga arumanis dan mangga manalagi sama-sama satu spesies, yaitu Mangifera indica — keduanya hanya berbeda varietas karena variasi gen di dalam satu spesies. Keragaman spesies baru terjadi kalau spesiesnya berbeda, misalnya jeruk bali dan jeruk nipis yang sama-sama genus Citrus tetapi spesiesnya berbeda. Pilihan A salah karena perbedaan rasa dan bentuk buah bisa terjadi dalam satu spesies yang sama. Pilihan D salah karena mangga bukan ekosistem.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab A: Tingkatan Keragaman Hayati",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "A: Tingkatan Keragaman Hayati",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keanekaragaman hayati mempunyai tiga tingkatan, yaitu ....\nA. Keragaman gen, keragaman spesies, dan keragaman ekosistem\nB. Keragaman gen, keragaman warna, dan keragaman ukuran\nC. Keragaman spesies, keragaman musim, dan keragaman cuaca\nD. Keragaman ekosistem, keragaman tanah, dan keragaman air",
+    "pilihan": [
+      "Keragaman gen, keragaman spesies, dan keragaman ekosistem",
+      "Keragaman gen, keragaman warna, dan keragaman ukuran",
+      "Keragaman spesies, keragaman musim, dan keragaman cuaca",
+      "Keragaman ekosistem, keragaman tanah, dan keragaman air"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Keanekaragaman hayati atau biodiversitas dibagi menjadi tiga tingkatan: keragaman gen (variasi dalam satu spesies), keragaman spesies atau jenis (variasi antar spesies), dan keragaman ekosistem (variasi habitat dan komunitas makhluk hidup). Pilihan B, C, dan D mencampur tingkatan yang benar dengan hal lain yang bukan tingkatan keanekaragaman hayati, seperti warna, musim, tanah, dan air.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab A: Tingkatan Keragaman Hayati\n## Sub-bab B: Keragaman Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "A: Tingkatan Keragaman Hayati",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani mengumpulkan empat kartu hewan endemik Indonesia. Pada setiap kartu tertulis nama hewan dan daerah asalnya. Pasangan hewan dan daerah asal manakah yang benar?\nA. Komodo — Papua\nB. Anoa — Sulawesi\nC. Cendrawasih — Kalimantan\nD. Orangutan — Nusa Tenggara Timur",
+    "pilihan": [
+      "Komodo — Papua",
+      "Anoa — Sulawesi",
+      "Cendrawasih — Kalimantan",
+      "Orangutan — Nusa Tenggara Timur"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Anoa adalah kerbau kerdil yang hanya hidup di Pulau Sulawesi. Pilihan A salah karena komodo hanya hidup di Pulau Komodo, Rinca, Flores, dan Gili Motang di Nusa Tenggara Timur. Pilihan C salah karena burung cendrawasih hanya hidup di Papua. Pilihan D salah karena orangutan hanya hidup di hutan Sumatra dan Kalimantan.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab B: Keragaman Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "B: Keragaman Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Hutan di Kalimantan tempat tinggal orangutan ditebangi untuk membuka lahan. Apa yang paling mungkin terjadi pada orangutan di sana?\nA. Orangutan akan pindah ke Papua dan hidup seperti biasa\nB. Orangutan akan berubah menjadi hewan yang hidup di laut\nC. Orangutan akan kehilangan rumah dan makanannya sehingga jumlahnya makin berkurang\nD. Orangutan tidak terpengaruh karena ia bisa hidup di mana saja",
+    "pilihan": [
+      "Orangutan akan pindah ke Papua dan hidup seperti biasa",
+      "Orangutan akan berubah menjadi hewan yang hidup di laut",
+      "Orangutan akan kehilangan rumah dan makanannya sehingga jumlahnya makin berkurang",
+      "Orangutan tidak terpengaruh karena ia bisa hidup di mana saja"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Orangutan adalah hewan endemik yang hanya hidup di hutan Sumatra dan Kalimantan. Ia bergantung pada hutan sebagai rumah dan sumber makanannya (buah-buahan). Jika hutannya ditebang, orangutan kehilangan tempat tinggal dan makanan, sehingga jumlahnya makin berkurang dan terancam punah. Pilihan A salah karena orangutan tidak bisa hidup di Papua — habitatnya hanya di Sumatra dan Kalimantan. Pilihan B dan D salah karena orangutan tidak bisa hidup di laut dan tidak bisa hidup di sembarang tempat.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab B: Keragaman Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "B: Keragaman Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi dan Sinta berdebat tentang burung cendrawasih. Dodi berkata cendrawasih hidup di Sumatra, sedangkan Sinta berkata cendrawasih hidup di Papua. Siapa yang benar, dan mengapa?\nA. Dodi benar, karena cendrawasih adalah burung yang hidup di seluruh Indonesia\nB. Sinta benar, karena cendrawasih adalah burung endemik yang hanya hidup di Papua\nC. Dodi benar, karena bulu cendrawasih yang indah hanya tumbuh di Sumatra\nD. Sinta benar, karena semua burung Indonesia berasal dari Papua",
+    "pilihan": [
+      "Dodi benar, karena cendrawasih adalah burung yang hidup di seluruh Indonesia",
+      "Sinta benar, karena cendrawasih adalah burung endemik yang hanya hidup di Papua",
+      "Dodi benar, karena bulu cendrawasih yang indah hanya tumbuh di Sumatra",
+      "Sinta benar, karena semua burung Indonesia berasal dari Papua"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sinta benar. Burung cendrawasih adalah burung endemik yang hanya hidup di Papua (dan sekitarnya). Bulunya yang indah dan berwarna-warni membuatnya disebut \"burung surga\". Pilihan A salah karena cendrawasih tidak hidup di seluruh Indonesia, melainkan hanya di Papua. Pilihan C salah karena cendrawasih tidak hidup di Sumatra. Pilihan D salah karena tidak semua burung Indonesia berasal dari Papua.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab B: Keragaman Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "B: Keragaman Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi berkata, \"Hewan endemik bisa dipindahkan ke mana saja, asalkan diberi makan yang cukup. Jadi, komodo bisa dipelihara di halaman rumah di Jawa.\" Apakah perkataan Budi benar?\nA. Benar, karena makanan adalah satu-satunya kebutuhan hewan\nB. Benar, karena komodo adalah hewan yang kuat dan bisa hidup di mana saja\nC. Salah; hewan endemik hanya bisa hidup di habitat aslinya, karena ia bergantung pada iklim, makanan, dan lingkungan tempat asalnya\nD. Salah; komodo hanya bisa hidup di dalam kandang kebun binatang",
+    "pilihan": [
+      "Benar, karena makanan adalah satu-satunya kebutuhan hewan",
+      "Benar, karena komodo adalah hewan yang kuat dan bisa hidup di mana saja",
+      "Salah; hewan endemik hanya bisa hidup di habitat aslinya, karena ia bergantung pada iklim, makanan, dan lingkungan tempat asalnya",
+      "Salah; komodo hanya bisa hidup di dalam kandang kebun binatang"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Budi salah. Hewan endemik hanya hidup di satu wilayah tertentu karena ia sudah menyesuaikan diri dengan iklim, makanan, dan lingkungan di habitat aslinya. Komodo hanya hidup di Pulau Komodo, Rinca, Flores, dan Gili Motang — ia tidak bisa hidup bebas di halaman rumah di Jawa. Pilihan A salah karena hewan tidak hanya butuh makan, tetapi juga iklim dan lingkungan yang sesuai. Pilihan D salah karena komodo juga hidup bebas di habitat aslinya, bukan hanya di kebun binatang.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab B: Keragaman Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "B: Keragaman Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Tumbuhan dan hewan endemik adalah ....\nA. Tumbuhan dan hewan yang hidup di seluruh dunia\nB. Tumbuhan dan hewan yang hanya hidup di satu wilayah tertentu dan tidak ditemukan di tempat lain di dunia\nC. Tumbuhan dan hewan yang sudah punah dan hanya ada gambarnya\nD. Tumbuhan dan hewan yang hidup di dalam air saja",
+    "pilihan": [
+      "Tumbuhan dan hewan yang hidup di seluruh dunia",
+      "Tumbuhan dan hewan yang hanya hidup di satu wilayah tertentu dan tidak ditemukan di tempat lain di dunia",
+      "Tumbuhan dan hewan yang sudah punah dan hanya ada gambarnya",
+      "Tumbuhan dan hewan yang hidup di dalam air saja"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Tumbuhan dan hewan endemik adalah jenis makhluk hidup yang hanya ditemukan di satu wilayah geografis tertentu dan tidak ada di tempat lain di dunia. Contohnya komodo yang hanya ada di Nusa Tenggara Timur, anoa yang hanya ada di Sulawesi, dan bunga rafflesia yang hanya ada di Sumatra dan Kalimantan. Pilihan A salah karena yang hidup di seluruh dunia bukan endemik. Pilihan C dan D bukan pengertian endemik.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab B: Keragaman Hayati di Indonesia\n## Sub-bab C: Keragaman Sumber Daya Alam di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "B: Keragaman Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua daerah berikut.\nDaerah A: tanahnya subur, sawah terbentang luas, warganya menanam padi dan sayur.\nDaerah B: tanahnya berbatu dan kering, tetapi di bawah tanahnya tersimpan batu bara yang banyak.\n\nManakah pernyataan yang benar tentang sumber daya alam kedua daerah itu?\n\nA. Daerah A kaya SDA hayati, sedangkan Daerah B kaya SDA nonhayati\nB. Daerah A kaya SDA nonhayati, sedangkan Daerah B kaya SDA hayati\nC. Kedua daerah sama-sama kaya SDA hayati\nD. Kedua daerah sama-sama tidak punya sumber daya alam",
+    "pilihan": [
+      "Daerah A kaya SDA hayati, sedangkan Daerah B kaya SDA nonhayati",
+      "Daerah A kaya SDA nonhayati, sedangkan Daerah B kaya SDA hayati",
+      "Kedua daerah sama-sama kaya SDA hayati",
+      "Kedua daerah sama-sama tidak punya sumber daya alam"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Daerah A memiliki padi dan sayur yang berasal dari tumbuhan, yaitu makhluk hidup, sehingga SDA-nya termasuk SDA hayati. Daerah B memiliki batu bara yang berasal dari benda mati dan tersimpan di dalam tanah, sehingga SDA-nya termasuk SDA nonhayati. Perbedaan kondisi alam membuat tiap daerah memiliki jenis sumber daya alam yang berbeda. Pilihan B menukar keduanya, sedangkan C dan D mengabaikan perbedaan yang jelas antara kedua daerah itu.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab C: Keragaman Sumber Daya Alam di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "C: Keragaman Sumber Daya Alam di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keluarga Rina tinggal di desa yang terkenal dengan hasil tambang minyak buminya, sedangkan keluarga Dodi tinggal di desa nelayan di tepi pantai. Mengapa mata pencaharian warga di kedua desa itu berbeda?\nA. Karena warga Desa Rina lebih rajin daripada warga desa Dodi\nB. Karena sumber daya alam di tiap daerah berbeda, sehingga warga memanfaatkan SDA yang ada di daerahnya masing-masing\nC. Karena minyak bumi hanya bisa diolah oleh orang kota, bukan orang desa\nD. Karena ikan di laut hanya bisa ditangkap pada musim hujan",
+    "pilihan": [
+      "Karena warga Desa Rina lebih rajin daripada warga desa Dodi",
+      "Karena sumber daya alam di tiap daerah berbeda, sehingga warga memanfaatkan SDA yang ada di daerahnya masing-masing",
+      "Karena minyak bumi hanya bisa diolah oleh orang kota, bukan orang desa",
+      "Karena ikan di laut hanya bisa ditangkap pada musim hujan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sumber daya alam tersebar tidak merata di Indonesia — tiap daerah punya SDA unggulan yang berbeda. Desa Rina memiliki minyak bumi, sehingga warganya bekerja di bidang pertambangan. Desa Dodi berada di tepi pantai dengan laut yang kaya ikan, sehingga warganya menjadi nelayan. Mata pencaharian warga mengikuti SDA yang tersedia di daerahnya. Pilihan A salah karena kerajinan bukan penyebabnya; C salah karena minyak bumi juga diolah di daerah penghasilnya; D salah karena nelayan melaut sepanjang tahun, bukan hanya saat musim hujan.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab C: Keragaman Sumber Daya Alam di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "C: Keragaman Sumber Daya Alam di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Minyak bumi dan padi itu sama saja, keduanya bisa ditanam lagi kalau sudah habis.\" Apakah perkataan Dodi benar?\nA. Benar, karena minyak bumi dan padi sama-sama berasal dari alam\nB. Benar, karena minyak bumi dibuat dari tanaman yang sudah mati\nC. Salah; padi termasuk SDA yang dapat diperbarui karena bisa ditanam lagi, sedangkan minyak bumi termasuk SDA yang tidak dapat diperbarui karena butuh jutaan tahun untuk terbentuk\nD. Salah; padi termasuk SDA yang tidak dapat diperbarui, sedangkan minyak bumi bisa dibuat lagi dengan cepat",
+    "pilihan": [
+      "Benar, karena minyak bumi dan padi sama-sama berasal dari alam",
+      "Benar, karena minyak bumi dibuat dari tanaman yang sudah mati",
+      "Salah; padi termasuk SDA yang dapat diperbarui karena bisa ditanam lagi, sedangkan minyak bumi termasuk SDA yang tidak dapat diperbarui karena butuh jutaan tahun untuk terbentuk",
+      "Salah; padi termasuk SDA yang tidak dapat diperbarui, sedangkan minyak bumi bisa dibuat lagi dengan cepat"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Padi adalah SDA hayati yang dapat diperbarui — setelah dipanen, petani bisa menanam padi lagi pada musim tanam berikutnya. Minyak bumi adalah SDA nonhayati yang tidak dapat diperbarui — minyak bumi terbentuk dari sisa makhluk hidup yang terkubur jutaan tahun, sehingga kalau sudah habis, manusia tidak bisa membuatnya kembali dalam waktu singkat. Karena itu minyak bumi harus dipakai dengan hemat. Pilihan D menukar keduanya.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab C: Keragaman Sumber Daya Alam di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "C: Keragaman Sumber Daya Alam di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di sekolah, ada pameran hasil daerah dari seluruh Indonesia. Kelompok Rani menampilkan teh dari dataran tinggi, kelompok Budi menampilkan ikan asin dari daerah pantai, dan kelompok Sinta menampilkan batu bara dari daerah tambang. Apa yang dapat disimpulkan dari pameran itu?\nA. Semua daerah di Indonesia menghasilkan barang yang sama\nB. Keragaman sumber daya alam membuat tiap daerah menghasilkan barang unggulan yang berbeda-beda\nC. Teh, ikan asin, dan batu bara semuanya termasuk SDA hayati\nD. Batu bara adalah hasil pertanian seperti teh dan ikan asin",
+    "pilihan": [
+      "Semua daerah di Indonesia menghasilkan barang yang sama",
+      "Keragaman sumber daya alam membuat tiap daerah menghasilkan barang unggulan yang berbeda-beda",
+      "Teh, ikan asin, dan batu bara semuanya termasuk SDA hayati",
+      "Batu bara adalah hasil pertanian seperti teh dan ikan asin"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pameran itu menunjukkan keragaman sumber daya alam Indonesia: dataran tinggi yang sejuk menghasilkan teh, daerah pantai menghasilkan ikan asin, dan daerah tambang menghasilkan batu bara. Tiap daerah memanfaatkan SDA yang ada di wilayahnya, sehingga hasil unggulannya berbeda-beda. Pilihan A salah karena ketiga kelompok menampilkan barang yang berbeda; C salah karena batu bara adalah SDA nonhayati, bukan hayati; D salah karena batu bara adalah hasil tambang, bukan hasil pertanian.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab C: Keragaman Sumber Daya Alam di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "C: Keragaman Sumber Daya Alam di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sumber daya alam hayati adalah ....\nA. Sumber daya alam yang berasal dari makhluk hidup, seperti tumbuhan dan hewan\nB. Sumber daya alam yang berasal dari benda mati, seperti batu bara dan minyak bumi\nC. Sumber daya alam yang berasal dari dalam tanah, seperti emas dan nikel\nD. Sumber daya alam yang berasal dari udara, seperti angin dan sinar matahari",
+    "pilihan": [
+      "Sumber daya alam yang berasal dari makhluk hidup, seperti tumbuhan dan hewan",
+      "Sumber daya alam yang berasal dari benda mati, seperti batu bara dan minyak bumi",
+      "Sumber daya alam yang berasal dari dalam tanah, seperti emas dan nikel",
+      "Sumber daya alam yang berasal dari udara, seperti angin dan sinar matahari"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Sumber daya alam hayati adalah sumber daya alam yang berasal dari makhluk hidup, yaitu tumbuhan dan hewan. Contohnya padi, jagung, sayur, buah, kayu, ikan, susu, telur, dan daging. Pilihan B, C, dan D adalah sumber daya alam nonhayati, karena berasal dari benda tidak hidup: batu bara, minyak bumi, emas, nikel, angin, dan sinar matahari.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab C: Keragaman Sumber Daya Alam di Indonesia\n## Sub-bab D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "C: Keragaman Sumber Daya Alam di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan kegiatan berikut.\n1. Petani menanam padi di sawah dan memanennya menjadi gabah.\n2. Pedagang membeli gabah, menggilingnya menjadi beras, lalu menjual beras itu di pasar.\n3. Ibu membeli beras di pasar dan memasaknya menjadi nasi untuk keluarga.\n\nUrutan kegiatan ekonomi yang benar dari ketiga kegiatan itu adalah ....\n\nA. Konsumsi → produksi → distribusi\nB. Produksi → distribusi → konsumsi\nC. Produksi → konsumsi → distribusi\nD. Distribusi → konsumsi → produksi",
+    "pilihan": [
+      "Konsumsi → produksi → distribusi",
+      "Produksi → distribusi → konsumsi",
+      "Produksi → konsumsi → distribusi",
+      "Distribusi → konsumsi → produksi"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Kegiatan ekonomi berjalan dalam alur yang saling berkaitan: pertama produksi — petani menghasilkan padi; lalu distribusi — pedagang menyalurkan beras ke pasar; terakhir konsumsi — ibu membeli dan memakai beras untuk kebutuhan keluarga. Pilihan A salah karena konsumsi tidak mungkin terjadi sebelum barang diproduksi; C salah karena beras harus disalurkan dulu sebelum sampai ke pembeli; D salah karena distribusi baru bisa terjadi setelah ada barang hasil produksi.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Desa A terletak di pegunungan yang udaranya sejuk dan tanahnya subur. Desa B terletak di pesisir pantai yang berhadapan langsung dengan laut. Pasangan kegiatan ekonomi yang paling sesuai dengan keadaan kedua desa itu adalah ....\nA. Desa A nelayan, Desa B petani teh\nB. Desa A petani garam, Desa B peternak sapi\nC. Desa A petani sayur, Desa B nelayan\nD. Desa A pedagang di mal, Desa B petani padi",
+    "pilihan": [
+      "Desa A nelayan, Desa B petani teh",
+      "Desa A petani garam, Desa B peternak sapi",
+      "Desa A petani sayur, Desa B nelayan",
+      "Desa A pedagang di mal, Desa B petani padi"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kegiatan ekonomi mengikuti kondisi alam dan sumber daya alam daerahnya. Desa A di pegunungan yang sejuk cocok untuk menanam sayuran dan berkebun, sedangkan Desa B di pesisir pantai cocok untuk melaut menjadi nelayan. Pilihan A menukar keduanya — nelayan butuh laut, sedangkan teh butuh dataran tinggi yang sejuk. Pilihan B salah karena garam dibuat dari air laut, jadi cocoknya di pesisir, bukan di pegunungan. Pilihan D salah karena mal adalah tempat perdagangan di kota, bukan di desa pegunungan.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Kegiatan ekonomi di semua daerah di Indonesia itu sama saja, karena semua orang butuh makan.\" Apakah perkataan Dodi benar?\nA. Salah; kegiatan ekonomi berbeda-beda di tiap daerah karena kondisi alam dan sumber daya alamnya berbeda\nB. Benar, karena semua orang memang butuh makan\nC. Benar, karena semua daerah mempunyai pasar\nD. Salah; kegiatan ekonomi hanya ada di kota, bukan di desa",
+    "pilihan": [
+      "Salah; kegiatan ekonomi berbeda-beda di tiap daerah karena kondisi alam dan sumber daya alamnya berbeda",
+      "Benar, karena semua orang memang butuh makan",
+      "Benar, karena semua daerah mempunyai pasar",
+      "Salah; kegiatan ekonomi hanya ada di kota, bukan di desa"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Perkataan Dodi salah. Memang semua orang butuh makan, tetapi cara memenuhi kebutuhan itu berbeda-beda di tiap daerah karena kondisi alam dan sumber daya alamnya berbeda. Di pegunungan orang banyak bertani sayur dan beternak, di pesisir orang banyak menjadi nelayan dan petani garam, sedangkan di kota orang banyak berdagang dan bekerja di bidang jasa. Pilihan B dan C salah karena kebutuhan yang sama tidak berarti kegiatannya sama. Pilihan D salah karena kegiatan ekonomi ada di desa maupun di kota.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan tiga kegiatan berikut.\n1. Pak Budi, seorang pengrajin anyaman, membuat keranjang dari bambu.\n2. Pak Agus membawa keranjang buatan Pak Budi ke toko oleh-oleh untuk dijual.\n3. Sinta membeli keranjang itu di toko oleh-oleh untuk tempat mainannya.\n\nKegiatan Pak Agus termasuk kegiatan ekonomi yang mana?\n\nA. Produksi, karena ia membuat keranjang dari bambu\nB. Konsumsi, karena ia memakai keranjang itu\nC. Pertanian, karena ia bekerja dengan hasil alam\nD. Distribusi, karena ia menyalurkan keranjang dari pengrajin ke toko",
+    "pilihan": [
+      "Produksi, karena ia membuat keranjang dari bambu",
+      "Konsumsi, karena ia memakai keranjang itu",
+      "Pertanian, karena ia bekerja dengan hasil alam",
+      "Distribusi, karena ia menyalurkan keranjang dari pengrajin ke toko"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Pak Agus melakukan distribusi, yaitu menyalurkan barang hasil produksi dari produsen (Pak Budi) ke tempat penjual (toko oleh-oleh) agar sampai ke konsumen. Produksi dilakukan oleh Pak Budi yang membuat keranjang, sedangkan konsumsi dilakukan oleh Sinta yang membeli dan memakai keranjang itu. Pilihan A salah karena yang membuat keranjang adalah Pak Budi, bukan Pak Agus; B salah karena Pak Agus tidak memakai keranjang itu; C salah karena kegiatan ini bukan pertanian.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Kegiatan ekonomi adalah ....\nA. Kegiatan yang dilakukan manusia untuk memenuhi kebutuhan hidupnya\nB. Kegiatan bermain di taman bersama teman-teman\nC. Kegiatan menonton televisi di rumah pada sore hari\nD. Kegiatan tidur siang setelah makan",
+    "pilihan": [
+      "Kegiatan yang dilakukan manusia untuk memenuhi kebutuhan hidupnya",
+      "Kegiatan bermain di taman bersama teman-teman",
+      "Kegiatan menonton televisi di rumah pada sore hari",
+      "Kegiatan tidur siang setelah makan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Kegiatan ekonomi adalah semua kegiatan yang dilakukan manusia untuk memenuhi kebutuhan hidupnya, misalnya bertani, berdagang, menjadi nelayan, beternak, membuat kerajinan, dan bekerja di bidang jasa. Pilihan B, C, dan D adalah kegiatan sehari-hari, tetapi bukan kegiatan ekonomi karena tidak bertujuan menghasilkan atau memenuhi kebutuhan hidup melalui barang dan jasa.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab D: Keragaman Kegiatan Ekonomi di Indonesia\n## Sub-bab E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "D: Keragaman Kegiatan Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keluarga Pak Hasan tinggal di dataran tinggi yang udaranya sejuk. Mereka mengolah lahan yang luas untuk menanam teh dan kopi, lalu hasil panennya dijual ke pabrik. Jenis usaha ekonomi apakah yang dilakukan keluarga Pak Hasan?\nA. Perikanan, karena hasilnya berasal dari air\nB. Perkebunan, karena mengolah lahan luas untuk tanaman keras seperti teh dan kopi\nC. Pertambangan, karena mengambil hasil dari dalam tanah\nD. Perdagangan, karena mereka menjual hasil panen ke pabrik",
+    "pilihan": [
+      "Perikanan, karena hasilnya berasal dari air",
+      "Perkebunan, karena mengolah lahan luas untuk tanaman keras seperti teh dan kopi",
+      "Pertambangan, karena mengambil hasil dari dalam tanah",
+      "Perdagangan, karena mereka menjual hasil panen ke pabrik"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Perkebunan adalah usaha mengolah lahan yang luas untuk menanam tanaman keras atau tanaman perkebunan, seperti teh, kopi, kelapa sawit, dan cokelat. Keluarga Pak Hasan menanam teh dan kopi di lahan yang luas, jadi usahanya termasuk perkebunan. Pilihan A salah karena perikanan berkaitan dengan ikan, bukan tanaman. Pilihan C salah karena pertambangan mengambil hasil tambang dari dalam bumi, bukan menanam. Pilihan D salah karena menjual hasil panen adalah bagian dari perdagangan, sedangkan kegiatan utama keluarga Pak Hasan adalah menanam.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua usaha berikut.\n1. Pak Ahmad memelihara sapi perah di kandangnya. Setiap pagi ia memerah susu sapi itu untuk dijual.\n2. Pak Dedi bekerja menambang batu bara di sebuah bukit, lalu batu bara itu langsung diangkut dan dijual.\n\nManakah pernyataan yang benar tentang kedua usaha itu?\n\nA. Keduanya sama-sama usaha agraris, karena hasilnya berasal dari alam\nB. Usaha Pak Ahmad termasuk usaha jasa, karena ia memelihara hewan\nC. Usaha Pak Ahmad membudidayakan hewan, sedangkan usaha Pak Dedi mengambil hasil alam secara langsung tanpa mengolah lahan\nD. Usaha Pak Dedi termasuk usaha agraris, karena hasilnya berasal dari alam",
+    "pilihan": [
+      "Keduanya sama-sama usaha agraris, karena hasilnya berasal dari alam",
+      "Usaha Pak Ahmad termasuk usaha jasa, karena ia memelihara hewan",
+      "Usaha Pak Ahmad membudidayakan hewan, sedangkan usaha Pak Dedi mengambil hasil alam secara langsung tanpa mengolah lahan",
+      "Usaha Pak Dedi termasuk usaha agraris, karena hasilnya berasal dari alam"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Usaha Pak Ahmad adalah peternakan, yaitu usaha agraris yang membudidayakan dan memelihara hewan untuk diambil hasilnya — dalam hal ini susu sapi. Usaha Pak Dedi adalah pertambangan, yaitu usaha ekstraktif yang mengambil sumber daya alam secara langsung dari dalam bumi tanpa mengolah lahan terlebih dahulu. Pilihan A dan D salah karena pertambangan bukan usaha agraris, melainkan usaha ekstraktif. Pilihan B salah karena memelihara hewan bukan usaha jasa.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Usaha jasa itu tidak berguna, karena tidak menghasilkan barang apa-apa.\" Apakah perkataan Dodi benar?\nA. Salah; usaha jasa menghasilkan pelayanan yang bermanfaat, misalnya dokter memeriksa pasien dan sopir mengantar penumpang ke tempat tujuan\nB. Benar, karena usaha jasa memang tidak menghasilkan apa-apa\nC. Salah; usaha jasa menghasilkan barang seperti yang dibuat pabrik\nD. Benar, karena usaha jasa hanya dilakukan oleh orang yang tidak punya modal",
+    "pilihan": [
+      "Salah; usaha jasa menghasilkan pelayanan yang bermanfaat, misalnya dokter memeriksa pasien dan sopir mengantar penumpang ke tempat tujuan",
+      "Benar, karena usaha jasa memang tidak menghasilkan apa-apa",
+      "Salah; usaha jasa menghasilkan barang seperti yang dibuat pabrik",
+      "Benar, karena usaha jasa hanya dilakukan oleh orang yang tidak punya modal"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Perkataan Dodi salah. Usaha jasa memang tidak menghasilkan barang yang dapat dipegang, tetapi menghasilkan pelayanan yang sangat bermanfaat dan dapat dirasakan manfaatnya — dokter memeriksa dan mengobati pasien, sopir mengantar penumpang, guru mengajar murid, dan tukang cukur memotong rambut. Pilihan C salah karena menghasilkan barang adalah ciri usaha industri, bukan jasa. Pilihan B dan D salah karena jasa tetap berguna dan membutuhkan keahlian, bukan karena tidak punya modal.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bu Ratna membuka warung kelontong di depan rumahnya. Ia sendiri yang membeli barang dagangan, mengatur warung, dan melayani pembeli. Di sekolah Sinta ada koperasi sekolah yang dikelola bersama oleh beberapa guru dan murid, dengan modal dari simpanan para anggotanya. Manakah pernyataan yang benar tentang kedua usaha itu?\nA. Warung Bu Ratna adalah usaha bersama, sedangkan koperasi sekolah adalah usaha perorangan\nB. Keduanya adalah usaha perorangan, karena sama-sama menjual barang\nC. Keduanya adalah usaha bersama, karena sama-sama melayani pembeli\nD. Warung Bu Ratna adalah usaha perorangan, sedangkan koperasi sekolah adalah usaha bersama",
+    "pilihan": [
+      "Warung Bu Ratna adalah usaha bersama, sedangkan koperasi sekolah adalah usaha perorangan",
+      "Keduanya adalah usaha perorangan, karena sama-sama menjual barang",
+      "Keduanya adalah usaha bersama, karena sama-sama melayani pembeli",
+      "Warung Bu Ratna adalah usaha perorangan, sedangkan koperasi sekolah adalah usaha bersama"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Warung Bu Ratna adalah usaha perorangan karena dimiliki dan dikelola oleh satu orang saja, yaitu Bu Ratna sendiri. Koperasi sekolah adalah usaha bersama karena dikelola oleh beberapa orang — guru dan murid — atas asas kekeluargaan, dengan modal berasal dari simpanan pokok dan simpanan wajib para anggota. Pilihan A menukar keduanya, sedangkan B dan C salah karena kepemilikan dan pengelolaannya berbeda, meskipun sama-sama menjual barang dan melayani pembeli.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perdagangan adalah ....\nA. Kegiatan mengolah bahan mentah menjadi barang jadi, misalnya kayu diolah menjadi kursi\nB. Kegiatan menyalurkan barang dari produsen ke konsumen, misalnya pedagang menjual sayuran petani di pasar\nC. Kegiatan memelihara hewan untuk diambil hasilnya, misalnya sapi dipelihara untuk diambil susunya\nD. Kegiatan memberikan pelayanan kepada orang lain, misalnya dokter memeriksa pasien",
+    "pilihan": [
+      "Kegiatan mengolah bahan mentah menjadi barang jadi, misalnya kayu diolah menjadi kursi",
+      "Kegiatan menyalurkan barang dari produsen ke konsumen, misalnya pedagang menjual sayuran petani di pasar",
+      "Kegiatan memelihara hewan untuk diambil hasilnya, misalnya sapi dipelihara untuk diambil susunya",
+      "Kegiatan memberikan pelayanan kepada orang lain, misalnya dokter memeriksa pasien"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Perdagangan adalah kegiatan usaha yang menyalurkan barang dari produsen (penghasil barang) ke konsumen (pemakai barang). Pedagang bertindak sebagai perantara: ia membeli hasil pertanian dari petani lalu menjualnya kembali kepada pembeli di pasar. Pilihan A adalah usaha perindustrian, C adalah usaha peternakan, dan D adalah usaha jasa — ketiganya bukan perdagangan.",
+    "rujukan": "IPAS Kelas 4, Bab 5: Keunikan Daerahku, Sub-bab E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 05: Keunikan Daerahku",
+    "sub_bab": "E: Jenis-Jenis Usaha Ekonomi di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina adalah ketua kelas. Hari ini ada teman sekelasnya yang kesulitan memahami pelajaran matematika, sementara papan tulis di kelas masih kotor setelah pelajaran sebelumnya. Apa tindakan Rina yang paling tepat sebagai ketua kelas?\nA. Membiarkan papan tulis tetap kotor dan menyuruh teman itu belajar sendiri di rumah\nB. Membersihkan papan tulis bersama teman-temannya, lalu membantu teman yang kesulitan itu memahami pelajaran\nC. Menyuruh teman yang kesulitan itu membersihkan papan tulis sendirian sebagai hukuman\nD. Melaporkan teman yang kesulitan itu kepada guru agar dimarahi",
+    "pilihan": [
+      "Membiarkan papan tulis tetap kotor dan menyuruh teman itu belajar sendiri di rumah",
+      "Membersihkan papan tulis bersama teman-temannya, lalu membantu teman yang kesulitan itu memahami pelajaran",
+      "Menyuruh teman yang kesulitan itu membersihkan papan tulis sendirian sebagai hukuman",
+      "Melaporkan teman yang kesulitan itu kepada guru agar dimarahi"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Ketua kelas berperan memimpin dan membantu teman-temannya. Membersihkan papan tulis adalah bagian dari menjaga kebersihan kelas, dan membantu teman yang kesulitan belajar adalah wujud tanggung jawab seorang ketua kelas terhadap teman sekelasnya. Pilihan A salah karena membiarkan kelas kotor dan teman kesulitan bukan tugas ketua kelas. Pilihan C salah karena membersihkan kelas bukan hukuman, dan D salah karena kesulitan belajar bukan kesalahan yang harus dilaporkan untuk dimarahi.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua peran berikut.\nPeran 1: Sinta di sekolah — ia belajar dengan tekun, mematuhi tata tertib, dan menjaga kebersihan kelas.\nPeran 2: Sinta di rumah — ia membantu ibu mencuci piring dan menghormati kakeknya yang sudah tua.\n\nManakah pernyataan yang benar tentang kedua peran Sinta itu?\n\nA. Hanya Peran 1 yang penting, karena peran di rumah tidak ada hubungannya dengan sekolah\nB. Keduanya sama-sama penting, karena setiap tempat menuntut peran dan tugas yang berbeda tetapi saling melengkapi\nC. Hanya Peran 2 yang penting, karena membantu orang tua lebih penting daripada belajar\nD. Keduanya tidak ada hubungannya, karena Sinta di sekolah dan Sinta di rumah adalah orang yang berbeda",
+    "pilihan": [
+      "Hanya Peran 1 yang penting, karena peran di rumah tidak ada hubungannya dengan sekolah",
+      "Keduanya sama-sama penting, karena setiap tempat menuntut peran dan tugas yang berbeda tetapi saling melengkapi",
+      "Hanya Peran 2 yang penting, karena membantu orang tua lebih penting daripada belajar",
+      "Keduanya tidak ada hubungannya, karena Sinta di sekolah dan Sinta di rumah adalah orang yang berbeda"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setiap orang memiliki peran yang berbeda-beda sesuai tempatnya — di sekolah sebagai siswa, di rumah sebagai anak, di masyarakat sebagai warga. Kedua peran Sinta sama-sama penting: belajar dan menjaga kebersihan kelas adalah tugasnya sebagai siswa, sedangkan membantu orang tua dan menghormati kakek adalah tugasnya sebagai anak. Peran yang berbeda itu tidak bertentangan, melainkan saling melengkapi membentuk Sinta sebagai anak yang bertanggung jawab.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Tugasku di sekolah hanya belajar. Menjaga kebersihan kelas dan membantu teman bukan tugasku, itu urusan petugas kebersihan dan guru.\" Apakah perkataan Dodi benar?\nA. Benar, karena siswa memang hanya perlu belajar dan mendapat nilai bagus\nB. Benar, karena kebersihan kelas memang sudah ada yang mengurus\nC. Salah; sebagai siswa, Dodi juga bertugas menjaga kebersihan kelas dan membantu teman yang kesulitan\nD. Salah; Dodi seharusnya tidak belajar sama sekali dan hanya membersihkan kelas",
+    "pilihan": [
+      "Benar, karena siswa memang hanya perlu belajar dan mendapat nilai bagus",
+      "Benar, karena kebersihan kelas memang sudah ada yang mengurus",
+      "Salah; sebagai siswa, Dodi juga bertugas menjaga kebersihan kelas dan membantu teman yang kesulitan",
+      "Salah; Dodi seharusnya tidak belajar sama sekali dan hanya membersihkan kelas"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Tugas siswa di sekolah tidak hanya belajar, tetapi juga mematuhi tata tertib, menjaga kebersihan kelas, dan menjaga kerukunan dengan teman — termasuk membantu teman yang kesulitan. Kebersihan kelas adalah tanggung jawab bersama semua siswa, bukan hanya petugas kebersihan. Pilihan D salah karena belajar tetap tugas utama siswa; menjaga kebersihan adalah tugas tambahan yang sama pentingnya.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di lingkungan tempat tinggal Budi, ada tetangga baru yang pindah dan belum mengenal siapa pun. Di sekolah, Budi juga melihat ada teman baru yang duduk sendirian saat istirahat. Apa yang sebaiknya dilakukan Budi sebagai warga masyarakat dan sebagai teman sekelas?\nA. Membiarkan tetangga baru dan teman baru itu sendirian, karena mereka akan berkenalan sendiri pada waktunya\nB. Menyapa tetangga baru dengan ramah dan mengajak teman baru itu bermain bersama saat istirahat\nC. Menyuruh tetangga baru itu melapor ke ketua RT dan menyuruh teman baru itu duduk di tempat lain\nD. Menjauhi tetangga baru dan teman baru itu karena mereka orang asing yang belum dikenal",
+    "pilihan": [
+      "Membiarkan tetangga baru dan teman baru itu sendirian, karena mereka akan berkenalan sendiri pada waktunya",
+      "Menyapa tetangga baru dengan ramah dan mengajak teman baru itu bermain bersama saat istirahat",
+      "Menyuruh tetangga baru itu melapor ke ketua RT dan menyuruh teman baru itu duduk di tempat lain",
+      "Menjauhi tetangga baru dan teman baru itu karena mereka orang asing yang belum dikenal"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sebagai warga masyarakat, Budi berperan menjaga kerukunan dengan tetangganya — menyapa tetangga baru dengan ramah adalah sikap warga yang baik. Sebagai teman sekelas, Budi berperan menjaga kerukunan di kelas — mengajak teman baru bermain adalah sikap yang ramah dan peduli. Kedua tindakan itu menunjukkan peran Budi yang sama di dua tempat yang berbeda: menjadi orang yang ramah dan peduli terhadap orang lain. Pilihan A, C, dan D tidak menunjukkan kepedulian terhadap sesama.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Peran adalah ....\nA. Tugas atau kedudukan seseorang dalam suatu lingkungan, misalnya sebagai siswa di sekolah atau sebagai warga di masyarakat\nB. Nama panggilan seseorang di rumah\nC. Nilai ulangan yang diperoleh seseorang di sekolah\nD. Seragam yang dipakai seseorang saat pergi ke sekolah",
+    "pilihan": [
+      "Tugas atau kedudukan seseorang dalam suatu lingkungan, misalnya sebagai siswa di sekolah atau sebagai warga di masyarakat",
+      "Nama panggilan seseorang di rumah",
+      "Nilai ulangan yang diperoleh seseorang di sekolah",
+      "Seragam yang dipakai seseorang saat pergi ke sekolah"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Peran adalah tugas atau kedudukan yang dijalankan seseorang dalam suatu lingkungan. Contohnya, di sekolah seseorang berperan sebagai siswa yang bertugas belajar dan mematuhi tata tertib, sedangkan di masyarakat ia berperan sebagai warga yang bertugas menjaga kebersihan lingkungan dan membantu tetangga. Nama panggilan, nilai ulangan, dan seragam bukan peran.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat\n## Sub-bab B: Peraturan dan Tanggung Jawabku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di sekolah Rani ada peraturan: siswa harus membuang sampah pada tempatnya dan tidak boleh mencoret-coret meja. Suatu hari, Rani melihat temannya membuang bungkus permen di lantai kelas. Sikap Rani yang paling menunjukkan tanggung jawab adalah ....\nA. Membiarkan saja karena bukan sampah Rani\nB. Mengingatkan temannya dengan sopan dan ikut membuang sampah itu ke tempat sampah\nC. Ikut membuang sampah di lantai supaya temannya tidak sendirian\nD. Melaporkan temannya kepada guru dengan cara mengejeknya di depan kelas",
+    "pilihan": [
+      "Membiarkan saja karena bukan sampah Rani",
+      "Mengingatkan temannya dengan sopan dan ikut membuang sampah itu ke tempat sampah",
+      "Ikut membuang sampah di lantai supaya temannya tidak sendirian",
+      "Melaporkan temannya kepada guru dengan cara mengejeknya di depan kelas"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Tanggung jawab bukan hanya mematuhi peraturan untuk diri sendiri, tetapi juga ikut menjaga ketertiban lingkungan bersama. Mengingatkan teman dengan sopan dan ikut membuang sampah ke tempatnya menunjukkan kesadaran Rani akan kewajibannya sebagai warga sekolah. Pilihan A salah karena membiarkan pelanggaran berarti tidak peduli pada kebersihan bersama. Pilihan C salah karena ikut melanggar justru menambah masalah. Pilihan D salah karena mengejek teman bukan cara yang baik, meskipun tujuannya melaporkan.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab B: Peraturan dan Tanggung Jawabku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "B: Peraturan dan Tanggung Jawabku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua aturan berikut.\n(1) Tata tertib sekolah: siswa wajib memakai seragam sesuai jadwal dan datang tepat waktu.\n(2) Di kampung Sinta: setiap tamu yang menginap lebih dari sehari wajib melapor kepada ketua RT.\n\nManakah pernyataan yang benar tentang kedua aturan itu?\n\nA. Aturan (1) adalah peraturan tertulis, sedangkan aturan (2) adalah peraturan tidak tertulis\nB. Aturan (1) adalah peraturan tidak tertulis, sedangkan aturan (2) adalah peraturan tertulis\nC. Keduanya adalah peraturan tertulis yang disahkan oleh pemerintah pusat\nD. Keduanya bukan peraturan, karena hanya kebiasaan yang boleh diabaikan",
+    "pilihan": [
+      "Aturan (1) adalah peraturan tertulis, sedangkan aturan (2) adalah peraturan tidak tertulis",
+      "Aturan (1) adalah peraturan tidak tertulis, sedangkan aturan (2) adalah peraturan tertulis",
+      "Keduanya adalah peraturan tertulis yang disahkan oleh pemerintah pusat",
+      "Keduanya bukan peraturan, karena hanya kebiasaan yang boleh diabaikan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tata tertib sekolah dituangkan dalam bentuk tulisan dan berlaku resmi bagi seluruh warga sekolah, jadi termasuk peraturan tertulis. Aturan lapor tamu di kampung Sinta adalah kebiasaan yang diyakini dan dilaksanakan turun-temurun oleh masyarakat setempat tanpa dituangkan dalam dokumen resmi, jadi termasuk peraturan tidak tertulis. Pilihan B menukar keduanya. Pilihan C salah karena aturan lapor tamu bukan peraturan pemerintah pusat. Pilihan D salah karena peraturan tidak tertulis pun tetap mengikat dan tidak boleh diabaikan begitu saja.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab B: Peraturan dan Tanggung Jawabku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "B: Peraturan dan Tanggung Jawabku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Peraturan lalu lintas itu hanya untuk orang dewasa yang mengendarai kendaraan. Anak-anak yang berjalan kaki tidak perlu mematuhinya.\" Apakah perkataan Dodi benar?\nA. Benar, karena anak-anak tidak mengendarai kendaraan\nB. Benar, karena rambu lalu lintas hanya dipasang untuk pengendara motor dan mobil\nC. Salah; pejalan kaki juga pengguna jalan yang wajib mematuhi rambu, misalnya menyeberang di zebra cross dan menunggu lampu hijau\nD. Salah; anak-anak memang tidak perlu mematuhi peraturan apa pun",
+    "pilihan": [
+      "Benar, karena anak-anak tidak mengendarai kendaraan",
+      "Benar, karena rambu lalu lintas hanya dipasang untuk pengendara motor dan mobil",
+      "Salah; pejalan kaki juga pengguna jalan yang wajib mematuhi rambu, misalnya menyeberang di zebra cross dan menunggu lampu hijau",
+      "Salah; anak-anak memang tidak perlu mematuhi peraturan apa pun"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Peraturan lalu lintas berlaku untuk semua pengguna jalan, termasuk pejalan kaki. Anak-anak yang berjalan kaki tetap wajib mematuhi rambu lalu lintas, misalnya menyeberang di zebra cross, menunggu lampu penyeberangan berwarna hijau, dan berjalan di trotoar. Aturan itu dibuat demi keselamatan semua orang di jalan, bukan hanya pengendara kendaraan. Pilihan A dan B salah karena rambu lalu lintas juga melindungi pejalan kaki. Pilihan D jelas salah karena anak-anak pun wajib mematuhi peraturan yang berlaku.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab B: Peraturan dan Tanggung Jawabku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "B: Peraturan dan Tanggung Jawabku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Setiap hari Senin, kelas 4 mendapat giliran piket membersihkan kelas. Minggu ini, Budi adalah petugas piket, tetapi ia pulang lebih dulu tanpa membersihkan kelas dengan alasan ada yang akan menggantikannya. Akibat yang paling mungkin terjadi dari sikap Budi adalah ....\nA. Kelas menjadi kotor dan teman-teman sekelas merasa dirugikan karena harus mengerjakan tugas Budi\nB. Kelas menjadi lebih bersih karena tidak ada yang mengotori\nC. Budi mendapat pujian karena berani pulang lebih dulu\nD. Tidak ada akibat apa-apa, karena piket adalah tugas yang boleh ditinggalkan",
+    "pilihan": [
+      "Kelas menjadi kotor dan teman-teman sekelas merasa dirugikan karena harus mengerjakan tugas Budi",
+      "Kelas menjadi lebih bersih karena tidak ada yang mengotori",
+      "Budi mendapat pujian karena berani pulang lebih dulu",
+      "Tidak ada akibat apa-apa, karena piket adalah tugas yang boleh ditinggalkan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Piket adalah tugas dan tanggung jawab yang sudah dibagi secara adil. Jika Budi pulang tanpa melaksanakan piketnya, kelas tidak dibersihkan dan teman-teman yang lain harus menanggung tugas Budi atau belajar di kelas yang kotor. Sikap tidak bertanggung jawab selalu menimbulkan akibat bagi orang lain. Pilihan B salah karena tanpa dibersihkan kelas justru makin kotor. Pilihan C salah karena meninggalkan tugas bukan sikap yang patut dipuji. Pilihan D salah karena setiap pelanggaran peraturan dan tugas selalu ada konsekuensinya.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab B: Peraturan dan Tanggung Jawabku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "B: Peraturan dan Tanggung Jawabku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Tanggung jawab adalah ....\nA. Kesadaran diri untuk melaksanakan tugas dan kewajiban dengan sebaik-baiknya\nB. Hak untuk melakukan apa saja tanpa memedulikan peraturan\nC. Tugas yang hanya dilakukan oleh orang dewasa\nD. Hukuman yang diberikan kepada orang yang melanggar peraturan",
+    "pilihan": [
+      "Kesadaran diri untuk melaksanakan tugas dan kewajiban dengan sebaik-baiknya",
+      "Hak untuk melakukan apa saja tanpa memedulikan peraturan",
+      "Tugas yang hanya dilakukan oleh orang dewasa",
+      "Hukuman yang diberikan kepada orang yang melanggar peraturan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tanggung jawab adalah kesadaran seseorang untuk melaksanakan tugas dan kewajibannya dengan sebaik-baiknya, misalnya siswa yang datang tepat waktu, mengerjakan tugas, dan melaksanakan piket. Pilihan B salah karena melakukan apa saja tanpa aturan justru kebalikan dari tanggung jawab. Pilihan C salah karena anak-anak pun mempunyai tanggung jawab sesuai peran mereka. Pilihan D salah karena hukuman adalah sanksi, bukan pengertian tanggung jawab.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab B: Peraturan dan Tanggung Jawabku\n## Sub-bab C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "B: Peraturan dan Tanggung Jawabku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di lorong sekolah, Rudi berpapasan dengan Bu Guru yang sedang membawa setumpuk buku. Sikap Rudi yang paling tepat adalah ....\nA. Berlari menghindar supaya tidak bertemu Bu Guru\nB. Menunduk, menyapa dengan sopan, lalu menawarkan bantuan membawa buku\nC. Pura-pura tidak melihat Bu Guru dan terus berjalan\nD. Berteriak menyapa Bu Guru dari ujung lorong",
+    "pilihan": [
+      "Berlari menghindar supaya tidak bertemu Bu Guru",
+      "Menunduk, menyapa dengan sopan, lalu menawarkan bantuan membawa buku",
+      "Pura-pura tidak melihat Bu Guru dan terus berjalan",
+      "Berteriak menyapa Bu Guru dari ujung lorong"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Berpapasan dengan guru adalah contoh interaksi sosial di sekolah. Sikap yang baik adalah menyapa dengan sopan — misalnya menunduk dan mengucapkan salam — dan menawarkan bantuan karena Bu Guru sedang kerepotan membawa buku. Pilihan A dan C salah karena menghindar atau pura-pura tidak melihat berarti menolak berinteraksi. Pilihan D salah karena berteriak di lorong tidak sopan dan mengganggu kelas lain.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua kelompok belajar berikut.\nKelompok 1: Saat berdiskusi, setiap anggota boleh menyampaikan pendapatnya, anggota lain mendengarkan dengan saksama, lalu mereka memutuskan bersama.\nKelompok 2: Saat berdiskusi, satu anak memaksa teman-temannya mengikuti pendapatnya, dan yang tidak setuju dimusuhi.\n\nKelompok manakah yang melakukan interaksi sosial yang baik, dan mengapa?\n\nA. Kelompok 1, karena anggotanya saling menghargai pendapat dan mengambil keputusan bersama\nB. Kelompok 2, karena keputusan menjadi lebih cepat jika satu orang yang menentukan\nC. Kelompok 1, karena anggotanya tidak pernah berbeda pendapat\nD. Kelompok 2, karena memusuhi teman yang tidak setuju membuat kelompok lebih kompak",
+    "pilihan": [
+      "Kelompok 1, karena anggotanya saling menghargai pendapat dan mengambil keputusan bersama",
+      "Kelompok 2, karena keputusan menjadi lebih cepat jika satu orang yang menentukan",
+      "Kelompok 1, karena anggotanya tidak pernah berbeda pendapat",
+      "Kelompok 2, karena memusuhi teman yang tidak setuju membuat kelompok lebih kompak"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Kelompok 1 melakukan interaksi sosial yang baik: anggotanya berkomunikasi dengan jelas, saling mendengarkan, dan menghargai perbedaan pendapat, lalu bermusyawarah hingga mencapai kesepakatan bersama. Kelompok 2 justru merusak interaksi sosial — memaksa pendapat dan memusuhi teman yang berbeda pendapat menimbulkan konflik dan perselisihan. Pilihan C salah karena perbedaan pendapat itu wajar; yang penting adalah cara menyikapinya.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Mengejek teman itu wajar, asalkan hanya bercanda. Teman yang diejek harusnya tidak usah marah.\" Apakah perkataan Dodi benar?\nA. Benar, karena candaan tidak pernah menyakiti siapa pun\nB. Benar, karena teman yang baik tidak boleh marah pada candaan\nC. Salah; mengejek adalah interaksi sosial yang buruk karena menyakiti perasaan teman dan dapat menimbulkan pertengkaran\nD. Salah; mengejek itu boleh, asalkan dilakukan di luar kelas",
+    "pilihan": [
+      "Benar, karena candaan tidak pernah menyakiti siapa pun",
+      "Benar, karena teman yang baik tidak boleh marah pada candaan",
+      "Salah; mengejek adalah interaksi sosial yang buruk karena menyakiti perasaan teman dan dapat menimbulkan pertengkaran",
+      "Salah; mengejek itu boleh, asalkan dilakukan di luar kelas"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Mengejek — walaupun dibungkus candaan — adalah interaksi sosial yang buruk karena menyakiti perasaan teman, merusak hubungan, dan dapat menimbulkan pertengkaran. Interaksi sosial yang baik justru menghindari konflik dan saling menghormati. Pilihan A salah karena candaan yang mengejek tetap bisa menyakiti; D salah karena mengejek tetap salah di mana pun dilakukan.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keluarga baru pindah ke rumah di sebelah rumah Sinta. Sore hari, Sinta melihat ibu dari keluarga itu kebingungan mencari toko kelontong terdekat. Tindakan Sinta yang menunjukkan interaksi sosial yang baik di lingkungan masyarakat adalah ....\nA. Membiarkan saja karena itu bukan urusan Sinta\nB. Menyapa dengan ramah, menunjukkan arah toko kelontong, dan menawarkan bantuan bila diperlukan\nC. Menertawakan ibu itu karena tidak tahu jalan di kampung sendiri\nD. Menyuruh ibu itu bertanya kepada orang lain saja",
+    "pilihan": [
+      "Membiarkan saja karena itu bukan urusan Sinta",
+      "Menyapa dengan ramah, menunjukkan arah toko kelontong, dan menawarkan bantuan bila diperlukan",
+      "Menertawakan ibu itu karena tidak tahu jalan di kampung sendiri",
+      "Menyuruh ibu itu bertanya kepada orang lain saja"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Interaksi sosial yang baik di lingkungan masyarakat adalah menyapa tetangga baru dengan ramah dan saling membantu. Menunjukkan arah toko dan menawarkan bantuan membuat keluarga baru merasa diterima dan hubungan antarwarga menjadi harmonis. Pilihan A salah karena membiarkan tetangga kebingungan bukan sikap peduli; C salah karena menertawakan orang lain adalah interaksi yang buruk; D salah karena melempar urusan ke orang lain bukan sikap tolong-menolong.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Interaksi sosial adalah ....\nA. Hubungan timbal balik antara individu atau kelompok dalam masyarakat\nB. Kegiatan bermain sendiri tanpa melibatkan orang lain\nC. Peraturan tertulis yang ditempel di dinding kelas\nD. Pekerjaan yang dilakukan seorang diri di rumah",
+    "pilihan": [
+      "Hubungan timbal balik antara individu atau kelompok dalam masyarakat",
+      "Kegiatan bermain sendiri tanpa melibatkan orang lain",
+      "Peraturan tertulis yang ditempel di dinding kelas",
+      "Pekerjaan yang dilakukan seorang diri di rumah"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Interaksi sosial adalah hubungan timbal balik antara individu atau kelompok dalam masyarakat. Interaksi terjadi jika ada kontak sosial dan komunikasi, misalnya menyapa teman, berdiskusi dalam kelompok belajar, atau membantu tetangga. Pilihan B dan D salah karena bermain atau bekerja sendiri tidak melibatkan hubungan dengan orang lain. Pilihan C salah karena peraturan adalah tata tertib, bukan interaksi sosial.",
+    "rujukan": "IPAS Kelas 4, Bab 6: Peranku di Lingkungan Sekolah dan Masyarakat, Sub-bab C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 06: Peranku di Lingkungan Sekolah dan Masyarakat",
+    "sub_bab": "C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di sebuah desa di Maluku, para tetua adat mengumumkan masa sasi: selama enam bulan, tidak ada warga yang boleh menangkap ikan di teluk desa. Mengapa warga desa membuat aturan seperti itu?\nA. Supaya warga desa tidak perlu bekerja di laut selama enam bulan\nB. Supaya ikan dan biota laut mendapat waktu untuk berkembang biak, sehingga saat sasi dibuka hasil tangkapan kembali melimpah\nC. Supaya harga ikan di pasar menjadi mahal karena ikan menjadi langka\nD. Supaya warga desa beralih menangkap ikan di sungai, bukan di laut",
+    "pilihan": [
+      "Supaya warga desa tidak perlu bekerja di laut selama enam bulan",
+      "Supaya ikan dan biota laut mendapat waktu untuk berkembang biak, sehingga saat sasi dibuka hasil tangkapan kembali melimpah",
+      "Supaya harga ikan di pasar menjadi mahal karena ikan menjadi langka",
+      "Supaya warga desa beralih menangkap ikan di sungai, bukan di laut"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sasi adalah larangan mengambil hasil alam dalam jangka waktu tertentu. Tujuannya memberi waktu bagi alam untuk pulih: ikan berkembang biak dan mencapai ukuran yang cukup, sehingga ketika masa sasi dibuka, hasil tangkapan kembali melimpah dan lestari. Pilihan A salah karena warga tetap bekerja, hanya tidak mengambil ikan di teluk yang disasi. Pilihan C salah karena menaikkan harga bukan tujuan sasi. Pilihan D salah karena sasi justru melarang pengambilan di wilayah yang ditentukan, bukan memindahkan penangkapan ke tempat lain.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab A: Kearifan Lokal Sekitarku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "A: Kearifan Lokal Sekitarku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua kearifan lokal berikut.\n(1) Subak di Bali: petani mengatur pembagian air dari mata air dan sungai ke sawah-sawah secara adil dan bergotong royong.\n(2) Sasi di Maluku: warga dilarang menangkap ikan di wilayah tertentu selama beberapa bulan.\n\nManakah pernyataan yang benar tentang kedua kearifan lokal itu?\n\nA. Keduanya mengatur pemanfaatan sumber daya alam agar tetap lestari — Subak mengatur air sawah, sedangkan Sasi mengatur hasil laut\nB. Subak mengatur hasil laut, sedangkan Sasi mengatur pembagian air sawah\nC. Subak dan Sasi sama-sama berasal dari Bali\nD. Subak dan Sasi sama-sama melarang warga menanam padi",
+    "pilihan": [
+      "Keduanya mengatur pemanfaatan sumber daya alam agar tetap lestari — Subak mengatur air sawah, sedangkan Sasi mengatur hasil laut",
+      "Subak mengatur hasil laut, sedangkan Sasi mengatur pembagian air sawah",
+      "Subak dan Sasi sama-sama berasal dari Bali",
+      "Subak dan Sasi sama-sama melarang warga menanam padi"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Subak dan Sasi sama-sama kearifan lokal yang mengatur pemanfaatan sumber daya alam agar lestari, tetapi sumber daya yang diatur berbeda: Subak mengatur pembagian air untuk sawah di Bali, sedangkan Sasi mengatur pengambilan hasil laut (dan hasil alam lain) di Maluku dan Papua. Pilihan B menukar keduanya. Pilihan C salah karena Sasi berasal dari Maluku dan Papua, bukan Bali. Pilihan D salah karena tidak ada satu pun dari keduanya yang melarang menanam padi.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab A: Kearifan Lokal Sekitarku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "A: Kearifan Lokal Sekitarku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Kearifan lokal itu kebiasaan kuno yang sudah ketinggalan zaman, jadi tidak perlu lagi diikuti.\" Apakah perkataan Dodi benar?\nA. Benar, karena kebiasaan lama selalu lebih buruk daripada cara baru\nB. Benar, karena kearifan lokal hanya berlaku untuk orang dewasa, bukan anak-anak\nC. Salah; kearifan lokal seperti sasi dan hutan larangan adat justru terbukti menjaga alam tetap lestari sampai sekarang\nD. Salah; kearifan lokal memang kuno, tetapi harus diikuti tanpa boleh dipertanyakan alasannya",
+    "pilihan": [
+      "Benar, karena kebiasaan lama selalu lebih buruk daripada cara baru",
+      "Benar, karena kearifan lokal hanya berlaku untuk orang dewasa, bukan anak-anak",
+      "Salah; kearifan lokal seperti sasi dan hutan larangan adat justru terbukti menjaga alam tetap lestari sampai sekarang",
+      "Salah; kearifan lokal memang kuno, tetapi harus diikuti tanpa boleh dipertanyakan alasannya"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Kearifan lokal bukan sekadar kebiasaan kuno yang usang — aturan seperti sasi dan hutan larangan adat terbukti menjaga ikan, hutan, dan air tetap lestari sampai sekarang, bahkan diakui sebagai cara yang bijak mengelola alam. Pilihan A salah karena tidak semua yang lama itu buruk; banyak kearifan lokal justru lebih ramah lingkungan daripada cara modern yang boros. Pilihan B salah karena kearifan lokal berlaku untuk seluruh warga, termasuk anak-anak yang perlu mempelajarinya. Pilihan D salah karena kearifan lokal boleh dipahami alasannya — justru karena alasannya masuk akal (menjaga alam), aturan itu bertahan turun-temurun.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab A: Kearifan Lokal Sekitarku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "A: Kearifan Lokal Sekitarku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di dekat desa Rani terdapat Hutan Larangan Adat. Aturan adatnya jelas: tidak boleh ada warga yang menebang pohon di hutan itu, dan pelanggarnya dikenai denda. Suatu hari, seorang warga mengajak ayah Rani menebang pohon di hutan itu untuk dijual kayunya. Sikap ayah Rani yang paling tepat adalah ....\nA. Ikut menebang diam-diam pada malam hari supaya tidak ketahuan\nB. Menolak ajakan itu dan mengingatkan bahwa hutan larangan adat harus dijaga agar hutan tetap lestari dan mata air desa tidak kering\nC. Menebang pohonnya, lalu membayar denda karena hasil penjualan kayu pasti lebih besar\nD. Membiarkan warga itu menebang sendiri, karena bukan urusan ayah Rani",
+    "pilihan": [
+      "Ikut menebang diam-diam pada malam hari supaya tidak ketahuan",
+      "Menolak ajakan itu dan mengingatkan bahwa hutan larangan adat harus dijaga agar hutan tetap lestari dan mata air desa tidak kering",
+      "Menebang pohonnya, lalu membayar denda karena hasil penjualan kayu pasti lebih besar",
+      "Membiarkan warga itu menebang sendiri, karena bukan urusan ayah Rani"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Hutan larangan adat dibuat agar hutan tetap lestari: pohon-pohonnya menjaga tanah, menyimpan air, dan menjadi rumah bagi hewan. Menebang pohon di sana merusak hutan dan bisa membuat mata air desa kering serta tanah longsor. Sikap yang tepat adalah menolak ajakan itu dan mengingatkan warga lain tentang aturan adat dan alasannya. Pilihan A salah karena melanggar aturan secara diam-diam tetap salah. Pilihan C salah karena denda bukan \"harga\" untuk boleh melanggar — tujuannya justru mencegah pelanggaran. Pilihan D salah karena menjaga hutan larangan adalah tanggung jawab seluruh warga desa, bukan hanya yang mengajak.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab A: Kearifan Lokal Sekitarku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "A: Kearifan Lokal Sekitarku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Kearifan lokal adalah ....\nA. Nilai-nilai luhur dan kebiasaan baik masyarakat yang diwariskan turun-temurun untuk melindungi dan mengolah lingkungan hidup secara lestari\nB. Aturan baru dari pemerintah yang baru dibuat tahun ini\nC. Lagu dan tarian modern yang sedang populer di kota besar\nD. Cara hidup yang hanya boleh dilakukan oleh para tetua adat",
+    "pilihan": [
+      "Nilai-nilai luhur dan kebiasaan baik masyarakat yang diwariskan turun-temurun untuk melindungi dan mengolah lingkungan hidup secara lestari",
+      "Aturan baru dari pemerintah yang baru dibuat tahun ini",
+      "Lagu dan tarian modern yang sedang populer di kota besar",
+      "Cara hidup yang hanya boleh dilakukan oleh para tetua adat"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Kearifan lokal adalah nilai-nilai luhur, kebiasaan, dan pengetahuan masyarakat yang diwariskan dari nenek moyang secara turun-temurun untuk melindungi dan mengolah lingkungan hidup secara lestari — contohnya sasi, subak, dan hutan larangan adat. Pilihan B salah karena kearifan lokal bukan aturan baru dari pemerintah, melainkan kebiasaan masyarakat yang sudah lama hidup. Pilihan C salah karena lagu dan tarian modern bukan kearifan lokal. Pilihan D salah karena kearifan lokal dipraktikkan dan dijaga oleh seluruh warga, bukan hanya tetua adat.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab A: Kearifan Lokal Sekitarku\n## Sub-bab B: Keragaman Suku Bangsa di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "A: Kearifan Lokal Sekitarku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di pameran budaya sekolah, ada tiga foto rumah adat: Rumah Gadang, Rumah Bolon, dan Rumah Kebaya. Pasangan rumah adat dan suku bangsanya yang benar adalah ....\nA. Rumah Gadang – suku Batak, Rumah Bolon – suku Minangkabau, Rumah Kebaya – suku Betawi\nB. Rumah Gadang – suku Minangkabau, Rumah Bolon – suku Batak, Rumah Kebaya – suku Betawi\nC. Rumah Gadang – suku Betawi, Rumah Bolon – suku Minangkabau, Rumah Kebaya – suku Batak\nD. Rumah Gadang – suku Bugis, Rumah Bolon – suku Dayak, Rumah Kebaya – suku Jawa",
+    "pilihan": [
+      "Rumah Gadang – suku Batak, Rumah Bolon – suku Minangkabau, Rumah Kebaya – suku Betawi",
+      "Rumah Gadang – suku Minangkabau, Rumah Bolon – suku Batak, Rumah Kebaya – suku Betawi",
+      "Rumah Gadang – suku Betawi, Rumah Bolon – suku Minangkabau, Rumah Kebaya – suku Batak",
+      "Rumah Gadang – suku Bugis, Rumah Bolon – suku Dayak, Rumah Kebaya – suku Jawa"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rumah Gadang adalah rumah adat suku Minangkabau dari Sumatera Barat, Rumah Bolon adalah rumah adat suku Batak dari Sumatera Utara, dan Rumah Kebaya adalah rumah adat suku Betawi dari Jakarta. Pilihan A menukar Rumah Gadang dengan Rumah Bolon, sedangkan C dan D memasangkan rumah adat dengan suku yang salah. Setiap suku bangsa mempunyai rumah adat dengan ciri khasnya sendiri.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab B: Keragaman Suku Bangsa di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "B: Keragaman Suku Bangsa di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Suku bangsa di Indonesia berbeda-beda, jadi Indonesia mudah terpecah. Sebaiknya semua suku disamakan saja.\" Apakah perkataan Dodi benar?\nA. Benar, karena perbedaan suku selalu menimbulkan pertengkaran\nB. Benar, karena suku yang berbeda tidak bisa hidup berdampingan\nC. Salah; keragaman suku bangsa justru kekayaan dan kekuatan bangsa, yang penting kita saling menghormati sesuai semboyan Bhinneka Tunggal Ika\nD. Salah; di Indonesia sebenarnya hanya ada satu suku bangsa saja",
+    "pilihan": [
+      "Benar, karena perbedaan suku selalu menimbulkan pertengkaran",
+      "Benar, karena suku yang berbeda tidak bisa hidup berdampingan",
+      "Salah; keragaman suku bangsa justru kekayaan dan kekuatan bangsa, yang penting kita saling menghormati sesuai semboyan Bhinneka Tunggal Ika",
+      "Salah; di Indonesia sebenarnya hanya ada satu suku bangsa saja"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Keragaman suku bangsa bukan penyebab perpecahan, melainkan kekayaan dan kekuatan bangsa Indonesia — tiap suku menyumbang bahasa, kesenian, dan adatnya sendiri. Yang membuat bangsa tetap satu adalah sikap saling menghormati antar suku, seperti yang tertulis dalam semboyan Bhinneka Tunggal Ika: berbeda-beda tetapi tetap satu jua. Pilihan A dan B salah karena perbedaan suku tidak otomatis menimbulkan pertengkaran. Pilihan D salah karena Indonesia memiliki ratusan suku bangsa.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab B: Keragaman Suku Bangsa di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "B: Keragaman Suku Bangsa di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keluarga Rani baru pindah ke Makassar. Tetangga mereka yang berasal dari suku Bugis sedang mengadakan acara adat di rumahnya. Sikap Rani dan keluarganya yang paling tepat adalah ....\nA. Mengejek acara adat itu karena berbeda dengan adat keluarga Rani\nB. Menghormati acara adat tersebut dan menjaga ketertiban selama acara berlangsung\nC. Meminta tetangga membatalkan acaranya karena mengganggu keluarga Rani\nD. Melarang anak-anak keluar rumah sampai acara adat itu selesai",
+    "pilihan": [
+      "Mengejek acara adat itu karena berbeda dengan adat keluarga Rani",
+      "Menghormati acara adat tersebut dan menjaga ketertiban selama acara berlangsung",
+      "Meminta tetangga membatalkan acaranya karena mengganggu keluarga Rani",
+      "Melarang anak-anak keluar rumah sampai acara adat itu selesai"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menghormati acara adat suku lain adalah wujud penghargaan terhadap keragaman suku bangsa. Sikap yang tepat adalah menghormati acara tersebut dan menjaga ketertiban selama acara berlangsung, misalnya tidak membuat kegaduhan di sekitar rumah tetangga. Pilihan A salah karena mengejek adat orang lain tidak menghormati keragaman. Pilihan C dan D salah karena acara adat tetangga adalah hak mereka dan tidak perlu dibatalkan atau ditakuti.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab B: Keragaman Suku Bangsa di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "B: Keragaman Suku Bangsa di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua suku bangsa berikut.\nSuku Jawa: memakai bahasa Jawa dalam percakapan sehari-hari, terkenal dengan kain batik, dan senjata tradisionalnya keris.\nSuku Sunda: memakai bahasa Sunda dalam percakapan sehari-hari dan terkenal dengan alat musik angklung.\n\nApa kesimpulan yang tepat dari kedua contoh itu?\n\nA. Setiap suku bangsa mempunyai bahasa dan budayanya sendiri yang berbeda-beda\nB. Suku Jawa dan suku Sunda sebenarnya memakai bahasa yang sama\nC. Hanya suku Jawa yang mempunyai budaya, suku Sunda tidak mempunyai budaya\nD. Batik dan angklung berasal dari suku bangsa yang sama",
+    "pilihan": [
+      "Setiap suku bangsa mempunyai bahasa dan budayanya sendiri yang berbeda-beda",
+      "Suku Jawa dan suku Sunda sebenarnya memakai bahasa yang sama",
+      "Hanya suku Jawa yang mempunyai budaya, suku Sunda tidak mempunyai budaya",
+      "Batik dan angklung berasal dari suku bangsa yang sama"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Kedua contoh itu menunjukkan bahwa setiap suku bangsa mempunyai bahasa dan budayanya sendiri: suku Jawa memakai bahasa Jawa dengan batik dan keris, sedangkan suku Sunda memakai bahasa Sunda dengan angklung. Perbedaan bahasa, pakaian, alat musik, dan senjata tradisional inilah yang membedakan satu suku bangsa dengan suku bangsa lainnya. Pilihan B salah karena bahasa Jawa dan bahasa Sunda berbeda. Pilihan C salah karena suku Sunda juga mempunyai budaya yang kaya. Pilihan D salah karena batik dari suku Jawa, sedangkan angklung dari suku Sunda.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab B: Keragaman Suku Bangsa di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "B: Keragaman Suku Bangsa di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Suku bangsa adalah ....\nA. Kelompok masyarakat dengan kesamaan ciri fisik, bahasa, adat istiadat, dan kesenian\nB. Kelompok orang yang tinggal di satu rumah yang sama\nC. Kumpulan orang yang memakai seragam yang sama di sekolah\nD. Kelompok masyarakat yang semuanya mempunyai pekerjaan yang sama",
+    "pilihan": [
+      "Kelompok masyarakat dengan kesamaan ciri fisik, bahasa, adat istiadat, dan kesenian",
+      "Kelompok orang yang tinggal di satu rumah yang sama",
+      "Kumpulan orang yang memakai seragam yang sama di sekolah",
+      "Kelompok masyarakat yang semuanya mempunyai pekerjaan yang sama"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Suku bangsa adalah kelompok masyarakat yang mempunyai kesamaan ciri fisik, bahasa, adat istiadat, dan kesenian, serta berasal dari daerah yang sama. Contohnya suku Jawa, suku Sunda, suku Batak, suku Minangkabau, suku Bugis, suku Dayak, dan suku Asmat. Pilihan B salah karena satu rumah bukan suku bangsa. Pilihan C salah karena seragam hanya pakaian sekolah, bukan ciri suku. Pilihan D salah karena anggota satu suku bisa mempunyai pekerjaan yang berbeda-beda.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab B: Keragaman Suku Bangsa di Indonesia\n## Sub-bab C: Keragaman Agama di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "B: Keragaman Suku Bangsa di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di kelas 4 ada lima anak yang beragama berbeda: Sinta beragama Islam, Dodi beragama Kristen, Made beragama Hindu, Budi beragama Buddha, dan Lina beragama Konghucu. Pasangan anak dan tempat ibadahnya yang benar adalah ....\nA. Sinta–pura, Dodi–masjid, Made–vihara, Budi–klenteng, Lina–gereja\nB. Sinta–masjid, Dodi–gereja, Made–pura, Budi–vihara, Lina–klenteng\nC. Sinta–gereja, Dodi–pura, Made–masjid, Budi–klenteng, Lina–vihara\nD. Sinta–vihara, Dodi–klenteng, Made–gereja, Budi–masjid, Lina–pura",
+    "pilihan": [
+      "Sinta–pura, Dodi–masjid, Made–vihara, Budi–klenteng, Lina–gereja",
+      "Sinta–masjid, Dodi–gereja, Made–pura, Budi–vihara, Lina–klenteng",
+      "Sinta–gereja, Dodi–pura, Made–masjid, Budi–klenteng, Lina–vihara",
+      "Sinta–vihara, Dodi–klenteng, Made–gereja, Budi–masjid, Lina–pura"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Setiap agama mempunyai tempat ibadah sendiri: umat Islam beribadah di masjid, umat Kristen dan Katolik di gereja, umat Hindu di pura, umat Buddha di vihara, dan umat Konghucu di klenteng. Jadi pasangan yang benar adalah Sinta–masjid, Dodi–gereja, Made–pura, Budi–vihara, dan Lina–klenteng. Pilihan A, C, dan D menukar-nukar tempat ibadah itu.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab C: Keragaman Agama di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "C: Keragaman Agama di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Semua agama di Indonesia merayakan hari raya yang sama, yaitu Idul Fitri.\" Apakah perkataan Dodi benar?\nA. Benar, karena Idul Fitri adalah hari raya semua agama di Indonesia\nB. Benar, karena semua agama merayakan hari raya pada tanggal yang sama\nC. Salah; setiap agama punya hari besar sendiri, misalnya Nyepi untuk Hindu, Waisak untuk Buddha, dan Imlek untuk Konghucu\nD. Salah; di Indonesia hanya umat Islam yang mempunyai hari raya",
+    "pilihan": [
+      "Benar, karena Idul Fitri adalah hari raya semua agama di Indonesia",
+      "Benar, karena semua agama merayakan hari raya pada tanggal yang sama",
+      "Salah; setiap agama punya hari besar sendiri, misalnya Nyepi untuk Hindu, Waisak untuk Buddha, dan Imlek untuk Konghucu",
+      "Salah; di Indonesia hanya umat Islam yang mempunyai hari raya"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Setiap agama mempunyai hari besar sendiri-sendiri: Idul Fitri adalah hari besar umat Islam, Natal hari besar umat Kristen dan Katolik, Nyepi hari besar umat Hindu, Waisak hari besar umat Buddha, dan Imlek hari besar umat Konghucu. Pilihan D juga salah karena semua agama mempunyai hari besarnya masing-masing.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab C: Keragaman Agama di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "C: Keragaman Agama di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua peristiwa berikut.\n1. Made yang beragama Hindu merayakan Nyepi dengan berdiam diri di rumah tanpa menyalakan lampu dan tanpa bepergian.\n2. Dodi yang beragama Kristen merayakan Natal dengan beribadah di gereja bersama keluarganya.\n\nManakah pernyataan yang benar tentang kedua peristiwa itu?\n\nA. Hanya Made yang benar, karena Nyepi adalah hari raya yang paling penting di Indonesia\nB. Hanya Dodi yang benar, karena Natal dirayakan lebih banyak orang daripada Nyepi\nC. Keduanya benar, karena setiap umat beragama berhak merayakan hari besarnya dengan cara agamanya masing-masing\nD. Keduanya salah, karena hari besar agama seharusnya dirayakan dengan cara yang sama",
+    "pilihan": [
+      "Hanya Made yang benar, karena Nyepi adalah hari raya yang paling penting di Indonesia",
+      "Hanya Dodi yang benar, karena Natal dirayakan lebih banyak orang daripada Nyepi",
+      "Keduanya benar, karena setiap umat beragama berhak merayakan hari besarnya dengan cara agamanya masing-masing",
+      "Keduanya salah, karena hari besar agama seharusnya dirayakan dengan cara yang sama"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Keduanya benar. Nyepi dirayakan umat Hindu dengan berdiam diri dan berdoa, sedangkan Natal dirayakan umat Kristen dengan beribadah di gereja — masing-masing sesuai ajaran agamanya. Di Indonesia, setiap warga negara bebas memeluk agamanya dan merayakan hari besarnya, dan kebebasan itu dijamin oleh UUD 1945. Pilihan A dan B salah karena tidak ada hari raya yang lebih penting dari yang lain; D salah karena cara merayakan hari besar memang berbeda-beda sesuai agama.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab C: Keragaman Agama di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "C: Keragaman Agama di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keluarga tetangga Sinta yang beragama Konghucu sedang merayakan Imlek. Mereka menghias rumah dengan lampion merah dan membagikan angpau kepada anak-anak. Sikap Sinta yang paling tepat adalah ....\nA. Mengucapkan selamat dan menghormati perayaan mereka, tanpa mengganggu\nB. Melarang mereka menghias rumah, karena lampion merah mengganggu pemandangan\nC. Mengejek angpau mereka karena isinya berbeda dengan THR Sinta\nD. Meminta mereka merayakan Imlek di tempat lain, jauh dari rumah Sinta",
+    "pilihan": [
+      "Mengucapkan selamat dan menghormati perayaan mereka, tanpa mengganggu",
+      "Melarang mereka menghias rumah, karena lampion merah mengganggu pemandangan",
+      "Mengejek angpau mereka karena isinya berbeda dengan THR Sinta",
+      "Meminta mereka merayakan Imlek di tempat lain, jauh dari rumah Sinta"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Imlek adalah hari besar umat Konghucu, sama seperti Idul Fitri bagi umat Islam atau Natal bagi umat Kristen. Sikap yang tepat terhadap perayaan agama lain adalah mengucapkan selamat dan menghormatinya, bukan melarang, mengejek, atau mengusir. Dengan begitu, kerukunan antarumat beragama di lingkungan tetap terjaga.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab C: Keragaman Agama di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "C: Keragaman Agama di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keragaman agama di Indonesia artinya ....\nA. Semua penduduk Indonesia harus memeluk satu agama yang sama\nB. Adanya berbagai agama yang dianut oleh masyarakat Indonesia, yaitu Islam, Kristen, Katolik, Hindu, Buddha, dan Konghucu\nC. Setiap orang boleh berganti agama setiap hari\nD. Hanya ada satu tempat ibadah untuk semua agama di Indonesia",
+    "pilihan": [
+      "Semua penduduk Indonesia harus memeluk satu agama yang sama",
+      "Adanya berbagai agama yang dianut oleh masyarakat Indonesia, yaitu Islam, Kristen, Katolik, Hindu, Buddha, dan Konghucu",
+      "Setiap orang boleh berganti agama setiap hari",
+      "Hanya ada satu tempat ibadah untuk semua agama di Indonesia"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Keragaman agama berarti di Indonesia terdapat berbagai agama yang dianut masyarakatnya. Ada enam agama yang diakui di Indonesia, yaitu Islam, Kristen, Katolik, Hindu, Buddha, dan Konghucu. Masing-masing mempunyai tempat ibadah, kitab suci, dan hari besar sendiri. Pilihan A salah karena keragaman justru berarti berbeda-beda, bukan sama; C salah karena agama bukan sesuatu yang diganti setiap hari; D salah karena tiap agama punya tempat ibadah sendiri.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab C: Keragaman Agama di Indonesia\n## Sub-bab D: Keragaman Budaya di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "C: Keragaman Agama di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di sebuah pawai budaya, tiga rombongan menampilkan tarian dari daerah masing-masing: rombongan pertama menarikan Tari Saman, rombongan kedua menarikan Tari Pendet, dan rombongan ketiga menarikan Tari Tortor. Apa yang dapat disimpulkan dari pawai itu?\nA. Semua daerah di Indonesia mempunyai tarian yang sama persis\nB. Setiap daerah mempunyai tarian khasnya sendiri-sendiri, dan ketiganya sama-sama budaya Indonesia\nC. Hanya satu dari ketiga tarian itu yang termasuk budaya Indonesia\nD. Tarian daerah hanya boleh ditampilkan di daerah asalnya saja",
+    "pilihan": [
+      "Semua daerah di Indonesia mempunyai tarian yang sama persis",
+      "Setiap daerah mempunyai tarian khasnya sendiri-sendiri, dan ketiganya sama-sama budaya Indonesia",
+      "Hanya satu dari ketiga tarian itu yang termasuk budaya Indonesia",
+      "Tarian daerah hanya boleh ditampilkan di daerah asalnya saja"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Tari Saman berasal dari Aceh, Tari Pendet dari Bali, dan Tari Tortor dari Sumatera Utara — ketiganya berbeda gerakannya, tetapi sama-sama tarian daerah Indonesia. Hal ini menunjukkan bahwa setiap daerah mempunyai tarian khasnya sendiri, dan keragaman itulah yang menjadi kekayaan budaya Indonesia. Pilihan A salah karena ketiga tarian itu berbeda; C salah karena ketiganya budaya Indonesia; D salah karena tarian daerah boleh ditampilkan di mana saja untuk memperkenalkannya.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab D: Keragaman Budaya di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "D: Keragaman Budaya di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rendang dari Sumatera Barat terbuat dari daging dan santan dengan bumbu rempah yang kuat, gudeg dari Yogyakarta terbuat dari nangka muda yang manis, sedangkan papeda dari Papua terbuat dari sagu. Mengapa makanan khas tiap daerah berbeda-beda?\nA. Karena setiap daerah memakai bahan makanan yang tersedia di daerahnya dan cara memasak yang diwariskan turun-temurun\nB. Karena makanan dari daerah lain dilarang dibawa ke daerah yang berbeda\nC. Karena hanya satu daerah yang boleh mempunyai makanan khas\nD. Karena bahan makanan di seluruh Indonesia memang selalu sama, hanya namanya yang berbeda",
+    "pilihan": [
+      "Karena setiap daerah memakai bahan makanan yang tersedia di daerahnya dan cara memasak yang diwariskan turun-temurun",
+      "Karena makanan dari daerah lain dilarang dibawa ke daerah yang berbeda",
+      "Karena hanya satu daerah yang boleh mempunyai makanan khas",
+      "Karena bahan makanan di seluruh Indonesia memang selalu sama, hanya namanya yang berbeda"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Makanan khas tiap daerah berbeda karena bahan yang mudah didapat di daerah itu berbeda-beda — Sumatera Barat kaya rempah dan daging, Yogyakarta memakai nangka muda, Papua memakai sagu sebagai makanan pokoknya. Cara memasaknya pun diwariskan turun-temurun oleh masyarakat setempat. Pilihan B salah karena makanan khas justru boleh dibawa dan dinikmati di mana saja; C salah karena semua daerah boleh mempunyai makanan khas; D salah karena bahannya memang berbeda-beda.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab D: Keragaman Budaya di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "D: Keragaman Budaya di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Budaya daerah lain tidak perlu dihargai, karena budaya daerahku sendiri sudah yang paling bagus.\" Apakah perkataan Dodi benar?\nA. Benar, karena setiap orang hanya boleh menghargai budayanya sendiri\nB. Benar, karena budaya yang berbeda akan merusak persatuan\nC. Salah; semua budaya daerah harus dihargai karena sama-sama kekayaan bangsa Indonesia dan perbedaan itu justru membuat Indonesia makin kaya\nD. Salah; budaya daerah lain harus dihilangkan supaya semua daerah mempunyai budaya yang sama",
+    "pilihan": [
+      "Benar, karena setiap orang hanya boleh menghargai budayanya sendiri",
+      "Benar, karena budaya yang berbeda akan merusak persatuan",
+      "Salah; semua budaya daerah harus dihargai karena sama-sama kekayaan bangsa Indonesia dan perbedaan itu justru membuat Indonesia makin kaya",
+      "Salah; budaya daerah lain harus dihilangkan supaya semua daerah mempunyai budaya yang sama"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Setiap budaya daerah — bahasa, pakaian, tarian, rumah adat, dan makanan khasnya — adalah kekayaan bangsa Indonesia yang sama berharganya. Menghargai budaya daerah lain tidak merusak persatuan, justru memperkuatnya, karena semboyan kita adalah Bhinneka Tunggal Ika: berbeda-beda tetapi tetap satu. Pilihan D salah karena menyeragamkan budaya justru menghilangkan kekayaan bangsa.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab D: Keragaman Budaya di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "D: Keragaman Budaya di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sekolah Sinta akan mengadakan pentas seni. Kelompok Sinta menampilkan tarian dari Jawa Barat dan membutuhkan alat musik tradisional dari daerah yang sama untuk mengiringinya. Alat musik manakah yang paling tepat mereka pilih?\nA. Sasando, karena alat musik itu berasal dari Nusa Tenggara Timur\nB. Angklung, karena alat musik itu berasal dari Jawa Barat dan biasa mengiringi kesenian Sunda\nC. Tifa, karena alat musik itu berasal dari Maluku dan Papua\nD. Kolintang, karena alat musik itu berasal dari Minahasa, Sulawesi Utara",
+    "pilihan": [
+      "Sasando, karena alat musik itu berasal dari Nusa Tenggara Timur",
+      "Angklung, karena alat musik itu berasal dari Jawa Barat dan biasa mengiringi kesenian Sunda",
+      "Tifa, karena alat musik itu berasal dari Maluku dan Papua",
+      "Kolintang, karena alat musik itu berasal dari Minahasa, Sulawesi Utara"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Angklung adalah alat musik tradisional dari Jawa Barat (Sunda) yang dibuat dari bambu dan biasa dipakai mengiringi lagu dan tarian Sunda, sehingga paling tepat untuk mengiringi tarian dari Jawa Barat. Pilihan A salah karena sasando berasal dari Nusa Tenggara Timur; C salah karena tifa berasal dari Maluku dan Papua; D salah karena kolintang berasal dari Minahasa, Sulawesi Utara.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab D: Keragaman Budaya di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "D: Keragaman Budaya di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keragaman budaya di Indonesia adalah ....\nA. Adanya berbagai macam budaya yang berbeda-beda di tiap daerah, seperti bahasa, pakaian adat, rumah adat, tarian, alat musik, upacara adat, dan makanan khas\nB. Budaya yang sama persis di seluruh daerah di Indonesia\nC. Hanya satu jenis budaya yang dimiliki oleh seluruh suku bangsa di Indonesia\nD. Budaya dari luar negeri yang dipakai oleh semua masyarakat Indonesia",
+    "pilihan": [
+      "Adanya berbagai macam budaya yang berbeda-beda di tiap daerah, seperti bahasa, pakaian adat, rumah adat, tarian, alat musik, upacara adat, dan makanan khas",
+      "Budaya yang sama persis di seluruh daerah di Indonesia",
+      "Hanya satu jenis budaya yang dimiliki oleh seluruh suku bangsa di Indonesia",
+      "Budaya dari luar negeri yang dipakai oleh semua masyarakat Indonesia"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Keragaman budaya berarti di Indonesia terdapat berbagai macam budaya yang berbeda-beda di tiap daerah: bahasa daerah, pakaian adat, rumah adat, tarian daerah, lagu daerah, alat musik tradisional, upacara adat, dan makanan khas daerah. Perbedaan itu terjadi karena Indonesia terdiri atas banyak pulau dan suku bangsa. Pilihan B dan C salah karena justru budaya tiap daerah berbeda-beda, dan D salah karena yang dimaksud adalah budaya asli dari daerah-daerah di Indonesia, bukan budaya luar negeri.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab D: Keragaman Budaya di Indonesia\n## Sub-bab E: Menghargai dan Menjaga Keragaman Budaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "D: Keragaman Budaya di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di kelas 4, ada teman baru bernama Made dari Bali. Ia berbicara dengan logat yang berbeda dan membawa bekal makanan khas daerahnya. Dodi menertawakan logat Made, sedangkan Rina menyapa Made dengan ramah dan mau mencoba makanan bekalnya. Sikap siapakah yang menunjukkan penghargaan terhadap keragaman budaya?\nA. Dodi, karena menertawakan logat teman adalah cara bercanda yang wajar\nB. Rina, karena ia menghormati perbedaan dan mau mengenal budaya teman barunya\nC. Keduanya sama-sama menghargai keragaman budaya\nD. Keduanya sama-sama tidak menghargai keragaman budaya",
+    "pilihan": [
+      "Dodi, karena menertawakan logat teman adalah cara bercanda yang wajar",
+      "Rina, karena ia menghormati perbedaan dan mau mengenal budaya teman barunya",
+      "Keduanya sama-sama menghargai keragaman budaya",
+      "Keduanya sama-sama tidak menghargai keragaman budaya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menghargai keragaman budaya berarti menghormati perbedaan suku, bahasa, dan kebiasaan teman, bukan menertawakannya. Rina menunjukkan sikap itu: menyapa dengan ramah dan mau mencoba makanan khas daerah Made. Dodi justru mengejek logat teman, sikap yang tidak menghargai perbedaan. Pilihan A salah karena ejekan bukan bercanda yang wajar; C dan D salah karena hanya satu dari mereka yang bersikap menghargai.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab E: Menghargai dan Menjaga Keragaman Budaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "E: Menghargai dan Menjaga Keragaman Budaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sekolah Sinta mengadakan pentas seni. Ada dua kelompok yang tampil: Kelompok A menampilkan tari Saman dari Aceh dengan gerakan yang kompak, sedangkan Kelompok B menampilkan tari Kecak dari Bali dengan suara yang merdu. Setelah pentas, Budi berkata, \"Tari daerahku yang paling bagus, tari daerah lain tidak usah ditampilkan lagi.\" Apakah perkataan Budi benar?\nA. Benar, karena setiap daerah memang harus menampilkan tariannya yang paling bagus saja\nB. Benar, karena tari daerah lain tidak seindah tari daerah Budi\nC. Salah; setiap tarian daerah sama-sama berharga dan patut dihargai, keragaman tarian justru memperkaya budaya Indonesia\nD. Salah; pentas seni seharusnya tidak menampilkan tarian daerah sama sekali",
+    "pilihan": [
+      "Benar, karena setiap daerah memang harus menampilkan tariannya yang paling bagus saja",
+      "Benar, karena tari daerah lain tidak seindah tari daerah Budi",
+      "Salah; setiap tarian daerah sama-sama berharga dan patut dihargai, keragaman tarian justru memperkaya budaya Indonesia",
+      "Salah; pentas seni seharusnya tidak menampilkan tarian daerah sama sekali"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Budi salah. Setiap tarian daerah — Saman dari Aceh, Kecak dari Bali, dan tarian daerah lainnya — sama-sama berharga sebagai kekayaan budaya Indonesia. Menganggap tarian daerah sendiri paling bagus dan merendahkan tarian daerah lain adalah sikap yang tidak menghargai keragaman budaya. Semboyan Bhinneka Tunggal Ika mengajarkan bahwa perbedaan justru mempersatukan bangsa. Pilihan D salah karena pentas seni memang tempat yang tepat untuk menampilkan tarian daerah.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab E: Menghargai dan Menjaga Keragaman Budaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "E: Menghargai dan Menjaga Keragaman Budaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Kakek Rani pandai berbahasa Jawa dan sering bercerita memakai bahasa Jawa. Rani malu memakai bahasa Jawa di sekolah karena takut ditertawakan teman. Padahal, bahasa daerah adalah bagian dari budaya yang harus dijaga. Apa yang sebaiknya dilakukan Rani?\nA. Berhenti memakai bahasa Jawa selamanya agar tidak ditertawakan\nB. Tetap memakai bahasa Jawa dengan bangga di rumah dan di sekolah pada kesempatan yang tepat, karena bahasa daerah adalah identitas budaya yang harus dilestarikan\nC. Mengejek teman yang memakai bahasa daerah lain supaya tidak sendirian\nD. Meminta kakeknya berhenti bercerita memakai bahasa Jawa",
+    "pilihan": [
+      "Berhenti memakai bahasa Jawa selamanya agar tidak ditertawakan",
+      "Tetap memakai bahasa Jawa dengan bangga di rumah dan di sekolah pada kesempatan yang tepat, karena bahasa daerah adalah identitas budaya yang harus dilestarikan",
+      "Mengejek teman yang memakai bahasa daerah lain supaya tidak sendirian",
+      "Meminta kakeknya berhenti bercerita memakai bahasa Jawa"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Bahasa daerah adalah bagian penting dari budaya dan identitas suatu daerah. Cara menjaga budaya adalah dengan tetap memakai bahasa daerah — berbicara dengan keluarga di rumah, belajar kata-kata sederhana, dan tidak malu menggunakannya. Jika bahasa daerah tidak lagi dipakai oleh generasi muda, bahasa itu bisa punah. Pilihan A salah karena meninggalkan bahasa daerah justru menghilangkan budaya; C dan D salah karena mengejek atau melarang justru merusak budaya.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab E: Menghargai dan Menjaga Keragaman Budaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "E: Menghargai dan Menjaga Keragaman Budaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di dekat rumah Dodi ada sebuah rumah adat yang sudah tua dan mulai rusak. Sebagian warga ingin membongkarnya dan menggantinya dengan bangunan baru, sedangkan sebagian warga ingin merawat dan memperbaikinya agar tetap berdiri. Manakah sikap yang paling tepat untuk menjaga keragaman budaya?\nA. Membongkar rumah adat itu, karena bangunan tua tidak berguna lagi\nB. Membiarkan rumah adat itu rusak dan tidak peduli, karena itu urusan orang lain\nC. Merawat dan memperbaiki rumah adat itu, karena rumah adat adalah warisan budaya yang menjadi identitas daerah dan dapat dikenalkan kepada generasi muda\nD. Menjual semua kayu dan ukiran rumah adat itu kepada orang lain",
+    "pilihan": [
+      "Membongkar rumah adat itu, karena bangunan tua tidak berguna lagi",
+      "Membiarkan rumah adat itu rusak dan tidak peduli, karena itu urusan orang lain",
+      "Merawat dan memperbaiki rumah adat itu, karena rumah adat adalah warisan budaya yang menjadi identitas daerah dan dapat dikenalkan kepada generasi muda",
+      "Menjual semua kayu dan ukiran rumah adat itu kepada orang lain"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Rumah adat adalah warisan budaya yang menjadi identitas suatu daerah. Merawat dan memperbaikinya adalah cara menjaga keragaman budaya agar tidak hilang — rumah adat yang terawat dapat dikenalkan kepada generasi muda dan menjadi kebanggaan daerah. Pilihan A salah karena membongkar rumah adat menghilangkan warisan budaya; B salah karena menjaga budaya adalah tanggung jawab bersama, bukan urusan orang lain; D salah karena menjual bagian-bagiannya justru merusak rumah adat itu.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab E: Menghargai dan Menjaga Keragaman Budaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "E: Menghargai dan Menjaga Keragaman Budaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Semboyan Bhinneka Tunggal Ika berarti ....\nA. Berbeda-beda tetapi tetap satu jua\nB. Satu bangsa dengan satu budaya yang sama\nC. Setiap daerah harus memiliki budaya yang sama\nD. Budaya daerah yang satu lebih baik daripada budaya daerah yang lain",
+    "pilihan": [
+      "Berbeda-beda tetapi tetap satu jua",
+      "Satu bangsa dengan satu budaya yang sama",
+      "Setiap daerah harus memiliki budaya yang sama",
+      "Budaya daerah yang satu lebih baik daripada budaya daerah yang lain"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bhinneka Tunggal Ika adalah semboyan bangsa Indonesia yang artinya berbeda-beda tetapi tetap satu jua. Artinya, meskipun Indonesia terdiri atas banyak suku, bahasa, agama, dan budaya yang berbeda, semuanya tetap satu bangsa Indonesia. Karena itu keragaman budaya harus dihargai dan dijaga, bukan disamakan atau dipertentangkan. Pilihan B dan C salah karena semboyan ini justru mengakui adanya perbedaan; D salah karena tidak ada budaya daerah yang lebih baik daripada yang lain.",
+    "rujukan": "IPAS Kelas 4, Bab 7: Keragaman Budaya di Sekitarku, Sub-bab E: Menghargai dan Menjaga Keragaman Budaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 07: Keragaman Budaya di Sekitarku",
+    "sub_bab": "E: Menghargai dan Menjaga Keragaman Budaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di desa Rani, air sungai yang dulu jernih dan banyak ikannya kini menjadi keruh, berbau, dan dipenuhi sampah plastik. Ikan-ikan di sungai itu pun banyak yang mati. Apa penyebab yang paling mungkin dari keadaan sungai itu?\nA. Warga desa membuang sampah dan limbah rumah tangga ke sungai\nB. Warga desa menanam pohon di tepi sungai\nC. Ikan-ikan di sungai itu memang sudah tua\nD. Air sungai memang selalu keruh pada musim hujan",
+    "pilihan": [
+      "Warga desa membuang sampah dan limbah rumah tangga ke sungai",
+      "Warga desa menanam pohon di tepi sungai",
+      "Ikan-ikan di sungai itu memang sudah tua",
+      "Air sungai memang selalu keruh pada musim hujan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Sampah dan limbah rumah tangga yang dibuang ke sungai mencemari air: air menjadi keruh dan berbau, sampah plastik menumpuk, dan zat berbahaya dalam limbah membuat ikan kesulitan bernapas hingga mati. Pilihan B salah karena menanam pohon justru melindungi sungai. Pilihan C salah karena ikan mati massal bukan karena usia, melainkan karena airnya tercemar. Pilihan D salah karena air sungai yang sehat tetap jernih walau musim hujan.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab A: Lingkungan Kita sedang Terancam",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "A: Lingkungan Kita sedang Terancam",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua jalan berikut.\nJalan A: Setiap hari dilalui ratusan kendaraan bermotor, asapnya tebal, dan udara di sekitarnya terasa pengap. Banyak warga di sana sering batuk.\nJalan B: Kendaraan bermotor jarang lewat, banyak pohon rindang di pinggirnya, dan udaranya terasa segar.\n\nManakah pernyataan yang benar tentang kedua jalan itu?\n\nA. Udara di Jalan A lebih bersih karena banyak kendaraan yang lewat\nB. Udara di Jalan B lebih bersih karena asap kendaraan sedikit dan pohon menyerap udara kotor\nC. Kedua jalan sama-sama sehat karena asap kendaraan tidak berbahaya\nD. Udara di Jalan B lebih kotor karena pohon mengeluarkan asap",
+    "pilihan": [
+      "Udara di Jalan A lebih bersih karena banyak kendaraan yang lewat",
+      "Udara di Jalan B lebih bersih karena asap kendaraan sedikit dan pohon menyerap udara kotor",
+      "Kedua jalan sama-sama sehat karena asap kendaraan tidak berbahaya",
+      "Udara di Jalan B lebih kotor karena pohon mengeluarkan asap"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Asap kendaraan bermotor mengandung zat berbahaya yang mencemari udara dan mengganggu pernapasan, sehingga warga di Jalan A sering batuk. Di Jalan B, kendaraan sedikit sehingga asapnya sedikit, dan pepohonan membantu membersihkan udara dengan menyerap karbon dioksida. Pilihan A dan C salah karena asap kendaraan justru mencemari udara. Pilihan D salah karena pohon tidak mengeluarkan asap, melainkan menghasilkan oksigen.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab A: Lingkungan Kita sedang Terancam",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "A: Lingkungan Kita sedang Terancam",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Sampah plastik itu tidak berbahaya, karena plastik bisa hilang sendiri dalam waktu semalam.\" Apakah perkataan Dodi benar?\nA. Benar, karena plastik akan larut begitu terkena air hujan\nB. Benar, karena plastik adalah sampah yang paling cepat terurai\nC. Salah; plastik sangat sulit terurai dan menumpuk bertahun-tahun, bahkan bisa menyumbat saluran air dan menyebabkan banjir\nD. Salah; plastik memang berbahaya, tetapi hanya bagi hewan di laut, bukan bagi manusia",
+    "pilihan": [
+      "Benar, karena plastik akan larut begitu terkena air hujan",
+      "Benar, karena plastik adalah sampah yang paling cepat terurai",
+      "Salah; plastik sangat sulit terurai dan menumpuk bertahun-tahun, bahkan bisa menyumbat saluran air dan menyebabkan banjir",
+      "Salah; plastik memang berbahaya, tetapi hanya bagi hewan di laut, bukan bagi manusia"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Plastik sangat sulit terurai secara alami — sampah plastik bisa bertahan puluhan bahkan ratusan tahun di lingkungan. Plastik yang menumpuk menyumbat saluran air dan sungai sehingga menyebabkan banjir, dan hewan bisa mati karena memakan atau terjerat plastik. Pilihan A dan B salah karena plastik tidak larut dalam air dan justru paling lambat terurai. Pilihan D salah karena sampah plastik juga merugikan manusia, misalnya lewat banjir dan lingkungan yang kotor.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab A: Lingkungan Kita sedang Terancam",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "A: Lingkungan Kita sedang Terancam",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Hutan di dekat desa Sinta ditebang habis untuk membuka lahan. Beberapa bulan kemudian, mata air di desa itu mengering, dan saat hujan deras, tanah longsor menimbun jalan desa. Apa hubungan antara penebangan hutan dan kejadian itu?\nA. Tidak ada hubungan; mata air mengering dan tanah longsor terjadi karena musim saja\nB. Akar pohon yang hilang membuat tanah tidak lagi dipegang kuat-kuat, sehingga tanah mudah longsor dan air hujan tidak terserap ke dalam tanah menjadi mata air\nC. Penebangan hutan justru membuat mata air makin banyak karena tidak ada pohon yang memakai air\nD. Tanah longsor terjadi karena jalan desa terlalu sempit",
+    "pilihan": [
+      "Tidak ada hubungan; mata air mengering dan tanah longsor terjadi karena musim saja",
+      "Akar pohon yang hilang membuat tanah tidak lagi dipegang kuat-kuat, sehingga tanah mudah longsor dan air hujan tidak terserap ke dalam tanah menjadi mata air",
+      "Penebangan hutan justru membuat mata air makin banyak karena tidak ada pohon yang memakai air",
+      "Tanah longsor terjadi karena jalan desa terlalu sempit"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Akar pohon memegang tanah dan membantu air hujan meresap ke dalam tanah menjadi sumber mata air. Ketika hutan ditebang habis, tanah kehilangan pegangannya sehingga mudah longsor saat hujan deras, dan air hujan langsung mengalir pergi tanpa terserap — akibatnya mata air mengering. Pilihan A salah karena kedua kejadian itu berkaitan langsung dengan hilangnya hutan. Pilihan C salah karena tanpa pohon, air justru tidak tersimpan di dalam tanah. Pilihan D salah karena lebar jalan bukan penyebab longsor.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab A: Lingkungan Kita sedang Terancam",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "A: Lingkungan Kita sedang Terancam",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pencemaran lingkungan adalah ....\nA. Masuknya zat atau benda berbahaya ke dalam lingkungan sehingga udara, air, atau tanah menjadi kotor dan merugikan makhluk hidup\nB. Kegiatan menanam pohon di sekitar rumah dan sekolah\nC. Perubahan cuaca dari panas menjadi hujan\nD. Banyaknya kendaraan yang lewat di jalan raya",
+    "pilihan": [
+      "Masuknya zat atau benda berbahaya ke dalam lingkungan sehingga udara, air, atau tanah menjadi kotor dan merugikan makhluk hidup",
+      "Kegiatan menanam pohon di sekitar rumah dan sekolah",
+      "Perubahan cuaca dari panas menjadi hujan",
+      "Banyaknya kendaraan yang lewat di jalan raya"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pencemaran lingkungan terjadi ketika zat atau benda berbahaya — misalnya asap kendaraan, limbah pabrik, dan sampah — masuk ke udara, air, atau tanah sehingga kualitasnya menurun dan merugikan makhluk hidup, termasuk manusia. Pilihan B salah karena menanam pohon justru membersihkan lingkungan. Pilihan C salah karena perubahan cuaca bukan pencemaran. Pilihan D salah karena banyaknya kendaraan bukan pencemaran itu sendiri, yang mencemari adalah asap yang dihasilkannya.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab A: Lingkungan Kita sedang Terancam\n## Sub-bab B: Mengurangi Jejak Karbon",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "A: Lingkungan Kita sedang Terancam",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rumah Sinta hanya berjarak 500 meter dari sekolah. Selama ini Sinta diantar ayahnya naik motor setiap hari. Jika Sinta ingin mengurangi jejak karbonnya, tindakan yang paling tepat adalah ....\nA. Tetap diantar naik motor, tetapi berangkat lebih pagi agar tidak macet\nB. Berjalan kaki atau bersepeda ke sekolah, karena jaraknya dekat dan tidak menghasilkan asap kendaraan\nC. Meminta ayahnya membeli motor baru yang lebih besar agar lebih cepat sampai\nD. Berangkat naik motor, tetapi memakai masker supaya tidak menghirup asap",
+    "pilihan": [
+      "Tetap diantar naik motor, tetapi berangkat lebih pagi agar tidak macet",
+      "Berjalan kaki atau bersepeda ke sekolah, karena jaraknya dekat dan tidak menghasilkan asap kendaraan",
+      "Meminta ayahnya membeli motor baru yang lebih besar agar lebih cepat sampai",
+      "Berangkat naik motor, tetapi memakai masker supaya tidak menghirup asap"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Berjalan kaki atau bersepeda tidak memakai bahan bakar, jadi tidak menghasilkan gas karbon dioksida sama sekali. Untuk jarak dekat seperti 500 meter, cara ini paling tepat untuk mengurangi jejak karbon. Pilihan A salah karena naik motor tetap membakar bensin dan menghasilkan asap, meskipun berangkat lebih pagi. Pilihan C salah karena motor yang lebih besar justru memakai bensin lebih banyak. Pilihan D salah karena masker hanya melindungi Sinta, bukan mengurangi asap yang dihasilkan motor.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab B: Mengurangi Jejak Karbon",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "B: Mengurangi Jejak Karbon",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua keluarga berikut.\nKeluarga A: Ayah, Ibu, dan dua anak berangkat ke tempat yang sama dengan empat motor berbeda-beda.\nKeluarga B: Ayah, Ibu, dan dua anak berangkat bersama-sama naik satu angkutan umum.\n\nManakah pernyataan yang benar tentang jejak karbon kedua keluarga itu?\n\nA. Jejak karbon Keluarga A lebih kecil, karena setiap orang naik kendaraan sendiri\nB. Jejak karbon kedua keluarga sama besar, karena jumlah orangnya sama\nC. Jejak karbon Keluarga B lebih kecil, karena satu kendaraan mengangkut empat orang sekaligus sehingga bensin yang dipakai per orang lebih sedikit\nD. Jejak karbon Keluarga B lebih besar, karena angkutan umum lebih besar daripada motor",
+    "pilihan": [
+      "Jejak karbon Keluarga A lebih kecil, karena setiap orang naik kendaraan sendiri",
+      "Jejak karbon kedua keluarga sama besar, karena jumlah orangnya sama",
+      "Jejak karbon Keluarga B lebih kecil, karena satu kendaraan mengangkut empat orang sekaligus sehingga bensin yang dipakai per orang lebih sedikit",
+      "Jejak karbon Keluarga B lebih besar, karena angkutan umum lebih besar daripada motor"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Satu kendaraan yang mengangkut banyak penumpang menghasilkan emisi karbon per orang yang jauh lebih kecil daripada empat kendaraan yang masing-masing hanya mengangkut satu orang. Karena itu naik transportasi umum bersama-sama mengurangi jejak karbon. Pilihan A salah karena empat motor membakar bensin empat kali lebih banyak. Pilihan B salah karena jumlah kendaraan, bukan hanya jumlah orang, yang menentukan besarnya emisi. Pilihan D salah karena ukuran kendaraan bukan penentunya — yang penting adalah berapa banyak orang yang diangkut oleh bahan bakar yang dipakai.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab B: Mengurangi Jejak Karbon",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "B: Mengurangi Jejak Karbon",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Supaya sampah plastik di rumahku cepat hilang dan tidak menumpuk, aku membakarnya di halaman. Itu juga mengurangi jejak karbon, kan?\" Apakah perkataan Dodi benar?\nA. Salah; membakar sampah plastik justru melepaskan gas karbon dioksida dan asap berbahaya ke udara, sehingga jejak karbon bertambah\nB. Benar, karena sampah yang dibakar sudah tidak ada lagi sehingga tidak menghasilkan gas apa pun\nC. Benar, karena membakar sampah lebih cepat daripada memilahnya untuk didaur ulang\nD. Salah; membakar sampah memang menghasilkan gas, tetapi gas itu langsung hilang tertiup angin",
+    "pilihan": [
+      "Salah; membakar sampah plastik justru melepaskan gas karbon dioksida dan asap berbahaya ke udara, sehingga jejak karbon bertambah",
+      "Benar, karena sampah yang dibakar sudah tidak ada lagi sehingga tidak menghasilkan gas apa pun",
+      "Benar, karena membakar sampah lebih cepat daripada memilahnya untuk didaur ulang",
+      "Salah; membakar sampah memang menghasilkan gas, tetapi gas itu langsung hilang tertiup angin"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Perkataan Dodi salah. Membakar sampah plastik melepaskan karbon dioksida dan asap berbahaya ke udara — gas rumah kaca yang justru menambah jejak karbon dan mencemari udara. Cara yang benar adalah memilah sampah: sampah plastik dikumpulkan untuk didaur ulang, sedangkan sampah daun bisa dijadikan kompos. Pilihan B salah karena sampah yang dibakar tidak hilang begitu saja, melainkan berubah menjadi asap dan gas. Pilihan D salah karena gas yang dilepas tetap berada di atmosfer dan memerangkap panas.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab B: Mengurangi Jejak Karbon",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "B: Mengurangi Jejak Karbon",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di kelas 4, semua lampu dan kipas angin menyala sepanjang hari, padahal pada siang hari cahaya matahari sudah cukup terang dan udara di kelas sejuk karena banyak jendela. Apa akibat kebiasaan itu terhadap jejak karbon, dan apa yang sebaiknya dilakukan?\nA. Tidak ada akibat, karena listrik tidak menghasilkan gas karbon\nB. Jejak karbon bertambah karena listrik yang terbuang sia-sia, dan sebagian listrik dihasilkan dari pembakaran bahan bakar; sebaiknya lampu dan kipas dimatikan saat tidak diperlukan\nC. Jejak karbon berkurang, karena lampu yang menyala membuat kelas terang sehingga anak-anak lebih semangat belajar\nD. Jejak karbon bertambah, tetapi tidak ada yang bisa dilakukan karena lampu memang harus selalu menyala",
+    "pilihan": [
+      "Tidak ada akibat, karena listrik tidak menghasilkan gas karbon",
+      "Jejak karbon bertambah karena listrik yang terbuang sia-sia, dan sebagian listrik dihasilkan dari pembakaran bahan bakar; sebaiknya lampu dan kipas dimatikan saat tidak diperlukan",
+      "Jejak karbon berkurang, karena lampu yang menyala membuat kelas terang sehingga anak-anak lebih semangat belajar",
+      "Jejak karbon bertambah, tetapi tidak ada yang bisa dilakukan karena lampu memang harus selalu menyala"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Listrik yang dipakai di rumah dan sekolah sebagian besar dihasilkan dari pembakaran bahan bakar fosil, yang melepaskan karbon dioksida. Lampu dan kipas yang menyala padahal tidak diperlukan berarti listrik terbuang sia-sia dan jejak karbon bertambah tanpa manfaat. Tindakan yang tepat adalah mematikan lampu saat siang hari sudah cukup terang dan mematikan kipas saat udara sudah sejuk. Pilihan A salah karena listrik berkaitan langsung dengan emisi karbon. Pilihan C salah karena semangat belajar tidak mengurangi gas yang dihasilkan. Pilihan D salah karena menghemat listrik adalah hal yang mudah dilakukan siapa saja.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab B: Mengurangi Jejak Karbon",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "B: Mengurangi Jejak Karbon",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Jejak karbon adalah ....\nA. Bekas telapak kaki yang tertinggal di tanah setelah kita berjalan\nB. Jumlah gas rumah kaca, terutama karbon dioksida, yang dihasilkan dari aktivitas manusia sehari-hari\nC. Jumlah sampah yang kita buang ke tempat sampah setiap hari\nD. Jumlah pohon yang kita tanam di sekitar rumah",
+    "pilihan": [
+      "Bekas telapak kaki yang tertinggal di tanah setelah kita berjalan",
+      "Jumlah gas rumah kaca, terutama karbon dioksida, yang dihasilkan dari aktivitas manusia sehari-hari",
+      "Jumlah sampah yang kita buang ke tempat sampah setiap hari",
+      "Jumlah pohon yang kita tanam di sekitar rumah"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jejak karbon adalah jumlah gas rumah kaca, terutama karbon dioksida, yang dihasilkan dari aktivitas manusia sehari-hari — misalnya naik kendaraan bermotor, memakai listrik, dan membakar sampah. Semakin besar jejak karbon seseorang, semakin besar sumbangannya terhadap pemanasan global. Pilihan A salah karena jejak karbon bukan bekas telapak kaki sungguhan, melainkan istilah untuk jumlah emisi gas. Pilihan C salah karena sampah yang dibuang bukan ukuran jejak karbon, meskipun sampah yang dibakar memang menghasilkan gas. Pilihan D salah karena menanam pohon justru membantu mengurangi jejak karbon, bukan mengukurnya.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab B: Mengurangi Jejak Karbon\n## Sub-bab C: Lestari Budayaku, Lestari Jati Diriku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "B: Mengurangi Jejak Karbon",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina hafal banyak lagu dari luar negeri dan selalu meniru gaya berpakaian artis luar negeri. Namun, ia tidak bisa berbahasa daerahnya sendiri dan tidak pernah mengikuti upacara adat di desanya. Apa yang sebaiknya dilakukan Dina agar ia tidak kehilangan jati dirinya?\nA. Berhenti total menonton apa pun dari luar negeri\nB. Mulai mempelajari bahasa daerah dan mengenal kesenian serta tradisi daerahnya sendiri\nC. Pindah ke daerah lain yang budayanya lebih terkenal\nD. Menyimpan pakaian adatnya di lemari dan tidak pernah memakainya",
+    "pilihan": [
+      "Berhenti total menonton apa pun dari luar negeri",
+      "Mulai mempelajari bahasa daerah dan mengenal kesenian serta tradisi daerahnya sendiri",
+      "Pindah ke daerah lain yang budayanya lebih terkenal",
+      "Menyimpan pakaian adatnya di lemari dan tidak pernah memakainya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jati diri seseorang dibentuk oleh budaya daerahnya sendiri — bahasa daerah, kesenian, dan tradisi yang diwariskan turun-temurun. Dina tidak perlu menolak semua hal dari luar negeri, tetapi ia harus mengenal dan mempelajari budayanya sendiri agar tidak kehilangan jati dirinya. Pilihan A salah karena mengenal budaya luar boleh saja, asalkan budaya sendiri tidak dilupakan. Pilihan C dan D justru menjauhkan Dina dari budayanya sendiri.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab C: Lestari Budayaku, Lestari Jati Diriku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "C: Lestari Budayaku, Lestari Jati Diriku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua desa berikut.\nDesa A: warganya menjaga hutan larangan adat — tidak ada yang boleh menebang pohon di sana, dan setiap tahun mereka mengadakan upacara adat untuk mengucap syukur atas hasil hutan.\nDesa B: warganya menebang pohon di hutan sesuka hati untuk dijual, dan upacara adat di desa itu sudah lama tidak pernah diadakan lagi.\n\nManakah pernyataan yang benar tentang kedua desa itu?\n\nA. Desa A menjadi pahlawan lingkungan sekaligus penjaga budaya, sedangkan Desa B kehilangan keduanya\nB. Desa A hanya menjaga budaya, tetapi tidak menjaga lingkungan\nC. Desa B lebih maju, karena warganya tidak terikat aturan adat\nD. Kedua desa sama-sama menjaga lingkungan dan budayanya",
+    "pilihan": [
+      "Desa A menjadi pahlawan lingkungan sekaligus penjaga budaya, sedangkan Desa B kehilangan keduanya",
+      "Desa A hanya menjaga budaya, tetapi tidak menjaga lingkungan",
+      "Desa B lebih maju, karena warganya tidak terikat aturan adat",
+      "Kedua desa sama-sama menjaga lingkungan dan budayanya"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Desa A melakukan dua hal sekaligus: menjaga hutan larangan adat berarti melindungi lingkungan, dan mengadakan upacara adat berarti menjaga budaya. Kearifan lokal seperti hutan larangan adat memang melindungi alam sekaligus melestarikan tradisi. Desa B kehilangan keduanya — hutannya ditebang sembarangan dan upacara adatnya sudah tidak diadakan lagi. Pilihan B salah karena menjaga hutan larangan adat jelas menjaga lingkungan. Pilihan C salah karena menebang hutan sembarangan merusak lingkungan, bukan tanda kemajuan.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab C: Lestari Budayaku, Lestari Jati Diriku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "C: Lestari Budayaku, Lestari Jati Diriku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi berkata, \"Budaya lama itu sudah ketinggalan zaman dan tidak perlu dipelajari lagi. Yang penting kita mengikuti budaya yang sedang tren saja.\" Apakah perkataan Budi benar?\nA. Benar, karena budaya lama sudah tidak berguna di zaman sekarang\nB. Benar, karena mengikuti tren membuat kita lebih modern\nC. Salah; budaya daerah adalah bagian dari jati diri kita, dan kalau tidak dipelajari budaya itu bisa punah dan kita kehilangan identitas\nD. Salah; budaya lama memang tidak perlu dipelajari, tetapi tren luar negeri juga harus ditolak",
+    "pilihan": [
+      "Benar, karena budaya lama sudah tidak berguna di zaman sekarang",
+      "Benar, karena mengikuti tren membuat kita lebih modern",
+      "Salah; budaya daerah adalah bagian dari jati diri kita, dan kalau tidak dipelajari budaya itu bisa punah dan kita kehilangan identitas",
+      "Salah; budaya lama memang tidak perlu dipelajari, tetapi tren luar negeri juga harus ditolak"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Budi salah. Budaya daerah adalah bagian dari jati diri — ciri khas yang membedakan kita sebagai bangsa Indonesia. Jika budaya lama tidak dipelajari dan diteruskan, budaya itu bisa punah dan generasi berikutnya kehilangan identitasnya serta mudah terpengaruh budaya luar yang belum tentu sesuai dengan nilai-nilai kita. Pilihan A salah karena budaya lama mengandung nilai luhur yang tetap berguna, misalnya gotong royong dan menjaga alam. Pilihan D salah karena menolak semua hal dari luar juga bukan sikap yang benar; yang penting budaya sendiri tidak dilupakan.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab C: Lestari Budayaku, Lestari Jati Diriku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "C: Lestari Budayaku, Lestari Jati Diriku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani pandai menari tari tradisional daerahnya dan sering tampil di acara sekolah. Ia juga rajin ikut kerja bakti membersihkan sungai di desanya setiap bulan. Menurutmu, apa yang ditunjukkan oleh sikap Rani?\nA. Rani hanya peduli pada kesenian, bukan pada lingkungan\nB. Rani menjadi pahlawan lingkungan sekaligus penjaga budaya — menari tradisional melestarikan budaya, membersihkan sungai menjaga lingkungan\nC. Rani hanya peduli pada lingkungan, bukan pada budaya\nD. Menari tradisional dan membersihkan sungai tidak ada hubungannya sama sekali",
+    "pilihan": [
+      "Rani hanya peduli pada kesenian, bukan pada lingkungan",
+      "Rani menjadi pahlawan lingkungan sekaligus penjaga budaya — menari tradisional melestarikan budaya, membersihkan sungai menjaga lingkungan",
+      "Rani hanya peduli pada lingkungan, bukan pada budaya",
+      "Menari tradisional dan membersihkan sungai tidak ada hubungannya sama sekali"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rani melakukan dua kebaikan sekaligus. Menari tari tradisional berarti ia mempelajari dan menampilkan kesenian daerahnya — itulah cara melestarikan budaya. Ikut kerja bakti membersihkan sungai berarti ia menjaga lingkungan tempat tinggalnya. Keduanya adalah wujud menjadi pahlawan lingkungan sekaligus penjaga budaya, sesuai judul sub-bab ini: lestari budayaku, lestari jati diriku. Pilihan A dan C salah karena Rani peduli pada keduanya. Pilihan D salah karena dalam kehidupan sehari-hari, budaya dan lingkungan memang saling terkait — banyak tradisi daerah justru mengajarkan cara menjaga alam.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab C: Lestari Budayaku, Lestari Jati Diriku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "C: Lestari Budayaku, Lestari Jati Diriku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Jati diri adalah ....\nA. Ciri khas yang membedakan suatu masyarakat atau bangsa, misalnya bahasa, kesenian, dan adat istiadatnya\nB. Nama panggilan seseorang di sekolah\nC. Seragam yang dipakai semua anak di Indonesia\nD. Lagu yang sedang populer di televisi",
+    "pilihan": [
+      "Ciri khas yang membedakan suatu masyarakat atau bangsa, misalnya bahasa, kesenian, dan adat istiadatnya",
+      "Nama panggilan seseorang di sekolah",
+      "Seragam yang dipakai semua anak di Indonesia",
+      "Lagu yang sedang populer di televisi"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Jati diri adalah ciri khas yang melekat pada suatu masyarakat atau bangsa dan membedakannya dari bangsa lain — misalnya bahasa daerah, kesenian tradisional, pakaian adat, dan upacara adat. Karena itulah budaya harus dilestarikan: kalau budayanya hilang, jati dirinya pun hilang. Pilihan B salah karena nama panggilan hanya identitas pribadi, bukan jati diri suatu masyarakat. Pilihan C dan D bukan ciri khas budaya suatu bangsa.",
+    "rujukan": "IPAS Kelas 4, Bab 8: Ambisi Menjadi Pahlawan Lingkungan, Sub-bab C: Lestari Budayaku, Lestari Jati Diriku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 08: Ambisi Menjadi Pahlawan Lingkungan",
+    "sub_bab": "C: Lestari Budayaku, Lestari Jati Diriku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
   }
 ]

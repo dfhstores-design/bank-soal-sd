@@ -25,7 +25,7 @@ EXPECTED_COUNTS = {
     "pai": 195,
     "bi": 80,
     "pp": 70,
-    "ipas": 75,
+    "ipas": 155,
 }
 
 MAPEL_ORDER = ["mtk", "tik", "pjok", "seni", "inggris", "pai", "bi", "pp", "ipas"]
