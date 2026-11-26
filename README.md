@@ -6,7 +6,7 @@ Bank soal untuk Kelas 1-6 SD yang dipakai aplikasi belajar (saat ini dipakai Nar
 
 Repo ini berisi soal-soal SD dalam bentuk file Markdown dan hasil build-nya berupa JSON.
 
-Saat ini yang tersedia baru **Kelas 4**, sebanyak **46 modul Markdown** dengan total **745 soal**. Semua soal berstatus **draf** dan belum final. Rincian per mata pelajaran:
+Saat ini yang tersedia baru **Kelas 4**, sebanyak **46 modul Markdown** dengan total **750 soal**: 745 berstatus **draf** dan 5 soal PAI Bab 4 berstatus **lolos** tinjauan. Rincian per mata pelajaran:
 
 | Mata pelajaran | Jumlah soal | Modul |
 |---|---|---|
@@ -15,7 +15,7 @@ Saat ini yang tersedia baru **Kelas 4**, sebanyak **46 modul Markdown** dengan t
 | PJOK | 85 | 5 |
 | Seni | 105 | 8 |
 | Inggris | 75 | 8 |
-| PAI | 190 | 11 |
+| PAI | 195 | 11 |
 
 Yang masih kosong:
 - **BI, IPAS, PP** (Kelas 4) — menunggu foto daftar isi buku.
@@ -50,7 +50,7 @@ Soal dikurasi dari buku Erlangga Kelas 4 (mengacu daftar isi buku) dan dibuat de
      ```
      python3 scripts/build-json.py
      ```
-     Script ini memvalidasi jumlah soal per mapel secara ketat (harus persis 745 total). Jika tidak cocok, build gagal.
+     Script ini memvalidasi jumlah soal per mapel secara ketat (harus persis 750 total). Jika tidak cocok, build gagal.
 
 3. **Baca satu soal dari JSON.** Setiap soal punya 14 field. Contoh field penting:
 
@@ -76,7 +76,7 @@ Soal dikurasi dari buku Erlangga Kelas 4 (mengacu daftar isi buku) dan dibuat de
 
    Field yang perlu diperhatikan saat menampilkan soal: `pertanyaan`, `pilihan` (array 4 string, A-D), `jawaban_benar` (A/B/C/D), `pembahasan`, dan `status`.
 
-4. **Catatan penting:** semua soal berstatus **draf**. Periksa dulu atau tunggu tinjauan guru sebelum dipakai ke anak. Jangan menganggap soal draf sebagai soal final.
+4. **Catatan penting:** 745 soal berstatus **draf**; lima soal PAI Bab 4 yang sudah lolos tinjauan berstatus **lolos**. Periksa field `status` sebelum memakai soal ke anak dan jangan menganggap soal draf sebagai soal final.
 
 ## Cara menyumbang soal
 

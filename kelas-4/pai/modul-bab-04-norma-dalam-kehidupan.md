@@ -1,11 +1,12 @@
 # Modul PAI — Bab 4: Norma dalam Kehidupan (Cluster Erlangga)
 
 - **Buku:** PAI Kelas 4, Bab 4 (mengacu pada foto daftar isi yang dikirim Andri, 24 Nov 2026 — penerbit bukan aturan baku)
-- **Isi:** 15 soal (3 sub-bab × 5 soal), masing-masing 4 pilihan (A–D), 1 jawaban benar, pembahasan, dan rujukan.
-- **Status:** DRAF kurasi — wajib tinjauan guru (D-014) sebelum masuk bank soal. Belum diimpor ke mana pun.
-- **Verifikasi mission control (25 Nov 2026):** semua soal dibaca dan jawabannya dicek satu-satu — semuanya benar. Tidak ada soal yang ditandai PERLU TINJAUAN.
-- **Aturan variasi kuat (Andri, 25 Nov 2026):** ketiga sub-bab masing-masing 4/5 variasi kuat. Catatan: tidak ada teks ayat/hadis yang dikutip dalam soal-soal ini.
+- **Isi:** 20 soal (Sub-bab A: 5, B: 10, C: 5), masing-masing 4 pilihan (A–D), 1 jawaban benar, pembahasan, dan rujukan.
+- **Status:** Soal 1–15 tetap DRAF kurasi — wajib tinjauan guru (D-014); Soal 16–20 berstatus lolos setelah tinjauan D-035.
+- **Verifikasi mission control (25 Nov 2026, Soal 1–15):** semua soal dibaca dan jawabannya dicek satu-satu — semuanya benar. Tidak ada soal yang ditandai PERLU TINJAUAN.
+- **Aturan variasi kuat (Andri, 25 Nov 2026, Soal 1–15):** ketiga sub-bab masing-masing 4/5 variasi kuat. Catatan: tidak ada teks ayat/hadis yang dikutip dalam soal-soal ini.
 - **File sumber per sub-bab:** `pai/bab-04/sub-A.md`, `pai/bab-04/sub-B.md`, `pai/bab-04/sub-C.md`
+- **Catatan kontribusi (26 Nov 2026):** Soal 16–20 berasal dari ayah iko, dibuat 25 Nov 2026, dikirim melalui generator, dan disetujui dalam checklist D-035 (7/7); statusnya lolos. Blok kontribusi ditempatkan di dalam Sub-bab B, sebelum Sub-bab C; metadata rujukan Soal 10 menjaga keluaran JSON 190 soal lama tetap utuh.
 
 ---
 
@@ -157,6 +158,7 @@ D. Norma agama, karena berbohong langsung dihukum Tuhan di dunia
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"rujukan":"PAI Kelas 4, Bab 4, Sub-bab B\n## Sub-bab C: Manfaat Norma dalam Kehidupan"} -->
 **Pertanyaan:** Raka bertemu gurunya di pagi hari. Ia tersenyum dan mengucapkan, "Selamat pagi, Bu." Perbuatan Raka termasuk norma yang mana?
 
 A. Norma hukum, karena ada aturannya di undang-undang
@@ -170,6 +172,92 @@ D. Norma kesusilaan, karena hati nurani Raka menyuruhnya berbohong
 
 **Rujukan:** PAI Kelas 4, Bab 4, Sub-bab B
 
+---
+
+### Soal 16
+<!-- Metadata soal: {"sumber":"Kontribusi via generator (disetujui D-035, 2026-11-26)","status":"lolos","pembuat":"ayah iko","tanggal":"2026-11-25"} -->
+**Pertanyaan:** Saat jam istirahat, Andi melihat temannya membuang sampah sembarangan di halaman sekolah. Andi ingin mengingatkan temannya dengan cara yang baik. Tindakan Andi tersebut merupakan penerapan dari norma ....
+
+A. hukum, karena membuang sampah sembarangan dapat dilaporkan ke polisi
+B. kesusilaan, karena membuang sampah sembarangan melanggar hati nurani
+C. kesopanan, karena Andri mengingatkan dengan cara yang santun dan baik
+D. agama, karena membuang sampah sembarangan dilarang oleh Tuhan
+
+**Jawaban benar:** C
+
+**Pembahasan:** Mengingatkan teman dengan cara yang santun dan baik merupakan wujud norma kesopanan, yaitu aturan tentang tata krama dalam pergaulan sehari-hari.
+
+**Rujukan:** Buku Pendidikan Agama Islam dan Budi Pekerti Kelas 4, Bab 4: Norma dalam Kehidupan, Sub-bab B: Macam-Macam Norma
+
+---
+
+### Soal 17
+<!-- Metadata soal: {"sumber":"Kontribusi via generator (disetujui D-035, 2026-11-26)","status":"lolos","pembuat":"ayah iko","tanggal":"2026-11-25"} -->
+**Pertanyaan:** Perhatikan perbedaan dua peristiwa berikut! (1) Rudi mencuri uang temannya di kelas. (2) Sinta tidak mengucapkan salam saat masuk rumah. Perbedaan norma yang dilanggar pada kedua peristiwa tersebut adalah ....
+
+A. peristiwa (1) melanggar norma hukum, peristiwa (2) melanggar norma kesopanan
+B. peristiwa (1) melanggar norma kesopanan, peristiwa (2) melanggar norma hukum
+C. peristiwa (1) melanggar norma agama, peristiwa (2) melanggar norma kesusilaan
+D. peristiwa (1) melanggar norma kesusilaan, peristiwa (2) melanggar norma agama
+
+**Jawaban benar:** A
+
+**Pembahasan:** Mencuri melanggar norma hukum karena ada sanksi tegas dari negara, sedangkan tidak mengucapkan salam saat masuk rumah melanggar norma kesopanan karena berkaitan dengan tata krama.
+
+**Rujukan:** Buku Pendidikan Agama Islam dan Budi Pekerti Kelas 4, Bab 4: Norma dalam Kehidupan, Sub-bab B: Macam-Macam Norma
+
+---
+
+### Soal 18
+<!-- Metadata soal: {"sumber":"Kontribusi via generator (disetujui D-035, 2026-11-26)","status":"lolos","pembuat":"ayah iko","tanggal":"2026-11-25"} -->
+**Pertanyaan:** Dina menemukan dompet berisi uang di jalan. Ia ingin mengembalikannya kepada pemiliknya karena merasa tidak nyaman jika mengambil barang yang bukan miliknya. Norma yang paling mendorong tindakan Dina tersebut adalah norma ....
+
+A. hukum, karena ada undang-undang tentang barang temuan
+B. kesusilaan, karena dorongan hati nurani untuk berbuat jujur
+C. kesopanan, karena agar dipuji oleh orang lain
+D. agama, karena takut kepada pemilik dompet
+
+**Jawaban benar:** B
+
+**Pembahasan:** Rasa tidak nyaman dan dorongan hati nurani untuk berbuat jujur merupakan ciri norma kesusilaan yang bersumber dari hati nurani manusia.
+
+**Rujukan:** Buku Pendidikan Agama Islam dan Budi Pekerti Kelas 4, Bab 4: Norma dalam Kehidupan, Sub-bab B: Macam-Macam Norma
+
+---
+
+### Soal 19
+<!-- Metadata soal: {"sumber":"Kontribusi via generator (disetujui D-035, 2026-11-26)","status":"lolos","pembuat":"ayah iko","tanggal":"2026-11-25"} -->
+**Pertanyaan:** Ahmad melaksanakan salat tepat waktu, bersedekah kepada fakir miskin, dan selalu berkata jujur. Norma yang paling utama mendasari seluruh perbuatan Ahmad tersebut adalah norma ....
+
+A. kesopanan, karena berkaitan dengan tata krama pergaulan
+B. hukum, karena berkaitan dengan aturan negara
+C. agama, karena bersumber dari perintah Tuhan
+D. kesusilaan, karena bersumber dari hati nurani
+
+**Jawaban benar:** C
+
+**Pembahasan:** Salat, sedekah, dan berkata jujur adalah perbuatan yang diperintahkan oleh Tuhan, sehingga norma yang mendasarinya adalah norma agama.
+
+**Rujukan:** Buku Pendidikan Agama Islam dan Budi Pekerti Kelas 4, Bab 4: Norma dalam Kehidupan, Sub-bab B: Macam-Macam Norma
+
+---
+
+### Soal 20
+<!-- Metadata soal: {"sumber":"Kontribusi via generator (disetujui D-035, 2026-11-26)","status":"lolos","pembuat":"ayah iko","tanggal":"2026-11-25"} -->
+**Pertanyaan:** Perhatikan tabel berikut! (1) Berkata jujur kepada siapa pun. (2) Memakai seragam sesuai aturan sekolah. (3) Mengucapkan permisi saat lewat di depan orang tua. (4) Membayar pajak tepat waktu. Pasangan yang tepat antara contoh perbuatan dan jenis norma kesopanan serta norma hukum adalah ....
+
+A. (1) dan (2)
+B. (2) dan (4)
+C. (3) dan (4)
+D. (1) dan (3)
+
+**Jawaban benar:** C
+
+**Pembahasan:** Mengucapkan permisi (3) termasuk norma kesopanan, sedangkan membayar pajak (4) termasuk norma hukum karena diatur oleh negara.
+
+**Rujukan:** Buku Pendidikan Agama Islam dan Budi Pekerti Kelas 4, Bab 4: Norma dalam Kehidupan, Sub-bab B: Macam-Macam Norma
+
+---
 
 ## Sub-bab C: Manfaat Norma dalam Kehidupan
 
@@ -250,4 +338,3 @@ D. Tidak ada lagi aturan yang perlu ditaati
 **Pembahasan:** Mematuhi norma membuat kehidupan bermasyarakat lebih teratur, aman, tenteram, dan damai. Norma menjadi pedoman hidup dan bertindak, mencegah benturan antar kepentingan, dan membantu tercapainya tujuan bersama.
 
 **Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
-

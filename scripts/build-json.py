@@ -22,7 +22,7 @@ EXPECTED_COUNTS = {
     "pjok": 85,
     "seni": 105,
     "inggris": 75,
-    "pai": 190,
+    "pai": 195,
 }
 
 MAPEL_ORDER = ["mtk", "tik", "pjok", "seni", "inggris", "pai"]
@@ -55,6 +55,11 @@ RE_FIELD_RUJUKAN = re.compile(r"^\*\*Rujukan:\*\*\s*(.*)$", re.MULTILINE)
 
 # Baris pilihan ganda: "A. ..." di awal baris.
 RE_PILIHAN = re.compile(r"^([A-D])\.\s+(.*)$")
+
+# Metadata opsional per soal ditulis sebagai komentar HTML JSON di modul.
+# Hanya field provenance/status dan rujukan lama yang boleh dioverride.
+RE_METADATA = re.compile(r"^<!-- Metadata soal: (\{.*\}) -->$", re.MULTILINE)
+METADATA_FIELDS = {"sumber", "status", "pembuat", "tanggal", "rujukan"}
 
 
 def die(msg):
@@ -163,6 +168,28 @@ def parse_soal_block(block, fpath, soal_no):
 
     jawaban = values["jawaban"].strip().upper()
 
+    # Metadata per soal opsional; tanpa metadata, default generator tetap berlaku.
+    metadata_matches = RE_METADATA.findall(block)
+    if len(metadata_matches) > 1:
+        die(f"{fpath}: soal {soal_no} memiliki lebih dari satu komentar metadata")
+    metadata = {}
+    if metadata_matches:
+        try:
+            metadata = json.loads(metadata_matches[0])
+        except json.JSONDecodeError as exc:
+            die(f"{fpath}: metadata soal {soal_no} bukan JSON valid: {exc}")
+        if not isinstance(metadata, dict):
+            die(f"{fpath}: metadata soal {soal_no} harus berupa objek JSON")
+        unknown_fields = set(metadata) - METADATA_FIELDS
+        if unknown_fields:
+            die(
+                f"{fpath}: metadata soal {soal_no} memiliki field yang tidak diizinkan: "
+                f"{sorted(unknown_fields)}"
+            )
+        for key, value in metadata.items():
+            if not isinstance(value, str) or not value.strip():
+                die(f"{fpath}: metadata soal {soal_no} field '{key}' harus berupa teks non-kosong")
+
     # Validasi jawaban.
     if jawaban not in HURUF:
         die(f"{fpath}: soal {soal_no} jawaban benar '{jawaban}' bukan A-D")
@@ -183,6 +210,7 @@ def parse_soal_block(block, fpath, soal_no):
         "jawaban_benar": jawaban,
         "pembahasan": values["pembahasan"],
         "rujukan": values["rujukan"],
+        "metadata": metadata,
     }
 
 
@@ -294,6 +322,7 @@ def main():
                     "pembuat": "Kurasi internal",
                     "tanggal": TANGGAL,
                 }
+                item.update(s["metadata"])
                 semua_soal.append(item)
 
         expected = EXPECTED_COUNTS[mapel]
