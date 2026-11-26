@@ -12,6 +12,7 @@
 ## Sub-bab A: Pengukuran Luas
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dua taman di sekolah dipagari dengan pagar sepanjang yang sama. Taman A berbentuk persegi panjang 10 m × 2 m, sedangkan taman B berbentuk persegi panjang 7 m × 5 m. Taman mana yang lebih luas, dan mengapa?
 
 A. Taman A lebih luas, karena panjangnya 10 m, paling panjang
@@ -28,6 +29,7 @@ D. Tidak bisa ditentukan, karena hanya diketahui panjang pagarnya
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi menghitung luas sebuah persegi panjang berukuran 8 cm × 5 cm dengan cara menjumlahkan panjang dan lebarnya: 8 + 5 = 13 cm². Apakah hitungan Dodi benar, dan berapa luas yang benar?
 
 A. Benar, luasnya 13 cm²
@@ -44,6 +46,7 @@ D. Salah; seharusnya 8 − 5 = 3 cm²
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah meja berbentuk persegi panjang berukuran panjang 6 cm dan lebar 4 cm. Jika panjang meja itu digandakan menjadi 12 cm sedangkan lebarnya tetap 4 cm, berapa luas meja sekarang dan berapa kali lipat dari luas semula?
 
 A. 48 cm², 2 kali lipat dari luas semula
@@ -60,6 +63,7 @@ D. 96 cm², 4 kali lipat dari luas semula
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menutup dua meja dengan ubin persegi berukuran 1 cm². Meja A tertutup 5 ubin pada setiap baris dan ada 4 baris ubin. Meja B tertutup 6 ubin pada setiap baris dan ada 3 baris ubin. Meja mana yang membutuhkan ubin lebih banyak, dan berapa selisihnya?
 
 A. Meja B, selisihnya 2 ubin
@@ -76,6 +80,7 @@ D. Meja A, selisihnya 2 ubin
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah sapu tangan berbentuk persegi dengan panjang sisi 9 cm. Berapa luas sapu tangan itu?
 
 A. 18 cm²
@@ -93,6 +98,7 @@ D. 90 cm²
 ## Sub-bab B: Pengukuran Volume
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menghitung volume sebuah kubus yang panjang sisinya 5 cm dengan cara menjumlahkan ketiga sisinya: 5 + 5 + 5 = 15 cm³. Apakah hitungan Dina benar, dan berapa volume kubus yang benar?
 
 A. Benar, hasilnya 15 cm³
@@ -109,6 +115,7 @@ D. Benar, tetapi satuannya seharusnya cm²
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ada dua kotak mainan. Kotak A berbentuk balok berukuran panjang 10 cm, lebar 4 cm, dan tinggi 3 cm. Kotak B berbentuk kubus dengan panjang sisi 5 cm. Kotak mana yang muat mainan lebih banyak?
 
 A. Kotak A, karena kotaknya lebih panjang
@@ -125,6 +132,7 @@ D. Kotak A, karena 10 + 4 + 3 = 17 lebih besar dari 5 + 5 + 5 = 15
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah balok berukuran panjang 6 cm, lebar 4 cm, dan tinggi 5 cm. Jika tingginya digandakan menjadi 10 cm, sedangkan panjang dan lebarnya tetap, volumenya berubah menjadi berapa kali lipat?
 
 A. Tetap sama, 120 cm³
@@ -141,6 +149,7 @@ D. Menjadi 10 kali lipat, yaitu 1.200 cm³
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka menyusun sebuah balok dari kubus-kubus kecil berukuran 1 cm³. Lapisan bawah balok itu terdiri atas 5 kubus memanjang dan 3 kubus melebar, dan balok itu tersusun setinggi 4 lapis kubus. Berapa volume balok Raka?
 
 A. 12 cm³
@@ -157,6 +166,7 @@ D. 20 cm³
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah akuarium berbentuk balok berukuran panjang 8 cm, lebar 5 cm, dan tinggi 6 cm. Berapa volume akuarium itu?
 
 A. 240 cm³

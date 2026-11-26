@@ -12,6 +12,7 @@
 ## Unit 3: Do You Like Listening to Jazz or Pop?
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read the dialogue.
 
 Rina: "Do you like listening to jazz or pop?"
@@ -33,6 +34,7 @@ D. "I like reading books."
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka says, "She don't like listening to rock music." What is wrong with his sentence?
 
 A. "like" should be "likes", because the subject is "she"
@@ -49,6 +51,7 @@ D. "don't" should be "doesn't", because the subject is "she"
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi says, "I like listening to jazz." Sinta says, "I like listening to pop." Who likes jazz?
 
 A. Sinta
@@ -65,6 +68,7 @@ D. Nobody
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani sings pop songs every day. She listens to pop music at home and at school. What does Rani like?
 
 A. Listening to jazz
@@ -81,6 +85,7 @@ D. Listening to dangdut
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Which one is a kind of music?
 
 A. Book
@@ -98,6 +103,7 @@ D. Jazz
 ## Unit 4: Did You Have a Good Time?
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read the dialogue.
 
 Rina: "Did you have a good time at the zoo yesterday?"
@@ -119,6 +125,7 @@ D. "Yes, I am. I am happy."
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "I didn't went to the zoo last Sunday." What is wrong with his sentence?
 
 A. He should say "I didn't go to the zoo last Sunday", because after "didn't" the verb is in the base form, not the past form.
@@ -135,6 +142,7 @@ D. He should say "I didn't going to the zoo last Sunday."
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Last Sunday, Rani went to the beach. She swam and played with her friends. Budi stayed at home. He watched TV all day. Who had a good time at the beach?
 
 A. Budi, because he watched TV all day.
@@ -151,6 +159,7 @@ D. Nobody, because they stayed at home.
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Last week, Sinta and her family ____ her grandmother in the village. They had a good time together.
 
 Which verb is correct to complete the sentence?
@@ -169,6 +178,7 @@ D. visited
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** What is the past form of "go"?
 
 A. Goes

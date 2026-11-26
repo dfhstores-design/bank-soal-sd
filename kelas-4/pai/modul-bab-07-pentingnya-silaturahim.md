@@ -12,6 +12,7 @@
 ## Sub-bab A: Surah At-Tin
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Surah At-Tin ayat 4 artinya, "Sungguh, Kami benar-benar telah menciptakan manusia dalam bentuk yang sebaik-baiknya." Dina melihat temannya diejek karena bentuk tubuhnya pendek. Sikap yang sesuai dengan pesan ayat ini adalah ....
 
 A. Ikut mengejek temannya supaya tidak sendirian
@@ -28,6 +29,7 @@ D. Menjauhi temannya yang diejek itu
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka merasa dirinya paling pintar dan paling tampan di kelas, sehingga ia sering meremehkan teman-temannya. Sinta bersyukur atas kelebihan yang Allah berikan dan tetap rendah hati kepada teman-temannya. Siapa di antara mereka yang mengamalkan pesan Surah At-Tin, dan mengapa?
 
 A. Raka, karena ia memang lebih pintar dan lebih tampan
@@ -44,6 +46,7 @@ D. Tidak ada, karena Surah At-Tin tidak membahas soal sikap
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Manusia yang tidak beriman dan tidak beramal saleh tetap mulia, karena bentuk tubuhnya sudah diciptakan sebaik-baiknya." Apakah perkataan Budi benar?
 
 A. Benar, karena bentuk tubuh yang bagus sudah cukup untuk menjadi mulia
@@ -60,6 +63,7 @@ D. Salah; manusia yang tidak beriman bentuk tubuhnya berubah menjadi jelek
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Agar tidak jatuh ke tempat yang serendah-rendahnya seperti yang dijelaskan Surah At-Tin, apa yang sebaiknya dilakukan seorang anak setiap hari?
 
 A. Berlatih olahraga supaya tubuhnya kuat dan bagus
@@ -76,6 +80,7 @@ D. Menghafal nama-nama surah tanpa memahami isinya
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Surah At-Tin adalah surah ke-95 dalam Al-Qur'an. Surah ini terdiri atas ... ayat.
 
 A. 5 ayat
@@ -93,6 +98,7 @@ D. 8 ayat
 ## Sub-bab B: Q.S. An-Nisa'/4:1
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat Lebaran, keluarga besar Rani berkumpul di rumah nenek. Rani malas ikut berkumpul karena lebih asyik bermain gim di kamar. Padahal Q.S. An-Nisa'/4:1 memerintahkan kita untuk memelihara hubungan kekeluargaan. Apa yang sebaiknya dilakukan Rani?
 
 A. Tetap bermain gim, karena berkumpul dengan keluarga bisa dilakukan kapan saja
@@ -109,6 +115,7 @@ D. Mengajak sepupunya ikut bermain gim di kamar saja
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi rajin mengunjungi neneknya setiap minggu dan menelepon pamannya yang tinggal jauh. Budi tidak pernah mengunjungi kerabatnya dan tidak pernah menanyakan kabar mereka. Siapa di antara mereka yang mengamalkan perintah Q.S. An-Nisa'/4:1, dan mengapa?
 
 A. Budi, karena ia tidak merepotkan kerabatnya
@@ -125,6 +132,7 @@ D. Tidak ada, karena ayat itu hanya membahas soal bertakwa
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Bertakwa itu hanya soal salat dan puasa, tidak ada hubungannya dengan keluarga." Apakah perkataan Sinta benar menurut Q.S. An-Nisa'/4:1?
 
 A. Benar, karena takwa hanya urusan ibadah kepada Allah
@@ -141,6 +149,7 @@ D. Salah; ayat itu hanya memerintahkan menjaga hubungan kekeluargaan, bukan bert
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Paman Raka tinggal di kota lain dan sedang sakit. Raka ingin memelihara hubungan kekeluargaan sesuai perintah Q.S. An-Nisa'/4:1, tetapi ia tidak bisa datang menjenguk. Cara manakah yang paling tepat untuk Raka?
 
 A. Membiarkannya, karena ia tidak bisa datang jadi tidak ada yang bisa dilakukan
@@ -157,6 +166,7 @@ D. Meminta orang lain menjenguk tanpa ikut menanyakan kabar
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Menurut Q.S. An-Nisa'/4:1, Allah menciptakan manusia dari diri yang satu. Siapakah diri yang satu itu?
 
 A. Nabi Adam a.s.
@@ -174,6 +184,7 @@ D. Nabi Musa a.s.
 ## Sub-bab C: Hadis Silaturahim
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina bertengkar dengan sepupunya dan sejak itu mereka tidak saling menyapa. Rasulullah saw. bersabda, "Tidak akan masuk surga orang yang memutus silaturahim." (HR Bukhari dan Muslim). Apa yang sebaiknya dilakukan Dina?
 
 A. Tetap tidak menyapa, karena sepupunya yang memulai pertengkaran
@@ -190,6 +201,7 @@ D. Mencari teman baru supaya tidak perlu berdamai
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi hanya bersikap baik kepada kerabat yang memberinya hadiah. Budi tetap menyapa dan menolong pamannya, meskipun pamannya pernah memutus hubungan dengannya. Siapa di antara mereka yang disebut penyambung silaturahmi sejati menurut hadis Nabi saw.?
 
 A. Andi, karena ia membalas kebaikan orang yang baik padanya
@@ -206,6 +218,7 @@ D. Tidak ada, karena keduanya sama-sama salah
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Silaturahim itu cukup dilakukan saat Lebaran saja, hari-hari biasa tidak perlu." Apakah perkataan Raka benar?
 
 A. Benar, karena Lebaran memang hari untuk bersilaturahim
@@ -222,6 +235,7 @@ D. Salah; silaturahim hanya boleh dilakukan di hari biasa, bukan saat Lebaran
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rasulullah saw. bersabda, "Barangsiapa yang senang diluaskan rezekinya dan dipanjangkan umurnya, maka hendaklah ia menyambung hubungan silaturahmi." (HR Bukhari dan Muslim). Menurut hadis ini, apa yang diperoleh orang yang suka menyambung silaturahmi?
 
 A. Menjadi orang yang paling kaya di kampungnya
@@ -238,6 +252,7 @@ D. Mendapat hadiah dari semua kerabatnya
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kata silaturahim berasal dari dua kata, yaitu "shilah" yang berarti hubungan dan "rahim" yang berarti kerabat. Jadi, apa arti silaturahim?
 
 A. Mengunjungi tempat yang jauh
@@ -255,6 +270,7 @@ D. Berkumpul hanya pada hari raya
 ## Sub-bab D: Hukum Bacaan Nun Sukun dan Tanwin
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam bacaan "min khalfihim", nun sukun bertemu dengan huruf kha. Bagaimana cara membaca nun sukun itu, dan apa nama hukumnya?
 
 A. Dibaca samar dengan dengung, karena hukumnya ikhfa
@@ -271,6 +287,7 @@ D. Diubah menjadi mim, karena hukumnya iqlab
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua bacaan berikut: "man yaquulu" (nun sukun bertemu ya) dan "min rabbi" (nun sukun bertemu ra). Keduanya sama-sama hukum idgham, tetapi cara membacanya berbeda. Manakah yang dibaca dengan dengung (ghunnah)?
 
 A. "Man yaquulu", karena idgham bighunnah (nun bertemu ya) dibaca dengan dengung
@@ -287,6 +304,7 @@ D. Keduanya dibaca tanpa dengung
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi membaca "min ba'di" dengan bunyi nun yang jelas: "min ba'di". Guru membetulkan bacaannya. Apa kesalahan Dodi dan bagaimana bacaan yang benar?
 
 A. Tidak ada yang salah, "min ba'di" memang dibaca jelas
@@ -303,6 +321,7 @@ D. Salah; nun sukun bertemu ba hukumnya izhar, jadi harus dibaca lebih keras
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam kata "anzala", nun sukun bertemu dengan huruf za. Huruf za bukan huruf tenggorokan, bukan huruf idgham, dan bukan huruf ba. Bagaimana cara membaca nun sukun itu?
 
 A. Dibaca jelas seperti huruf nun biasa
@@ -319,6 +338,7 @@ D. Diubah menjadi mim
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Hukum bacaan nun sukun dan tanwin ada empat. Sebutkan keempatnya!
 
 A. Izhar, idgham, iqlab, dan ikhfa

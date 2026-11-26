@@ -12,6 +12,7 @@
 ## Sub-bab A: Aktivitas Permainan Invasi
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berkata, "Dalam permainan sepak bola, tim yang menyerang tidak perlu menjaga gawangnya sendiri, yang penting mencetak gol sebanyak-banyaknya." Apakah perkataan Dina benar?
 
 A. Benar, karena menyerang lebih penting daripada bertahan
@@ -28,6 +29,7 @@ D. Salah, karena dalam sepak bola tidak boleh menyerang
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dua tim bermain bola basket. Tim Merah semua pemainnya maju menyerang ke ring lawan dan tidak ada yang menjaga ring sendiri. Tim Biru membagi pemainnya: sebagian menyerang, sebagian menjaga ring sendiri. Tim mana yang memakai strategi permainan invasi yang lebih baik, dan mengapa?
 
 A. Tim Merah, karena semua pemain menyerang berarti peluang mencetak poin lebih besar
@@ -44,6 +46,7 @@ D. Keduanya sama baiknya, karena sama-sama menyerang
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam permainan gobak sodor, apa yang terjadi jika semua pemain satu regu maju menyerang ke wilayah lawan dan tidak ada yang menjaga garis wilayahnya sendiri?
 
 A. Regu itu pasti menang karena serangannya kuat
@@ -60,6 +63,7 @@ D. Tidak terjadi apa-apa, karena dalam gobak sodor tidak ada wilayah yang dijaga
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani bermain empat permainan: sepak bola, bola basket, bulu tangkis, dan bola tangan. Tiga di antaranya adalah permainan invasi. Permainan manakah yang BUKAN permainan invasi, dan mengapa?
 
 A. Sepak bola, karena dimainkan dengan kaki
@@ -76,6 +80,7 @@ D. Bola tangan, karena bolanya kecil
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan permainan invasi?
 
 A. Permainan yang dilakukan sendirian tanpa lawan
@@ -93,6 +98,7 @@ D. Permainan yang tujuannya melempar bola sejauh mungkin
 ## Sub-bab B: Aktivitas Permainan Net
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Dalam permainan bulu tangkis, pemain boleh menyeberang ke lapangan lawan untuk memukul kok supaya lebih mudah mematikan lawan." Apakah perkataan Raka benar?
 
 A. Benar, karena memukul dari dekat net lebih mudah
@@ -109,6 +115,7 @@ D. Salah, karena dalam bulu tangkis tidak ada net
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina bermain bulu tangkis. Lawannya berdiri jauh di belakang lapangan. Dina bisa memukul kok tinggi ke belakang lawan atau memukul kok pelan jatuh dekat net. Pukulan mana yang lebih menguntungkan bagi Dina dalam situasi itu, dan mengapa?
 
 A. Memukul kok tinggi ke belakang, karena lawan sudah berdiri di belakang dan mudah mengembalikannya
@@ -125,6 +132,7 @@ D. Memukul kok tinggi ke belakang, karena pukulan tinggi selalu lebih kuat
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Net pada permainan bola voli mini diturunkan sehingga menjadi sangat rendah. Apa yang terjadi pada permainan itu?
 
 A. Permainan menjadi lebih sulit karena bola tidak bisa melewati net
@@ -141,6 +149,7 @@ D. Permainan menjadi permainan invasi karena net sudah tidak ada gunanya
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam permainan bola voli mini, Sinta melakukan servis, tetapi bolanya jatuh di lapangan timnya sendiri sebelum melewati net. Apa yang terjadi setelah itu?
 
 A. Servis diulang karena bola belum melewati net
@@ -157,6 +166,7 @@ D. Permainan dilanjutkan dari tempat bola jatuh
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah permainan berikut yang termasuk permainan net?
 
 A. Sepak bola
@@ -174,6 +184,7 @@ D. Gobak sodor
 ## Sub-bab C: Aktivitas Permainan Lapangan
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam permainan kasti, Budi memukul bola dan bolanya langsung ditangkap oleh penjaga sebelum menyentuh tanah. Budi berkata, "Bola sudah kupukul, jadi aku tetap boleh berlari ke tiang hinggap." Apakah perkataan Budi benar?
 
 A. Benar, karena yang penting bola sudah terpukul
@@ -190,6 +201,7 @@ D. Salah, karena dalam kasti pemukul tidak boleh berlari sama sekali
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina memukul bola kasti sangat jauh ke ujung lapangan, sedangkan Budi memukul bolanya hanya jatuh di dekat pemukul. Siapa yang mempunyai waktu lebih banyak untuk berlari ke tiang hinggap, dan mengapa?
 
 A. Budi, karena bolanya dekat sehingga ia cepat sampai ke tiang hinggap
@@ -206,6 +218,7 @@ D. Budi, karena bola yang dekat tidak perlu dikejar penjaga
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam permainan kasti, pemukul memukul bola hingga keluar jauh dari lapangan dan penjaga tidak bisa menemukannya dengan cepat. Apa yang terjadi pada pemukul itu?
 
 A. Pemukul dinyatakan mati karena bolanya hilang
@@ -222,6 +235,7 @@ D. Pemukul harus menunggu sampai bola ditemukan tanpa boleh berlari
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Regu penjaga dalam permainan kasti berdiri semuanya berkumpul di satu tempat di tengah lapangan. Apa kelemahan penempatan seperti itu?
 
 A. Tidak ada kelemahan, karena penjaga yang berkumpul lebih mudah bekerja sama
@@ -238,6 +252,7 @@ D. Tidak ada kelemahan, karena dalam kasti penjaga memang harus berkumpul
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam permainan kasti, apa yang dimaksud dengan tiang hinggap?
 
 A. Tiang tempat penjaga berdiri saat menjaga lapangan
@@ -255,6 +270,7 @@ D. Tiang bendera yang menandai garis tengah lapangan
 ## Sub-bab D: Aktivitas Permainan Target
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Dalam permainan target, yang penting melempar sekuat mungkin — soal arah tidak penting, yang penting bolanya jauh." Apakah perkataan Raka benar?
 
 A. Benar, karena lemparan yang kuat pasti mengenai sasaran
@@ -271,6 +287,7 @@ D. Salah, karena dalam permainan target tidak boleh melempar bola
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina dan Budi bermain lempar bola ke sasaran. Masing-masing melempar 5 kali. Dina mengenai sasaran 4 kali, tetapi lemparannya pendek. Budi mengenai sasaran 1 kali, tetapi lemparannya paling jauh. Siapa yang lebih baik dalam permainan target, dan mengapa?
 
 A. Budi, karena lemparannya paling jauh
@@ -287,6 +304,7 @@ D. Budi, karena hanya 1 kali kena berarti lemparannya lebih istimewa
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sasaran pada permainan lempar bola diganti dengan sasaran yang lebih kecil dari sebelumnya. Apa yang terjadi pada permainan itu?
 
 A. Permainan menjadi lebih mudah karena sasarannya kecil dan ringan
@@ -303,6 +321,7 @@ D. Permainan berubah menjadi permainan invasi karena sasarannya mengecil
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam permainan bowling mini, Sinta berdiri menghadap sasaran, mengayunkan bola lurus ke depan, dan melepaskannya mengarah tepat ke pin. Dodi berdiri menyamping, berlari, lalu melempar bola sekuatnya tanpa mengarahkan. Cara siapa yang lebih benar dalam permainan target, dan mengapa?
 
 A. Dodi, karena melempar sambil berlari dan sekuatnya membuat bola lebih cepat
@@ -319,6 +338,7 @@ D. Keduanya sama benarnya, karena dalam bowling mini cara melempar bebas
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah permainan berikut yang termasuk permainan target?
 
 A. Sepak bola

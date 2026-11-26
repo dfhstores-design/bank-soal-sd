@@ -12,6 +12,7 @@
 ## Sub-bab A: Mengenal Karya Seni Kriya dari Limbah Plastik
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani berkata, "Sampah plastik tidak masalah, karena nanti akan membusuk sendiri seperti daun kering." Apakah perkataan Rani benar?
 
 A. Benar, karena semua sampah pasti membusuk
@@ -28,6 +29,7 @@ D. Salah; plastik membusuk lebih cepat daripada daun kering
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina mempunyai dua pilihan untuk botol plastik bekasnya: dibuang ke tempat sampah, atau dibuat menjadi wadah alat tulis. Pilihan mana yang lebih baik untuk lingkungan, dan mengapa?
 
 A. Dibuang ke tempat sampah, karena botol bekas sudah tidak berguna
@@ -44,6 +46,7 @@ D. Dibuat menjadi wadah alat tulis, karena botol itu didaur ulang menjadi benda 
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi membawa botol plastik bekasnya setiap hari ke sekolah untuk dipakai lagi sebagai botol minum, dan ia menolak memakai kantong plastik sekali pakai. Tindakan Budi yang manakah yang disebut reuse, dan manakah yang disebut reduce?
 
 A. Reuse: menolak kantong plastik sekali pakai; Reduce: memakai lagi botol minumnya
@@ -60,6 +63,7 @@ D. Reuse: memakai lagi botol minumnya; Reduce: menolak kantong plastik sekali pa
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta ingin membuat bunga plastik dari sedotan. Ia mengumpulkan sedotan, tetapi langsung memotongnya tanpa membersihkannya dulu. Apa yang salah dari cara Sinta, dan apa yang seharusnya ia lakukan?
 
 A. Tidak ada yang salah; sedotan kotor tetap bisa dipakai
@@ -76,6 +80,7 @@ D. Salah; ia harus langsung menempelkan sedotan tanpa memotongnya
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan seni kriya dari limbah plastik?
 
 A. Karya seni yang dibuat dari bahan limbah plastik yang diolah menjadi benda berguna atau hiasan
@@ -93,6 +98,7 @@ D. Karya seni yang hanya bisa dibuat dari plastik baru yang dibeli di toko
 ## Sub-bab B: Membuat Kreasi Seni
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka ingin membuat bunga plastik dari sedotan. Ia langsung memotong sedotan menjadi kecil-kecil tanpa menentukan dulu bunga seperti apa yang akan dibuatnya. Apa yang salah dari cara Raka?
 
 A. Tidak ada yang salah; memotong dulu membuat pekerjaan lebih cepat
@@ -109,6 +115,7 @@ D. Salah; ia harus langsung menempelkan sedotan tanpa menggambar model
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina membuat bunga plastik dari sedotan. Ia memilih sedotan warna merah, kuning, dan hijau dengan ukuran yang berbeda-beda, lalu menyusunnya menjadi satu rangkaian bunga. Sinta membuat bunga dari sedotan satu warna dan satu ukuran saja. Rangkaian bunga siapa yang lebih menarik, dan mengapa?
 
 A. Sinta, karena satu warna lebih rapi
@@ -125,6 +132,7 @@ D. Sinta, karena sedotan satu ukuran lebih mudah dipotong
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi sedang membuat kreasi dari botol plastik bekas. Ia perlu memotong botol itu dengan cutter. Apa yang paling aman dilakukan Budi?
 
 A. Memotong sendiri secepat mungkin supaya cepat selesai
@@ -141,6 +149,7 @@ D. Memotong botol dengan tangan kosong tanpa alat
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutan langkah membuat karya kriya dari limbah plastik yang benar adalah ....
 
 A. Menentukan karya yang akan dibuat — mengumpulkan dan membersihkan bahan — menggambar model — memotong bahan sesuai rancangan — menyusun dan mengomposisikan — finishing
@@ -157,6 +166,7 @@ D. Mengumpulkan bahan — finishing — memotong bahan — menentukan karya — 
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan membuat kreasi seni?
 
 A. Menyalin karya orang lain persis sama tanpa mengubah apa pun
@@ -174,6 +184,7 @@ D. Membuat karya seni dari ide sendiri dengan memilih bahan dan alat, merancang,
 ## Sub-bab C: Apresiasi Terhadap Kerajinan Seni
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani melihat vas bunga dari botol plastik buatan Dina. Vas itu tersusun rapi, warnanya serasi, dan bisa dipakai untuk menaruh bunga. Rani berkata, "Vas Dina bagus, karena susunannya seimbang, warnanya cocok, dan berguna untuk menaruh bunga." Sikap Rani menunjukkan apresiasi yang baik, karena ia menilai karya berdasarkan ....
 
 A. Siapa yang membuatnya
@@ -190,6 +201,7 @@ D. Berapa lama karya itu dibuat
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dua karya dipajang di kelas: sebuah lukisan pemandangan dan sebuah wadah alat tulis dari botol plastik. Dina berkata, "Lukisan itu fungsinya estetis, sedangkan wadah alat tulis itu fungsinya aplikasi." Apakah perkataan Dina benar?
 
 A. Benar, karena lukisan dibuat untuk dinikmati keindahannya, sedangkan wadah alat tulis dibuat untuk dipakai menyimpan alat tulis
@@ -206,6 +218,7 @@ D. Salah, karena keduanya sama-sama berfungsi estetis
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi melihat karya temannya yang belum rapi, lalu berkata dengan keras di depan kelas, "Karyamu jelek sekali, tidak pantas dipajang!" Apakah sikap Budi sudah menunjukkan apresiasi yang baik?
 
 A. Sudah, karena ia jujur menyampaikan pendapatnya
@@ -222,6 +235,7 @@ D. Belum; Budi seharusnya tidak boleh berpendapat tentang karya teman sama sekal
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah pameran kelas selesai, Sinta membiarkan karya teman-temannya berserakan di lantai dan ada yang terinjak. Apa yang seharusnya dilakukan Sinta sebagai bentuk apresiasi terhadap karya teman?
 
 A. Membiarkannya, karena karya itu bukan miliknya
@@ -238,6 +252,7 @@ D. Mengambil karya teman untuk dibawa pulang tanpa izin
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan mengapresiasi karya kerajinan seni?
 
 A. Menilai dan menghargai karya seni dengan mengamati komposisi, warna, fungsi, dan keindahannya, lalu menyampaikan pendapat dengan sopan

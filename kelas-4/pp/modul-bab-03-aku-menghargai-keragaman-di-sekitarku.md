@@ -12,6 +12,7 @@
 ## Sub-bab A: Aku Menghargai Identitas Diriku
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pada hari pertama masuk kelas, setiap anak diminta memperkenalkan dirinya. Dina berkata, "Nama saya Dina. Saya berasal dari suku Jawa, di rumah saya berbicara bahasa Jawa dengan keluarga saya, dan saya suka menggambar." Manakah yang termasuk identitas diri Dina?
 
 A. Nama, suku, bahasa daerah, dan kegemaran
@@ -28,6 +29,7 @@ D. Bahasa daerah, jam masuk sekolah, dan nama sekolahnya
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi mengejek Andi karena Andi berbicara dengan logat bahasa daerahnya yang kental. Budi berkata, "Bahasa daerahmu lucu, jangan dipakai di sekolah." Apakah sikap Budi benar?
 
 A. Benar, karena di sekolah hanya boleh memakai bahasa Indonesia
@@ -44,6 +46,7 @@ D. Salah; Andi seharusnya tidak membawa bahasa daerahnya ke sekolah
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua ciri berikut.
 
 (1) Rani berambut keriting dan berkulit sawo matang.
@@ -65,6 +68,7 @@ D. Keduanya identitas non-fisik
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rudi berasal dari suku Minang. Saat ditanya teman-temannya tentang asal daerahnya, Rudi malu mengakuinya dan berkata ia berasal dari daerah lain. Sikap Rudi sebaiknya bagaimana?
 
 A. Terus menyembunyikan asal daerahnya supaya tidak ditanya lagi
@@ -81,6 +85,7 @@ D. Tidak usah menjawab apa pun tentang dirinya kepada siapa pun
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Identitas diri adalah ....
 
 A. Semua ciri yang melekat pada diri seseorang, seperti nama, suku, agama, bahasa, dan kegemaran
@@ -98,6 +103,7 @@ D. Nama sekolah tempat seseorang belajar
 ## Sub-bab B: Aku Menghargai Keragaman dalam Keluargaku
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ayah Rani berasal dari suku Jawa, sedangkan Ibu Rani berasal dari suku Sunda. Di rumah, Ayah kadang berbicara bahasa Jawa dan Ibu kadang berbicara bahasa Sunda. Sikap Rani yang paling tepat adalah ....
 
 A. Mengejek bahasa Ibu karena berbeda dengan bahasa Ayah
@@ -114,6 +120,7 @@ D. Memaksa Ayah dan Ibu hanya memakai satu bahasa saja
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua keluarga berikut.
 
 Keluarga A: semua anggota keluarga dipaksa menyukai sepak bola, dan yang suka menggambar dianggap aneh.
@@ -135,6 +142,7 @@ D. Keluarga B, karena keluarga itu tidak mempunyai kegemaran bersama
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam keluarga besar Dodi, ada anggota keluarga yang beragama berbeda. Saat salah satu anggota keluarga merayakan hari rayanya, sikap Dodi yang paling tepat adalah ....
 
 A. Mengganggu ibadahnya karena berbeda dengan ibadah Dodi
@@ -151,6 +159,7 @@ D. Mengejek cara beribadah anggota keluarga itu di depan yang lain
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Di rumahku, hanya boleh dimasak makanan dari daerah Ayah. Makanan dari daerah Ibu tidak boleh dimasak karena berbeda." Apakah perkataan Budi benar?
 
 A. Benar, karena makanan daerah Ayah lebih enak daripada makanan daerah Ibu
@@ -167,6 +176,7 @@ D. Salah; makanan daerah Ibu boleh dimasak, tetapi makanan daerah Ayah tidak bol
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keragaman dalam keluarga artinya ....
 
 A. Semua anggota keluarga harus sama suku, agama, bahasa, dan kegemarannya
@@ -184,6 +194,7 @@ D. Keluarga yang anggotanya berasal dari satu daerah saja
 ## Sub-bab C: Aku Menghargai Keragaman dengan Temanku
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kelas 4, ada teman baru bernama Made yang berasal dari Bali. Ia berbicara dengan logat yang berbeda dan membawa bekal makanan khas daerahnya. Sikap Rina yang paling tepat terhadap Made adalah ....
 
 A. Menertawakan logat Made karena terdengar aneh
@@ -200,6 +211,7 @@ D. Menyuruh Made berbicara seperti teman-teman yang lain
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat jam istirahat, Dodi mengejek Sinta karena Sinta berdoa dengan cara yang berbeda dari Dodi. Sinta pun menjadi sedih dan tidak mau bermain lagi. Menurutmu, apa yang salah dari sikap Dodi?
 
 A. Dodi salah karena mengganggu Sinta yang sedang beristirahat
@@ -216,6 +228,7 @@ D. Dodi tidak salah, karena setiap orang boleh mengejek teman yang berbeda
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua sikap berikut.
 
 Sikap 1: Budi hanya mau bermain dengan teman yang sukunya sama dengannya.
@@ -237,6 +250,7 @@ D. Keduanya sama-sama menunjukkan penghargaan terhadap keragaman
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4 akan mengadakan pentas seni. Setiap kelompok diminta menampilkan kesenian dari daerah yang berbeda-beda. Rudi berkata, "Kesenian daerahku yang paling bagus, kesenian daerah lain tidak usah ditampilkan." Apa akibatnya jika sikap Rudi diikuti oleh semua anak?
 
 A. Pentas seni menjadi lebih meriah karena hanya menampilkan kesenian yang paling bagus
@@ -253,6 +267,7 @@ D. Tidak ada akibat apa-apa, karena setiap orang boleh berpendapat
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sikap saling menghormati perbedaan suku, agama, bahasa, dan kegemaran antarteman disebut ....
 
 A. Toleransi
@@ -270,6 +285,7 @@ D. Pemaksaan
 ## Sub-bab D: Indahnya Kerja Sama dalam Keragaman
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4 mendapat tugas membersihkan taman sekolah sebelum upacara. Ibu guru membagi tugas: Rani menyapu daun, Dodi menyiram tanaman, Sinta mengumpulkan sampah, dan Budi merapikan pot bunga. Mereka bekerja bersama-sama dan taman bersih dalam waktu singkat. Apa yang membuat pekerjaan mereka cepat selesai?
 
 A. Karena tugas dibagi sesuai kemampuan dan dikerjakan bersama-sama
@@ -286,6 +302,7 @@ D. Karena upacara dibatalkan sehingga mereka tidak terburu-buru
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua kelompok berikut.
 
 Kelompok 1: Setiap anggota mengerjakan tugasnya sendiri-sendiri, tidak mau membantu teman yang kesulitan, dan hasilnya dikumpulkan terpisah.
@@ -307,6 +324,7 @@ D. Keduanya sama baiknya, karena sama-sama menyelesaikan tugas
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi berkata, "Aku hanya mau bekerja sama dengan teman yang sukunya sama denganku, karena kita lebih mudah cocok." Apakah perkataan Andi benar?
 
 A. Benar, karena kerja sama hanya bisa dilakukan dengan orang yang sama latar belakangnya
@@ -323,6 +341,7 @@ D. Salah; Andi seharusnya tidak bekerja sama dengan siapa pun
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Warga di lingkungan Sinta mengadakan kerja bakti membersihkan selokan. Ada yang membawa cangkul, ada yang membawa sapu, ada yang menyiapkan minuman untuk semua yang bekerja. Setelah selokan bersih, lingkungan menjadi sehat dan warga makin akrab satu sama lain. Manfaat kerja sama yang terlihat dari kegiatan itu adalah ....
 
 A. Pekerjaan berat menjadi ringan dan persaudaraan antarwarga makin erat
@@ -339,6 +358,7 @@ D. Warga tidak perlu lagi membersihkan selokan
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Gotong royong adalah ....
 
 A. Kerja sama yang dilakukan beberapa orang secara sukarela dan saling membantu demi mencapai tujuan bersama

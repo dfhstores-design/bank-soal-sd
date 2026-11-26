@@ -12,6 +12,7 @@
 ## Sub-bab A: Irama
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka bernyanyi lagu berbirama 4/4 sambil bertepuk tangan. Ia menepuk semua ketukan sama keras: kuat, kuat, kuat, kuat. Apa yang salah dari tepukan Raka?
 
 A. Tidak ada yang salah; semua ketukan memang harus sama keras
@@ -28,6 +29,7 @@ D. Salah; lagu berbirama 4/4 tidak boleh diiringi tepukan
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Guru memutar lagu "Naik-Naik ke Puncak Gunung", lalu memutarnya sekali lagi dengan tempo yang lebih cepat dari sebelumnya. Apa yang terjadi pada irama lagu itu?
 
 A. Lagunya menjadi lebih lambat dan terasa sedih
@@ -44,6 +46,7 @@ D. Lagunya menjadi tidak berirama sama sekali
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Lagu "Burung Kakatua" berbirama 3/4, sedangkan lagu "Indonesia Raya" berbirama 4/4. Apa perbedaan irama kedua lagu itu?
 
 A. "Burung Kakatua" mempunyai 3 ketukan dalam satu birama, sedangkan "Indonesia Raya" mempunyai 4 ketukan dalam satu birama
@@ -60,6 +63,7 @@ D. "Burung Kakatua" tidak mempunyai birama, sedangkan "Indonesia Raya" berbirama
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4 akan menyanyikan lagu yang bercerita tentang suasana sedih dan khidmat. Tempo manakah yang paling cocok untuk lagu itu, dan mengapa?
 
 A. Tempo cepat, karena lagu sedih harus dinyanyikan secepat mungkin
@@ -76,6 +80,7 @@ D. Tempo lambat, karena irama yang dimainkan lambat menunjukkan suasana sedih da
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan irama dalam musik?
 
 A. Keras lembutnya bunyi dalam sebuah lagu
@@ -93,6 +98,7 @@ D. Nama alat musik yang mengiringi sebuah lagu
 ## Sub-bab B: Ragam Lagu
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mendengar lagu "Bungong Jeumpa". Liriknya memakai bahasa Aceh dan bercerita tentang keindahan bunga di Aceh. Lagu "Bungong Jeumpa" termasuk ragam lagu apa, dan mengapa?
 
 A. Lagu daerah, karena liriknya memakai bahasa daerah Aceh dan menggambarkan masyarakat setempat
@@ -109,6 +115,7 @@ D. Lagu pop, karena lagunya sedang terkenal
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "'Indonesia Raya' adalah lagu anak-anak, karena lagu itu sering dinyanyikan oleh anak-anak di sekolah." Apakah perkataan Dodi benar?
 
 A. Benar, karena anak-anak memang menyanyikan lagu itu
@@ -125,6 +132,7 @@ D. Salah; "Indonesia Raya" adalah lagu daerah dari Jakarta
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta menyanyikan "Balonku" dan Budi menyanyikan "Soleram". Apa perbedaan paling jelas antara kedua lagu itu?
 
 A. "Balonku" memakai bahasa daerah Riau, sedangkan "Soleram" memakai bahasa Indonesia
@@ -141,6 +149,7 @@ D. Tidak ada perbedaan, keduanya adalah lagu daerah
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Besok pagi sekolah mengadakan upacara bendera. Lagu manakah yang paling tepat dinyanyikan saat bendera dikibarkan, dan mengapa?
 
 A. "Balonku", karena lagunya pendek dan mudah dihafal
@@ -157,6 +166,7 @@ D. "Indonesia Raya", karena lagu itu adalah lagu wajib nasional yang dinyanyikan
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah lagu berikut yang termasuk lagu nasional?
 
 A. "Naik Delman"
@@ -174,6 +184,7 @@ D. "Bintang Kecil"
 ## Sub-bab C: Dinamika
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani bernyanyi lagu "Ibu Pertiwi". Pada bagian lagu yang bertanda piano (p), ia menyanyikannya dengan suara keras sekali. Apa yang salah dari cara Rani bernyanyi?
 
 A. Tidak ada yang salah; tanda piano berarti dinyanyikan sekeras mungkin
@@ -190,6 +201,7 @@ D. Salah; lagu "Ibu Pertiwi" tidak boleh dinyanyikan sama sekali
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pada sebuah lagu, tertulis tanda crescendo (cresc.) di tengah lagu. Apa yang harus dilakukan penyanyi saat sampai di bagian itu?
 
 A. Menyanyikan bagian itu semakin lama semakin lembut
@@ -206,6 +218,7 @@ D. Menyanyikan bagian itu dengan suara yang sama kerasnya dari awal sampai akhir
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4 menyanyikan dua bagian lagu. Bagian pertama adalah doa yang khidmat, bagian kedua adalah seruan semangat di puncak lagu. Dinamika manakah yang paling tepat untuk masing-masing bagian?
 
 A. Bagian doa dinyanyikan piano (lembut) dan bagian seruan dinyanyikan forte (keras)
@@ -222,6 +235,7 @@ D. Kedua bagian dinyanyikan pianissimo (sangat lembut)
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi menyanyikan seluruh lagu dari awal sampai akhir dengan suara keras yang sama rata, tanpa ada bagian lembut atau makin keras. Apa akibatnya bagi lagu itu?
 
 A. Lagunya menjadi lebih indah, karena suara keras selalu lebih bagus
@@ -238,6 +252,7 @@ D. Lagunya menjadi membosankan dan tidak berjiwa, karena dinamika diperlukan sup
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan dinamika dalam musik?
 
 A. Cepat lambatnya sebuah lagu dinyanyikan

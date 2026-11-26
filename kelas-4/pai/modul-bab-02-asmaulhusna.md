@@ -12,6 +12,7 @@
 ## Sub-bab A: Al-Malik
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dimas diejek oleh temannya di kelas. Ia merasa marah, tetapi ia menahan diri dan tidak membalas ejekan itu. Sikap Dimas meneladani Asmaulhusna yang mana?
 
 A. Al-Malik, karena ia menguasai dirinya dan menahan diri dari perbuatan buruk
@@ -28,6 +29,7 @@ D. Al-Mu'min, karena ia menjaga keamanan kelas
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta menjadi ketua kelompok. Ada dua cara ia membagi tugas: cara pertama, tugas yang mudah ia ambil untuk dirinya sendiri dan tugas yang sulit diberikan kepada teman; cara kedua, tugas dibagi secara adil sesuai kemampuan masing-masing. Cara manakah yang meneladani Al-Malik, dan mengapa?
 
 A. Cara pertama, karena ketua boleh memilih tugas yang ia suka
@@ -44,6 +46,7 @@ D. Tidak ada cara yang benar, karena ketua tidak perlu membagi tugas
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah di bawah ini yang menunjukkan bahwa Allah mengatur alam semesta sebagai Al-Malik?
 
 A. Batu yang diam di tempatnya
@@ -60,6 +63,7 @@ D. Daun kering yang beterbangan tanpa arah
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Allah Maha Raja, jadi Allah membutuhkan bantuan makhluk untuk mengatur alam semesta." Apakah perkataan Raka benar?
 
 A. Salah; Allah mengatur segala urusan makhluk sendiri tanpa butuh bantuan siapa pun
@@ -76,6 +80,7 @@ D. Salah; yang mengatur alam semesta adalah manusia
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Al-Malik adalah salah satu nama Allah Swt. yang agung. Apa arti Al-Malik?
 
 A. Maharaja, Penguasa atas semua makhluk-Nya
@@ -93,6 +98,7 @@ D. Maha Pemberi Keselamatan
 ## Sub-bab B: Al-'Aziz
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi jatuh dari sepeda ketika sedang berlatih, lututnya lecet. Ia bangkit, membersihkan lukanya, dan keesokan harinya ia berlatih lagi. Sikap Budi meneladani Asmaulhusna yang mana?
 
 A. Al-'Aziz, karena ia tangguh dan pantang menyerah menghadapi kesulitan
@@ -109,6 +115,7 @@ D. Al-Malik, karena ia mengatur latihannya sendiri
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi mengerjakan PR sendiri meskipun sulit, dan bertanya kepada guru ketika ia tidak paham. Rudi menyalin PR temannya supaya cepat selesai. Siapa di antara mereka yang bersikap mandiri, dan mengapa?
 
 A. Rudi, karena ia menyelesaikan PR-nya dengan cepat
@@ -125,6 +132,7 @@ D. Tidak ada yang mandiri, karena keduanya tetap butuh bantuan
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Anak yang meneladani Al-'Aziz tidak pernah gagal dalam apa pun." Apakah perkataan Sinta benar?
 
 A. Benar, karena Allah selalu membuat anak itu berhasil
@@ -141,6 +149,7 @@ D. Salah; anak yang kuat tidak boleh mencoba hal yang sulit
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina diejek teman-temannya karena bajunya lusuh. Ia tetap tenang, tidak membalas ejekan itu, dan tetap bersikap baik kepada teman-temannya. Sikap Dina menunjukkan bahwa ia menjaga apa?
 
 A. Kebersihan bajunya
@@ -157,6 +166,7 @@ D. Ketertiban kelas
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Al-'Aziz adalah salah satu nama Allah Swt. yang agung. Apa arti Al-'Aziz?
 
 A. Maha Suci dari segala kekurangan
@@ -174,6 +184,7 @@ D. Maha Pemberi Keamanan
 ## Sub-bab C: Al-Quddus
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah makan siang, Sinta membuang bungkus makanannya di bawah meja lalu pergi bermain. Apakah sikap Sinta sudah meneladani Al-Quddus?
 
 A. Sudah, karena bungkusnya tidak terlihat dari atas meja
@@ -190,6 +201,7 @@ D. Belum, karena ia harus membawa pulang bungkus makanannya
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka mencuci tangan sebelum makan dan merapikan mejanya setelah belajar. Dodi makan tanpa mencuci tangan dan meninggalkan sampah di atas mejanya. Siapa di antara mereka yang meneladani Al-Quddus, dan mengapa?
 
 A. Raka, karena ia menjaga kebersihan diri dan lingkungannya
@@ -206,6 +218,7 @@ D. Tidak ada, karena kebersihan bukan bagian dari pelajaran agama
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mendapat nilai lebih tinggi dari Sinta. Sinta merasa iri melihat nilai Rani. Sikap manakah yang menjaga hati Sinta tetap bersih?
 
 A. Menyebarkan cerita buruk tentang Rani kepada teman-teman
@@ -222,6 +235,7 @@ D. Menyembunyikan buku Rani supaya nilainya turun
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina mendengar gosip buruk tentang temannya. Ia memilih diam dan tidak ikut menyebarkannya. Sikap Dina meneladani Al-Quddus karena ....
 
 A. ia menjaga lisannya supaya tidak mengotori hati dan menyakiti perasaan orang lain
@@ -238,6 +252,7 @@ D. ia ingin terlihat baik di depan teman-temannya
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Al-Quddus adalah salah satu nama Allah Swt. yang agung. Apa arti Al-Quddus?
 
 A. Maharaja atas semua makhluk
@@ -255,6 +270,7 @@ D. Maha Pemberi Keselamatan
 ## Sub-bab D: As-Salam
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dua teman bertengkar di kelas. Sinta datang, menenangkan keduanya, lalu mengajak mereka berjabat tangan dan bermain bersama lagi. Sikap Sinta meneladani Asmaulhusna yang mana?
 
 A. As-Salam, karena ia menciptakan kedamaian dan merukunkan teman yang berselisih
@@ -271,6 +287,7 @@ D. Al-'Aziz, karena ia berani menghadapi teman yang bertengkar
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi mengucapkan salam dan tersenyum ketika bertemu guru di pagi hari. Budi lewat begitu saja tanpa menyapa. Siapa di antara mereka yang menebar kedamaian, dan mengapa?
 
 A. Budi, karena ia tidak mengganggu guru yang sedang sibuk
@@ -287,6 +304,7 @@ D. Tidak ada, karena salam hanya diucapkan di dalam kelas
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sebuah kelas, anak-anak saling mengejek dan memanggil teman dengan nama yang buruk. Apa yang terjadi pada suasana kelas itu?
 
 A. Kelas menjadi damai dan nyaman
@@ -303,6 +321,7 @@ D. Tidak ada yang berubah pada suasana kelas
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Meneladani As-Salam berarti kita tidak boleh menegur teman yang berbuat salah." Apakah perkataan Dodi benar?
 
 A. Benar, karena menegur teman bisa merusak kedamaian
@@ -319,6 +338,7 @@ D. Salah; teman yang salah harus diejek supaya jera
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** As-Salam adalah salah satu nama Allah Swt. yang agung. Apa arti As-Salam?
 
 A. Maharaja atas semua makhluk
@@ -336,6 +356,7 @@ D. Maha Sejahtera dan Maha Pemberi Keselamatan
 ## Sub-bab E: Al-Mu'min
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rudi berjalan tertib di koridor sekolah, tidak berlari dan tidak mendorong teman. Apa akibat dari sikap Rudi itu?
 
 A. Teman-temannya merasa takut kepadanya
@@ -352,6 +373,7 @@ D. Koridor sekolah menjadi sepi
 ---
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4A mematuhi jadwal piket dan aturan kelas sehingga suasana belajar tenang. Kelas 4B sering gaduh dan barang-barang berserakan di lantai. Kelas mana yang meneladani Al-Mu'min, dan mengapa?
 
 A. Kelas 4B, karena suasana yang ramai membuat belajar lebih menyenangkan
@@ -368,6 +390,7 @@ D. Tidak ada, karena rasa aman hanya bisa diberikan oleh Allah
 ---
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi berkata, "Menakut-nakuti teman dengan cerita hantu di tempat gelap itu hanya bercanda biasa." Apakah perkataan Andi benar?
 
 A. Benar, karena teman-teman pasti tertawa
@@ -384,6 +407,7 @@ D. Salah; cerita hantu hanya boleh diceritakan pada siang hari
 ---
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta menemukan dompet teman yang jatuh di halaman sekolah. Ia segera mengembalikannya kepada pemiliknya. Sikap Sinta meneladani Al-Mu'min karena ....
 
 A. ia menjaga keamanan barang milik orang lain
@@ -400,6 +424,7 @@ D. ia takut dompetnya sendiri hilang
 ---
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Al-Mu'min adalah salah satu nama Allah Swt. yang agung. Apa arti Al-Mu'min?
 
 A. Maha Pemberi Keamanan

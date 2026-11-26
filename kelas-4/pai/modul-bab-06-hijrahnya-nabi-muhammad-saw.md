@@ -12,6 +12,7 @@
 ## Sub-bab A: Penyebab Hijrahnya Nabi Muhammad Saw. ke Madinah
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina bertanya, "Mengapa Nabi Muhammad saw. harus pindah dari Makkah ke Madinah, padahal Makkah adalah kampung halaman beliau?" Jawaban yang paling tepat untuk Dina adalah ....
 
 A. Karena dakwah di Makkah sulit berkembang akibat penolakan dan tekanan kaum kafir Quraisy, sedangkan penduduk Madinah meminta beliau tinggal bersama mereka
@@ -28,6 +29,7 @@ D. Karena beliau ingin berdagang di Madinah
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta dan Budi berdebat tentang Baiat 'Aqabah. Sinta berkata, "Penduduk Madinah meminta Nabi Muhammad saw. tinggal bersama mereka dan berjanji membantu berdakwah." Budi berkata, "Penduduk Madinah menolak kedatangan Nabi Muhammad saw." Siapa yang benar?
 
 A. Sinta, karena dalam Baiat 'Aqabah penduduk Madinah memang meminta Nabi tinggal bersama mereka dan berjanji membantu dakwah
@@ -44,6 +46,7 @@ D. Keduanya salah, karena Baiat 'Aqabah tidak ada hubungannya dengan Madinah
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani berkata, "Nabi Muhammad saw. hijrah ke Madinah hanya karena beliau ingin jalan-jalan ke kota lain." Apakah perkataan Rani benar?
 
 A. Benar, karena hijrah sama saja dengan jalan-jalan
@@ -60,6 +63,7 @@ D. Salah; Nabi hijrah karena diusir oleh penduduk Madinah
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kaum kafir Quraisy menolak dakwah Nabi Muhammad saw. dan menekan kaum muslimin di Makkah. Apa akibatnya bagi dakwah di Makkah?
 
 A. Dakwah berkembang sangat cepat karena semakin banyak yang tertarik
@@ -76,6 +80,7 @@ D. Dakwah sulit berkembang karena ditentang dan ditekan oleh kaum Quraisy
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan hijrah?
 
 A. Perpindahan Nabi Muhammad saw. bersama sebagian pengikutnya dari Makkah ke Madinah untuk menyelamatkan diri dari tekanan kaum kafir Quraisy Makkah
@@ -93,6 +98,7 @@ D. Pindahnya penduduk Madinah ke Makkah
 ## Sub-bab B: Perjalanan Hijrah Nabi Muhammad Saw. ke Madinah
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutan peristiwa perjalanan hijrah Nabi Muhammad saw. yang benar adalah ....
 
 A. Tiba di Quba — bersembunyi di Gua Sur — Ali tidur di tempat Nabi — tiba di Madinah
@@ -109,6 +115,7 @@ D. Tiba di Madinah — tiba di Quba — bersembunyi di Gua Sur — Ali tidur di 
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Saat hijrah, Nabi Muhammad saw. dan Abu Bakar bersembunyi di Gua Hira." Apakah perkataan Budi benar?
 
 A. Benar, karena Gua Hira adalah tempat persembunyian Nabi saat hijrah
@@ -125,6 +132,7 @@ D. Salah; Nabi dan Abu Bakar tidak bersembunyi di gua mana pun
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Nabi Muhammad saw. dan Abu Bakar mengambil jalur selatan Makkah (jalur yang biasa dipakai ke Yaman), bukan jalur utara yang biasa dipakai menuju Madinah. Mengapa beliau memilih jalur yang tidak biasa itu?
 
 A. Karena jalur selatan lebih pendek dan lebih cepat sampai
@@ -141,6 +149,7 @@ D. Karena unta mereka hanya bisa berjalan lewat jalur selatan
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam perjalanan hijrah, ada yang bertugas membawa bekal makanan ke Gua Sur dan ada yang bertugas menjadi penunjuk jalan ke Madinah. Siapa mereka berturut-turut?
 
 A. Asma binti Abu Bakar sebagai pembawa bekal, dan Abdullah bin Uraiqit sebagai penunjuk jalan
@@ -157,6 +166,7 @@ D. Amir bin Fuhairah sebagai pembawa bekal, dan Asma binti Abu Bakar sebagai pen
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rombongan Nabi Muhammad saw. tiba di Quba pada 8 Rabiul Awal 1 H dan tinggal di sana selama 4 hari. Setelah itu beliau melanjutkan perjalanan ke kota yang sebelumnya bernama ....
 
 A. Yasrib
@@ -174,6 +184,7 @@ D. Yaman
 ## Sub-bab C: Meneladani Hijrahnya Nabi Muhammad Saw. ke Madinah
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani kesulitan belajar matematika. Ia sudah mencoba sendiri tetapi belum juga paham. Cara yang meneladani sikap ulet Nabi Muhammad saw. dalam hijrah adalah ....
 
 A. Berhenti belajar karena merasa tidak mampu
@@ -190,6 +201,7 @@ D. Meminta guru mengerjakan tugasnya
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi menolong teman yang jatuh di lapangan, lalu ia pulang tanpa meminta pujian atau imbalan apa pun. Sikap Budi meneladani teladan hijrah yang mana?
 
 A. Ikhlas dan rela berkorban, karena ia menolong tanpa mengharap imbalan dan pujian
@@ -206,6 +218,7 @@ D. Ingin mendapat hadiah dari teman yang ditolongnya
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4A mengadakan kerja bakti: semua siswa ikut membantu sesuai kemampuannya — ada yang menyapu, ada yang membawa air, ada yang merapikan meja. Kelas 4B hanya dua siswa yang bekerja, sisanya menonton. Kelas mana yang meneladani kerja sama dalam peristiwa hijrah, dan mengapa?
 
 A. Kelas 4B, karena hanya sedikit siswa yang lelah
@@ -222,6 +235,7 @@ D. Kelas 4A, karena semua kelompok terlibat sesuai perannya — seperti dalam hi
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Tawakal itu berarti tidak perlu berusaha, cukup berdoa saja dan menunggu hasil." Apakah perkataan Dodi benar?
 
 A. Benar, karena berusaha itu tidak penting kalau sudah berdoa
@@ -238,6 +252,7 @@ D. Salah; tawakal berarti menyerah sebelum berusaha
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa arti tawakal?
 
 A. Berserah diri kepada Allah Swt. setelah berusaha dengan sungguh-sungguh
@@ -255,6 +270,7 @@ D. Mengandalkan orang lain untuk menyelesaikan masalah kita
 ## Sub-bab D: Hikmah Hijrah Nabi Muhammad Saw. ke Madinah
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah Nabi Muhammad saw. dan para sahabat tinggal di Madinah, dakwah Islam terus berkembang dan maju dengan pesat. Apa pelajaran yang bisa kita ambil dari hal ini?
 
 A. Dakwah hanya berhasil kalau pindah ke kota lain
@@ -271,6 +287,7 @@ D. Nabi Muhammad saw. meninggalkan Makkah karena tidak menyukainya
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta dan teman-temannya berasal dari suku dan daerah yang berbeda-beda, tetapi mereka bekerja sama membersihkan kelas dan saling membantu saat belajar. Hikmah hijrah yang mereka amalkan adalah ....
 
 A. Menyerah begitu saja tanpa berusaha
@@ -287,6 +304,7 @@ D. Kerja sama dan keterlibatan semua pihak untuk mencapai tujuan bersama
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi membantu teman dengan mengharap hadiah. Rudi membantu teman tanpa mengharap imbalan apa pun. Siapa yang meneladani hikmah hijrah, dan mengapa?
 
 A. Andi, karena bantuan yang diberi hadiah lebih berharga
@@ -303,6 +321,7 @@ D. Tidak ada, karena memberi bantuan tidak ada hubungannya dengan hijrah
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Mengapa Madinah kemudian menjadi pusat perkembangan Islam?
 
 A. Karena Madinah adalah kota kelahiran Nabi Muhammad saw.
@@ -319,6 +338,7 @@ D. Karena Madinah adalah kota yang paling dekat dengan Makkah
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan hikmah?
 
 A. Pelajaran berharga yang bisa diambil dari suatu peristiwa

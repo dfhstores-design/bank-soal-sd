@@ -12,6 +12,7 @@
 ## Unit 7: What Do You Want to Be?
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read the dialogue.
 
 Rina: "What do you want to be?"
@@ -33,6 +34,7 @@ D. "I like apples."
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "I want to be an doctor." What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -49,6 +51,7 @@ D. He should say "I want to be doctor."
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta works in a hospital. She helps the doctor take care of sick people. What does Sinta want to be?
 
 A. A farmer
@@ -65,6 +68,7 @@ D. A singer
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read about two children.
 
 Rani: "I want to be a teacher because I like helping children learn."
@@ -86,6 +90,7 @@ D. Rani, because a teacher works at school
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** A person who grows rice and vegetables on a farm is a ____.
 
 A. Farmer
@@ -103,6 +108,7 @@ D. Artist
 ## Unit 8: Why Do You Want to Be a Singer?
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina asks Budi, "Why do you want to be a singer?" Which is the best answer for Budi?
 
 A. "Because I like cooking."
@@ -119,6 +125,7 @@ D. "Because I am nine years old."
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "I want to be a singer because I like cooking." What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -135,6 +142,7 @@ D. He should say, "Because I like singing," without "I want to be".
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi says, "I want to be a doctor because I like helping sick people." Sinta says, "I want to be a doctor because I like singing." Who gives the right reason for the job, and why?
 
 A. Budi, because a doctor helps sick people.
@@ -151,6 +159,7 @@ D. Neither is right, because a doctor does not help people.
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta says, "I want to be a farmer because I like ____." Which word completes her sentence correctly?
 
 A. teaching children
@@ -167,6 +176,7 @@ D. growing rice and vegetables
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** What does a singer do?
 
 A. Teaches students at school.

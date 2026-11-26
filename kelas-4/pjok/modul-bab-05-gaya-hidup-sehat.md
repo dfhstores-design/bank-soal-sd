@@ -12,6 +12,7 @@
 ## Sub-bab A: Hindari Kebiasaan Screen Time Berlebihan
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina bermain ponsel selama 5 jam tanpa jeda. Matanya terasa perih dan kepalanya pusing. Apa yang salah dari kebiasaan Dina?
 
 A. Dina bermain ponsel sambil duduk, padahal harus sambil berbaring
@@ -28,6 +29,7 @@ D. Dina bermain ponsel sendirian, padahal harus bersama teman
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka biasanya menghabiskan 2 jam sore harinya untuk bermain gim di ponsel. Minggu ini ia mengganti kebiasaan itu dengan bermain bola di lapangan bersama teman-temannya. Apa yang terjadi pada tubuh Raka?
 
 A. Matanya menjadi lebih lelah karena terkena sinar matahari
@@ -44,6 +46,7 @@ D. Tidak ada yang berubah, karena bermain bola dan bermain gim sama saja
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta memakai ponsel 1 jam sehari, tidur jam 9 malam, dan sore harinya bermain di luar. Budi memakai ponsel sampai tengah malam dan jarang keluar rumah. Siapa yang kebiasaannya lebih sehat, dan mengapa?
 
 A. Sinta, karena ia membatasi screen time, tidur cukup, dan tetap aktif bergerak
@@ -60,6 +63,7 @@ D. Budi, karena tidur larut malam membuat badan lebih kuat
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Menonton video di ponsel sampai larut malam membuat tidur kita nyenyak." Apakah perkataan Dodi benar?
 
 A. Benar, karena layar ponsel membuat mata mengantuk
@@ -76,6 +80,7 @@ D. Salah; memakai layar sebelum tidur justru mengganggu tidur, sebaiknya kurangi
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan screen time?
 
 A. Waktu yang dipakai untuk tidur siang
@@ -93,6 +98,7 @@ D. Waktu yang digunakan untuk membaca buku di perpustakaan
 ## Sub-bab B: Makanan Sehat dan Bergizi
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani membawa bekal nasi, telur, sayur bening, dan pisang. Dodi membawa bekal mi instan dan minuman manis saja. Bekal siapa yang lebih bergizi, dan mengapa?
 
 A. Dodi, karena mi instan dan minuman manis lebih mengenyangkan
@@ -109,6 +115,7 @@ D. Dodi, karena bekalnya lebih praktis dan cepat dimakan
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Piring makan Dina penuh dengan nasi saja, tanpa lauk, tanpa sayur, dan tanpa buah. Apa yang kurang dari piring Dina menurut pedoman Isi Piringku?
 
 A. Tidak ada yang kurang, karena nasi saja sudah cukup untuk sekali makan
@@ -125,6 +132,7 @@ D. Yang kurang hanya air putih, karena makanan sudah lengkap
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi tidak sarapan, lalu langsung berolahraga pagi di sekolah. Apa yang kemungkinan terjadi pada tubuh Budi?
 
 A. Budi menjadi lebih kuat, karena perut yang kosong membuat badan ringan
@@ -141,6 +149,7 @@ D. Budi tidak merasakan apa-apa, karena sarapan tidak penting sebelum olahraga
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Jajanan manis dan minuman bersoda setiap hari sama sehatnya dengan makan buah." Apakah perkataan Sinta benar?
 
 A. Benar, karena jajanan manis juga mengandung gula yang memberi energi
@@ -157,6 +166,7 @@ D. Salah; buah tidak mengandung gula sama sekali
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Menurut pedoman "Isi Piringku", dalam sekali makan setengah piring sebaiknya diisi dengan apa?
 
 A. Sayur dan buah
@@ -174,6 +184,7 @@ D. Minuman manis dan kerupuk
 ## Sub-bab C: Penanganan Cedera Ringan
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka jatuh saat bermain dan lututnya lecet. Ia menggaruk lukanya, meniupnya, lalu langsung bermain lagi tanpa membersihkannya. Apa yang salah dari tindakan Raka?
 
 A. Tidak ada yang salah, karena luka lecet sembuh sendiri
@@ -190,6 +201,7 @@ D. Raka seharusnya menutup luka dengan tanah supaya cepat kering
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta tertabrak bola dan pahanya memar serta membengkak. Ia mengompres memar itu dengan es yang dibungkus kain selama 15 menit. Apa yang terjadi pada memarnya?
 
 A. Memarnya menjadi lebih bengkak, karena es membuat darah membeku
@@ -206,6 +218,7 @@ D. Tidak ada yang berubah, karena memar tidak boleh dikompres
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat latihan lari, betis Dina kram. Sinta berhenti, meregangkan betisnya perlahan, memijatnya ringan, dan minum air. Budi tetap berlari sambil menahan sakit. Cara siapa yang benar menangani kram, dan mengapa?
 
 A. Budi, karena kram akan hilang sendiri kalau terus berlari
@@ -222,6 +235,7 @@ D. Budi, karena berhenti berlari membuat otot semakin kaku
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah jatuh dari sepeda, kaki Rudi membengkak, nyerinya hebat dan tidak mereda, dan ia tidak bisa berdiri menopang berat badannya. Apa yang harus dilakukan Rudi?
 
 A. Tetap berjalan seperti biasa supaya kakinya tidak kaku
@@ -238,6 +252,7 @@ D. Segera memberi tahu guru atau orang tua dan mencari bantuan medis, karena itu
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Prinsip RICE dipakai untuk menangani cedera ringan seperti memar dan keseleo. Apa kepanjangan RICE?
 
 A. Rest, Ice, Compression, Elevation — istirahatkan, kompres es, balut tekan, dan angkat bagian yang cedera

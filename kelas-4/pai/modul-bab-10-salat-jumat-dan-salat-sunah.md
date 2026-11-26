@@ -12,6 +12,7 @@
 ## Sub-bab A: Pelaksanaan Salat Jumat
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi datang ke masjid ketika khutbah Jumat sedang berlangsung. Ia duduk di samping temannya yang sedang bercerita. Sikap Budi yang benar saat khutbah adalah ....
 
 A. Ikut bercerita dengan temannya sambil menunggu salat dimulai
@@ -28,6 +29,7 @@ D. Pulang karena salat belum dimulai
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka membandingkan salat Jumat dengan salat Zuhur. Manakah pernyataan yang benar tentang keduanya?
 
 A. Salat Jumat 4 rakaat dan salat Zuhur 2 rakaat
@@ -44,6 +46,7 @@ D. Salat Jumat 2 rakaat setelah khutbah, sedangkan salat Zuhur 4 rakaat tanpa kh
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Salat Jumat wajib bagi semua orang Islam, termasuk perempuan, anak-anak, dan orang yang sedang sakit." Apakah perkataan Dodi benar?
 
 A. Salah; salat Jumat wajib bagi laki-laki Muslim yang balig, berakal sehat, dan bermukim — perempuan, anak-anak, orang sakit, dan musafir tidak wajib
@@ -60,6 +63,7 @@ D. Salah; salat Jumat hanya wajib bagi anak-anak yang sudah bisa membaca Al-Qur'
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutan tata cara pelaksanaan salat Jumat yang benar adalah ....
 
 A. Salat Jumat 2 rakaat — mendengarkan khutbah — salat tahiyatul masjid — datang ke masjid
@@ -76,6 +80,7 @@ D. Salat tahiyatul masjid — salat Jumat 2 rakaat — mendengarkan khutbah — 
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan salat Jumat?
 
 A. Salat sunah 2 rakaat yang dilaksanakan pada hari Jumat pagi
@@ -93,6 +98,7 @@ D. Salat wajib 2 rakaat yang dilaksanakan secara berjamaah pada hari Jumat saat 
 ## Sub-bab B: Salat Sunah
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta bangun sebelum Subuh dan mengerjakan salat 2 rakaat sebelum salat Subuh dimulai. Salat yang dikerjakan Sinta itu disebut ....
 
 A. Salat rawatib qabliyah Subuh
@@ -109,6 +115,7 @@ D. Salat Witir
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani ingin mengerjakan salat Duha, sedangkan Budi ingin mengerjakan salat Tahajud. Kapan waktu yang tepat bagi masing-masing?
 
 A. Duha dikerjakan malam hari setelah tidur, Tahajud dikerjakan pagi hari setelah matahari naik
@@ -125,6 +132,7 @@ D. Duha dikerjakan setelah salat Isya, Tahajud dikerjakan sebelum Subuh tanpa pe
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Salat witir dikerjakan pada pagi hari dengan jumlah 2 rakaat." Apakah perkataan Budi benar?
 
 A. Benar, witir memang salat pagi yang dikerjakan 2 rakaat
@@ -141,6 +149,7 @@ D. Salah; witir adalah salat sunah yang mengiringi salat Zuhur
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pada bulan Ramadan, setelah salat Isya, jamaah di masjid melaksanakan salat sunah secara berjamaah sampai beberapa rakaat. Salat sunah apakah itu?
 
 A. Salat Duha
@@ -157,6 +166,7 @@ D. Salat Tarawih
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan salat sunah?
 
 A. Salat yang wajib dikerjakan, dan berdosa jika ditinggalkan

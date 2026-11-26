@@ -12,6 +12,7 @@
 ## Sub-bab A: Peran dan Tugasku di Lingkungan Sekolah dan Masyarakat
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina adalah ketua kelas. Hari ini ada teman sekelasnya yang kesulitan memahami pelajaran matematika, sementara papan tulis di kelas masih kotor setelah pelajaran sebelumnya. Apa tindakan Rina yang paling tepat sebagai ketua kelas?
 
 A. Membiarkan papan tulis tetap kotor dan menyuruh teman itu belajar sendiri di rumah
@@ -28,6 +29,7 @@ D. Melaporkan teman yang kesulitan itu kepada guru agar dimarahi
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua peran berikut.
 
 Peran 1: Sinta di sekolah — ia belajar dengan tekun, mematuhi tata tertib, dan menjaga kebersihan kelas.
@@ -49,6 +51,7 @@ D. Keduanya tidak ada hubungannya, karena Sinta di sekolah dan Sinta di rumah ad
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Tugasku di sekolah hanya belajar. Menjaga kebersihan kelas dan membantu teman bukan tugasku, itu urusan petugas kebersihan dan guru." Apakah perkataan Dodi benar?
 
 A. Benar, karena siswa memang hanya perlu belajar dan mendapat nilai bagus
@@ -65,6 +68,7 @@ D. Salah; Dodi seharusnya tidak belajar sama sekali dan hanya membersihkan kelas
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di lingkungan tempat tinggal Budi, ada tetangga baru yang pindah dan belum mengenal siapa pun. Di sekolah, Budi juga melihat ada teman baru yang duduk sendirian saat istirahat. Apa yang sebaiknya dilakukan Budi sebagai warga masyarakat dan sebagai teman sekelas?
 
 A. Membiarkan tetangga baru dan teman baru itu sendirian, karena mereka akan berkenalan sendiri pada waktunya
@@ -81,6 +85,7 @@ D. Menjauhi tetangga baru dan teman baru itu karena mereka orang asing yang belu
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Peran adalah ....
 
 A. Tugas atau kedudukan seseorang dalam suatu lingkungan, misalnya sebagai siswa di sekolah atau sebagai warga di masyarakat
@@ -98,6 +103,7 @@ D. Seragam yang dipakai seseorang saat pergi ke sekolah
 ## Sub-bab B: Peraturan dan Tanggung Jawabku
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sekolah Rani ada peraturan: siswa harus membuang sampah pada tempatnya dan tidak boleh mencoret-coret meja. Suatu hari, Rani melihat temannya membuang bungkus permen di lantai kelas. Sikap Rani yang paling menunjukkan tanggung jawab adalah ....
 
 A. Membiarkan saja karena bukan sampah Rani
@@ -114,6 +120,7 @@ D. Melaporkan temannya kepada guru dengan cara mengejeknya di depan kelas
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua aturan berikut.
 
 (1) Tata tertib sekolah: siswa wajib memakai seragam sesuai jadwal dan datang tepat waktu.
@@ -135,6 +142,7 @@ D. Keduanya bukan peraturan, karena hanya kebiasaan yang boleh diabaikan
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Peraturan lalu lintas itu hanya untuk orang dewasa yang mengendarai kendaraan. Anak-anak yang berjalan kaki tidak perlu mematuhinya." Apakah perkataan Dodi benar?
 
 A. Benar, karena anak-anak tidak mengendarai kendaraan
@@ -151,6 +159,7 @@ D. Salah; anak-anak memang tidak perlu mematuhi peraturan apa pun
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setiap hari Senin, kelas 4 mendapat giliran piket membersihkan kelas. Minggu ini, Budi adalah petugas piket, tetapi ia pulang lebih dulu tanpa membersihkan kelas dengan alasan ada yang akan menggantikannya. Akibat yang paling mungkin terjadi dari sikap Budi adalah ....
 
 A. Kelas menjadi kotor dan teman-teman sekelas merasa dirugikan karena harus mengerjakan tugas Budi
@@ -167,6 +176,7 @@ D. Tidak ada akibat apa-apa, karena piket adalah tugas yang boleh ditinggalkan
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tanggung jawab adalah ....
 
 A. Kesadaran diri untuk melaksanakan tugas dan kewajiban dengan sebaik-baiknya
@@ -184,6 +194,7 @@ D. Hukuman yang diberikan kepada orang yang melanggar peraturan
 ## Sub-bab C: Interaksi Sosial di Lingkungan Sekolah dan Masyarakat
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di lorong sekolah, Rudi berpapasan dengan Bu Guru yang sedang membawa setumpuk buku. Sikap Rudi yang paling tepat adalah ....
 
 A. Berlari menghindar supaya tidak bertemu Bu Guru
@@ -200,6 +211,7 @@ D. Berteriak menyapa Bu Guru dari ujung lorong
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua kelompok belajar berikut.
 
 Kelompok 1: Saat berdiskusi, setiap anggota boleh menyampaikan pendapatnya, anggota lain mendengarkan dengan saksama, lalu mereka memutuskan bersama.
@@ -221,6 +233,7 @@ D. Kelompok 2, karena memusuhi teman yang tidak setuju membuat kelompok lebih ko
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Mengejek teman itu wajar, asalkan hanya bercanda. Teman yang diejek harusnya tidak usah marah." Apakah perkataan Dodi benar?
 
 A. Benar, karena candaan tidak pernah menyakiti siapa pun
@@ -237,6 +250,7 @@ D. Salah; mengejek itu boleh, asalkan dilakukan di luar kelas
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga baru pindah ke rumah di sebelah rumah Sinta. Sore hari, Sinta melihat ibu dari keluarga itu kebingungan mencari toko kelontong terdekat. Tindakan Sinta yang menunjukkan interaksi sosial yang baik di lingkungan masyarakat adalah ....
 
 A. Membiarkan saja karena itu bukan urusan Sinta
@@ -253,6 +267,7 @@ D. Menyuruh ibu itu bertanya kepada orang lain saja
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Interaksi sosial adalah ....
 
 A. Hubungan timbal balik antara individu atau kelompok dalam masyarakat

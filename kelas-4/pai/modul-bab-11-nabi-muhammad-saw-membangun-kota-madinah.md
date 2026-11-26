@@ -12,6 +12,7 @@
 ## Sub-bab A: Membangun Masjid
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setiba di Madinah, hal pertama yang dilakukan Nabi Muhammad saw. adalah membangun masjid. Mengapa masjid yang dibangun lebih dulu, bukan istana atau pasar?
 
 A. Supaya Nabi mempunyai bangunan terbesar di kota Madinah
@@ -28,6 +29,7 @@ D. Supaya Nabi mempunyai rumah yang besar untuk keluarganya
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Masjid Nabawi itu hanya dipakai untuk salat saja, sama seperti masjid lain." Apakah perkataan Budi benar?
 
 A. Benar, karena masjid memang hanya tempat salat
@@ -44,6 +46,7 @@ D. Salah; Masjid Nabawi hanya dipakai untuk musyawarah, bukan untuk salat
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tanah tempat Masjid Nabawi dibangun semula adalah tempat mengeringkan kurma milik dua anak yatim, Suhail dan Sahel. Apa yang dilakukan Nabi Muhammad saw. terhadap tanah itu?
 
 A. Nabi membeli tanah itu dengan cara yang benar dan menghormati hak pemiliknya
@@ -60,6 +63,7 @@ D. Nabi memindahkan kedua anak yatim itu jauh-jauh dari Madinah
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Masjid Nabawi dibangun dari bahan yang sangat sederhana: fondasi batu keras, dinding bata tanah, tiang batang kurma, dan atap daun kurma. Nabi Muhammad saw. sendiri ikut mengangkat batu bersama para sahabat. Apa teladan dari kisah ini?
 
 A. Bangunan masjid harus selalu dibuat dari bahan termahal supaya dihormati
@@ -76,6 +80,7 @@ D. Kesederhanaan dan gotong royong — Nabi tidak hanya memerintah, beliau ikut 
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Masjid yang dibangun Nabi Muhammad saw. di Madinah disebut ....
 
 A. Masjid Nabawi
@@ -93,6 +98,7 @@ D. Masjidil Aqsa
 ## Sub-bab B: Mempersaudarakan Kaum Muhajirin dan Ansar
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kaum Muhajirin tiba di Madinah tanpa membawa harta dan tanpa kerabat, karena mereka meninggalkan semuanya di Makkah. Kaum Ansar lalu membuka rumah mereka dan berbagi harta dengan kaum Muhajirin. Sikap kaum Ansar yang patut diteladani adalah ....
 
 A. Menolong pendatang yang membutuhkan dengan ikhlas dan berbagi apa yang dimiliki
@@ -109,6 +115,7 @@ D. Meminta bayaran dari kaum Muhajirin atas setiap bantuan yang diberikan
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani membaca dua kelompok dalam kisah hijrah: kelompok pertama hijrah dari Makkah ke Madinah bersama Nabi, kelompok kedua adalah penduduk Madinah yang menolong Nabi dan rombongannya. Kelompok pertama dan kedua itu berturut-turut adalah ....
 
 A. Kaum Ansar dan kaum Muhajirin
@@ -125,6 +132,7 @@ D. Kaum Ansar dan kaum Ansar
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rasulullah saw. bersabda, "Sesungguhnya orang mukmin yang satu dengan yang lain seperti bangunan yang sebagian menguatkan sebagian yang lain." (HR. Bukhari dan Muslim). Dodi berkata, "Persaudaraan Muhajirin dan Ansar itu hanya menguntungkan kaum Muhajirin saja." Apakah perkataan Dodi benar?
 
 A. Benar, karena kaum Ansar hanya memberi tanpa mendapat apa-apa
@@ -141,6 +149,7 @@ D. Salah; kaum Muhajirin dan Ansar sebenarnya tidak pernah dipersaudarakan
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di Madinah tidak hanya tinggal kaum muslim, tetapi juga kaum Yahudi. Untuk menjaga kerukunan seluruh penduduk, Nabi Muhammad saw. membuat sebuah perjanjian yang dikenal sebagai Piagam Madinah. Apa isi penting perjanjian itu?
 
 A. Kaum Yahudi diusir keluar dari Madinah
@@ -157,6 +166,7 @@ D. Semua penduduk Madinah diakui sebagai satu umat, saling melindungi, dan bebas
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kaum Ansar adalah penduduk Madinah yang menolong Nabi Muhammad saw. dan kaum Muhajirin. Kaum Ansar terdiri dari suku ....
 
 A. Aus dan Khazraj
@@ -174,6 +184,7 @@ D. Aus dan Bani Nadir
 ## Sub-bab C: Meneladani Kisah Nabi Muhammad Saw. Membangun Kota Madinah
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kelas Sinta ada teman baru pindahan dari daerah lain. Ia belum mempunyai teman dan masih bingung dengan lingkungan sekolah yang baru. Meneladani persaudaraan kaum Muhajirin dan Ansar, sikap Sinta yang paling tepat adalah ....
 
 A. Membiarkannya sendiri supaya ia belajar mandiri
@@ -190,6 +201,7 @@ D. Menjauhinya karena ia bukan berasal dari daerah yang sama
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4A membersihkan masjid di dekat sekolah secara gotong royong: semua anak ikut — ada yang menyapu, ada yang mengepel, ada yang merapikan sajadah. Kelas 4B hanya satu anak yang bekerja, sisanya menonton dari jauh. Kelas mana yang meneladani kisah Nabi Muhammad saw. membangun Masjid Nabawi, dan mengapa?
 
 A. Kelas 4A, karena semua anak ikut bekerja sama seperti Nabi dan para sahabat yang bergotong royong membangun masjid
@@ -206,6 +218,7 @@ D. Tidak ada, karena membersihkan masjid tidak ada hubungannya dengan kisah Nabi
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Untuk membangun kota yang baik, cukup membangun gedung-gedung yang bagus. Persaudaraan dan kerukunan tidak penting." Apakah perkataan Sinta benar?
 
 A. Benar, karena kota yang baik diukur dari bangunannya saja
@@ -222,6 +235,7 @@ D. Salah; Nabi tidak pernah membangun apa pun di Madinah
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tetangga baru yang berbeda agama pindah ke rumah di sebelah rumah Budi. Meneladani Piagam Madinah yang dibuat Nabi Muhammad saw., sikap Budi yang paling tepat adalah ....
 
 A. Mengusir tetangga baru itu dari kampungnya
@@ -238,6 +252,7 @@ D. Menghormatinya, menyapanya dengan ramah, dan hidup rukun sebagai tetangga
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Nabi Muhammad saw. mempersaudarakan kaum Muhajirin dan kaum Ansar. Persaudaraan yang dijalin Nabi itu dalam bahasa Arab disebut ....
 
 A. Ukhuwah

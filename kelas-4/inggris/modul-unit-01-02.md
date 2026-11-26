@@ -12,6 +12,7 @@
 ## Unit 1: Where Are You From?
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read the dialogue.
 
 Rina: "Hello! My name is Rina. Where are you from?"
@@ -33,6 +34,7 @@ D. "I'm nine years old."
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "I'm from Indonesian." What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -49,6 +51,7 @@ D. He should say "I'm Indonesian from."
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read the two introductions.
 
 Sinta: "Hello, I'm Sinta. I'm from Medan."
@@ -70,6 +73,7 @@ D. Budi, because "I'm Medan" is correct.
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** A new friend from Japan says hello to you. Which sentence is correct for him to say about where he is from?
 
 A. "I'm from Japan."
@@ -86,6 +90,7 @@ D. "From Japan I am."
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani lives in Surabaya. Surabaya is a city in ____.
 
 A. Japan
@@ -103,6 +108,7 @@ D. Singapore
 ## Unit 2: What's Your Brother Like?
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani's brother always tells jokes. He makes everyone laugh. What is he like?
 
 A. He is sad.
@@ -119,6 +125,7 @@ D. He is shy.
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** My brother is strong. He can lift a big box. My sister is smart. She always gets 100 in English. Who can lift a big box?
 
 A. My sister, because she is smart.
@@ -135,6 +142,7 @@ D. My brother, because he is smart.
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka says, "My sister is short and tall at the same time." What is wrong with his sentence?
 
 A. Nothing is wrong. A person can be short and tall.
@@ -151,6 +159,7 @@ D. "Short" is the wrong word. He should say "small".
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Your friend always helps other people. She shares her food with her classmates. What is she like?
 
 A. She is kind.
@@ -167,6 +176,7 @@ D. She is sad.
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** What is the opposite of "tall"?
 
 A. Big

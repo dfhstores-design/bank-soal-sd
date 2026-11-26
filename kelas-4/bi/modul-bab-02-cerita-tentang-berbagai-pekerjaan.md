@@ -12,6 +12,7 @@
 ## Sub-bab A: Mengenali Cerita tentang Pekerjaan
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cuplikan cerita berikut.
 
 > Setiap pagi sebelum matahari terbit, Pak Seno sudah berjalan menuju sawahnya. Ia memeriksa air di petak sawah, lalu menanam bibit padi satu per satu dengan hati-hati. Meski lumpur menempel di kakinya, Pak Seno tersenyum. Ia bangga menjadi petani.
@@ -32,6 +33,7 @@ D. Matahari
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cuplikan cerita berikut.
 
 > Bu Rina adalah penjahit di ujung gang. Ia menjahit dengan rapi dan selalu menyelesaikan pesanan tepat waktu, sehingga pelanggannya senang. Berbeda dengan Pak Dedi, penjahit di gang sebelah. Ia sering menjahit asal-asalan dan pesanannya sering terlambat, sehingga pelanggannya kecewa.
@@ -52,6 +54,7 @@ D. Bu Rina pemalas, sedangkan Pak Dedi rajin.
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cuplikan cerita berikut.
 
 > Pada suatu pagi yang cerah, di tepi pantai, Pak Jaka duduk memperbaiki jaringnya yang robek. Angin sepoi-sepoi bertiup lembut dan ombak berdesir pelan.
@@ -72,6 +75,7 @@ D. Pak Jaka
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cuplikan cerita berikut.
 
 > Bu Sari adalah perawat di puskesmas desa. Suatu malam, seorang anak demam tinggi dibawa ke puskesmas. Meski jam kerjanya sudah selesai, Bu Sari tetap tinggal dan merawat anak itu sampai demamnya turun. Keesokan paginya, anak itu sudah bisa tersenyum lagi.
@@ -92,6 +96,7 @@ D. Menolong orang lain dengan tulus adalah perbuatan yang mulia.
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cuplikan cerita berikut.
 
 > Pak Anto adalah seorang nelayan. Sebelum berangkat, ia menyiapkan perahu dan jaringnya dengan teliti. Di tengah laut, ia menangkap banyak ikan. Sesampainya di darat, ia menjual ikan hasil tangkapannya di pasar. Uang hasil penjualan itu ia pakai untuk membeli buku pelajaran bagi anaknya.
@@ -113,6 +118,7 @@ D. Menangkap ikan → membeli buku → menyiapkan perahu → menjual ikan di pas
 ## Sub-bab B: Mengenali Berbagai Pekerjaan
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pak Budi berangkat bekerja sebelum matahari terbit sambil membawa cangkul. Di sawah, ia menanam padi dan menyiangi rumput yang tumbuh di antara tanaman. Pekerjaan Pak Budi adalah ....
 
 A. Nelayan
@@ -129,6 +135,7 @@ D. Sopir
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Petani dan nelayan sama-sama menghasilkan bahan makanan untuk kita. Apa perbedaan utama pekerjaan mereka?
 
 A. Petani bekerja di laut, sedangkan nelayan bekerja di sawah.
@@ -145,6 +152,7 @@ D. Petani dan nelayan sama-sama bekerja di pasar.
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Baju seragam Sinta robek di bagian lengan. Kepada siapa Sinta sebaiknya meminta tolong untuk memperbaikinya?
 
 A. Dokter
@@ -161,6 +169,7 @@ D. Penjahit
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Semua pekerjaan itu sama saja, tidak ada bedanya." Apakah perkataan Dodi benar?
 
 A. Salah; setiap pekerjaan berbeda tugas, alat, dan tempat kerjanya.
@@ -177,6 +186,7 @@ D. Salah; hanya dokter dan guru saja yang pekerjaannya berbeda.
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Orang yang pekerjaannya mengobati orang sakit di rumah sakit disebut ....
 
 A. Guru
@@ -194,6 +204,7 @@ D. Petani
 ## Sub-bab C: Menceritakan Kembali isi Cerita tentang Pekerjaan
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cerita pendek berikut.
 
 > Setiap pagi, Pak Darman pergi ke sawah. Ia menanam padi dan menyirami tanaman. Ketika musim panen tiba, ia memanen padi bersama keluarganya. Hasil panennya ia jual ke pasar.
@@ -214,6 +225,7 @@ D. Pak Darman adalah petani yang pergi ke sawah setiap pagi.
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cerita pendek berikut.
 
 > Pak Joko seorang nelayan. Setiap malam ia melaut dengan perahunya. Pagi harinya ia pulang membawa ikan. Ikan itu ia jual di pasar, dan sebagian ia berikan kepada tetangganya.
@@ -234,6 +246,7 @@ D. Pak Joko bekerja sebagai nelayan. Ia melaut pada malam hari, menjual hasil ta
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cerita pendek berikut.
 
 > Bu Ratna seorang dokter di puskesmas. Setiap hari ia memeriksa pasien yang sakit. Ia memberi obat dan menasihati pasien agar menjaga kesehatan. Suatu hari, seorang anak demam datang berobat. Bu Ratna memeriksanya dengan teliti dan memberi obat penurun panas.
@@ -254,6 +267,7 @@ D. Bu Ratna seorang dokter di puskesmas. Ia memeriksa pasien, memberi obat, dan 
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cerita pendek berikut.
 
 > Bu Sinta seorang guru di SD Harapan. Ia mengajar dengan sabar. Murid-muridnya senang belajar bersamanya. Suatu hari, Dodi tidak bisa mengerjakan soal matematika. Bu Sinta membantunya dengan sabar sampai Dodi mengerti. Sejak itu Dodi semakin rajin belajar.
@@ -274,6 +288,7 @@ D. Sekolah harus mempunyai guru yang banyak.
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan menceritakan kembali isi cerita?
 
 A. Menyalin seluruh isi cerita kata demi kata.
@@ -291,6 +306,7 @@ D. Membaca cerita dengan suara keras di depan kelas.
 ## Sub-bab D: Menulis cerita tentang Pekerjaan
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menulis cerita tentang Pak Hasan, seorang petani. Ia menulis tiga kalimat ini, tetapi urutannya masih acak.
 
 (1) Setiap pagi, Pak Hasan pergi ke sawah membawa cangkul dan bekal.
@@ -313,6 +329,7 @@ D. (2) – (3) – (1)
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani akan menulis cerita tentang Bu Sari, seorang dokter di puskesmas. Kalimat pembuka mana yang paling tepat untuk cerita Rani?
 
 A. "Bu Sari sudah bekerja di puskesmas selama sepuluh tahun dan sangat disayangi pasiennya."
@@ -329,6 +346,7 @@ D. "Aku ingin menjadi dokter seperti Bu Sari ketika sudah besar nanti."
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan kalimat dari draf cerita Budi berikut.
 
 "kemarin pak rudi memeriksa pasien di rumah sakit ia bekerja dengan teliti"
@@ -349,6 +367,7 @@ D. Tidak ada kesalahan; kalimat itu sudah benar.
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah cerita pendek berikut.
 
 Pak Arman adalah seorang tukang pos. Setiap pagi, ia mengantar surat ke rumah-rumah di desanya. Suatu hari hujan turun sangat deras, tetapi Pak Arman tetap berangkat. "Surat-surat ini sudah ditunggu penerimanya," katanya. Ia memakai jas hujan dan mengayuh sepedanya perlahan. Semua surat sampai tepat waktu.
@@ -369,6 +388,7 @@ D. Kita harus bertanggung jawab dan tekun menyelesaikan pekerjaan, meskipun ada 
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam sebuah cerita tentang pekerjaan, bagian yang menunjukkan di mana dan kapan peristiwa itu terjadi disebut ....
 
 A. tokoh

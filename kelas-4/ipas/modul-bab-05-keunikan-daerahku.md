@@ -12,6 +12,7 @@
 ## Sub-bab A: Tingkatan Keragaman Hayati
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kebun Pak RT ada tiga pohon mangga: mangga arumanis, mangga manalagi, dan mangga golek. Buahnya berbeda-beda rasa dan bentuknya, tetapi ketiganya sama-sama satu jenis mangga. Keragaman apakah yang ditunjukkan oleh ketiga pohon mangga itu?
 
 A. Keragaman ekosistem, karena ketiganya hidup di kebun yang sama
@@ -28,6 +29,7 @@ D. Keragaman habitat, karena ketiganya ditanam di tempat yang berbeda
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di halaman sekolah ada jeruk bali, jeruk nipis, dan jeruk manis. Ketiganya sama-sama dari genus Citrus, tetapi buahnya berbeda ukuran, rasa, dan bentuknya. Sementara itu, di kebun ada mangga arumanis dan mangga manalagi yang buahnya juga berbeda. Manakah pasangan yang menunjukkan keragaman spesies?
 
 A. Mangga arumanis dan mangga manalagi, karena buahnya berbeda rasa
@@ -44,6 +46,7 @@ D. Mangga manalagi dan jeruk manis, karena keduanya sama-sama manis
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berwisata ke tiga tempat: hutan hujan tropis, pantai, dan sawah. Di hutan ia melihat pohon besar, kera, dan burung. Di pantai ia melihat pohon kelapa, burung pantai, dan kepiting. Di sawah ia melihat padi, katak, dan belut. Mengapa makhluk hidup di ketiga tempat itu berbeda-beda?
 
 A. Karena ketiga tempat itu mempunyai ekosistem yang berbeda — letak, iklim, suhu, dan curah hujannya berbeda sehingga makhluk hidupnya pun berbeda
@@ -60,6 +63,7 @@ D. Karena Sinta mengunjungi ketiga tempat itu pada hari yang sama
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Mangga arumanis dan mangga manalagi itu spesiesnya berbeda, karena rasa dan bentuk buahnya tidak sama." Apakah perkataan Dodi benar?
 
 A. Benar, karena buah yang berbeda rasa pasti berbeda spesies
@@ -76,6 +80,7 @@ D. Salah; mangga arumanis dan mangga manalagi adalah ekosistem yang berbeda
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keanekaragaman hayati mempunyai tiga tingkatan, yaitu ....
 
 A. Keragaman gen, keragaman spesies, dan keragaman ekosistem
@@ -93,6 +98,7 @@ D. Keragaman ekosistem, keragaman tanah, dan keragaman air
 ## Sub-bab B: Keragaman Hayati di Indonesia
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mengumpulkan empat kartu hewan endemik Indonesia. Pada setiap kartu tertulis nama hewan dan daerah asalnya. Pasangan hewan dan daerah asal manakah yang benar?
 
 A. Komodo — Papua
@@ -109,6 +115,7 @@ D. Orangutan — Nusa Tenggara Timur
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Hutan di Kalimantan tempat tinggal orangutan ditebangi untuk membuka lahan. Apa yang paling mungkin terjadi pada orangutan di sana?
 
 A. Orangutan akan pindah ke Papua dan hidup seperti biasa
@@ -125,6 +132,7 @@ D. Orangutan tidak terpengaruh karena ia bisa hidup di mana saja
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi dan Sinta berdebat tentang burung cendrawasih. Dodi berkata cendrawasih hidup di Sumatra, sedangkan Sinta berkata cendrawasih hidup di Papua. Siapa yang benar, dan mengapa?
 
 A. Dodi benar, karena cendrawasih adalah burung yang hidup di seluruh Indonesia
@@ -141,6 +149,7 @@ D. Sinta benar, karena semua burung Indonesia berasal dari Papua
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Hewan endemik bisa dipindahkan ke mana saja, asalkan diberi makan yang cukup. Jadi, komodo bisa dipelihara di halaman rumah di Jawa." Apakah perkataan Budi benar?
 
 A. Benar, karena makanan adalah satu-satunya kebutuhan hewan
@@ -157,6 +166,7 @@ D. Salah; komodo hanya bisa hidup di dalam kandang kebun binatang
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tumbuhan dan hewan endemik adalah ....
 
 A. Tumbuhan dan hewan yang hidup di seluruh dunia
@@ -174,6 +184,7 @@ D. Tumbuhan dan hewan yang hidup di dalam air saja
 ## Sub-bab C: Keragaman Sumber Daya Alam di Indonesia
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua daerah berikut.
 
 Daerah A: tanahnya subur, sawah terbentang luas, warganya menanam padi dan sayur.
@@ -195,6 +206,7 @@ D. Kedua daerah sama-sama tidak punya sumber daya alam
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga Rina tinggal di desa yang terkenal dengan hasil tambang minyak buminya, sedangkan keluarga Dodi tinggal di desa nelayan di tepi pantai. Mengapa mata pencaharian warga di kedua desa itu berbeda?
 
 A. Karena warga Desa Rina lebih rajin daripada warga desa Dodi
@@ -211,6 +223,7 @@ D. Karena ikan di laut hanya bisa ditangkap pada musim hujan
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Minyak bumi dan padi itu sama saja, keduanya bisa ditanam lagi kalau sudah habis." Apakah perkataan Dodi benar?
 
 A. Benar, karena minyak bumi dan padi sama-sama berasal dari alam
@@ -227,6 +240,7 @@ D. Salah; padi termasuk SDA yang tidak dapat diperbarui, sedangkan minyak bumi b
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sekolah, ada pameran hasil daerah dari seluruh Indonesia. Kelompok Rani menampilkan teh dari dataran tinggi, kelompok Budi menampilkan ikan asin dari daerah pantai, dan kelompok Sinta menampilkan batu bara dari daerah tambang. Apa yang dapat disimpulkan dari pameran itu?
 
 A. Semua daerah di Indonesia menghasilkan barang yang sama
@@ -243,6 +257,7 @@ D. Batu bara adalah hasil pertanian seperti teh dan ikan asin
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sumber daya alam hayati adalah ....
 
 A. Sumber daya alam yang berasal dari makhluk hidup, seperti tumbuhan dan hewan
@@ -260,6 +275,7 @@ D. Sumber daya alam yang berasal dari udara, seperti angin dan sinar matahari
 ## Sub-bab D: Keragaman Kegiatan Ekonomi di Indonesia
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan kegiatan berikut.
 
 1. Petani menanam padi di sawah dan memanennya menjadi gabah.
@@ -282,6 +298,7 @@ D. Distribusi → konsumsi → produksi
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Desa A terletak di pegunungan yang udaranya sejuk dan tanahnya subur. Desa B terletak di pesisir pantai yang berhadapan langsung dengan laut. Pasangan kegiatan ekonomi yang paling sesuai dengan keadaan kedua desa itu adalah ....
 
 A. Desa A nelayan, Desa B petani teh
@@ -298,6 +315,7 @@ D. Desa A pedagang di mal, Desa B petani padi
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Kegiatan ekonomi di semua daerah di Indonesia itu sama saja, karena semua orang butuh makan." Apakah perkataan Dodi benar?
 
 A. Salah; kegiatan ekonomi berbeda-beda di tiap daerah karena kondisi alam dan sumber daya alamnya berbeda
@@ -314,6 +332,7 @@ D. Salah; kegiatan ekonomi hanya ada di kota, bukan di desa
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan tiga kegiatan berikut.
 
 1. Pak Budi, seorang pengrajin anyaman, membuat keranjang dari bambu.
@@ -336,6 +355,7 @@ D. Distribusi, karena ia menyalurkan keranjang dari pengrajin ke toko
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kegiatan ekonomi adalah ....
 
 A. Kegiatan yang dilakukan manusia untuk memenuhi kebutuhan hidupnya
@@ -353,6 +373,7 @@ D. Kegiatan tidur siang setelah makan
 ## Sub-bab E: Jenis-Jenis Usaha Ekonomi di Indonesia
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga Pak Hasan tinggal di dataran tinggi yang udaranya sejuk. Mereka mengolah lahan yang luas untuk menanam teh dan kopi, lalu hasil panennya dijual ke pabrik. Jenis usaha ekonomi apakah yang dilakukan keluarga Pak Hasan?
 
 A. Perikanan, karena hasilnya berasal dari air
@@ -369,6 +390,7 @@ D. Perdagangan, karena mereka menjual hasil panen ke pabrik
 ---
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua usaha berikut.
 
 1. Pak Ahmad memelihara sapi perah di kandangnya. Setiap pagi ia memerah susu sapi itu untuk dijual.
@@ -390,6 +412,7 @@ D. Usaha Pak Dedi termasuk usaha agraris, karena hasilnya berasal dari alam
 ---
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Usaha jasa itu tidak berguna, karena tidak menghasilkan barang apa-apa." Apakah perkataan Dodi benar?
 
 A. Salah; usaha jasa menghasilkan pelayanan yang bermanfaat, misalnya dokter memeriksa pasien dan sopir mengantar penumpang ke tempat tujuan
@@ -406,6 +429,7 @@ D. Benar, karena usaha jasa hanya dilakukan oleh orang yang tidak punya modal
 ---
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bu Ratna membuka warung kelontong di depan rumahnya. Ia sendiri yang membeli barang dagangan, mengatur warung, dan melayani pembeli. Di sekolah Sinta ada koperasi sekolah yang dikelola bersama oleh beberapa guru dan murid, dengan modal dari simpanan para anggotanya. Manakah pernyataan yang benar tentang kedua usaha itu?
 
 A. Warung Bu Ratna adalah usaha bersama, sedangkan koperasi sekolah adalah usaha perorangan
@@ -422,6 +446,7 @@ D. Warung Bu Ratna adalah usaha perorangan, sedangkan koperasi sekolah adalah us
 ---
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perdagangan adalah ....
 
 A. Kegiatan mengolah bahan mentah menjadi barang jadi, misalnya kayu diolah menjadi kursi

@@ -12,6 +12,7 @@
 ## Unit 10: How Much Snow Is There?
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina looks out of the window. It is winter, and white snow covers the street. She asks her brother, "How much snow is there?" Which is the best answer?
 
 A. "There are three snow."
@@ -28,6 +29,7 @@ D. "It is summer."
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "How many snow is there?" What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -44,6 +46,7 @@ D. He should say, "How much snowman is there?"
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** In City A, there is a little snow on the ground. In City B, there is a lot of snow, and the snow is very deep. In which city can the children build a big snowman?
 
 A. City A, because a little snow is enough for a big snowman.
@@ -60,6 +63,7 @@ D. City B, because a lot of snow is needed to build a big snowman.
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** It is winter in Canada. The weather is cold and snowy. Sinta wants to play outside with her friends. What should she wear, and what can they do outside?
 
 A. She should wear a warm jacket and boots, and they can build a snowman.
@@ -76,6 +80,7 @@ D. She should stay inside, because children never play in winter.
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** What does "snowy" mean?
 
 A. Cerah
@@ -93,6 +98,7 @@ D. Berawan
 ## Unit 11: Do You Know How to Play Chess?
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina asks Budi, "Do you know how to play chess?" Budi can play chess very well. Which is the best answer for Budi?
 
 A. "No, I don't. I can't play chess."
@@ -109,6 +115,7 @@ D. "No, I am not. I play football."
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "Do you know how play chess?" What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -125,6 +132,7 @@ D. He should say, "Do you knows how to play chess?"
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read about two games.
 
 Chess is played on a board with pieces. Football is played on a field with a ball.
@@ -145,6 +153,7 @@ D. Chess and football are both played on a board.
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta plays a game. She hits a shuttlecock with a racket over a net. What game does Sinta play?
 
 A. Chess
@@ -161,6 +170,7 @@ D. Badminton
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** In hide and seek, one child closes his eyes and counts, and the other children hide. What is the game?
 
 A. Chess

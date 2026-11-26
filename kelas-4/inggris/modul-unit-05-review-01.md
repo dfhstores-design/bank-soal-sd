@@ -12,6 +12,7 @@
 ## Unit 5: What Subject Do You Like the Most?
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read the dialogue.
 
 Teacher: "What subject do you like the most, Sinta?"
@@ -33,6 +34,7 @@ D. "I like the most Math."
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "I like the most English." What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -49,6 +51,7 @@ D. He should say, "I like the most in English."
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani says, "I like Art the most. I like Science, too, but not as much as Art." Budi says, "I like Science the most." Who likes Art the most?
 
 A. Budi, because he likes Science the most.
@@ -65,6 +68,7 @@ D. Nobody, because Art is not a school subject.
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** A new friend asks you, "What subject do you like the most?" You love drawing and painting in Art class. Which sentence is correct for you?
 
 A. "I like Art the most."
@@ -81,6 +85,7 @@ D. "I most like the Art."
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Which one is a school subject?
 
 A. Ball
@@ -98,6 +103,7 @@ D. Bicycle
 ## Review 1 (Unit 1-4)
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read the dialogue.
 
 Rudi: "Hello! My name is Rudi. Where are you from?"
@@ -119,6 +125,7 @@ D. "I like listening to pop."
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** My father is tall and strong. My mother is short and kind. Who is tall and strong?
 
 A. My mother, because she is short and kind.
@@ -135,6 +142,7 @@ D. Nobody, because they are short.
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina says, "They likes listening to jazz." What is wrong with her sentence?
 
 A. "likes" should be "like", because the subject is "they"
@@ -151,6 +159,7 @@ D. "jazz" should be "pop", because jazz is not a kind of music
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi went to the park last Sunday. He played football with his friends and he was very happy. Rina asks, "Did you have a good time at the park?" What does Budi answer?
 
 A. "Yes, I do. I play football every day."
@@ -167,6 +176,7 @@ D. "No, I didn't. I stayed at home all day."
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Last night, my family and I ____ a funny film at home. We laughed a lot.
 
 Which verb is correct to complete the sentence?

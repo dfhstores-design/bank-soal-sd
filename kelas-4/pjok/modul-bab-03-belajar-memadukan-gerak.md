@@ -12,6 +12,7 @@
 ## Sub-bab A: Aktivitas Gerak Berirama
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berlatih langkah biasa, sedangkan Sinta berlatih langkah rapat. Apa perbedaan gerakan kaki mereka?
 
 A. Dina melangkahkan kaki kiri dan kanan bergantian seperti berjalan biasa; Sinta setelah melangkah, kaki belakangnya dirapatkan ke kaki depan
@@ -28,6 +29,7 @@ D. Tidak ada bedanya, keduanya sama-sama melangkah biasa
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat berlatih gerak berirama, guru memutar musik yang temponya makin cepat. Apa yang harus dilakukan Raka agar gerakannya tetap selaras dengan musik?
 
 A. Tetap melangkah dengan kecepatan semula, karena tempo musik tidak memengaruhi gerakan
@@ -44,6 +46,7 @@ D. Menggerakkan lengan saja dan membiarkan kakinya diam
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berlatih gerak berirama. Ayunan lengannya sudah bagus mengikuti musik, tetapi langkah kakinya tidak seirama dengan ketukan. Apa masalah pada gerakan Budi?
 
 A. Ayunan lengannya salah arah
@@ -60,6 +63,7 @@ D. Budi harus melompat, bukan melangkah
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Guru meminta siswa membuat rangkaian gerak berirama: empat ketukan langkah biasa, lalu ayunan dua lengan ke samping. Agar rangkaian itu tampak selaras dan indah, apa yang paling penting dilakukan?
 
 A. Melakukan langkah kaki dulu sampai selesai, baru mengayunkan lengan setelah musik berhenti
@@ -76,6 +80,7 @@ D. Melakukan langkah kaki dan ayunan lengan bersamaan, mengikuti irama yang sama
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan gerak berirama?
 
 A. Gerakan tubuh yang dilakukan mengikuti irama musik, ketukan, atau hitungan
@@ -93,6 +98,7 @@ D. Gerakan melompat setinggi mungkin tanpa mengikuti musik
 ## Sub-bab B: Aktivitas Senam Lantai
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berlatih guling depan. Ia jongkok, meletakkan tangan di matras, lalu berguling — tetapi dagunya tidak ditekuk menempel ke dada. Apa bahayanya, dan apa yang salah dari gerakan Dina?
 
 A. Tidak ada yang salah, dagu boleh dalam posisi apa saja
@@ -109,6 +115,7 @@ D. Kakinya tidak bisa menjejak matras dengan kuat
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani melakukan gerakan telentang lalu mengangkat kedua kaki lurus ke atas, bertumpu pada punggung, dengan kedua tangan menopang pinggang. Budi melakukan gerakan telentang lalu mengangkat tubuhnya hingga melengkung seperti busur, bertumpu pada kedua tangan dan kedua kaki. Gerakan siapa yang disebut sikap lilin?
 
 A. Rani, karena sikap lilin adalah kaki lurus ke atas dengan tangan menopang pinggang
@@ -125,6 +132,7 @@ D. Tidak ada, karena sikap lilin dilakukan sambil berdiri
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutan gerakan guling depan yang benar adalah ....
 
 A. Jongkok — berguling — letakkan tangan di matras — tolak kaki
@@ -141,6 +149,7 @@ D. Jongkok — letakkan tangan di matras — dagu menempel dada — tolak kaki �
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta ingin berlatih guling depan di lantai keramik yang keras tanpa matras, karena matras di sekolah sedang dipakai kelas lain. Apa yang terjadi jika ia tetap berlatih di lantai keras itu?
 
 A. Gerakannya menjadi lebih mudah karena lantai keras tidak licin
@@ -157,6 +166,7 @@ D. Gerakannya menjadi lebih indah karena lantainya rata
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka ingin berlatih head stand (berdiri dengan kepala) untuk melatih keseimbangan. Ia baru pertama kali mencoba. Cara paling aman baginya adalah ....
 
 A. Bersandar pada dinding, dengan dahi dan kedua tangan membentuk segitiga di matras, lalu mengangkat kaki perlahan
@@ -174,6 +184,7 @@ D. Menutup mata supaya lebih berani dan fokus
 ## Sub-bab C: Seni Bela Diri Pencak Silat
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina melakukan kuda-kuda depan, sedangkan Sinta melakukan kuda-kuda belakang. Apa perbedaan letak berat badan mereka?
 
 A. Keduanya sama, berat badan di tengah
@@ -190,6 +201,7 @@ D. Dina berdiri dengan satu kaki; Sinta berdiri dengan kedua kaki lurus
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani berkata, "Sikap pasang tertutup dipakai untuk memancing serangan lawan, karena tubuh dibiarkan terbuka." Apakah perkataan Rani benar?
 
 A. Benar, karena sikap pasang tertutup memang membuka tubuh lebar-lebar
@@ -206,6 +218,7 @@ D. Salah; sikap pasang tertutup dilakukan sambil duduk
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat berlatih berpasangan, lawan Budi memukul ke arah kepala Budi. Elakan yang tepat untuk Budi adalah ....
 
 A. Elakan atas, karena serangan datang dari atas
@@ -222,6 +235,7 @@ D. Menutup mata dan menangkis dengan kepala
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi menyerang dengan kaki, sedangkan Sinta menyerang dengan tangan terkepal. Serangan Dodi dan Sinta berturut-turut disebut ....
 
 A. Pukulan dan pukulan
@@ -238,6 +252,7 @@ D. Tendangan dan pukulan
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pencak silat adalah ....
 
 A. Seni bela diri dari Jepang yang memakai pedang

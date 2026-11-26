@@ -12,6 +12,7 @@
 ## Sub-bab A: Algoritma
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan algoritma?
 A. Kumpulan gambar yang menarik
 B. Urutan langkah-langkah yang jelas dan berurutan untuk menyelesaikan suatu masalah
@@ -22,6 +23,7 @@ D. Nama sebuah permainan di komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah kegiatan berikut yang merupakan contoh algoritma?
 A. Menonton televisi tanpa tujuan
 B. Tidur siang di kamar
@@ -32,6 +34,7 @@ D. Bermain bola di lapangan
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah urutan langkah membuat mi instan yang benar?
 A. Rebus air — masukkan mi — tiriskan mi — masukkan bumbu lalu aduk
 B. Masukkan bumbu — rebus air — masukkan mi — aduk
@@ -42,6 +45,7 @@ D. Masukkan mi — aduk — rebus air — masukkan bumbu
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi menulis urutan memakai seragam sekolah: (1) Memakai sepatu. (2) Memakai kaos kaki. (3) Memakai baju seragam. (4) Memakai celana seragam. Apa yang salah dari urutan tersebut?
 A. Tidak ada yang salah
 B. Baju seragam harus dipakai paling akhir
@@ -52,6 +56,7 @@ D. Kaos kaki harus dipakai sebelum sepatu
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah ciri langkah-langkah yang baik dalam sebuah algoritma?
 A. Langkahnya acak dan membingungkan
 B. Langkahnya jelas, berurutan, dan mempunyai awal dan akhir
@@ -66,6 +71,7 @@ D. Langkahnya hanya boleh satu langkah
 ## Sub-bab B: Dekomposisi
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan dekomposisi?
 A. Mengerjakan semua tugas sekaligus tanpa jeda
 B. Memecah tugas besar menjadi bagian-bagian kecil yang mudah dikerjakan
@@ -76,6 +82,7 @@ D. Menghapus bagian tugas yang sulit
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4 akan mengadakan bazar. Dina memecah persiapan bazar menjadi beberapa bagian: menentukan barang jualan, menghitung modal, membuat poster, dan mengatur jadwal jaga. Cara Dina ini disebut ....
 A. Dekomposisi
 B. Abstraksi
@@ -86,6 +93,7 @@ D. Algoritma
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka ingin merapikan kamarnya yang berantakan. Manakah langkah berikut yang menunjukkan dekomposisi?
 A. Raka langsung tidur dan membiarkan kamarnya berantakan
 B. Raka membagi pekerjaan menjadi: merapikan tempat tidur, menyusun buku, lalu menyapu lantai
@@ -96,6 +104,7 @@ D. Raka meminta ibunya merapikan seluruh kamar
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta mendapat tugas membuat prakarya dari kardus bekas. Ia membagi tugas itu menjadi: menyiapkan alat dan bahan, menggambar pola, menggunting, lalu menempel dan menghias. Manfaat cara Sinta adalah ....
 A. Tugas terasa lebih berat karena banyak langkah
 B. Tugas menjadi lebih mudah karena dikerjakan bagian demi bagian
@@ -106,6 +115,7 @@ D. Tugas bisa selesai tanpa dikerjakan
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang BUKAN contoh dekomposisi?
 A. Memecah persiapan pentas seni menjadi: latihan tari, menyiapkan kostum, dan menata panggung
 B. Membagi tugas membersihkan kelas menjadi: menyapu, mengepel, dan membersihkan papan tulis
@@ -120,6 +130,7 @@ D. Membagi tugas membuat majalah dinding menjadi: menulis artikel, menggambar, d
 ## Sub-bab C: Pola
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan pola bilangan berikut: 5, 10, 15, 20, .... Bilangan berikutnya adalah ....
 A. 22
 B. 24
@@ -130,6 +141,7 @@ D. 30
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab C
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan pola gambar berikut: lingkaran, segitiga, lingkaran, segitiga, lingkaran, .... Gambar berikutnya adalah ....
 A. Lingkaran
 B. Segitiga
@@ -140,6 +152,7 @@ D. Bintang
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab C
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan pola bilangan berikut: 40, 36, 32, 28, .... Bilangan berikutnya adalah ....
 A. 20
 B. 22
@@ -150,6 +163,7 @@ D. 26
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab C
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu menyiram tanaman setiap 3 hari sekali. Jika Ibu menyiram tanaman pada hari Senin, kapan Ibu menyiram tanaman lagi?
 A. Selasa
 B. Rabu
@@ -160,6 +174,7 @@ D. Jumat
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab C
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan pola bilangan berikut: 3, 6, 9, 12, 16, 18. Bilangan manakah yang TIDAK sesuai dengan pola?
 A. 6
 B. 9
@@ -174,6 +189,7 @@ D. 18
 ## Sub-bab D: Abstraksi
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan abstraksi dalam berpikir komputasional?
 A. Memecah masalah besar menjadi bagian-bagian kecil
 B. Memilih informasi yang penting dan mengabaikan informasi yang tidak perlu
@@ -184,6 +200,7 @@ D. Mencari kesamaan dari beberapa kejadian
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina membuat peta sekolah untuk teman barunya. Supaya peta itu mudah dibaca, Dina hanya menggambar ruang kelas, kantor, perpustakaan, dan kantin. Warna dinding dan bentuk pagar sekolah tidak ia gambar. Tindakan Dina adalah contoh ....
 A. Dekomposisi
 B. Pengenalan pola
@@ -194,6 +211,7 @@ D. Algoritma
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan cerita berikut. "Sinta membeli 3 buku tulis seharga Rp5.000,00 per buku. Sinta memakai baju berwarna biru dan berangkat ke toko pukul 08.00. Berapa rupiah yang harus dibayar Sinta?" Informasi yang penting untuk menjawab soal tersebut adalah ....
 A. Warna baju Sinta dan jam berangkat ke toko
 B. Jam berangkat ke toko dan harga satu buku tulis
@@ -204,6 +222,7 @@ D. Harga satu buku tulis dan jumlah buku yang dibeli
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Guru membuat daftar hadir kelas. Daftar itu hanya berisi nama siswa dan tanda hadir. Warna kesukaan dan makanan kesukaan siswa tidak ditulis di daftar itu. Hal ini menunjukkan bahwa guru melakukan ....
 A. Abstraksi
 B. Dekomposisi
@@ -214,6 +233,7 @@ D. Pengenalan pola
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rudi membuat kartu nama untuk kelompok belajarnya. Di kartu itu ia hanya menulis nama, kelas, dan nomor telepon. Ia tidak menulis warna sepatu dan tinggi badan teman-temannya. Informasi yang ditulis Rudi adalah informasi yang ....
 A. Paling banyak jumlahnya
 B. Paling sulit dicari
@@ -230,6 +250,7 @@ D. Paling baru didapat
 ### Sub-bab A: Algoritma
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina dan Budi sama-sama menulis langkah-langkah membuat jus buah. Rina menulis 8 langkah yang jelas: menyiapkan buah, mencuci buah, memotong buah, memasukkan buah ke blender, menambahkan gula dan air, menyalakan blender, menunggu sampai halus, lalu menuang jus ke gelas. Budi hanya menulis 3 langkah yang samar: "siapkan buah, buat jus, minum". Algoritma siapa yang lebih baik, dan mengapa?
 A. Algoritma Budi lebih baik, karena lebih pendek dan cepat ditulis
 B. Algoritma Rina lebih baik, karena langkahnya jelas dan lengkap sehingga orang lain bisa mengikutinya
@@ -244,6 +265,7 @@ D. Algoritma Budi lebih baik, karena tidak perlu banyak langkah
 ### Sub-bab B: Dekomposisi
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4 akan mengadakan lomba kebersihan kelas. Tiga anak memecah tugas itu dengan cara berbeda. Rani memecahnya menjadi: menentukan jadwal, membagi tugas, menyiapkan alat kebersihan, dan memeriksa hasil. Dodi hanya menulis: "bersihkan kelas". Sinta memecahnya menjadi: menentukan jadwal dan membagi tugas saja. Pemecahan manakah yang paling baik, dan mengapa?
 A. Pemecahan Rani paling baik, karena lengkap dan masuk akal — semua bagian penting ada
 B. Pemecahan Dodi paling baik, karena paling singkat
@@ -254,6 +276,7 @@ D. Ketiganya sama baiknya, karena sama-sama tentang kebersihan kelas
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi mendapat tugas membuat maket rumah. Ia mengerjakan semuanya sekaligus tanpa memecah-mecah tugas itu: langsung menempel semua bagian, mengecat, dan menghias dalam satu waktu. Apa yang terjadi pada Dodi?
 A. Dodi mudah bingung dan lupa langkah, tugas terasa berat, dan ia gampang salah
 B. Tugas Dodi langsung selesai lebih cepat dan hasilnya sempurna
@@ -264,6 +287,7 @@ D. Maket Dodi jadi lebih bagus karena dikerjakan sekaligus
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4 akan piknik. Persiapan piknik dipecah menjadi: membawa makanan dan tikar. Bagian apa yang hilang dari pemecahan itu, dan mengapa bagian itu perlu ada?
 A. Tidak ada yang hilang; makanan dan tikar sudah cukup untuk piknik
 B. Membawa lebih banyak makanan supaya tidak lapar
@@ -278,6 +302,7 @@ D. Membawa payung saja, karena cuaca tidak penting
 ### Sub-bab D: Abstraksi
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina membuat peta sekolah, tetapi ia menggambar SEMUA detail: warna dinding setiap ruangan, bentuk pagar, dan jumlah jendela di tiap gedung. Apa akibatnya bagi orang yang membaca peta itu?
 A. Peta jadi rumit dan sulit dibaca; orang sulit menemukan ruangan yang dicari
 B. Peta jadi lebih mudah dibaca karena semua detail ada

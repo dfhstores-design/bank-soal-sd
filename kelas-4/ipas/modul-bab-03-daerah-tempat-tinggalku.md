@@ -12,6 +12,7 @@
 ## Sub-bab A: Mengenal Peta
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pada peta desaku tertulis skala 1 : 200.000. Artinya, jarak 1 cm pada peta sama dengan 2 km jarak sebenarnya. Rani mengukur jarak dari rumahnya ke sekolah pada peta, hasilnya 3 cm. Berapa jarak sebenarnya dari rumah Rani ke sekolah?
 
 A. 2 km
@@ -28,6 +29,7 @@ D. 200 km
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Peta tidak perlu dilengkapi legenda, karena simbol-simbol pada peta sudah jelas dengan sendirinya." Apakah perkataan Dodi benar?
 
 A. Benar, karena semua orang pasti tahu arti setiap simbol pada peta
@@ -44,6 +46,7 @@ D. Salah; legenda hanya berisi judul peta, bukan arti simbol
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan keterangan peta desa berikut.
 
 > Pada peta desa, panah mata angin menunjuk ke atas sebagai arah utara. Rumah Rani berada di bagian kanan atas peta, sedangkan sungai mengalir di bagian bawah peta.
@@ -64,6 +67,7 @@ D. Rumah Rani di utara, sungai di barat daya
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina melihat tiga simbol pada sebuah peta: gambar segitiga kecil, garis biru yang berliku-liku, dan titik hitam. Apa arti ketiga simbol itu?
 
 A. Segitiga = gunung, garis biru = sungai, titik hitam = kota
@@ -80,6 +84,7 @@ D. Segitiga = danau, garis biru = kota, titik hitam = sungai
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Peta adalah ....
 
 A. Gambar seluruh atau sebagian permukaan bumi pada bidang datar dengan skala tertentu
@@ -97,6 +102,7 @@ D. Gambar pemandangan alam yang dilukis dengan indah
 ## Sub-bab B: Bentang Alam Daerahku
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga Rina mempunyai dua lahan: satu di dataran rendah dekat sungai, satu lagi di dataran tinggi yang udaranya sejuk. Mereka ingin menanam padi dan menanam teh. Pasangan lahan dan tanaman yang paling tepat adalah ....
 
 A. Padi di dataran tinggi dan teh di dataran rendah
@@ -113,6 +119,7 @@ D. Padi dan teh sama-sama di dataran tinggi
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pak Jono tinggal di daerah pantai. Setiap pagi ia pergi melaut, dan pada musim kemarau ia juga membuat garam dari air laut. Mengapa pekerjaan Pak Jono cocok dengan tempat tinggalnya?
 
 A. Karena pantai adalah perbatasan darat dan laut, sehingga laut menyediakan ikan dan air laut untuk dibuat garam
@@ -129,6 +136,7 @@ D. Karena pantai berada di ketinggian lebih dari 600 meter di atas permukaan lau
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Dataran tinggi itu sama saja dengan dataran rendah, jadi di dataran tinggi juga bisa dibuat tambak garam dan pelabuhan." Apakah perkataan Dodi benar?
 
 A. Benar, karena semua bentang alam bisa dimanfaatkan untuk apa saja
@@ -145,6 +153,7 @@ D. Salah; dataran tinggi hanya bisa dipakai untuk menanam padi
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Desa Suka Makmur terletak di sebuah lembah di antara dua bukit. Tanah di sana subur dan dialiri sungai kecil. Kegiatan warga yang paling sesuai dengan keadaan desa itu adalah ....
 
 A. Membuat garam dari air laut di tepi pantai
@@ -161,6 +170,7 @@ D. Membuka perkebunan teh di dataran tinggi yang sejuk
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bentang alam adalah ....
 
 A. Bentuk permukaan bumi, seperti dataran, pegunungan, pantai, sungai, dan danau

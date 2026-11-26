@@ -12,6 +12,7 @@
 ## Sub-bab A: Pengertian dan Tanda-Tanda Balig
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi sudah berumur 15 tahun menurut kalender Hijriyah, tetapi ia belum pernah mengalami mimpi basah. Apakah Budi sudah termasuk balig?
 
 A. Belum, karena ia belum mengalami mimpi basah
@@ -28,6 +29,7 @@ D. Sudah, karena semua anak umur 15 tahun pasti tinggi badannya bertambah
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Tanda balig itu hanya satu, yaitu badan menjadi tinggi." Apakah perkataan Sinta benar?
 
 A. Benar, karena badan yang tinggi berarti sudah dewasa
@@ -44,6 +46,7 @@ D. Salah; tanda balig hanya ditentukan oleh nilai ulangan di sekolah
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi mengalami mimpi basah. Ia tahu bahwa saat itu ia sedang berhadas besar. Apa yang harus Andi lakukan agar ia suci kembali?
 
 A. Cukup mencuci tangan dan wajah saja
@@ -60,6 +63,7 @@ D. Cukup berwudu seperti biasa sebelum salat
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua perubahan berikut. (1) Raka suaranya menjadi lebih berat dan badannya tumbuh lebih cepat dari biasanya. (2) Dina menjadi rajin belajar dan selalu mengerjakan PR tepat waktu. Perubahan manakah yang termasuk tanda-tanda balig menurut ilmu biologi?
 
 A. Perubahan (1), karena suara yang berubah dan badan yang tumbuh cepat adalah perubahan fisik pada masa puber
@@ -76,6 +80,7 @@ D. Tidak ada, karena tanda balig tidak bisa dilihat dari perubahan fisik
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan balig?
 
 A. Masa anak-anak yang masih bermain setiap hari
@@ -93,6 +98,7 @@ D. Masa ketika seseorang berhenti belajar di sekolah
 ## Sub-bab B: Kewajiban setelah Memasuki Usia Balig
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dimas sudah memasuki usia balig. Ia berkata, "Salat lima waktu itu hanya wajib untuk orang dewasa, bukan untuk anak seperti aku." Apakah perkataan Dimas benar?
 
 A. Benar, karena anak yang baru balig belum wajib salat
@@ -109,6 +115,7 @@ D. Salah; anak yang sudah balig hanya wajib salat pada hari Jumat saja
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta sudah memasuki usia balig. Saat keluar rumah, ia memakai pakaian yang menutup aurat dengan rapi. Dina, yang juga sudah balig, memakai pakaian yang tidak menutup aurat. Siapa di antara mereka yang sudah menunaikan kewajiban setelah balig?
 
 A. Dina, karena pakaian bebas adalah hak setiap orang
@@ -125,6 +132,7 @@ D. Tidak ada, karena menutup aurat hanya wajib di dalam rumah
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bulan Ramadan tiba. Rudi sudah memasuki usia balig, tetapi ia tidak berpuasa tanpa alasan yang dibenarkan. Apa akibatnya bagi Rudi?
 
 A. Tidak ada akibatnya, karena puasa hanya sunah bagi anak-anak
@@ -141,6 +149,7 @@ D. Tidak ada akibatnya, karena puasa hanya wajib bagi orang tua
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi sudah memasuki usia balig, sedangkan Budi, adiknya, belum balig. Bulan Ramadan tiba. Siapa di antara mereka yang wajib berpuasa, dan mengapa?
 
 A. Keduanya wajib, karena puasa wajib untuk semua anak
@@ -157,6 +166,7 @@ D. Tidak ada yang wajib, karena puasa hanya untuk orang dewasa yang sudah bekerj
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Anak yang sudah balig disebut mukalaf. Apa arti mukalaf?
 
 A. Anak yang sudah tidak perlu belajar lagi

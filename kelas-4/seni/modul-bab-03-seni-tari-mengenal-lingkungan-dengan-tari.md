@@ -12,6 +12,7 @@
 ## Sub-bab A: Mengenal Gerakan Alam
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka ingin menirukan gerakan burung terbang. Ia mengepalkan kedua tangannya di depan dada dan berdiri diam di tempat. Apa yang salah dari gerakan Raka?
 
 A. Tidak ada yang salah, burung terbang memang mengepalkan sayapnya
@@ -28,6 +29,7 @@ D. Salah; burung terbang hanya bisa ditirukan dengan berlari kencang tanpa mengg
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menirukan air sungai yang dalam dan mengalir tenang, sedangkan Sinta menirukan air sungai yang dangkal dan mengalir bergelombang. Apa perbedaan gerakan mereka?
 
 A. Dina berdiri tegak sambil mengayunkan kedua tangan ke kiri dan ke kanan setinggi perut; Sinta bergandengan tangan dengan teman-temannya lalu menggerakkan gandengan itu naik dan turun
@@ -44,6 +46,7 @@ D. Dina mengangkat tangan ke atas, sedangkan Sinta mengepalkan tangan
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat berlatih menirukan angin, guru meminta siswa membedakan angin sepoi-sepoi dengan angin kencang yang berputar. Bagaimana gerakan menirukan kedua angin itu berbeda?
 
 A. Angin sepoi-sepoi ditirukan dengan goyangan badan yang lembut dan pelan, sedangkan angin kencang ditirukan dengan gerakan yang lebih kuat dan cepat
@@ -60,6 +63,7 @@ D. Angin kencang tidak bisa ditirukan, hanya angin sepoi-sepoi yang bisa
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Guru meminta siswa menyusun urutan gerakan tumbuhan dari awal tumbuh sampai tertiup angin. Urutan manakah yang benar?
 
 A. Daun rimbun — tunas — pohon kecil — daun tumbuh — tertiup angin
@@ -76,6 +80,7 @@ D. Pohon kecil — tunas — tertiup angin — daun tumbuh — daun rimbun
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan gerakan alam dalam seni tari?
 
 A. Gerakan yang dilakukan dengan menirukan gerakan yang ada di alam, seperti tumbuhan, hewan, angin, dan air
@@ -93,6 +98,7 @@ D. Gerakan yang dilakukan tanpa iringan musik apa pun
 ## Sub-bab B: Unsur Gerak Tari
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta menarikan tari bertema ombak laut. Musik pengiring yang awalnya lambat tiba-tiba dipukul semakin cepat dan bergemuruh, tetapi gerakan Sinta tetap lambat seperti semula. Apa masalah pada tarian Sinta?
 
 A. Tidak ada masalah, tempo musik tidak memengaruhi gerakan tari
@@ -109,6 +115,7 @@ D. Sinta harus mengganti tariannya dengan tari yang lain
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Edo menirukan bibit padi yang baru tertanam: ia duduk bersimpuh di lantai sambil merebahkan dada ke depan. Rani menirukan pohon yang sudah tinggi: ia berdiri tegak dengan kedua tangan terangkat ke atas. Perbedaan level gerak mereka adalah ....
 
 A. Edo memakai level rendah, karena tubuhnya dekat dengan lantai; Rani memakai level tinggi, karena tubuhnya berdiri tegak ke atas
@@ -125,6 +132,7 @@ D. Level tidak bisa dibedakan dari posisi tubuh penari
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dua tari ditampilkan di pentas seni: tari jaran kepang dan tari serimpi. Tari jaran kepang gerakannya kuat dan lincah, sedangkan tari serimpi gerakannya lemah dan gemulai. Tari manakah yang memakai tenaga kuat, dan mengapa?
 
 A. Tari serimpi, karena gerakannya lembut sehingga butuh tenaga besar
@@ -141,6 +149,7 @@ D. Tidak ada yang memakai tenaga, karena menari tidak membutuhkan tenaga
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah kelompok yang terdiri dari sepuluh penari akan menampilkan tari dengan pola lantai yang berubah-ubah: kadang membentuk lingkaran, kadang berbaris, kadang menyebar ke seluruh panggung. Ruang seperti apa yang mereka butuhkan, dan mengapa?
 
 A. Ruang sempit, karena penari yang banyak harus berdekatan supaya kompak
@@ -157,6 +166,7 @@ D. Ruang apa saja, karena jumlah penari tidak memengaruhi ruang yang dibutuhkan
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Unsur utama yang membangun gerak tari ada tiga, yaitu ....
 
 A. Ruang, waktu, dan tenaga
@@ -174,6 +184,7 @@ D. Gerak, suara, dan cahaya
 ## Sub-bab C: Apresiasi Tari Bertema Lingkungan
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menonton sebuah tari yang penarinya menirukan burung merak jantan dengan sayap yang dikembangkan indah. Tari itu berasal dari Jawa Barat. Tari apakah yang ditonton Dina?
 
 A. Tari Cenderawasih, karena sama-sama menirukan burung
@@ -190,6 +201,7 @@ D. Tari Kuda Lumping, karena penarinya juga memakai sayap
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Tari Tarek Pukat berasal dari Bali dan menggambarkan orang yang sedang menanam padi." Apakah perkataan Raka benar?
 
 A. Benar, karena Tari Tarek Pukat memang dari Bali
@@ -206,6 +218,7 @@ D. Salah; Tari Tarek Pukat berasal dari Jawa Barat dan menggambarkan burung mera
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah menonton pertunjukan tari teman-temannya, Dina ingin menyampaikan pendapatnya. Cara mengapresiasi yang paling sopan adalah ....
 
 A. Bertepuk tangan untuk penari yang sudah berani tampil, lalu menyampaikan apa yang ia sukai dan sarannya dengan bahasa yang baik
@@ -222,6 +235,7 @@ D. Berteriak dari tempat duduk supaya semua orang mendengar pendapatnya
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam Tari Gantar, penari membawa tongkat panjang dan bambu pendek. Untuk apa kedua properti itu dipakai dalam tarian?
 
 A. Tongkat panjang untuk melubangi tanah dan bambu pendek sebagai tabung benih padi, karena tari ini menirukan orang yang sedang menanam padi
@@ -238,6 +252,7 @@ D. Tongkat panjang dan bambu pendek hanya hiasan yang tidak ada gunanya
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan apresiasi seni?
 
 A. Mengamati, memahami, dan menikmati suatu karya seni

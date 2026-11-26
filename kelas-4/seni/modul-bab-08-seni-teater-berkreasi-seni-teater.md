@@ -12,6 +12,7 @@
 ## Sub-bab A: Bermain Peran Fabel dan Legenda
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina dan Sinta sama-sama memerankan Kancil yang cerdik dalam sebuah fabel. Dina berjalan pelan sambil tersenyum licik dan berbicara dengan suara yang tenang tetapi penuh akal. Sinta berjalan dengan langkah besar dan berbicara keras-keras seperti sedang marah. Pemeranan siapa yang lebih sesuai dengan tokoh Kancil, dan mengapa?
 
 A. Sinta, karena tokoh utama harus selalu berbicara keras supaya terdengar penonton
@@ -28,6 +29,7 @@ D. Dina, karena Kancil digambarkan cerdik dan tenang — gerak dan suaranya haru
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam latihan pementasan fabel "Kura-kura dan Kelinci", Budi memerankan kura-kura. Ia berlari cepat mengelilingi panggung sambil tertawa keras. Apa yang salah dari pemeranan Budi?
 
 A. Tidak ada yang salah, kura-kura boleh berlari cepat di atas panggung
@@ -44,6 +46,7 @@ D. Budi seharusnya memerankan kelinci, bukan kura-kura
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam cerita fabel, Kancil menipu Buaya supaya bisa menyeberang sungai, lalu ia tertawa dan pergi. Setelah memainkan adegan itu, guru bertanya apa pesan moral dari cerita tersebut. Jawaban manakah yang paling tepat?
 
 A. Kecerdikan harus dipakai untuk kebaikan, bukan untuk menipu dan merugikan orang lain
@@ -60,6 +63,7 @@ D. Menyeberang sungai selalu berbahaya dan harus dihindari
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani membaca dua cerita. Cerita pertama tokohnya seekor rubah dan seekor gagak, dan di akhir cerita ada pesan agar tidak mudah tertipu oleh pujian. Cerita kedua mengisahkan asal-usul sebuah danau karena seorang anak yang durhaka kepada ibunya. Cerita manakah yang termasuk fabel dan manakah yang termasuk legenda?
 
 A. Cerita pertama legenda dan cerita kedua fabel
@@ -76,6 +80,7 @@ D. Keduanya legenda, karena keduanya diceritakan turun-temurun
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan cerita fabel?
 
 A. Cerita tentang asal-usul sebuah tempat yang diceritakan turun-temurun
@@ -93,6 +98,7 @@ D. Cerita lucu yang tokohnya selalu manusia
 ## Sub-bab B: Mendongeng
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina mendongeng di depan kelas. Ketika sampai pada bagian yang menegangkan — si Kancil bersembunyi dari pemburu — Dina berbicara lebih pelan dan lambat, lalu berhenti sejenak sebelum melanjutkan. Mengapa cara Dina itu tepat?
 
 A. Karena suara pelan membuat pendengar mengantuk dan tenang
@@ -109,6 +115,7 @@ D. Karena berhenti sejenak membuat cerita menjadi lebih pendek
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta mendongeng tentang seorang anak yang kehilangan boneka kesayangannya dan menangis sedih. Selama menceritakan bagian sedih itu, Sinta tersenyum lebar dan tertawa kecil. Apa yang salah dari cara Sinta mendongeng?
 
 A. Ekspresi wajah Sinta tidak selaras dengan isi cerita — bagian sedih harus diceritakan dengan wajah sedih, supaya pendengar ikut merasakan kesedihan tokohnya
@@ -125,6 +132,7 @@ D. Sinta seharusnya menangis sungguhan supaya ceritanya bagus
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dua anak mendongeng dengan cerita yang sama. Raka bercerita dengan satu nada datar dari awal sampai akhir, tanpa mengubah suaranya. Budi mengubah-ubah suaranya: suara tinggi dan bersemangat untuk tokoh yang gembira, suara rendah dan pelan untuk tokoh yang menakutkan. Dongeng siapa yang lebih menarik bagi pendengar, dan mengapa?
 
 A. Raka, karena suara yang datar membuat cerita mudah diikuti
@@ -141,6 +149,7 @@ D. Raka, karena mengubah suara hanya membingungkan pendengar
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi mendongeng dengan sangat cepat, tanpa jeda, dan matanya terus menunduk ke buku catatannya — tidak pernah melihat pendengar. Apa yang kemungkinan besar terjadi pada pendengarnya?
 
 A. Pendengar semakin semangat karena ceritanya cepat selesai
@@ -157,6 +166,7 @@ D. Pendengar sulit mengikuti cerita dan kehilangan minat, karena kata-kata yang 
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan mendongeng?
 
 A. Membaca buku cerita dalam hati tanpa suara
@@ -174,6 +184,7 @@ D. Menggambar tokoh-tokoh dongeng di papan tulis
 ## Sub-bab C: Melakukan Pementasan Teater
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat pementasan di depan kelas, Rudi tiba-tiba lupa dialognya dan diam di atas panggung. Apa yang sebaiknya dilakukan teman-teman satu timnya?
 
 A. Membantu dengan tenang — misalnya teman yang dialognya berkaitan memberi umpan kalimat berikutnya, supaya adegan bisa berjalan lagi
@@ -190,6 +201,7 @@ D. Segera menggantikan peran Rudi tanpa memberi tahu penonton
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelompok Sinta akan mementaskan cerita fabel minggu depan. Urutan persiapan manakah yang paling tepat?
 
 A. Mementaskan dulu, baru memilih cerita dan membagi peran setelah pentas selesai
@@ -206,6 +218,7 @@ D. Berlatih dialog saja tanpa menyiapkan properti dan kostum, karena yang pentin
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelompok Budi mementaskan fabel tentang Kancil di hutan. Mereka menyiapkan properti berikut: topi telinga panjang dari kertas, tongkat kayu, dan sebuah mahkota emas. Properti manakah yang paling sesuai untuk tokoh Kancil, dan mengapa?
 
 A. Mahkota emas, karena Kancil adalah tokoh utama sehingga harus memakai mahkota
@@ -222,6 +235,7 @@ D. Ketiganya sama sesuai, karena properti hanya hiasan panggung
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina akan tampil pertama kali di depan banyak penonton. Ia merasa gugup dan takut salah. Apa yang sebaiknya ia lakukan supaya bisa tampil dengan berani?
 
 A. Tidak usah berlatih lagi, supaya tidak semakin gugup
@@ -238,6 +252,7 @@ D. Berbicara secepat mungkin supaya pentasnya cepat selesai
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan pementasan teater?
 
 A. Latihan membaca naskah sendirian di rumah
