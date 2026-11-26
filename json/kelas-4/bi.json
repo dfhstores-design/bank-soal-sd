@@ -1,0 +1,1602 @@
+[
+  {
+    "pertanyaan": "Simaklah teks petunjuk arah berikut.\n\"Dari gerbang sekolah, berjalan lurus sampai lapangan. Setelah itu, belok kanan. Perpustakaan berada di sebelah kiri, di samping ruang guru.\"\n\nRina baru masuk gerbang sekolah dan ingin pergi ke perpustakaan. Apa yang harus ia lakukan pertama kali?\n\nA. Belok kanan di gerbang sekolah.\nB. Berjalan lurus sampai lapangan.\nC. Berhenti di samping ruang guru.\nD. Belok kiri di gerbang sekolah.",
+    "pilihan": [
+      "Belok kanan di gerbang sekolah.",
+      "Berjalan lurus sampai lapangan.",
+      "Berhenti di samping ruang guru.",
+      "Belok kiri di gerbang sekolah."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Petunjuk arah harus diikuti secara berurutan dari langkah pertama. Langkah pertama dalam teks adalah berjalan lurus sampai lapangan, barulah belok kanan. Jadi Rina harus berjalan lurus dulu sampai lapangan, bukan langsung belok.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab A: Menyimak Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "A: Menyimak Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi memberi petunjuk arah kepada temannya:\n\"Dari rumahku, berjalanlah, lalu belok. Setelah itu, rumah Andi ada di sana.\"\n\nApa kekurangan petunjuk arah yang diberikan Budi?\n\nA. Budi tidak menyebut belok ke kiri atau ke kanan, sehingga arahnya tidak jelas.\nB. Budi tidak menyebut nama rumah yang dicari.\nC. Budi tidak menyebut warna rumah yang dicari.\nD. Budi tidak menyebut jam berangkat yang tepat.",
+    "pilihan": [
+      "Budi tidak menyebut belok ke kiri atau ke kanan, sehingga arahnya tidak jelas.",
+      "Budi tidak menyebut nama rumah yang dicari.",
+      "Budi tidak menyebut warna rumah yang dicari.",
+      "Budi tidak menyebut jam berangkat yang tepat."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Petunjuk arah yang baik harus jelas dan runtut. Budi hanya berkata \"belok\" tanpa menyebut belok ke kiri atau ke kanan, dan \"di sana\" tidak menjelaskan patokan tempatnya. Akibatnya, temannya tidak tahu harus belok ke arah mana. Nama rumah sudah disebut (rumah Andi), sedangkan warna rumah dan jam berangkat tidak diperlukan dalam petunjuk arah.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab A: Menyimak Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "A: Menyimak Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Simaklah teks petunjuk arah berikut.\n\"Dari halte bus, berjalan lurus sampai pertigaan. Belok kiri, lalu berjalan lurus melewati masjid. Rumah Pak RT berada di sebelah kanan jalan, tepat di depan warung Bu Sari.\"\n\nDi mana letak rumah Pak RT?\n\nA. Di sebelah kanan jalan setelah belok kiri, tepat di depan warung Bu Sari.\nB. Di sebelah kiri jalan sebelum sampai pertigaan.\nC. Di sebelah kanan jalan sebelum belok kiri.\nD. Di depan masjid, di sebelah kiri jalan.",
+    "pilihan": [
+      "Di sebelah kanan jalan setelah belok kiri, tepat di depan warung Bu Sari.",
+      "Di sebelah kiri jalan sebelum sampai pertigaan.",
+      "Di sebelah kanan jalan sebelum belok kiri.",
+      "Di depan masjid, di sebelah kiri jalan."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Ikuti urutan petunjuknya: lurus sampai pertigaan, belok kiri, lurus melewati masjid, lalu rumah Pak RT ada di sebelah kanan jalan, tepat di depan warung Bu Sari. Pilihan B dan C salah karena rumah Pak RT baru ditemukan setelah belok kiri, bukan sebelumnya. Pilihan D salah karena masjid hanya patokan yang dilewati, bukan letak rumahnya.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab A: Menyimak Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "A: Menyimak Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Simaklah teks petunjuk arah berikut.\n\"Untuk sampai ke taman, berjalan lurus sampai pertigaan, lalu belok kanan. Setelah belok, berjalan lurus sampai menemukan taman di sebelah kiri jalan.\"\n\nSinta baru berjalan lurus sebentar, belum sampai pertigaan, lalu ia langsung belok kanan. Apa yang terjadi?\n\nA. Sinta tetap sampai di taman karena ia sudah belok kanan.\nB. Sinta sampai di taman lebih cepat dari biasanya.\nC. Sinta salah jalan karena ia belok sebelum sampai pertigaan.\nD. Sinta harus kembali ke rumah dan mengulang dari awal.",
+    "pilihan": [
+      "Sinta tetap sampai di taman karena ia sudah belok kanan.",
+      "Sinta sampai di taman lebih cepat dari biasanya.",
+      "Sinta salah jalan karena ia belok sebelum sampai pertigaan.",
+      "Sinta harus kembali ke rumah dan mengulang dari awal."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Urutan langkah dalam petunjuk arah tidak boleh ditukar. Belok kanan baru boleh dilakukan setelah sampai di pertigaan. Karena Sinta belok sebelum sampai pertigaan, ia memasuki jalan yang salah dan tidak akan menemukan taman. Pilihan A dan B salah karena belok yang terlalu cepat justru menyesatkan, bukan mempercepat. Pilihan D salah karena Sinta cukup kembali ke pertigaan, tidak harus pulang ke rumah.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab A: Menyimak Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "A: Menyimak Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan teks petunjuk arah?\nA. Teks yang berisi petunjuk atau arahan tentang jalan yang harus ditempuh untuk sampai ke suatu tempat.\nB. Teks yang berisi cerita tentang perjalanan seseorang ke suatu tempat.\nC. Teks yang berisi daftar nama jalan di sebuah kota.\nD. Teks yang berisi gambar peta suatu daerah.",
+    "pilihan": [
+      "Teks yang berisi petunjuk atau arahan tentang jalan yang harus ditempuh untuk sampai ke suatu tempat.",
+      "Teks yang berisi cerita tentang perjalanan seseorang ke suatu tempat.",
+      "Teks yang berisi daftar nama jalan di sebuah kota.",
+      "Teks yang berisi gambar peta suatu daerah."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Teks petunjuk arah adalah teks yang berisi petunjuk atau arahan tentang jalan yang harus ditempuh seseorang agar sampai ke tempat yang dituju. Pilihan B salah karena cerita perjalanan adalah teks cerita, bukan petunjuk arah. Pilihan C salah karena daftar nama jalan bukan petunjuk langkah demi langkah. Pilihan D salah karena peta adalah gambar, bukan teks petunjuk.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab A: Menyimak Teks Petunjuk Arah\n## Sub-bab B: Membaca Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "A: Menyimak Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks petunjuk arah berikut!\n> Dari gerbang sekolah, berjalanlah lurus ke Jalan Melati. Di pertigaan pertama, beloklah ke kanan. Perpustakaan berada di sebelah kiri jalan, tepat di samping kantor pos.\n\nRani mengikuti petunjuk itu dari gerbang sekolah. Di mana perpustakaan berada?\n\nA. Di sebelah kanan jalan, sebelum kantor pos\nB. Di sebelah kiri jalan, tepat di samping kantor pos\nC. Di pertigaan pertama, sebelum belok\nD. Di ujung Jalan Melati, di seberang kantor pos",
+    "pilihan": [
+      "Di sebelah kanan jalan, sebelum kantor pos",
+      "Di sebelah kiri jalan, tepat di samping kantor pos",
+      "Di pertigaan pertama, sebelum belok",
+      "Di ujung Jalan Melati, di seberang kantor pos"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menurut teks, setelah belok kanan di pertigaan pertama, perpustakaan berada di sebelah kiri jalan, tepat di samping kantor pos. Pilihan A salah karena perpustakaan berada di sebelah kiri, bukan kanan. Pilihan C salah karena pertigaan adalah tempat belok, bukan letak perpustakaan. Pilihan D salah karena teks tidak menyebut ujung jalan maupun seberang kantor pos.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab B: Membaca Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "B: Membaca Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks petunjuk arah berikut!\n> Dari sekolah, berjalanlah lurus ke Jalan Kenanga. Di ujung jalan, beloklah ke kanan menuju Jalan Mawar. Rumah Dina ada di sebelah kiri Jalan Kenanga.\n\nApa yang salah dari petunjuk arah di atas?\n\nA. Tidak ada yang salah. Petunjuk itu sudah benar.\nB. Beloknya seharusnya ke kiri, bukan ke kanan.\nC. Rumah Dina seharusnya berada di sebelah kanan Jalan Mawar.\nD. Rumah Dina berada di Jalan Kenanga, padahal rutenya sudah berbelok ke Jalan Mawar.",
+    "pilihan": [
+      "Tidak ada yang salah. Petunjuk itu sudah benar.",
+      "Beloknya seharusnya ke kiri, bukan ke kanan.",
+      "Rumah Dina seharusnya berada di sebelah kanan Jalan Mawar.",
+      "Rumah Dina berada di Jalan Kenanga, padahal rutenya sudah berbelok ke Jalan Mawar."
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Petunjuk itu tidak konsisten: rute sudah meninggalkan Jalan Kenanga dan berbelok ke Jalan Mawar, tetapi rumah Dina dikatakan berada di Jalan Kenanga. Orang yang mengikuti petunjuk itu tidak akan menemukan rumah Dina karena sudah berada di jalan lain. Pilihan B salah karena arah beloknya bukan masalahnya. Pilihan C salah karena teks tidak pernah menyebut rumah Dina berada di Jalan Mawar.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab B: Membaca Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "B: Membaca Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah dua teks petunjuk arah berikut!\n> Teks 1: Dari rumah, berjalanlah lurus sampai pertigaan, lalu beloklah ke kiri. Perpustakaan berada di sebelah kiri jalan.\n>\n> Teks 2: Dari rumah, berjalanlah lurus sampai perempatan, lalu beloklah ke kanan. Puskesmas berada di sebelah kanan jalan.\n\nManakah pernyataan yang benar berdasarkan kedua teks itu?\n\nA. Perpustakaan berada di sebelah kiri jalan setelah belok kiri.\nB. Puskesmas berada di sebelah kiri jalan setelah belok kanan.\nC. Perpustakaan dan puskesmas berada di pertigaan yang sama.\nD. Perpustakaan dicapai dengan belok kanan di perempatan.",
+    "pilihan": [
+      "Perpustakaan berada di sebelah kiri jalan setelah belok kiri.",
+      "Puskesmas berada di sebelah kiri jalan setelah belok kanan.",
+      "Perpustakaan dan puskesmas berada di pertigaan yang sama.",
+      "Perpustakaan dicapai dengan belok kanan di perempatan."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Teks 1 menyatakan setelah belok kiri di pertigaan, perpustakaan berada di sebelah kiri jalan — jadi pilihan A benar. Pilihan B salah karena teks 2 menyebut puskesmas di sebelah kanan jalan. Pilihan C salah karena perpustakaan dicapai lewat pertigaan, sedangkan puskesmas lewat perempatan. Pilihan D salah karena perpustakaan dicapai dengan belok kiri, bukan belok kanan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab B: Membaca Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "B: Membaca Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks petunjuk arah berikut!\n> Dari rumah Sinta, berjalanlah lurus melewati masjid. Di perempatan setelah masjid, beloklah ke kanan. Rumah Budi ada di sebelah kiri jalan, di depan warung.\n\nSetelah melewati apa Sinta harus belok ke kanan?\n\nA. Setelah melewati warung\nB. Setelah sampai di rumah Budi\nC. Setelah melewati masjid\nD. Sebelum sampai di masjid",
+    "pilihan": [
+      "Setelah melewati warung",
+      "Setelah sampai di rumah Budi",
+      "Setelah melewati masjid",
+      "Sebelum sampai di masjid"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Masjid adalah patokan dalam teks itu: Sinta berjalan lurus melewati masjid, lalu belok kanan di perempatan setelah masjid. Pilihan A salah karena warung adalah patokan letak rumah Budi, bukan tempat belok. Pilihan B salah karena rumah Budi adalah tujuan akhir, bukan patokan belok. Pilihan D salah karena belok dilakukan setelah masjid, bukan sebelumnya.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab B: Membaca Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "B: Membaca Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dalam petunjuk \"Di pertigaan, beloklah ke kiri\", kata \"pertigaan\" berarti ....\nA. Jalan yang bercabang empat\nB. Jalan yang bercabang tiga\nC. Ujung jalan yang buntu\nD. Jalan yang lurus tanpa belokan",
+    "pilihan": [
+      "Jalan yang bercabang empat",
+      "Jalan yang bercabang tiga",
+      "Ujung jalan yang buntu",
+      "Jalan yang lurus tanpa belokan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pertigaan adalah persimpangan jalan yang bercabang tiga (tri = tiga). Perempatan adalah persimpangan yang bercabang empat, sehingga pilihan A salah. Pilihan C salah karena jalan buntu adalah jalan yang ujungnya tertutup, bukan persimpangan. Pilihan D salah karena jalan yang lurus tanpa belokan bukan pertigaan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab B: Membaca Teks Petunjuk Arah\n## Sub-bab C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "B: Membaca Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks petunjuk arah berikut.\n\"Untuk sampai ke perpustakaan, berjalanlah lurus dari gerbang sekolah. Setelah melewati lapangan, beloklah ke kanan. Perpustakaan ada di sebelah kiri, di samping ruang guru.\"\n\nDina menceritakan kembali teks itu seperti ini: \"Dari gerbang, belok kanan dulu, lalu jalan lurus melewati lapangan. Perpustakaannya ada di sebelah kiri.\" Apakah cara Dina menceritakan kembali sudah tepat?\n\nA. Sudah tepat, karena semua tempatnya disebutkan.\nB. Belum tepat, karena urutan langkahnya ditukar sehingga orang bisa tersesat.\nC. Sudah tepat, karena ia memakai bahasa sendiri.\nD. Belum tepat, karena ia tidak menyebutkan warna gedung perpustakaan.",
+    "pilihan": [
+      "Sudah tepat, karena semua tempatnya disebutkan.",
+      "Belum tepat, karena urutan langkahnya ditukar sehingga orang bisa tersesat.",
+      "Sudah tepat, karena ia memakai bahasa sendiri.",
+      "Belum tepat, karena ia tidak menyebutkan warna gedung perpustakaan."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Urutan langkah dalam teks petunjuk arah tidak boleh ditukar. Pada teks asli, kita berjalan lurus dulu melewati lapangan, baru belok ke kanan. Dina membalik urutannya: belok kanan dulu, baru jalan lurus. Orang yang mengikuti cerita Dina akan berbelok di tempat yang salah dan tidak sampai ke perpustakaan. Memakai bahasa sendiri saja tidak cukup kalau urutannya salah, dan warna gedung bukan informasi penting dalam petunjuk arah.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks petunjuk arah berikut.\n\"Dari kelas empat, berjalanlah lurus sampai ke ujung koridor. Beloklah ke kiri, lalu lurus sampai melewati kantin. Toilet ada di sebelah kanan, di samping taman.\"\n\nManakah cara menceritakan kembali teks itu yang paling tepat?\n\nA. \"Dari kelas empat, jalan lurus ke ujung koridor, belok kiri, terus lurus melewati kantin. Toiletnya ada di kanan, dekat taman.\"\nB. \"Dari kelas empat, belok kiri, lalu jalan lurus. Toiletnya ada di dekat taman.\"\nC. \"Dari kelas empat, jalan lurus ke ujung koridor, belok kiri, terus lurus melewati kantin, lalu belok kanan lagi. Toiletnya ada di kanan, dekat taman.\"\nD. \"Dari kelas empat, berjalanlah lurus sampai ke ujung koridor. Beloklah ke kiri, lalu lurus sampai melewati kantin. Toilet ada di sebelah kanan, di samping taman.\"",
+    "pilihan": [
+      "\"Dari kelas empat, jalan lurus ke ujung koridor, belok kiri, terus lurus melewati kantin. Toiletnya ada di kanan, dekat taman.\"",
+      "\"Dari kelas empat, belok kiri, lalu jalan lurus. Toiletnya ada di dekat taman.\"",
+      "\"Dari kelas empat, jalan lurus ke ujung koridor, belok kiri, terus lurus melewati kantin, lalu belok kanan lagi. Toiletnya ada di kanan, dekat taman.\"",
+      "\"Dari kelas empat, berjalanlah lurus sampai ke ujung koridor. Beloklah ke kiri, lalu lurus sampai melewati kantin. Toilet ada di sebelah kanan, di samping taman.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Menceritakan kembali berarti menyampaikan isi yang sama dengan bahasa sendiri, tanpa mengubah urutan dan tanpa menambah atau mengurangi informasi penting. Pilihan A melakukan itu: semua langkah dan penanda (ujung koridor, kantin, taman) ada, urutannya benar, dan kalimatnya memakai bahasa sendiri. Pilihan B menukar urutan dan menghilangkan informasi penting. Pilihan C menambah langkah \"belok kanan lagi\" yang tidak ada di teks. Pilihan D hanya menyalin teks kata demi kata, jadi bukan menceritakan kembali.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani dan Budi menceritakan kembali petunjuk menuju ruang UKS. Teks aslinya berbunyi: \"Dari lapangan, berjalanlah lurus sampai pertigaan. Beloklah ke kiri dan berjalanlah sampai pohon mangga besar. Ruang UKS ada di sebelah kanan, di samping ruang guru.\"\nRani bercerita: \"Dari lapangan, jalan lurus, lalu belok kiri di depan pohon mangga. Ruang UKS ada di sebelah kanan.\"\n\nBudi bercerita: \"Dari lapangan, jalan lurus sampai pertigaan. Belok kiri, terus jalan sampai ada pohon mangga besar. Ruang UKS ada di sebelah kanan, di samping ruang guru.\"\n\nSiapa yang menceritakan kembali dengan lebih tepat, dan mengapa?\n\nA. Rani, karena ceritanya lebih singkat.\nB. Budi, karena ia menyampaikan semua informasi penting dengan bahasa sendiri dan urutan yang benar.\nC. Rani, karena ia menyebut pohon mangga lebih dulu.\nD. Budi, karena ia memakai kata-kata yang sama persis dengan teks.",
+    "pilihan": [
+      "Rani, karena ceritanya lebih singkat.",
+      "Budi, karena ia menyampaikan semua informasi penting dengan bahasa sendiri dan urutan yang benar.",
+      "Rani, karena ia menyebut pohon mangga lebih dulu.",
+      "Budi, karena ia memakai kata-kata yang sama persis dengan teks."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Budi lebih tepat karena ia tidak menghilangkan informasi penting: pertigaan sebagai penanda belok, pohon mangga besar, dan ruang guru sebagai penanda letak ruang UKS — semuanya disampaikan dengan bahasa sendiri dan urutan yang benar. Rani memang lebih singkat, tetapi ia menghilangkan penanda pertigaan dan ruang guru, sehingga orang yang mendengar bisa kebingungan. Budi juga tidak menyalin teks kata demi kata; kalimatnya sudah ia susun dengan bahasanya sendiri.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks petunjuk arah berikut.\n\"Keluar dari rumah, beloklah ke kanan. Berjalanlah lurus sampai jembatan kecil, lalu menyeberanglah. Warung Bu Sari ada di sebelah kiri setelah jembatan.\"\n\nSinta menceritakan kembali teks itu seperti ini: \"Keluar dari rumah, belok kiri. Jalan lurus sampai jembatan kecil, lalu menyeberang. Warung Bu Sari ada di sebelah kiri setelah jembatan.\" Apa akibat kesalahan Sinta?\n\nA. Tidak ada akibat, kiri dan kanan sama saja.\nB. Orang yang mendengar akan berjalan ke arah yang berlawanan dan tidak menemukan warung.\nC. Orang yang mendengar akan sampai lebih cepat.\nD. Warung Bu Sari akan pindah ke sebelah kanan.",
+    "pilihan": [
+      "Tidak ada akibat, kiri dan kanan sama saja.",
+      "Orang yang mendengar akan berjalan ke arah yang berlawanan dan tidak menemukan warung.",
+      "Orang yang mendengar akan sampai lebih cepat.",
+      "Warung Bu Sari akan pindah ke sebelah kanan."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Kata \"kiri\" dan \"kanan\" adalah informasi penting dalam teks petunjuk arah — keduanya menunjukkan arah yang berlawanan. Sinta menukar \"belok ke kanan\" menjadi \"belok ke kiri\", jadi orang yang mengikuti ceritanya akan berjalan ke arah yang berlawanan dari yang seharusnya dan tidak akan menemukan jembatan maupun warung Bu Sari. Kesalahan kecil pada kata penunjuk arah bisa membuat orang tersesat.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan menceritakan kembali isi teks petunjuk arah?\nA. Menyalin teks petunjuk arah kata demi kata tanpa mengubah apa pun.\nB. Menyampaikan kembali isi teks petunjuk arah dengan bahasa sendiri, tanpa mengubah urutan dan tanpa menambah atau mengurangi informasi penting.\nC. Membuat petunjuk arah baru menuju tempat yang berbeda.\nD. Menghafal teks petunjuk arah lalu mengucapkannya dengan cepat.",
+    "pilihan": [
+      "Menyalin teks petunjuk arah kata demi kata tanpa mengubah apa pun.",
+      "Menyampaikan kembali isi teks petunjuk arah dengan bahasa sendiri, tanpa mengubah urutan dan tanpa menambah atau mengurangi informasi penting.",
+      "Membuat petunjuk arah baru menuju tempat yang berbeda.",
+      "Menghafal teks petunjuk arah lalu mengucapkannya dengan cepat."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menceritakan kembali berarti menyampaikan isi teks dengan bahasa sendiri. Isinya harus tetap sama dengan teks asli: urutan langkahnya tidak ditukar, informasi pentingnya tidak ditambah dan tidak dikurangi. Menyalin kata demi kata (pilihan A) bukan menceritakan kembali, membuat petunjuk baru (pilihan C) mengubah isi, dan sekadar menghafal (pilihan D) bukan menyampaikan kembali dengan pemahaman sendiri.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab C: Menceritakan Kembali isi Teks Petunjuk Arah\n## Sub-bab D: Menulis Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "C: Menceritakan Kembali isi Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani menulis petunjuk arah ke rumahnya seperti ini:\n1. Belok ke kiri di pertigaan.\n2. Jalan lurus dari gerbang sekolah.\n3. Rumahku ada di sebelah kanan, catnya warna hijau.\n\nMengapa petunjuk Rani sulit diikuti?\n\nA. Karena rumah Rani dicat warna hijau\nB. Karena langkah-langkahnya tidak disusun secara runtut dari awal\nC. Karena Rani menulis petunjuk dari gerbang sekolah\nD. Karena Rani memakai kata \"belok ke kiri\"",
+    "pilihan": [
+      "Karena rumah Rani dicat warna hijau",
+      "Karena langkah-langkahnya tidak disusun secara runtut dari awal",
+      "Karena Rani menulis petunjuk dari gerbang sekolah",
+      "Karena Rani memakai kata \"belok ke kiri\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Langkah-langkah dalam teks petunjuk arah harus disusun secara runtut dari awal sampai akhir, tidak boleh terbalik. Petunjuk Rani salah urutan: \"belok ke kiri di pertigaan\" ditulis sebelum \"jalan lurus dari gerbang sekolah\", padahal orang harus jalan lurus dulu dari gerbang sekolah, baru belok di pertigaan. Pilihan A salah karena warna cat justru membantu mengenali rumah. Pilihan C dan D salah karena titik awal dan kata penunjuk arahnya sudah benar.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab D: Menulis Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "D: Menulis Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi ingin menulis petunjuk arah dari sekolah ke rumahnya untuk teman barunya yang belum pernah ke sana. Kalimat manakah yang paling baik untuk ditulis Budi?\nA. \"Jalan saja terus, nanti juga sampai.\"\nB. \"Dari gerbang sekolah, jalan lurus ke utara sampai kamu melihat masjid besar di sebelah kiri, lalu belok ke kanan. Rumahku yang ketiga dari ujung, pagarnya warna biru.\"\nC. \"Rumahku dekat sekolah, tanya saja ke orang di jalan.\"\nD. \"Pergi ke arah sana, lalu ke arah situ, rumahku ada di situ.\"",
+    "pilihan": [
+      "\"Jalan saja terus, nanti juga sampai.\"",
+      "\"Dari gerbang sekolah, jalan lurus ke utara sampai kamu melihat masjid besar di sebelah kiri, lalu belok ke kanan. Rumahku yang ketiga dari ujung, pagarnya warna biru.\"",
+      "\"Rumahku dekat sekolah, tanya saja ke orang di jalan.\"",
+      "\"Pergi ke arah sana, lalu ke arah situ, rumahku ada di situ.\""
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Teks petunjuk arah yang baik harus jelas dan lengkap: ada titik awal, urutan langkah yang runtut, kata penunjuk arah yang tepat, dan patokan yang mudah dikenali. Pilihan B memenuhi semuanya: titik awal (gerbang sekolah), arah mata angin dan langkah runtut (jalan lurus, lalu belok ke kanan), patokan yang mudah dikenali (masjid besar), dan ciri rumah (yang ketiga dari ujung, pagar biru). Pilihan A, C, dan D tidak memberi langkah yang jelas sehingga teman Budi bisa tersesat.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab D: Menulis Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "D: Menulis Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan petunjuk arah berikut!\n\"Cara menuju perpustakaan: Pertama, keluar dari kelas. Kemudian, belok ke kiri. Setelah itu, jalan lurus sampai ujung lorong. Terakhir, perpustakaan ada di sebelah kanan.\"\n\nApa yang membuat petunjuk ini baik?\n\nA. Petunjuk ini memakai kata penghubung urutan sehingga langkahnya jelas dan tidak membingungkan\nB. Petunjuk ini tidak memakai kalimat perintah\nC. Petunjuk ini tidak menyebutkan patokan apa pun\nD. Petunjuk ini memakai kata-kata yang sulit",
+    "pilihan": [
+      "Petunjuk ini memakai kata penghubung urutan sehingga langkahnya jelas dan tidak membingungkan",
+      "Petunjuk ini tidak memakai kalimat perintah",
+      "Petunjuk ini tidak menyebutkan patokan apa pun",
+      "Petunjuk ini memakai kata-kata yang sulit"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Petunjuk ini baik karena memakai kata penghubung urutan — pertama, kemudian, setelah itu, terakhir — sehingga pembaca tahu langkah mana yang dilakukan lebih dulu dan mana yang dilakukan setelahnya. Kata penghubung urutan membuat langkah-langkah tersusun runtut dan tidak membingungkan. Pilihan B salah karena petunjuk ini memakai kalimat perintah (\"keluar\", \"belok\", \"jalan lurus\"). Pilihan C salah karena ujung lorong dan \"sebelah kanan\" adalah penanda posisi. Pilihan D salah karena kata-katanya justru mudah dipahami.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab D: Menulis Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "D: Menulis Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ada dua petunjuk arah menuju lapangan:\nPetunjuk 1: \"Dari rumah, jalan lurus, belok kanan di tikungan, lapangan ada di sebelah kiri dekat pohon beringin besar.\"\n\nPetunjuk 2: \"Dari rumah, jalan ke sana, belok di situ, lapangan ada di dekat situ.\"\n\nPetunjuk manakah yang lebih baik, dan mengapa?\n\nA. Petunjuk 2, karena lebih pendek\nB. Petunjuk 1, karena memakai kata penunjuk arah yang jelas dan patokan yang mudah dikenali\nC. Petunjuk 2, karena tidak memakai kata \"belok\"\nD. Keduanya sama baiknya",
+    "pilihan": [
+      "Petunjuk 2, karena lebih pendek",
+      "Petunjuk 1, karena memakai kata penunjuk arah yang jelas dan patokan yang mudah dikenali",
+      "Petunjuk 2, karena tidak memakai kata \"belok\"",
+      "Keduanya sama baiknya"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Petunjuk 1 lebih baik karena memakai kata penunjuk arah yang jelas (\"jalan lurus\", \"belok kanan\", \"di sebelah kiri\") dan patokan yang mudah dikenali (pohon beringin besar). Petunjuk 2 memakai kata yang tidak jelas — \"ke sana\", \"di situ\" — sehingga pembaca tidak tahu harus ke arah mana. Petunjuk yang baik bukan yang paling pendek, melainkan yang paling jelas.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab D: Menulis Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "D: Menulis Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Teks petunjuk arah adalah ....\nA. teks yang berisi langkah-langkah menuju suatu tempat yang disusun secara berurutan\nB. teks yang berisi cerita tentang perjalanan seseorang\nC. teks yang berisi puisi tentang keindahan suatu tempat\nD. teks yang berisi laporan tentang tempat bersejarah",
+    "pilihan": [
+      "teks yang berisi langkah-langkah menuju suatu tempat yang disusun secara berurutan",
+      "teks yang berisi cerita tentang perjalanan seseorang",
+      "teks yang berisi puisi tentang keindahan suatu tempat",
+      "teks yang berisi laporan tentang tempat bersejarah"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Teks petunjuk arah adalah teks yang berisi langkah-langkah atau arahan menuju suatu tempat, disusun secara berurutan dari awal sampai akhir, supaya pembaca dapat sampai ke tempat yang dituju tanpa tersesat. Pilihan B adalah cerita, C adalah puisi, dan D adalah teks laporan — ketiganya bukan teks petunjuk arah.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 1: Arah Perjalanan yang Tepat, Sub-bab D: Menulis Teks Petunjuk Arah",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 01: Arah Perjalanan yang Tepat",
+    "sub_bab": "D: Menulis Teks Petunjuk Arah",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cuplikan cerita berikut.\n> Setiap pagi sebelum matahari terbit, Pak Seno sudah berjalan menuju sawahnya. Ia memeriksa air di petak sawah, lalu menanam bibit padi satu per satu dengan hati-hati. Meski lumpur menempel di kakinya, Pak Seno tersenyum. Ia bangga menjadi petani.\n\nSiapakah tokoh utama dalam cerita itu?\n\nA. Sawah\nB. Bibit padi\nC. Pak Seno\nD. Matahari",
+    "pilihan": [
+      "Sawah",
+      "Bibit padi",
+      "Pak Seno",
+      "Matahari"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Tokoh utama adalah pelaku yang paling sering muncul dan melakukan banyak perbuatan dalam cerita. Dalam cuplikan ini, Pak Seno yang berjalan ke sawah, memeriksa air, dan menanam bibit padi — semua perbuatan dilakukan olehnya. Sawah, bibit padi, dan matahari hanya latar atau benda dalam cerita, bukan pelaku.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab A: Mengenali Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "A: Mengenali Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cuplikan cerita berikut.\n> Bu Rina adalah penjahit di ujung gang. Ia menjahit dengan rapi dan selalu menyelesaikan pesanan tepat waktu, sehingga pelanggannya senang. Berbeda dengan Pak Dedi, penjahit di gang sebelah. Ia sering menjahit asal-asalan dan pesanannya sering terlambat, sehingga pelanggannya kecewa.\n\nPernyataan manakah yang benar tentang watak kedua tokoh itu?\n\nA. Bu Rina ceroboh, sedangkan Pak Dedi teliti.\nB. Bu Rina teliti dan bertanggung jawab, sedangkan Pak Dedi ceroboh dan tidak tepat waktu.\nC. Bu Rina dan Pak Dedi sama-sama teliti dan tepat waktu.\nD. Bu Rina pemalas, sedangkan Pak Dedi rajin.",
+    "pilihan": [
+      "Bu Rina ceroboh, sedangkan Pak Dedi teliti.",
+      "Bu Rina teliti dan bertanggung jawab, sedangkan Pak Dedi ceroboh dan tidak tepat waktu.",
+      "Bu Rina dan Pak Dedi sama-sama teliti dan tepat waktu.",
+      "Bu Rina pemalas, sedangkan Pak Dedi rajin."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Watak dikenali dari perbuatan tokoh. Bu Rina menjahit dengan rapi dan menyelesaikan pesanan tepat waktu — itu menunjukkan ia teliti dan bertanggung jawab. Pak Dedi menjahit asal-asalan dan sering terlambat — itu menunjukkan ia ceroboh dan tidak tepat waktu. Pilihan A menukar watak keduanya, C dan D bertentangan dengan isi cerita.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab A: Mengenali Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "A: Mengenali Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cuplikan cerita berikut.\n> Pada suatu pagi yang cerah, di tepi pantai, Pak Jaka duduk memperbaiki jaringnya yang robek. Angin sepoi-sepoi bertiup lembut dan ombak berdesir pelan.\n\nManakah yang merupakan latar waktu dalam cuplikan itu?\n\nA. Di tepi pantai\nB. Pagi yang cerah\nC. Angin sepoi-sepoi\nD. Pak Jaka",
+    "pilihan": [
+      "Di tepi pantai",
+      "Pagi yang cerah",
+      "Angin sepoi-sepoi",
+      "Pak Jaka"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Latar waktu menunjukkan kapan peristiwa terjadi. \"Pagi yang cerah\" menjelaskan waktu terjadinya peristiwa. \"Di tepi pantai\" adalah latar tempat, \"angin sepoi-sepoi\" adalah latar suasana, dan Pak Jaka adalah tokoh — ketiganya bukan latar waktu.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab A: Mengenali Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "A: Mengenali Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cuplikan cerita berikut.\n> Bu Sari adalah perawat di puskesmas desa. Suatu malam, seorang anak demam tinggi dibawa ke puskesmas. Meski jam kerjanya sudah selesai, Bu Sari tetap tinggal dan merawat anak itu sampai demamnya turun. Keesokan paginya, anak itu sudah bisa tersenyum lagi.\n\nApakah amanat dari cerita itu?\n\nA. Bekerja hanya demi uang semata.\nB. Pulang tepat waktu lebih penting daripada menolong orang.\nC. Orang sakit sebaiknya dihindari.\nD. Menolong orang lain dengan tulus adalah perbuatan yang mulia.",
+    "pilihan": [
+      "Bekerja hanya demi uang semata.",
+      "Pulang tepat waktu lebih penting daripada menolong orang.",
+      "Orang sakit sebaiknya dihindari.",
+      "Menolong orang lain dengan tulus adalah perbuatan yang mulia."
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Amanat adalah pesan moral yang dapat dipetik dari cerita. Bu Sari tetap merawat anak yang sakit meski jam kerjanya sudah selesai — ia menolong dengan tulus tanpa mengharap imbalan. Itulah pesan cerita ini. Pilihan A, B, dan C bertentangan dengan perbuatan Bu Sari dalam cerita.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab A: Mengenali Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "A: Mengenali Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cuplikan cerita berikut.\n> Pak Anto adalah seorang nelayan. Sebelum berangkat, ia menyiapkan perahu dan jaringnya dengan teliti. Di tengah laut, ia menangkap banyak ikan. Sesampainya di darat, ia menjual ikan hasil tangkapannya di pasar. Uang hasil penjualan itu ia pakai untuk membeli buku pelajaran bagi anaknya.\n\nUrutan peristiwa dalam cerita itu yang benar adalah ....\n\nA. Menjual ikan di pasar → menyiapkan perahu → menangkap ikan → membeli buku.\nB. Menyiapkan perahu → menangkap ikan → menjual ikan di pasar → membeli buku.\nC. Membeli buku → menyiapkan perahu → menangkap ikan → menjual ikan di pasar.\nD. Menangkap ikan → membeli buku → menyiapkan perahu → menjual ikan di pasar.",
+    "pilihan": [
+      "Menjual ikan di pasar → menyiapkan perahu → menangkap ikan → membeli buku.",
+      "Menyiapkan perahu → menangkap ikan → menjual ikan di pasar → membeli buku.",
+      "Membeli buku → menyiapkan perahu → menangkap ikan → menjual ikan di pasar.",
+      "Menangkap ikan → membeli buku → menyiapkan perahu → menjual ikan di pasar."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Alur adalah urutan peristiwa dalam cerita dari awal sampai akhir. Pak Anto pertama menyiapkan perahu dan jaring, lalu melaut dan menangkap ikan, kemudian menjual ikan di pasar, dan terakhir memakai uangnya untuk membeli buku. Pilihan A, C, dan D menukar urutan peristiwa sehingga tidak sesuai dengan jalannya cerita.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab A: Mengenali Cerita tentang Pekerjaan\n## Sub-bab B: Mengenali Berbagai Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "A: Mengenali Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pak Budi berangkat bekerja sebelum matahari terbit sambil membawa cangkul. Di sawah, ia menanam padi dan menyiangi rumput yang tumbuh di antara tanaman. Pekerjaan Pak Budi adalah ....\nA. Nelayan\nB. Petani\nC. Pedagang\nD. Sopir",
+    "pilihan": [
+      "Nelayan",
+      "Petani",
+      "Pedagang",
+      "Sopir"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pak Budi bekerja di sawah, membawa cangkul, dan menanam padi — itu semua ciri pekerjaan petani. Nelayan bekerja di laut dengan jala, pedagang menjual barang di pasar, dan sopir mengemudikan kendaraan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab B: Mengenali Berbagai Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "B: Mengenali Berbagai Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Petani dan nelayan sama-sama menghasilkan bahan makanan untuk kita. Apa perbedaan utama pekerjaan mereka?\nA. Petani bekerja di laut, sedangkan nelayan bekerja di sawah.\nB. Petani menjual ikan, sedangkan nelayan menanam padi.\nC. Petani menanam tanaman di sawah, sedangkan nelayan menangkap ikan di laut.\nD. Petani dan nelayan sama-sama bekerja di pasar.",
+    "pilihan": [
+      "Petani bekerja di laut, sedangkan nelayan bekerja di sawah.",
+      "Petani menjual ikan, sedangkan nelayan menanam padi.",
+      "Petani menanam tanaman di sawah, sedangkan nelayan menangkap ikan di laut.",
+      "Petani dan nelayan sama-sama bekerja di pasar."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Petani menghasilkan makanan dengan menanam tanaman, misalnya padi di sawah, sedangkan nelayan menghasilkan makanan dengan menangkap ikan di laut. Pilihan A dan B menukar pekerjaan keduanya, dan D salah karena pasar adalah tempat pedagang berjualan, bukan tempat petani dan nelayan bekerja.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab B: Mengenali Berbagai Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "B: Mengenali Berbagai Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Baju seragam Sinta robek di bagian lengan. Kepada siapa Sinta sebaiknya meminta tolong untuk memperbaikinya?\nA. Dokter\nB. Polisi\nC. Sopir\nD. Penjahit",
+    "pilihan": [
+      "Dokter",
+      "Polisi",
+      "Sopir",
+      "Penjahit"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Penjahit adalah orang yang pekerjaannya membuat dan memperbaiki pakaian dengan jarum, benang, dan mesin jahit — jadi dialah yang tepat untuk memperbaiki baju robek. Dokter mengobati orang sakit, polisi menjaga keamanan, dan sopir mengemudikan kendaraan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab B: Mengenali Berbagai Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "B: Mengenali Berbagai Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Semua pekerjaan itu sama saja, tidak ada bedanya.\" Apakah perkataan Dodi benar?\nA. Salah; setiap pekerjaan berbeda tugas, alat, dan tempat kerjanya.\nB. Benar, karena semua orang bekerja hanya untuk mendapatkan uang.\nC. Benar, karena semua pekerjaan memakai alat yang sama.\nD. Salah; hanya dokter dan guru saja yang pekerjaannya berbeda.",
+    "pilihan": [
+      "Salah; setiap pekerjaan berbeda tugas, alat, dan tempat kerjanya.",
+      "Benar, karena semua orang bekerja hanya untuk mendapatkan uang.",
+      "Benar, karena semua pekerjaan memakai alat yang sama.",
+      "Salah; hanya dokter dan guru saja yang pekerjaannya berbeda."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Setiap pekerjaan berbeda: petani menanam padi di sawah dengan cangkul, nelayan menangkap ikan di laut dengan jala, dokter mengobati orang sakit di rumah sakit dengan stetoskop. Jadi perkataan Dodi salah. Pilihan D juga salah karena bukan hanya dokter dan guru yang berbeda — semua pekerjaan berbeda satu sama lain.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab B: Mengenali Berbagai Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "B: Mengenali Berbagai Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Orang yang pekerjaannya mengobati orang sakit di rumah sakit disebut ....\nA. Guru\nB. Polisi\nC. Dokter\nD. Petani",
+    "pilihan": [
+      "Guru",
+      "Polisi",
+      "Dokter",
+      "Petani"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Dokter adalah orang yang pekerjaannya mengobati orang sakit, biasanya bekerja di rumah sakit atau puskesmas. Guru mengajar di sekolah, polisi menjaga keamanan, dan petani menanam tanaman di sawah.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab B: Mengenali Berbagai Pekerjaan\n## Sub-bab C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "B: Mengenali Berbagai Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cerita pendek berikut.\n> Setiap pagi, Pak Darman pergi ke sawah. Ia menanam padi dan menyirami tanaman. Ketika musim panen tiba, ia memanen padi bersama keluarganya. Hasil panennya ia jual ke pasar.\n\nManakah penceritaan kembali yang paling tepat?\n\nA. Setiap pagi Pak Darman pergi ke sawah untuk menanam dan menyirami padi. Saat panen tiba, ia memanen padi bersama keluarga, lalu menjual hasilnya ke pasar.\nB. Pak Darman menjual padi ke pasar, lalu menanam padi di sawah bersama keluarganya.\nC. Pak Darman pergi ke sawah, menanam padi, memanennya, lalu membeli traktor baru dari hasil penjualan.\nD. Pak Darman adalah petani yang pergi ke sawah setiap pagi.",
+    "pilihan": [
+      "Setiap pagi Pak Darman pergi ke sawah untuk menanam dan menyirami padi. Saat panen tiba, ia memanen padi bersama keluarga, lalu menjual hasilnya ke pasar.",
+      "Pak Darman menjual padi ke pasar, lalu menanam padi di sawah bersama keluarganya.",
+      "Pak Darman pergi ke sawah, menanam padi, memanennya, lalu membeli traktor baru dari hasil penjualan.",
+      "Pak Darman adalah petani yang pergi ke sawah setiap pagi."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Penceritaan kembali yang baik mengikuti urutan kejadian dalam cerita: pergi ke sawah, menanam dan menyirami padi, memanen bersama keluarga, lalu menjual hasilnya — persis seperti pilihan A. Pilihan B salah karena urutannya terbalik (menjual dulu baru menanam). Pilihan C salah karena menambah informasi yang tidak ada dalam cerita (membeli traktor baru). Pilihan D terlalu singkat dan menghilangkan sebagian besar isi cerita (menanam, memanen, dan menjual).",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cerita pendek berikut.\n> Pak Joko seorang nelayan. Setiap malam ia melaut dengan perahunya. Pagi harinya ia pulang membawa ikan. Ikan itu ia jual di pasar, dan sebagian ia berikan kepada tetangganya.\n\nManakah penceritaan kembali yang salah karena MENAMBAH informasi yang tidak ada dalam cerita?\n\nA. Pak Joko seorang nelayan. Setiap malam ia melaut, pagi harinya pulang membawa ikan untuk dijual di pasar, dan sebagian diberikan kepada tetangga.\nB. Pak Joko seorang nelayan yang melaut setiap malam dengan jala besar yang baru dibelinya. Pagi harinya ia pulang membawa banyak ikan untuk dijual di pasar.\nC. Setiap malam Pak Joko melaut dengan perahu. Pagi harinya ia pulang membawa ikan, lalu menjualnya di pasar dan membagikan sebagian kepada tetangga.\nD. Pak Joko bekerja sebagai nelayan. Ia melaut pada malam hari, menjual hasil tangkapannya di pasar, dan sebagian ikannya diberikan kepada tetangga.",
+    "pilihan": [
+      "Pak Joko seorang nelayan. Setiap malam ia melaut, pagi harinya pulang membawa ikan untuk dijual di pasar, dan sebagian diberikan kepada tetangga.",
+      "Pak Joko seorang nelayan yang melaut setiap malam dengan jala besar yang baru dibelinya. Pagi harinya ia pulang membawa banyak ikan untuk dijual di pasar.",
+      "Setiap malam Pak Joko melaut dengan perahu. Pagi harinya ia pulang membawa ikan, lalu menjualnya di pasar dan membagikan sebagian kepada tetangga.",
+      "Pak Joko bekerja sebagai nelayan. Ia melaut pada malam hari, menjual hasil tangkapannya di pasar, dan sebagian ikannya diberikan kepada tetangga."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pilihan B menambahkan informasi yang tidak ada dalam cerita, yaitu \"jala besar yang baru dibelinya\" — cerita aslinya hanya menyebut Pak Joko melaut dengan perahu, tanpa menyebut jala apa pun. Menceritakan kembali tidak boleh menambah informasi baru. Pilihan A, C, dan D semuanya menceritakan kembali isi cerita dengan bahasa sendiri tanpa menambah informasi, jadi ketiganya benar sebagai penceritaan kembali.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cerita pendek berikut.\n> Bu Ratna seorang dokter di puskesmas. Setiap hari ia memeriksa pasien yang sakit. Ia memberi obat dan menasihati pasien agar menjaga kesehatan. Suatu hari, seorang anak demam datang berobat. Bu Ratna memeriksanya dengan teliti dan memberi obat penurun panas.\n\nManakah penceritaan kembali yang benar?\n\nA. Bu Ratna memberi obat kepada pasien, lalu memeriksanya dengan teliti.\nB. Bu Ratna seorang dokter. Suatu hari ada anak demam datang dan diberi obat.\nC. Bu Ratna seorang dokter di puskesmas. Setiap hari ia memeriksa pasien yang sakit, memberi obat, dan menasihati mereka agar menjaga kesehatan. Suatu hari, seorang anak demam datang berobat, lalu Bu Ratna memeriksanya dengan teliti dan memberi obat penurun panas.\nD. Bu Ratna seorang dokter di puskesmas. Ia memeriksa pasien, memberi obat, dan menasihatinya. Ia juga membuka klinik sendiri di rumahnya.",
+    "pilihan": [
+      "Bu Ratna memberi obat kepada pasien, lalu memeriksanya dengan teliti.",
+      "Bu Ratna seorang dokter. Suatu hari ada anak demam datang dan diberi obat.",
+      "Bu Ratna seorang dokter di puskesmas. Setiap hari ia memeriksa pasien yang sakit, memberi obat, dan menasihati mereka agar menjaga kesehatan. Suatu hari, seorang anak demam datang berobat, lalu Bu Ratna memeriksanya dengan teliti dan memberi obat penurun panas.",
+      "Bu Ratna seorang dokter di puskesmas. Ia memeriksa pasien, memberi obat, dan menasihatinya. Ia juga membuka klinik sendiri di rumahnya."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pilihan C menceritakan kembali seluruh isi cerita dengan bahasa sendiri, urutan yang benar, tanpa menambah atau mengurangi informasi penting. Pilihan A salah karena urutannya terbalik (memberi obat dulu baru memeriksa). Pilihan B salah karena menghilangkan informasi penting (pekerjaan Bu Ratna sehari-hari memeriksa pasien dan menasihati mereka). Pilihan D salah karena menambah informasi yang tidak ada dalam cerita (membuka klinik sendiri di rumah).",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cerita pendek berikut.\n> Bu Sinta seorang guru di SD Harapan. Ia mengajar dengan sabar. Murid-muridnya senang belajar bersamanya. Suatu hari, Dodi tidak bisa mengerjakan soal matematika. Bu Sinta membantunya dengan sabar sampai Dodi mengerti. Sejak itu Dodi semakin rajin belajar.\n\nPesan apa yang paling tepat dari cerita tersebut?\n\nA. Guru harus sabar membimbing muridnya, dan murid harus rajin belajar.\nB. Pelajaran matematika itu sulit dan susah dipahami.\nC. Dodi adalah murid yang tidak pandai.\nD. Sekolah harus mempunyai guru yang banyak.",
+    "pilihan": [
+      "Guru harus sabar membimbing muridnya, dan murid harus rajin belajar.",
+      "Pelajaran matematika itu sulit dan susah dipahami.",
+      "Dodi adalah murid yang tidak pandai.",
+      "Sekolah harus mempunyai guru yang banyak."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pesan cerita ini terlihat dari sikap Bu Sinta yang sabar membantu Dodi sampai mengerti, dan perubahan Dodi yang menjadi semakin rajin belajar — jadi pesannya adalah guru harus sabar membimbing muridnya dan murid harus rajin belajar. Pilihan B salah karena cerita tidak mengatakan matematika itu sulit, melainkan Dodi butuh bantuan. Pilihan C salah karena Dodi akhirnya mengerti dan menjadi rajin, bukan tidak pandai. Pilihan D salah karena jumlah guru tidak dibahas dalam cerita.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan menceritakan kembali isi cerita?\nA. Menyalin seluruh isi cerita kata demi kata.\nB. Menyampaikan kembali isi cerita dengan bahasa sendiri secara runtut, tanpa menambah atau mengurangi informasi penting.\nC. Mengarang cerita baru yang tokohnya sama dengan cerita yang dibaca.\nD. Membaca cerita dengan suara keras di depan kelas.",
+    "pilihan": [
+      "Menyalin seluruh isi cerita kata demi kata.",
+      "Menyampaikan kembali isi cerita dengan bahasa sendiri secara runtut, tanpa menambah atau mengurangi informasi penting.",
+      "Mengarang cerita baru yang tokohnya sama dengan cerita yang dibaca.",
+      "Membaca cerita dengan suara keras di depan kelas."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menceritakan kembali isi cerita berarti menyampaikan kembali isi cerita dengan bahasa sendiri, mengikuti urutan kejadian yang benar, tanpa menambah atau mengurangi informasi penting. Pilihan A salah karena menyalin kata demi kata bukan menceritakan kembali. Pilihan C salah karena mengarang cerita baru berbeda dengan menceritakan kembali. Pilihan D salah karena membaca keras-keras hanyalah membaca, bukan menceritakan kembali.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab C: Menceritakan Kembali isi Cerita tentang Pekerjaan\n## Sub-bab D: Menulis cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "C: Menceritakan Kembali isi Cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menulis cerita tentang Pak Hasan, seorang petani. Ia menulis tiga kalimat ini, tetapi urutannya masih acak.\n(1) Setiap pagi, Pak Hasan pergi ke sawah membawa cangkul dan bekal.\n(2) Karena rajin merawat tanamannya, padi Pak Hasan tumbuh subur dan panennya melimpah.\n(3) Pak Hasan adalah petani di Desa Sukamaju.\n\nUrutan kalimat yang paling runtut untuk cerita Dina adalah ....\n\nA. (2) – (1) – (3)\nB. (3) – (1) – (2)\nC. (1) – (2) – (3)\nD. (2) – (3) – (1)",
+    "pilihan": [
+      "(2) – (1) – (3)",
+      "(3) – (1) – (2)",
+      "(1) – (2) – (3)",
+      "(2) – (3) – (1)"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Cerita yang baik disusun runtut: awal, tengah, akhir. Kalimat (3) memperkenalkan tokoh dulu (awal cerita), kalimat (1) menceritakan kegiatan sehari-harinya (tengah cerita), dan kalimat (2) menceritakan hasil akhirnya (akhir cerita). Jadi urutan yang benar adalah (3) – (1) – (2).",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab D: Menulis cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "D: Menulis cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani akan menulis cerita tentang Bu Sari, seorang dokter di puskesmas. Kalimat pembuka mana yang paling tepat untuk cerita Rani?\nA. \"Bu Sari sudah bekerja di puskesmas selama sepuluh tahun dan sangat disayangi pasiennya.\"\nB. \"Dokter adalah pekerjaan yang mulia dan bermanfaat bagi banyak orang.\"\nC. \"Di sebuah puskesmas kecil di pinggir kota, tinggalah seorang dokter bernama Bu Sari.\"\nD. \"Aku ingin menjadi dokter seperti Bu Sari ketika sudah besar nanti.\"",
+    "pilihan": [
+      "\"Bu Sari sudah bekerja di puskesmas selama sepuluh tahun dan sangat disayangi pasiennya.\"",
+      "\"Dokter adalah pekerjaan yang mulia dan bermanfaat bagi banyak orang.\"",
+      "\"Di sebuah puskesmas kecil di pinggir kota, tinggalah seorang dokter bernama Bu Sari.\"",
+      "\"Aku ingin menjadi dokter seperti Bu Sari ketika sudah besar nanti.\""
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Kalimat pembuka yang baik memperkenalkan tokoh dan latar cerita sekaligus, sehingga pembaca langsung tahu siapa tokohnya dan di mana ceritanya terjadi. Pilihan C memperkenalkan Bu Sari (tokoh) dan puskesmas di pinggir kota (latar tempat). Pilihan A langsung memberi informasi tambahan tanpa pengenalan, B adalah pernyataan umum bukan pembuka cerita, dan D adalah keinginan penulis, bukan pembuka cerita tentang Bu Sari.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab D: Menulis cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "D: Menulis cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan kalimat dari draf cerita Budi berikut.\n\"kemarin pak rudi memeriksa pasien di rumah sakit ia bekerja dengan teliti\"\n\nApa kesalahan dalam kalimat itu?\n\nA. Huruf pertama kalimat dan nama orang harus memakai huruf kapital, dan kalimat itu belum diberi tanda titik di akhir.\nB. Kata \"rumah sakit\" harus ditulis \"Rumah Sakit\" karena nama tempat selalu memakai huruf kapital.\nC. Kata \"kemarin\" salah eja dan harus diganti dengan \"kemaren\".\nD. Tidak ada kesalahan; kalimat itu sudah benar.",
+    "pilihan": [
+      "Huruf pertama kalimat dan nama orang harus memakai huruf kapital, dan kalimat itu belum diberi tanda titik di akhir.",
+      "Kata \"rumah sakit\" harus ditulis \"Rumah Sakit\" karena nama tempat selalu memakai huruf kapital.",
+      "Kata \"kemarin\" salah eja dan harus diganti dengan \"kemaren\".",
+      "Tidak ada kesalahan; kalimat itu sudah benar."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Awal kalimat harus memakai huruf kapital (\"Kemarin\"), nama orang juga memakai huruf kapital (\"Pak Rudi\"), dan setiap kalimat harus diakhiri tanda titik. Jadi kalimat yang benar adalah: \"Kemarin Pak Rudi memeriksa pasien di rumah sakit. Ia bekerja dengan teliti.\" Pilihan B salah karena \"rumah sakit\" di sini bukan nama khusus, jadi tidak perlu huruf kapital. Pilihan C salah karena ejaan baku adalah \"kemarin\", bukan \"kemaren\".",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab D: Menulis cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "D: Menulis cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah cerita pendek berikut.\nPak Arman adalah seorang tukang pos. Setiap pagi, ia mengantar surat ke rumah-rumah di desanya. Suatu hari hujan turun sangat deras, tetapi Pak Arman tetap berangkat. \"Surat-surat ini sudah ditunggu penerimanya,\" katanya. Ia memakai jas hujan dan mengayuh sepedanya perlahan. Semua surat sampai tepat waktu.\n\nPesan yang dapat dipetik dari cerita di atas adalah ....\n\nA. Tukang pos selalu memakai jas hujan saat bekerja.\nB. Surat harus diantar dengan sepeda supaya cepat sampai.\nC. Hujan deras membuat semua pekerjaan menjadi tertunda.\nD. Kita harus bertanggung jawab dan tekun menyelesaikan pekerjaan, meskipun ada rintangan.",
+    "pilihan": [
+      "Tukang pos selalu memakai jas hujan saat bekerja.",
+      "Surat harus diantar dengan sepeda supaya cepat sampai.",
+      "Hujan deras membuat semua pekerjaan menjadi tertunda.",
+      "Kita harus bertanggung jawab dan tekun menyelesaikan pekerjaan, meskipun ada rintangan."
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Pak Arman tetap mengantar surat meski hujan deras karena ia merasa bertanggung jawab pada tugasnya. Pesan cerita ini adalah tentang tanggung jawab dan ketekunan dalam bekerja, bukan tentang jas hujan (A), sepeda (B), atau hujan yang menunda pekerjaan (C) — justru sebaliknya, hujan tidak menunda pekerjaannya.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab D: Menulis cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "D: Menulis cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dalam sebuah cerita tentang pekerjaan, bagian yang menunjukkan di mana dan kapan peristiwa itu terjadi disebut ....\nA. tokoh\nB. latar\nC. pesan\nD. judul",
+    "pilihan": [
+      "tokoh",
+      "latar",
+      "pesan",
+      "judul"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Latar adalah bagian cerita yang menunjukkan tempat, waktu, dan suasana terjadinya peristiwa. Tokoh adalah pelaku dalam cerita, pesan adalah amanat atau pelajaran dari cerita, dan judul adalah nama cerita.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 2: Cerita tentang Berbagai Pekerjaan, Sub-bab D: Menulis cerita tentang Pekerjaan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 02: Cerita tentang Berbagai Pekerjaan",
+    "sub_bab": "D: Menulis cerita tentang Pekerjaan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut!\n> Pagi datang membawa cerah\n> Burung berkicau riang\n> Embun menetes di atas tanah\n> Anak sekolah berjalan riang\n>\n> Mentari naik semakin tinggi\n> Awan berarak di langit biru\n> Bunga-bunga bermekaran di taman\n> Hatiku senang tiada tara\n\nBerapa bait puisi di atas?\n\nA. Satu bait\nB. Dua bait\nC. Empat bait\nD. Delapan bait",
+    "pilihan": [
+      "Satu bait",
+      "Dua bait",
+      "Empat bait",
+      "Delapan bait"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Bait adalah kumpulan baris puisi yang tersusun menjadi satu bagian. Puisi di atas terdiri atas dua kelompok baris yang dipisahkan oleh baris kosong: empat baris pertama membentuk bait pertama, dan empat baris berikutnya membentuk bait kedua. Jadi puisi itu memiliki dua bait.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab A: Mengenali Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "A: Mengenali Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah bait puisi berikut!\n> Pagi datang membawa cerah\n> Burung berkicau riang\n> Embun menetes di atas tanah\n> Anak sekolah berjalan riang\n\nApa pola rima pada bait puisi di atas?\n\nA. a-a-a-a, karena semua baris berakhir dengan bunyi yang sama\nB. a-b-a-b, karena baris pertama dan ketiga berakhir dengan bunyi \"ah\", sedangkan baris kedua dan keempat berakhir dengan bunyi \"ang\"\nC. a-b-b-a, karena baris kedua dan ketiga berakhir dengan bunyi yang sama\nD. a-a-b-b, karena dua baris pertama berakhir dengan bunyi yang sama",
+    "pilihan": [
+      "a-a-a-a, karena semua baris berakhir dengan bunyi yang sama",
+      "a-b-a-b, karena baris pertama dan ketiga berakhir dengan bunyi \"ah\", sedangkan baris kedua dan keempat berakhir dengan bunyi \"ang\"",
+      "a-b-b-a, karena baris kedua dan ketiga berakhir dengan bunyi yang sama",
+      "a-a-b-b, karena dua baris pertama berakhir dengan bunyi yang sama"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rima adalah persamaan bunyi akhir pada baris-baris puisi. Baris pertama berakhir dengan \"cerah\" dan baris ketiga berakhir dengan \"tanah\" — keduanya berakhir dengan bunyi \"ah\". Baris kedua berakhir dengan \"riang\" dan baris keempat juga berakhir dengan \"riang\" — keduanya berakhir dengan bunyi \"ang\". Pola ini disebut rima a-b-a-b.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab A: Mengenali Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "A: Mengenali Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua teks berikut!\n> Teks 1:\n> Hujan turun membasahi bumi\n> Katak bernyanyi riang\n> Daun-daun hijau bergoyang\n> Bumi terasa segar kembali\n>\n> Teks 2:\n> Kemarin hujan turun dengan deras. Katak-katak di sawah berbunyi nyaring. Daun-daun yang tadinya kering menjadi basah dan segar kembali.\n\nManakah teks yang merupakan puisi, dan mengapa?\n\nA. Teks 1, karena tersusun dalam baris-baris yang berkelompok menjadi bait dan bahasanya indah serta berima\nB. Teks 2, karena kalimatnya lebih panjang dan lengkap\nC. Teks 1, karena teksnya lebih pendek daripada Teks 2\nD. Teks 2, karena memakai kata \"kemarin\" yang menunjukkan waktu kejadian",
+    "pilihan": [
+      "Teks 1, karena tersusun dalam baris-baris yang berkelompok menjadi bait dan bahasanya indah serta berima",
+      "Teks 2, karena kalimatnya lebih panjang dan lengkap",
+      "Teks 1, karena teksnya lebih pendek daripada Teks 2",
+      "Teks 2, karena memakai kata \"kemarin\" yang menunjukkan waktu kejadian"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Puisi dikenali dari bentuknya: tersusun dalam baris-baris yang berkelompok menjadi bait, bahasanya indah dan padat, serta terikat oleh rima dan irama. Teks 1 memenuhi ciri itu — empat baris yang membentuk satu bait dengan bunyi akhir yang berpola. Teks 2 adalah paragraf cerita biasa (prosa), karena kalimatnya tersusun memanjang seperti karangan, bukan dalam baris-baris puisi. Panjang pendeknya teks bukan penanda puisi.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab A: Mengenali Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "A: Mengenali Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut!\n> Ibu memasak di dapur pagi hari\n> Aroma sayur memenuhi rumah\n> Ibu menjahit bajuku yang robek\n> Ibu membacakan cerita sebelum tidur\n\nApa tema puisi di atas?\n\nA. Keindahan alam di pagi hari\nB. Kasih sayang dan kebaikan seorang ibu\nC. Kehidupan di sekolah\nD. Cita-cita menjadi seorang koki",
+    "pilihan": [
+      "Keindahan alam di pagi hari",
+      "Kasih sayang dan kebaikan seorang ibu",
+      "Kehidupan di sekolah",
+      "Cita-cita menjadi seorang koki"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Tema adalah pokok pikiran atau hal utama yang diceritakan dalam puisi. Keempat baris puisi itu semuanya bercerita tentang Ibu: memasak, menjahit baju, dan membacakan cerita — semuanya menunjukkan kasih sayang dan kebaikan seorang ibu kepada anaknya. Pilihan A salah karena puisi ini tidak bercerita tentang alam. Pilihan C salah karena tidak ada sekolah dalam puisi. Pilihan D salah karena puisi ini bukan tentang cita-cita.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab A: Mengenali Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "A: Mengenali Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan puisi?\nA. Karangan yang berisi cerita tentang perjalanan seseorang dari awal sampai akhir\nB. Karya sastra berisi curahan perasaan penyair, bahasanya indah dan penuh makna, terikat oleh rima dan irama, serta tersusun dalam baris dan bait\nC. Tulisan yang berisi petunjuk langkah demi langkah menuju suatu tempat\nD. Laporan tertulis tentang kejadian yang benar-benar terjadi",
+    "pilihan": [
+      "Karangan yang berisi cerita tentang perjalanan seseorang dari awal sampai akhir",
+      "Karya sastra berisi curahan perasaan penyair, bahasanya indah dan penuh makna, terikat oleh rima dan irama, serta tersusun dalam baris dan bait",
+      "Tulisan yang berisi petunjuk langkah demi langkah menuju suatu tempat",
+      "Laporan tertulis tentang kejadian yang benar-benar terjadi"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Puisi adalah karya sastra yang berisi curahan perasaan atau pikiran penyair. Ciri-cirinya: bahasanya indah dan penuh makna, terikat oleh rima dan irama, serta tersusun dalam baris-baris yang berkelompok menjadi bait. Pilihan A adalah cerita, C adalah teks petunjuk arah, dan D adalah teks laporan — ketiganya bukan puisi.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab A: Mengenali Puisi Anak\n## Sub-bab B: Menguraikan Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "A: Mengenali Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut.\n> Layang-layangku terbang tinggi,\n> Menari-nari di langit biru.\n> Angin membawanya jauh sekali,\n> Hatiku pun ikut melayang bersamanya.\n\nApa makna baris \"Hatiku pun ikut melayang bersamanya\"?\n\nA. Hati penyair benar-benar terbang ke langit seperti layang-layang.\nB. Penyair merasa gembira dan bebas, seperti layang-layang yang terbang tinggi.\nC. Penyair ingin berubah menjadi layang-layang.\nD. Penyair kehilangan hatinya karena layang-layang itu terbang jauh.",
+    "pilihan": [
+      "Hati penyair benar-benar terbang ke langit seperti layang-layang.",
+      "Penyair merasa gembira dan bebas, seperti layang-layang yang terbang tinggi.",
+      "Penyair ingin berubah menjadi layang-layang.",
+      "Penyair kehilangan hatinya karena layang-layang itu terbang jauh."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Baris itu adalah ungkapan perasaan, bukan kejadian sungguhan. \"Hati melayang\" menggambarkan perasaan penyair yang gembira dan bebas saat melihat layang-layangnya terbang tinggi di langit. Pilihan A dan D salah karena memaknai baris itu secara harfiah, sedangkan C salah karena penyair tidak ingin menjadi layang-layang, melainkan menggambarkan perasaannya.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab B: Menguraikan Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "B: Menguraikan Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut.\n> Di pagi hari aku menyiram bunga,\n> Mawar merah dan melati putih.\n> Kupetik satu untuk Ibu,\n> Senyum Ibu pun merekah.\n\nApakah tema puisi di atas?\n\nA. Keindahan taman bunga\nB. Kasih sayang anak kepada ibu\nC. Cara menanam dan menyiram bunga\nD. Suasana pagi hari yang cerah",
+    "pilihan": [
+      "Keindahan taman bunga",
+      "Kasih sayang anak kepada ibu",
+      "Cara menanam dan menyiram bunga",
+      "Suasana pagi hari yang cerah"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Tema adalah pokok pikiran puisi. Puisi ini bercerita tentang anak yang menyiram bunga lalu memetik satu bunga untuk ibunya hingga ibu tersenyum — pusat ceritanya adalah kasih sayang anak kepada ibu. Pilihan A salah karena taman hanya latar tempatnya, C salah karena puisi ini tidak menjelaskan cara menanam bunga, dan D salah karena pagi hari hanya waktu terjadinya peristiwa.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab B: Menguraikan Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "B: Menguraikan Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut.\n> Mentari pagi bersinar cerah,\n> Sinta berlari ke sekolah.\n> Buku dan pensil sudah disiapkan,\n> Ia belajar dengan tekun setiap hari.\n\nPesan atau amanat yang terkandung dalam puisi di atas adalah ....\n\nA. Kita harus rajin belajar dan mempersiapkan diri sejak pagi.\nB. Berlari ke sekolah membuat badan menjadi sehat.\nC. Matahari pagi bersinar sangat cerah.\nD. Sekolah Sinta dekat dari rumahnya.",
+    "pilihan": [
+      "Kita harus rajin belajar dan mempersiapkan diri sejak pagi.",
+      "Berlari ke sekolah membuat badan menjadi sehat.",
+      "Matahari pagi bersinar sangat cerah.",
+      "Sekolah Sinta dekat dari rumahnya."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Amanat adalah pesan yang ingin disampaikan penyair. Puisi ini menggambarkan Sinta yang menyiapkan buku dan pensil lalu belajar dengan tekun setiap hari — pesannya adalah kita harus rajin belajar dan mempersiapkan diri. Pilihan B salah karena berlari hanya gambaran suasana, C salah karena itu hanya latar waktu, dan D salah karena jarak sekolah tidak dibahas dalam puisi.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab B: Menguraikan Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "B: Menguraikan Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah dua puisi berikut.\n> Puisi 1\n> Hujan turun membasahi bumi,\n> Tanaman pun tersenyum gembira.\n> Daun-daun hijau menari riang,\n> Bumi kembali segar dan ceria.\n\n> Puisi 2\n> Bonekaku hilang entah ke mana,\n> Kucari di kamar dan di taman.\n> Air mataku menetes perlahan,\n> Hatiku sedih dan kesepian.\n\nBagaimana perasaan penyair dalam kedua puisi itu?\n\nA. Kedua puisi sama-sama menggambarkan perasaan gembira.\nB. Puisi 1 menggambarkan perasaan gembira, sedangkan Puisi 2 menggambarkan perasaan sedih.\nC. Kedua puisi sama-sama menggambarkan perasaan sedih.\nD. Puisi 1 menggambarkan perasaan sedih, sedangkan Puisi 2 menggambarkan perasaan gembira.",
+    "pilihan": [
+      "Kedua puisi sama-sama menggambarkan perasaan gembira.",
+      "Puisi 1 menggambarkan perasaan gembira, sedangkan Puisi 2 menggambarkan perasaan sedih.",
+      "Kedua puisi sama-sama menggambarkan perasaan sedih.",
+      "Puisi 1 menggambarkan perasaan sedih, sedangkan Puisi 2 menggambarkan perasaan gembira."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Perasaan penyair (rasa) terlihat dari kata-kata yang dipakai. Puisi 1 memakai kata \"tersenyum gembira\", \"menari riang\", dan \"ceria\" — semuanya menunjukkan kegembiraan. Puisi 2 memakai kata \"air mataku menetes\", \"sedih\", dan \"kesepian\" — semuanya menunjukkan kesedihan. Jadi kedua puisi menggambarkan perasaan yang berlawanan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab B: Menguraikan Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "B: Menguraikan Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan menguraikan isi puisi?\nA. Menyalin puisi kata demi kata tanpa mengubah apa pun.\nB. Menjelaskan makna, tema, dan pesan puisi dengan bahasa sendiri.\nC. Menghafal puisi lalu membacakannya dengan cepat.\nD. Menghitung jumlah baris dan bait dalam puisi.",
+    "pilihan": [
+      "Menyalin puisi kata demi kata tanpa mengubah apa pun.",
+      "Menjelaskan makna, tema, dan pesan puisi dengan bahasa sendiri.",
+      "Menghafal puisi lalu membacakannya dengan cepat.",
+      "Menghitung jumlah baris dan bait dalam puisi."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menguraikan isi puisi berarti menjelaskan apa yang disampaikan puisi itu — makna kata dan barisnya, tema, gambaran penyair, serta pesan atau amanatnya — dengan bahasa sendiri. Pilihan A salah karena menyalin bukan menguraikan, C salah karena menghafal bukan menjelaskan isi, dan D salah karena menghitung baris hanya melihat bentuk puisi, bukan isinya.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab B: Menguraikan Isi Puisi Anak\n## Sub-bab C: Menceritakan Kembali Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "B: Menguraikan Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut.\n> **Pagi di Desaku**\n>\n> Matahari terbit di ufuk timur,\n> Ayam berkokok membangunkan desa.\n> Anak-anak berangkat ke sekolah,\n> Dengan langkah gembira dan hati ceria.\n\nSinta menceritakan kembali puisi itu seperti ini: \"Pagi hari, matahari terbit dan ayam berkokok. Anak-anak berangkat ke sekolah dengan gembira. Lalu hujan turun dan mereka berlari pulang.\" Apa kesalahan Sinta?\n\nA. Sinta tidak menyebutkan matahari terbit.\nB. Sinta memakai bahasa sendiri saat bercerita.\nC. Sinta menambah informasi yang tidak ada dalam puisi, yaitu hujan turun dan anak-anak berlari pulang.\nD. Sinta menceritakan isi puisi dengan urutan yang benar.",
+    "pilihan": [
+      "Sinta tidak menyebutkan matahari terbit.",
+      "Sinta memakai bahasa sendiri saat bercerita.",
+      "Sinta menambah informasi yang tidak ada dalam puisi, yaitu hujan turun dan anak-anak berlari pulang.",
+      "Sinta menceritakan isi puisi dengan urutan yang benar."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Menceritakan kembali isi puisi tidak boleh menambah informasi yang tidak ada dalam puisi. Puisi \"Pagi di Desaku\" tidak menyebut hujan sama sekali — Sinta menambahkan \"lalu hujan turun dan mereka berlari pulang\" dari pikirannya sendiri, sehingga ceritanya tidak lagi sama dengan isi puisi. Pilihan A salah karena Sinta sudah menyebut matahari terbit. Pilihan B salah karena memakai bahasa sendiri justru dianjurkan. Pilihan D salah karena ceritanya sudah tidak benar isinya.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab C: Menceritakan Kembali Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "C: Menceritakan Kembali Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut.\n> **Layang-Layangku**\n>\n> Layang-layangku terbang tinggi,\n> Menari-nari di langit biru.\n> Benangnya kupegang erat-erat,\n> Hatiku gembira bukan kepalang.\n\nManakah penceritaan kembali isi puisi itu yang paling tepat?\n\nA. \"Layang-layangku terbang tinggi di langit biru, menari-nari ditiup angin. Aku memegang benangnya erat-erat dan hatiku sangat gembira.\"\nB. \"Layang-layangku terbang tinggi, lalu jatuh ke sungai karena benangnya putus.\"\nC. \"Aku bermain layang-layang bersama teman-temanku di lapangan.\"\nD. \"Layang-layangku terbang tinggi, menari-nari di langit biru. Benangnya kupegang erat-erat, hatiku gembira bukan kepalang.\"",
+    "pilihan": [
+      "\"Layang-layangku terbang tinggi di langit biru, menari-nari ditiup angin. Aku memegang benangnya erat-erat dan hatiku sangat gembira.\"",
+      "\"Layang-layangku terbang tinggi, lalu jatuh ke sungai karena benangnya putus.\"",
+      "\"Aku bermain layang-layang bersama teman-temanku di lapangan.\"",
+      "\"Layang-layangku terbang tinggi, menari-nari di langit biru. Benangnya kupegang erat-erat, hatiku gembira bukan kepalang.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Menceritakan kembali berarti menyampaikan isi yang sama dengan bahasa sendiri, tanpa menambah atau mengurangi informasi penting. Pilihan A melakukan itu: semua isi puisi ada (terbang tinggi, langit biru, benang dipegang erat, hati gembira) dan disampaikan dengan kalimat sendiri. Pilihan B menambah kejadian yang tidak ada dalam puisi (jatuh ke sungai, benang putus). Pilihan C mengubah isi puisi (tidak ada teman-teman dan lapangan dalam puisi). Pilihan D hanya menyalin puisi kata demi kata, jadi bukan menceritakan kembali.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab C: Menceritakan Kembali Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "C: Menceritakan Kembali Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut.\n> **Ibuku**\n>\n> Pagi hari Ibu memasak di dapur,\n> Siang hari Ibu menjahit bajuku.\n> Saat aku sakit, Ibu menjagaku,\n> Dengan penuh kasih sayang selalu.\n\nRani bercerita: \"Ibuku memasak di pagi hari dan menjahit bajuku di siang hari. Kalau aku sakit, Ibu menjagaku dengan penuh kasih sayang.\"\n\nBudi bercerita: \"Ibuku memasak setiap hari. Ibu sangat baik.\"\n\nSiapa yang menceritakan kembali isi puisi dengan lebih tepat, dan mengapa?\n\nA. Rani, karena ceritanya lebih panjang daripada cerita Budi.\nB. Budi, karena ia menyampaikan isi puisi dengan bahasa sendiri dan lengkap, tanpa menambah atau mengurangi informasi penting.\nC. Rani, karena ia menyampaikan semua isi puisi dengan bahasa sendiri dan lengkap.\nD. Budi, karena ceritanya lebih singkat dan mudah diingat.",
+    "pilihan": [
+      "Rani, karena ceritanya lebih panjang daripada cerita Budi.",
+      "Budi, karena ia menyampaikan isi puisi dengan bahasa sendiri dan lengkap, tanpa menambah atau mengurangi informasi penting.",
+      "Rani, karena ia menyampaikan semua isi puisi dengan bahasa sendiri dan lengkap.",
+      "Budi, karena ceritanya lebih singkat dan mudah diingat."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Rani lebih tepat karena ia menyampaikan semua isi puisi — Ibu memasak di pagi hari, menjahit baju di siang hari, dan menjaga anak saat sakit dengan kasih sayang — dengan bahasa sendiri dan tanpa menghilangkan informasi penting. Budi memang singkat, tetapi ia menghilangkan sebagian besar isi puisi (menjahit baju, menjaga saat sakit) dan menambah penilaian \"Ibu sangat baik\" yang tidak ada dalam puisi. Panjang atau pendeknya cerita bukan ukuran ketepatan; yang penting isinya lengkap dan sama dengan puisi.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab C: Menceritakan Kembali Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "C: Menceritakan Kembali Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah puisi berikut.\n> **Bunga di Tamanku**\n>\n> Setiap pagi kusiram bunga-bunga,\n> Mawar merah dan melati putih.\n> Kupu-kupu datang beramai-ramai,\n> Taman pun indah dan harum wangi.\n\nDodi menceritakan kembali puisi itu seperti ini: \"Setiap pagi aku memetik bunga-bunga di taman, mawar merah dan melati putih. Kupu-kupu datang dan taman menjadi indah.\" Apa akibat kesalahan Dodi?\n\nA. Tidak ada akibat, memetik dan menyiram sama saja.\nB. Isi puisi berubah: dalam puisi anak itu merawat bunga dengan menyiramnya, sedangkan dalam cerita Dodi anak itu justru memetik bunga-bunganya.\nC. Cerita Dodi menjadi lebih baik karena lebih singkat.\nD. Kupu-kupu dalam cerita Dodi tidak datang beramai-ramai.",
+    "pilihan": [
+      "Tidak ada akibat, memetik dan menyiram sama saja.",
+      "Isi puisi berubah: dalam puisi anak itu merawat bunga dengan menyiramnya, sedangkan dalam cerita Dodi anak itu justru memetik bunga-bunganya.",
+      "Cerita Dodi menjadi lebih baik karena lebih singkat.",
+      "Kupu-kupu dalam cerita Dodi tidak datang beramai-ramai."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "\"Menyiram\" dan \"memetik\" adalah perbuatan yang berlawanan maknanya: menyiram berarti merawat bunga supaya tetap hidup dan mekar, sedangkan memetik berarti mengambil bunga dari tangkainya. Dodi menukar kata itu, sehingga isi dan pesan puisi berubah total — dari anak yang merawat taman menjadi anak yang memetik bunga. Pilihan A salah karena kedua kata itu berbeda artinya. Pilihan C salah karena singkat bukan alasan jika isinya salah. Pilihan D salah karena Dodi tetap menyebut kupu-kupu datang.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab C: Menceritakan Kembali Isi Puisi Anak",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "C: Menceritakan Kembali Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan menceritakan kembali isi puisi?\nA. Menyalin puisi kata demi kata tanpa mengubah apa pun.\nB. Menyampaikan kembali isi puisi dengan bahasa sendiri secara runtut, tanpa menambah atau mengurangi informasi penting dan tanpa mengubah pesannya.\nC. Membuat puisi baru dengan judul yang sama.\nD. Menghafal puisi lalu mengucapkannya dengan suara keras.",
+    "pilihan": [
+      "Menyalin puisi kata demi kata tanpa mengubah apa pun.",
+      "Menyampaikan kembali isi puisi dengan bahasa sendiri secara runtut, tanpa menambah atau mengurangi informasi penting dan tanpa mengubah pesannya.",
+      "Membuat puisi baru dengan judul yang sama.",
+      "Menghafal puisi lalu mengucapkannya dengan suara keras."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menceritakan kembali isi puisi berarti menyampaikan kembali isi dan gambaran dalam puisi dengan bahasa sendiri. Isinya harus tetap sama dengan puisi aslinya: informasi pentingnya tidak ditambah dan tidak dikurangi, dan pesannya tidak diubah. Menyalin kata demi kata (pilihan A) bukan menceritakan kembali, membuat puisi baru (pilihan C) mengubah isi, dan sekadar menghafal (pilihan D) bukan menyampaikan kembali dengan pemahaman sendiri.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab C: Menceritakan Kembali Isi Puisi Anak\n## Sub-bab D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "C: Menceritakan Kembali Isi Puisi Anak",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta ingin menulis puisi tentang hujan. Ia mencatat langkah-langkahnya, tetapi urutannya masih acak.\n(1) Menulis bait-bait puisi dengan kata-kata yang indah.\n(2) Menentukan tema puisi, yaitu hujan.\n(3) Membaca kembali puisinya dan memperbaiki kata yang kurang tepat.\n\nUrutan langkah menulis puisi yang paling tepat adalah ....\n\nA. (1) – (2) – (3)\nB. (2) – (1) – (3)\nC. (3) – (1) – (2)\nD. (1) – (3) – (2)",
+    "pilihan": [
+      "(1) – (2) – (3)",
+      "(2) – (1) – (3)",
+      "(3) – (1) – (2)",
+      "(1) – (3) – (2)"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menulis puisi dimulai dengan menentukan tema dulu (2), barulah menulis bait-bait puisinya (1), dan terakhir membaca kembali untuk memperbaiki kata yang kurang tepat (3). Tema harus ditentukan di awal supaya isi puisi terarah; tanpa tema, penulis tidak tahu mau menulis tentang apa. Membaca kembali dan memperbaiki dilakukan paling akhir, setelah puisi selesai ditulis.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina menulis dua bait puisi tentang bunga mawar.\nBait 1:\n> Bunga mawar mekar di pagi\n> Kupu-kupu hinggap di dahan\n> Harumnya semerbak mewangi\n> Kusiram selalu di taman\n\nBait 2:\n> Bunga mawar mekar di pagi\n> Kupu-kupu terbang jauh\n> Harumnya semerbak mewangi\n> Aku senang sekali\n\nManakah bait yang rimanya lebih teratur, dan mengapa?\n\nA. Bait 1, karena bunyi akhir baris pertama sama dengan baris ketiga, dan bunyi akhir baris kedua sama dengan baris keempat\nB. Bait 2, karena baris-barisnya lebih pendek\nC. Bait 1, karena memakai kata \"mawar\" lebih banyak\nD. Bait 2, karena bunyi akhir semua barisnya berbeda-beda",
+    "pilihan": [
+      "Bait 1, karena bunyi akhir baris pertama sama dengan baris ketiga, dan bunyi akhir baris kedua sama dengan baris keempat",
+      "Bait 2, karena baris-barisnya lebih pendek",
+      "Bait 1, karena memakai kata \"mawar\" lebih banyak",
+      "Bait 2, karena bunyi akhir semua barisnya berbeda-beda"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bait 1 berima a-b-a-b: baris pertama berakhir dengan bunyi -i (pagi), baris kedua -an (dahan), baris ketiga -i (mewangi), baris keempat -an (taman). Bunyi akhir yang berpola selang-seling inilah yang membuat puisi terdengar indah dan berirama. Bait 2 tidak berpola: baris pertama, ketiga, dan keempat sama-sama berakhir -i, sedangkan baris kedua berakhir -uh, sehingga rimanya tidak teratur.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rudi menulis bait puisi tentang pagi hari dengan rima a-b-a-b, tetapi baris keempatnya belum selesai.\n> Mentari pagi bersinar terang\n> Burung kecil terbang di langit\n> Angin sepoi bertiup tenang\n> ....\n\nBaris manakah yang paling tepat untuk melengkapi bait itu agar rimanya tetap a-b-a-b?\n\nA. Hatiku senang dan gembira\nB. Kakiku melangkah dengan semangat\nC. Mentari pagi telah terbit\nD. Embun pagi masih membasahi",
+    "pilihan": [
+      "Hatiku senang dan gembira",
+      "Kakiku melangkah dengan semangat",
+      "Mentari pagi telah terbit",
+      "Embun pagi masih membasahi"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Bait itu berpola a-b-a-b: baris pertama berakhir -ang (terang), baris kedua -it (langit), baris ketiga -ang (tenang). Agar polanya terjaga, baris keempat harus berakhir dengan bunyi yang sama dengan baris kedua, yaitu -it. Hanya pilihan C yang berakhir -it (terbit). Pilihan A berakhir -a, B berakhir -at (bunyi akhirnya berbeda dengan -it), dan D berakhir -i — ketiganya merusak pola rima.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi akan membacakan puisi tentang anak kucingnya yang hilang. Isi puisinya sedih karena ia sangat merindukan kucing itu. Cara membacakan puisi yang paling tepat adalah ....\nA. Membaca dengan cepat, suara keras, sambil tertawa\nB. Membaca dengan pelan, suara lembut, dan wajah yang sedih\nC. Membaca dengan suara datar tanpa ekspresi apa pun\nD. Membaca sambil berlari-lari kecil mengelilingi kelas",
+    "pilihan": [
+      "Membaca dengan cepat, suara keras, sambil tertawa",
+      "Membaca dengan pelan, suara lembut, dan wajah yang sedih",
+      "Membaca dengan suara datar tanpa ekspresi apa pun",
+      "Membaca sambil berlari-lari kecil mengelilingi kelas"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Cara membacakan puisi harus sesuai dengan suasana isinya. Puisi tentang kucing yang hilang bernuansa sedih, jadi dibacakan dengan tempo pelan, suara lembut, dan ekspresi wajah yang sedih agar pendengar ikut merasakan kesedihan itu. Pilihan A salah karena suara keras dan tertawa cocok untuk puisi yang gembira, bukan sedih. Pilihan C salah karena membaca tanpa ekspresi membuat pesan puisi tidak tersampaikan. Pilihan D salah karena gerak tubuh harus sesuai isi puisi, bukan berlari tanpa tujuan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dalam sebuah puisi, kumpulan baris-baris puisi yang tersusun menjadi satu bagian disebut ....\nA. Bait\nB. Rima\nC. Diksi\nD. Penyair",
+    "pilihan": [
+      "Bait",
+      "Rima",
+      "Diksi",
+      "Penyair"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bait adalah kumpulan baris-baris puisi yang tersusun menjadi satu bagian; pada puisi anak, satu bait biasanya berisi 2–4 baris. Rima adalah persamaan bunyi pada akhir baris puisi, diksi adalah pilihan kata yang indah dalam puisi, dan penyair adalah orang yang menulis puisi.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 3: Indahnya Kata-Kata dalam Puisi, Sub-bab D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 03: Indahnya Kata-Kata dalam Puisi",
+    "sub_bab": "D: Menulis dan Membacakan Puisi Anak Sederhana",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Simaklah teks laporan perjalanan berikut.\n\"Sabtu lalu, kelas kami berkunjung ke Museum Nasional di Jakarta. Di sana kami melihat prasasti batu kuno, arca-arca dari zaman kerajaan, dan keris-keris yang indah. Pemandu menjelaskan bahwa prasasti itu berisi tulisan dari zaman dahulu. Kami juga melihat naskah kuno yang ditulis di atas daun lontar.\"\n\nBerdasarkan laporan itu, apa saja yang dilihat anak-anak di Museum Nasional?\n\nA. Prasasti batu kuno, arca, keris, dan naskah kuno di atas daun lontar\nB. Tulang dinosaurus, kapal layar kuno, dan lukisan modern\nC. Prasasti batu kuno, arca, dan peta dunia dari zaman sekarang\nD. Keris, tombak, dan sepeda motor zaman dahulu",
+    "pilihan": [
+      "Prasasti batu kuno, arca, keris, dan naskah kuno di atas daun lontar",
+      "Tulang dinosaurus, kapal layar kuno, dan lukisan modern",
+      "Prasasti batu kuno, arca, dan peta dunia dari zaman sekarang",
+      "Keris, tombak, dan sepeda motor zaman dahulu"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Laporan itu menyebutkan empat hal yang dilihat: prasasti batu kuno, arca-arca dari zaman kerajaan, keris-keris yang indah, dan naskah kuno di atas daun lontar. Pilihan B, C, dan D menyebut benda yang tidak ada dalam laporan — tulang dinosaurus, kapal layar, lukisan modern, peta dunia, dan sepeda motor tidak pernah disebutkan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab A: Menyimak Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "A: Menyimak Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Simaklah dua teks laporan perjalanan berikut.\n> Laporan 1: \"Kami berkunjung ke Candi Borobudur di Magelang, Jawa Tengah. Candi itu terbuat dari batu andesit. Di sana kami melihat banyak stupa dan arca Buddha.\"\n>\n> Laporan 2: \"Kami berkunjung ke Monumen Nasional (Monas) di Jakarta. Monas adalah tugu yang tingginya 132 meter. Puncaknya dilapisi emas dan dapat dilihat dari jauh.\"\n\nManakah pernyataan yang benar berdasarkan kedua laporan itu?\n\nA. Candi Borobudur terletak di Jakarta dan Monas terletak di Magelang\nB. Monas terbuat dari batu andesit dan puncaknya dilapisi emas\nC. Candi Borobudur ada di Magelang dan di sana terdapat stupa serta arca Buddha\nD. Monas tingginya 132 meter dan terbuat dari batu andesit",
+    "pilihan": [
+      "Candi Borobudur terletak di Jakarta dan Monas terletak di Magelang",
+      "Monas terbuat dari batu andesit dan puncaknya dilapisi emas",
+      "Candi Borobudur ada di Magelang dan di sana terdapat stupa serta arca Buddha",
+      "Monas tingginya 132 meter dan terbuat dari batu andesit"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Laporan 1 menyebutkan Candi Borobudur ada di Magelang, Jawa Tengah, dan di sana terdapat stupa dan arca Buddha — jadi pilihan C benar. Pilihan A salah karena kedua tempat itu tertukar. Pilihan B salah karena batu andesit adalah bahan Candi Borobudur, bukan Monas. Pilihan D salah karena Monas memang tingginya 132 meter, tetapi tidak terbuat dari batu andesit.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab A: Menyimak Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "A: Menyimak Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Simaklah teks laporan perjalanan berikut.\n\"Pada hari Sabtu pagi, kami berkunjung ke Candi Prambanan di Yogyakarta. Pemandu kami bernama Pak Agus. Beliau menjelaskan bahwa di Candi Prambanan terdapat relief yang menceritakan kisah Ramayana. Kami juga melihat tiga candi utama untuk Dewa Brahma, Wisnu, dan Siwa.\"\n\nDina mencatat hasil simakannya seperti ini: \"Kunjungan ke Candi Prambanan pada hari Minggu. Pemandu bernama Pak Budi. Di sana ada relief kisah Ramayana dan tiga candi utama.\"\n\nApa kesalahan dalam catatan Dina?\n\nA. Hari kunjungan dan nama pemandu salah dicatat; hanya isi tentang relief dan tiga candi yang benar\nB. Semua catatan Dina sudah benar dan lengkap\nC. Relief kisah Ramayana seharusnya relief kisah Mahabharata\nD. Tiga candi utama seharusnya empat candi utama",
+    "pilihan": [
+      "Hari kunjungan dan nama pemandu salah dicatat; hanya isi tentang relief dan tiga candi yang benar",
+      "Semua catatan Dina sudah benar dan lengkap",
+      "Relief kisah Ramayana seharusnya relief kisah Mahabharata",
+      "Tiga candi utama seharusnya empat candi utama"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Laporan menyebutkan kunjungan pada hari Sabtu pagi dengan pemandu bernama Pak Agus, tetapi Dina mencatat hari Minggu dan pemandu bernama Pak Budi — keduanya salah. Yang benar dari catatan Dina hanyalah bagian tentang relief kisah Ramayana dan tiga candi utama (Brahma, Wisnu, dan Siwa). Menyimak dengan saksama berarti mencatat nama, hari, dan waktu sesuai dengan yang disampaikan, bukan menebak-nebak.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab A: Menyimak Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "A: Menyimak Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi dan Sinta menyimak laporan perjalanan yang sama tentang kunjungan ke Monumen Nasional (Monas). Isi laporan itu: Monas terletak di Jakarta, tingginya 132 meter, puncaknya dilapisi emas, dan dibangun untuk mengenang perjuangan rakyat Indonesia.\nCatatan Budi: \"Monas di Jakarta, tinggi 132 meter.\"\n\nCatatan Sinta: \"Monas di Jakarta, tinggi 132 meter, puncak dilapisi emas, dibangun untuk mengenang perjuangan rakyat Indonesia.\"\n\nCatatan siapa yang lebih baik, dan mengapa?\n\nA. Catatan Budi, karena lebih singkat dan mudah diingat\nB. Catatan Sinta, karena mencatat informasi penting lebih lengkap — tempat, ukuran, ciri khas, dan tujuan dibangunnya\nC. Catatan Budi, karena tinggi Monas adalah satu-satunya informasi penting\nD. Keduanya sama baiknya, karena sama-sama menyebut tempat dan tinggi Monas",
+    "pilihan": [
+      "Catatan Budi, karena lebih singkat dan mudah diingat",
+      "Catatan Sinta, karena mencatat informasi penting lebih lengkap — tempat, ukuran, ciri khas, dan tujuan dibangunnya",
+      "Catatan Budi, karena tinggi Monas adalah satu-satunya informasi penting",
+      "Keduanya sama baiknya, karena sama-sama menyebut tempat dan tinggi Monas"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Catatan Sinta lebih baik karena ia mencatat semua informasi penting dari laporan: tempat (Jakarta), ukuran (132 meter), ciri khas (puncak dilapisi emas), dan tujuan dibangunnya (mengenang perjuangan rakyat Indonesia). Catatan Budi hanya mencatat dua informasi dan menghilangkan ciri khas serta tujuan Monas. Catatan menyimak yang baik bukan yang paling singkat, melainkan yang paling lengkap mencatat hal-hal penting.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab A: Menyimak Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "A: Menyimak Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan laporan perjalanan?\nA. Cerita khayalan tentang perjalanan ke tempat yang tidak pernah ada\nB. Puisi yang berisi keindahan suatu tempat wisata\nC. Tulisan yang berisi hasil kunjungan atau perjalanan ke suatu tempat berdasarkan pengamatan\nD. Daftar nama tempat wisata di sebuah kota",
+    "pilihan": [
+      "Cerita khayalan tentang perjalanan ke tempat yang tidak pernah ada",
+      "Puisi yang berisi keindahan suatu tempat wisata",
+      "Tulisan yang berisi hasil kunjungan atau perjalanan ke suatu tempat berdasarkan pengamatan",
+      "Daftar nama tempat wisata di sebuah kota"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Laporan perjalanan adalah tulisan yang berisi hasil kunjungan atau perjalanan ke suatu tempat, berdasarkan pengamatan atau pengalaman orang yang melakukan perjalanan. Isinya menjawab pertanyaan apa, di mana, kapan, siapa, mengapa, dan bagaimana. Pilihan A salah karena laporan perjalanan berisi fakta, bukan khayalan. Pilihan B salah karena puisi adalah karya sastra, bukan laporan. Pilihan D salah karena daftar nama tempat bukan laporan hasil kunjungan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab A: Menyimak Teks Laporan Perjalanan\n## Sub-bab B: Membaca Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "A: Menyimak Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks laporan perjalanan berikut.\n> Pada hari Sabtu, 12 Oktober, kelas 4 mengunjungi Museum Nasional di Jakarta. Kami berangkat pukul 07.00 dan tiba pukul 08.30. Di sana kami melihat koleksi arca, prasasti, dan benda-benda peninggalan kerajaan. Yang paling menarik bagi kami adalah arca Ganesha dari abad ke-9. Bentuknya masih utuh dan ukirannya sangat halus, padahal arca itu sudah berumur lebih dari seribu tahun. Kami pulang pukul 12.00.\n\nApa yang membuat arca Ganesha paling menarik bagi penulis laporan?\n\nA. Arca itu baru dibuat tahun lalu sehingga warnanya masih mengilap.\nB. Bentuknya masih utuh dan ukirannya sangat halus, meskipun sudah berumur lebih dari seribu tahun.\nC. Arca itu adalah satu-satunya benda yang ada di museum.\nD. Arca itu ditemukan di halaman sekolah penulis laporan.",
+    "pilihan": [
+      "Arca itu baru dibuat tahun lalu sehingga warnanya masih mengilap.",
+      "Bentuknya masih utuh dan ukirannya sangat halus, meskipun sudah berumur lebih dari seribu tahun.",
+      "Arca itu adalah satu-satunya benda yang ada di museum.",
+      "Arca itu ditemukan di halaman sekolah penulis laporan."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Teks menyebutkan arca Ganesha dari abad ke-9 paling menarik karena bentuknya masih utuh dan ukirannya sangat halus, padahal sudah berumur lebih dari seribu tahun. Pilihan A salah karena arca itu berumur lebih dari seribu tahun, bukan baru dibuat. Pilihan C salah karena museum juga menyimpan prasasti dan benda peninggalan lain. Pilihan D salah karena arca itu dilihat di Museum Nasional, bukan di sekolah.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab B: Membaca Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "B: Membaca Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah dua teks laporan perjalanan berikut.\n> Laporan 1: Pada hari Minggu, kelas 4 mengunjungi Candi Prambanan di Yogyakarta. Di sana kami melihat tiga candi utama, yaitu Candi Siwa, Candi Brahma, dan Candi Wisnu. Candi Siwa adalah candi yang paling tinggi di antara ketiganya.\n>\n> Laporan 2: Pada hari Sabtu, kelas 4 mengunjungi Monumen Nasional (Monas) di Jakarta. Kami naik lift ke puncak monumen dan melihat pemandangan Kota Jakarta dari atas. Dari puncak, kami bisa melihat gedung-gedung tinggi di sekelilingnya.\n\nManakah pernyataan yang benar berdasarkan kedua laporan itu?\n\nA. Kedua kunjungan dilakukan pada hari yang sama.\nB. Di Candi Prambanan, siswa melihat tiga candi utama: Siwa, Brahma, dan Wisnu.\nC. Di Monas, siswa melihat arca Ganesha dari abad ke-9.\nD. Candi Brahma adalah candi yang paling tinggi di Prambanan.",
+    "pilihan": [
+      "Kedua kunjungan dilakukan pada hari yang sama.",
+      "Di Candi Prambanan, siswa melihat tiga candi utama: Siwa, Brahma, dan Wisnu.",
+      "Di Monas, siswa melihat arca Ganesha dari abad ke-9.",
+      "Candi Brahma adalah candi yang paling tinggi di Prambanan."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Laporan 1 menyebutkan siswa melihat tiga candi utama di Prambanan, yaitu Siwa, Brahma, dan Wisnu — jadi pilihan B benar. Pilihan A salah karena kunjungan ke Prambanan hari Minggu, sedangkan ke Monas hari Sabtu. Pilihan C salah karena arca Ganesha tidak disebut dalam laporan Monas. Pilihan D salah karena laporan menyebutkan Candi Siwa, bukan Brahma, yang paling tinggi.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab B: Membaca Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "B: Membaca Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks laporan perjalanan berikut.\n> Pada hari Rabu, kelas 4 mengunjungi Candi Borobudur di Magelang, Jawa Tengah. Candi Borobudur dibangun pada abad ke-9. Di candi itu terdapat 72 stupa berlubang, dan di dalam setiap stupa ada patung Buddha. Kami mendaki candi sampai ke tingkat paling atas sambil melihat relief yang menceritakan kehidupan zaman dahulu.\n\nDodi berkata, \"Candi Borobudur dibangun pada abad ke-19 dan hanya memiliki 10 stupa.\" Apakah perkataan Dodi benar?\n\nA. Benar, karena laporan itu tidak menyebut kapan candi dibangun.\nB. Benar, karena 10 stupa memang jumlah yang tertulis dalam laporan.\nC. Salah; menurut laporan, Candi Borobudur dibangun pada abad ke-9 dan memiliki 72 stupa.\nD. Salah; menurut laporan, Candi Borobudur dibangun pada abad ke-9 tetapi tidak memiliki stupa sama sekali.",
+    "pilihan": [
+      "Benar, karena laporan itu tidak menyebut kapan candi dibangun.",
+      "Benar, karena 10 stupa memang jumlah yang tertulis dalam laporan.",
+      "Salah; menurut laporan, Candi Borobudur dibangun pada abad ke-9 dan memiliki 72 stupa.",
+      "Salah; menurut laporan, Candi Borobudur dibangun pada abad ke-9 tetapi tidak memiliki stupa sama sekali."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Laporan menyebutkan Candi Borobudur dibangun pada abad ke-9, bukan abad ke-19, dan terdapat 72 stupa berlubang, bukan 10 stupa. Pilihan A salah karena laporan jelas menyebut abad ke-9. Pilihan D salah karena laporan menyebutkan ada 72 stupa, bukan tidak ada stupa.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab B: Membaca Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "B: Membaca Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks laporan perjalanan berikut.\n> Pada hari Sabtu, kelas 4 mengunjungi Monumen Nasional (Monas) di Jakarta. Kami berangkat dari sekolah pukul 07.00 dan tiba di Monas pukul 08.00. Setelah membeli tiket, kami naik lift ke puncak monumen dan melihat pemandangan Kota Jakarta dari atas. Kemudian kami turun dan makan siang bersama di taman sekitar Monas. Kami pulang pukul 13.00.\n\nUrutan kegiatan dalam laporan itu yang benar adalah ....\n\nA. Berangkat dari sekolah → naik lift ke puncak → membeli tiket → makan siang → pulang.\nB. Berangkat dari sekolah → membeli tiket → naik lift ke puncak → makan siang → pulang.\nC. Membeli tiket → berangkat dari sekolah → makan siang → naik lift ke puncak → pulang.\nD. Berangkat dari sekolah → makan siang → membeli tiket → naik lift ke puncak → pulang.",
+    "pilihan": [
+      "Berangkat dari sekolah → naik lift ke puncak → membeli tiket → makan siang → pulang.",
+      "Berangkat dari sekolah → membeli tiket → naik lift ke puncak → makan siang → pulang.",
+      "Membeli tiket → berangkat dari sekolah → makan siang → naik lift ke puncak → pulang.",
+      "Berangkat dari sekolah → makan siang → membeli tiket → naik lift ke puncak → pulang."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Urutan kegiatan dalam laporan adalah: berangkat dari sekolah pukul 07.00, tiba di Monas, membeli tiket, naik lift ke puncak, turun lalu makan siang bersama di taman, dan pulang pukul 13.00. Pilihan A salah karena tiket dibeli sebelum naik lift, bukan sesudahnya. Pilihan C salah karena tiket tidak mungkin dibeli sebelum berangkat. Pilihan D salah karena makan siang dilakukan setelah turun dari puncak, bukan sebelum membeli tiket.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab B: Membaca Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "B: Membaca Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Laporan perjalanan adalah ....\nA. Tulisan berisi hasil pengamatan atau pengalaman selama melakukan perjalanan ke suatu tempat.\nB. Cerita khayalan tentang perjalanan ke tempat yang tidak pernah ada.\nC. Kumpulan puisi tentang keindahan suatu tempat wisata.\nD. Daftar belanja yang dibawa selama perjalanan.",
+    "pilihan": [
+      "Tulisan berisi hasil pengamatan atau pengalaman selama melakukan perjalanan ke suatu tempat.",
+      "Cerita khayalan tentang perjalanan ke tempat yang tidak pernah ada.",
+      "Kumpulan puisi tentang keindahan suatu tempat wisata.",
+      "Daftar belanja yang dibawa selama perjalanan."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Laporan perjalanan adalah tulisan yang berisi hasil kunjungan atau perjalanan ke suatu tempat, berdasarkan fakta atau informasi dari pengamatan atau pengalaman orang yang melakukan perjalanan. Pilihan B salah karena laporan berisi fakta, bukan khayalan. Pilihan C salah karena puisi bukan laporan perjalanan. Pilihan D salah karena daftar belanja bukan laporan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab B: Membaca Teks Laporan Perjalanan\n## Sub-bab C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "B: Membaca Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks laporan perjalanan berikut.\n\"Pagi hari, kami tiba di Museum Fatahillah di Jakarta. Pertama, kami melihat meriam Si Jagur di halaman museum. Setelah itu, kami masuk ke ruang penjara bawah tanah dan membayangkan kehidupan tahanan zaman dahulu. Terakhir, kami melihat koleksi keramik kuno di dalam museum.\"\n\nDina menceritakan kembali teks itu seperti ini: \"Kami masuk ke ruang penjara bawah tanah, lalu melihat meriam Si Jagur di halaman, dan terakhir melihat koleksi keramik kuno.\" Apakah cara Dina menceritakan kembali sudah tepat?\n\nA. Sudah tepat, karena semua tempat yang dikunjungi disebutkan.\nB. Belum tepat, karena urutan kunjungannya ditukar sehingga pendengar mendapat gambaran perjalanan yang salah.\nC. Sudah tepat, karena ia memakai bahasa sendiri.\nD. Belum tepat, karena ia tidak menyebutkan warna keramik kuno itu.",
+    "pilihan": [
+      "Sudah tepat, karena semua tempat yang dikunjungi disebutkan.",
+      "Belum tepat, karena urutan kunjungannya ditukar sehingga pendengar mendapat gambaran perjalanan yang salah.",
+      "Sudah tepat, karena ia memakai bahasa sendiri.",
+      "Belum tepat, karena ia tidak menyebutkan warna keramik kuno itu."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menceritakan kembali harus mengikuti urutan yang ada dalam teks laporan. Pada teks asli, meriam Si Jagur dilihat pertama kali, baru setelah itu ruang penjara bawah tanah. Dina membalik urutannya: penjara dulu, baru meriam. Pendengar akan membayangkan perjalanan yang berbeda dari yang sebenarnya terjadi. Memakai bahasa sendiri saja tidak cukup kalau urutannya salah, dan warna keramik bukan informasi penting dalam laporan itu.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks laporan perjalanan berikut.\n\"Pada hari Sabtu, kelas kami mengunjungi Candi Borobudur di Magelang. Kami naik ke atas candi melalui tangga dan melihat relief yang menceritakan kisah kehidupan Buddha. Dari puncak candi, kami melihat pemandangan sawah dan perbukitan yang indah. Kami pulang dengan rasa kagum.\"\n\nManakah cara menceritakan kembali teks itu yang paling tepat?\n\nA. \"Hari Sabtu, kami berkunjung ke Candi Borobudur di Magelang. Kami naik tangga, melihat relief tentang kisah Buddha, lalu dari puncak menikmati pemandangan sawah dan bukit. Kami pulang dengan kagum.\"\nB. \"Kami pulang dengan kagum, lalu melihat relief tentang kisah Buddha, dan akhirnya naik ke atas Candi Borobudur.\"\nC. \"Hari Sabtu, kami berkunjung ke Candi Borobudur di Magelang. Kami naik tangga, melihat relief tentang kisah Buddha, lalu berenang di kolam candi. Kami pulang dengan kagum.\"\nD. \"Pada hari Sabtu, kelas kami mengunjungi Candi Borobudur di Magelang. Kami naik ke atas candi melalui tangga dan melihat relief yang menceritakan kisah kehidupan Buddha. Dari puncak candi, kami melihat pemandangan sawah dan perbukitan yang indah. Kami pulang dengan rasa kagum.\"",
+    "pilihan": [
+      "\"Hari Sabtu, kami berkunjung ke Candi Borobudur di Magelang. Kami naik tangga, melihat relief tentang kisah Buddha, lalu dari puncak menikmati pemandangan sawah dan bukit. Kami pulang dengan kagum.\"",
+      "\"Kami pulang dengan kagum, lalu melihat relief tentang kisah Buddha, dan akhirnya naik ke atas Candi Borobudur.\"",
+      "\"Hari Sabtu, kami berkunjung ke Candi Borobudur di Magelang. Kami naik tangga, melihat relief tentang kisah Buddha, lalu berenang di kolam candi. Kami pulang dengan kagum.\"",
+      "\"Pada hari Sabtu, kelas kami mengunjungi Candi Borobudur di Magelang. Kami naik ke atas candi melalui tangga dan melihat relief yang menceritakan kisah kehidupan Buddha. Dari puncak candi, kami melihat pemandangan sawah dan perbukitan yang indah. Kami pulang dengan rasa kagum.\""
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Menceritakan kembali berarti menyampaikan isi yang sama dengan bahasa sendiri, tanpa mengubah urutan dan tanpa menambah atau mengurangi informasi penting. Pilihan A melakukan itu: semua isi laporan ada, urutannya benar, dan kalimatnya memakai bahasa sendiri. Pilihan B menukar urutan kunjungan. Pilihan C menambah informasi yang tidak ada dalam teks (berenang di kolam candi). Pilihan D hanya menyalin teks kata demi kata, jadi bukan menceritakan kembali.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani dan Budi menceritakan kembali laporan perjalanan ke Monumen Nasional. Teks aslinya berbunyi: \"Minggu lalu, aku dan keluargaku mengunjungi Monumen Nasional di Jakarta. Kami naik lift sampai ke puncak tugu dan melihat pemandangan kota Jakarta dari ketinggian. Setelah itu, kami turun dan melihat diorama sejarah perjuangan bangsa di museum bawah tugu. Aku jadi semakin bangga menjadi anak Indonesia.\"\nRani bercerita: \"Minggu lalu, aku dan keluargaku pergi ke Monas di Jakarta. Kami naik lift ke puncak untuk melihat kota dari atas, lalu melihat diorama sejarah perjuangan di museum bawah tugu. Aku semakin bangga menjadi anak Indonesia.\"\n\nBudi bercerita: \"Aku dan keluargaku mengunjungi Monas. Kami melihat pemandangan kota dan aku bangga menjadi anak Indonesia.\"\n\nSiapa yang menceritakan kembali dengan lebih tepat, dan mengapa?\n\nA. Budi, karena ceritanya lebih singkat.\nB. Rani, karena ia menyampaikan semua informasi penting dengan bahasa sendiri dan urutan yang benar.\nC. Budi, karena ia tidak perlu menyebut lift dan diorama.\nD. Rani, karena ia menyalin teks asli kata demi kata.",
+    "pilihan": [
+      "Budi, karena ceritanya lebih singkat.",
+      "Rani, karena ia menyampaikan semua informasi penting dengan bahasa sendiri dan urutan yang benar.",
+      "Budi, karena ia tidak perlu menyebut lift dan diorama.",
+      "Rani, karena ia menyalin teks asli kata demi kata."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rani lebih tepat karena ia tidak menghilangkan informasi penting: waktu kunjungan (minggu lalu), naik lift ke puncak, dan diorama sejarah perjuangan di museum bawah tugu — semuanya disampaikan dengan bahasa sendiri dan urutan yang benar. Budi memang lebih singkat, tetapi ia menghilangkan informasi penting (lift dan diorama), sehingga pendengar tidak tahu apa saja yang dilakukan selama kunjungan. Rani juga tidak menyalin teks kata demi kata; kalimatnya sudah ia susun dengan bahasanya sendiri.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah teks laporan perjalanan berikut.\n\"Candi Prambanan dibangun pada abad ke-9 dan merupakan candi Hindu terbesar di Indonesia. Kami mengunjungi candi itu bersama guru dan teman-teman. Kami melihat relief Ramayana yang terukir di dinding candi.\"\n\nSinta menceritakan kembali teks itu seperti ini: \"Candi Prambanan dibangun pada abad ke-19 dan merupakan candi Hindu terbesar di Indonesia. Kami mengunjungi candi itu bersama guru dan teman-teman. Kami melihat relief Ramayana yang terukir di dinding candi.\" Apa akibat kesalahan Sinta?\n\nA. Tidak ada akibat, abad ke-9 dan abad ke-19 sama saja.\nB. Pendengar mendapat informasi sejarah yang salah dan bisa mengira candi itu baru dibangun seribu tahun kemudian.\nC. Pendengar akan sampai ke candi lebih cepat.\nD. Candi Prambanan akan berpindah ke tempat lain.",
+    "pilihan": [
+      "Tidak ada akibat, abad ke-9 dan abad ke-19 sama saja.",
+      "Pendengar mendapat informasi sejarah yang salah dan bisa mengira candi itu baru dibangun seribu tahun kemudian.",
+      "Pendengar akan sampai ke candi lebih cepat.",
+      "Candi Prambanan akan berpindah ke tempat lain."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Angka tahun adalah informasi penting dalam laporan tentang tempat bersejarah. Sinta menukar \"abad ke-9\" menjadi \"abad ke-19\" — selisih seribu tahun. Pendengar akan mendapat fakta sejarah yang salah dan bisa mengira Candi Prambanan baru dibangun, padahal candi itu sudah berdiri sejak abad ke-9. Kesalahan kecil pada fakta bisa mengubah isi laporan secara keseluruhan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan menceritakan kembali isi teks laporan perjalanan?\nA. Menyalin teks laporan perjalanan kata demi kata tanpa mengubah apa pun.\nB. Menyampaikan kembali isi teks laporan perjalanan dengan bahasa sendiri, mengikuti urutan kunjungan, tanpa menambah atau mengurangi informasi penting.\nC. Membuat laporan perjalanan baru tentang tempat yang berbeda.\nD. Menghafal teks laporan perjalanan lalu mengucapkannya dengan cepat.",
+    "pilihan": [
+      "Menyalin teks laporan perjalanan kata demi kata tanpa mengubah apa pun.",
+      "Menyampaikan kembali isi teks laporan perjalanan dengan bahasa sendiri, mengikuti urutan kunjungan, tanpa menambah atau mengurangi informasi penting.",
+      "Membuat laporan perjalanan baru tentang tempat yang berbeda.",
+      "Menghafal teks laporan perjalanan lalu mengucapkannya dengan cepat."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menceritakan kembali isi teks laporan perjalanan berarti menyampaikan kembali isi laporan dengan bahasa sendiri. Isinya harus tetap sama dengan teks asli: urutan kunjungannya tidak ditukar, informasi pentingnya tidak ditambah dan tidak dikurangi. Menyalin kata demi kata (pilihan A) bukan menceritakan kembali, membuat laporan baru (pilihan C) mengubah isi, dan sekadar menghafal (pilihan D) bukan menyampaikan kembali dengan pemahaman sendiri.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab C: Menceritakan Kembali Isi Teks Laporan Perjalanan\n## Sub-bab D: Menulis Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "C: Menceritakan Kembali Isi Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rudi menulis laporan kunjungan ke Candi Borobudur. Ia menyusun laporannya seperti ini:\n1. Kesan dan saran untuk kunjungan berikutnya.\n2. Perjalanan naik bus dan kegiatan selama di candi.\n3. Tujuan kunjungan dan waktu keberangkatan.\n\nApa yang salah dari susunan laporan Rudi?\n\nA. Urutannya terbalik; laporan harus disusun runtut: awal (tujuan, waktu, peserta), tengah (perjalanan dan kegiatan), akhir (kesan dan saran).\nB. Tidak ada yang salah; bagian laporan boleh ditulis dalam urutan apa saja.\nC. Kesan dan saran seharusnya ditulis paling awal agar pembaca langsung tahu hasilnya.\nD. Tujuan kunjungan tidak perlu ditulis dalam laporan perjalanan.",
+    "pilihan": [
+      "Urutannya terbalik; laporan harus disusun runtut: awal (tujuan, waktu, peserta), tengah (perjalanan dan kegiatan), akhir (kesan dan saran).",
+      "Tidak ada yang salah; bagian laporan boleh ditulis dalam urutan apa saja.",
+      "Kesan dan saran seharusnya ditulis paling awal agar pembaca langsung tahu hasilnya.",
+      "Tujuan kunjungan tidak perlu ditulis dalam laporan perjalanan."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Laporan perjalanan disusun runtut dari awal, tengah, sampai akhir. Bagian awal berisi tujuan, waktu, dan siapa yang ikut; bagian tengah berisi proses perjalanan dan kegiatan di tempat tujuan; bagian akhir berisi kesan, hal yang dipelajari, dan saran. Rudi menulis bagian akhir lebih dulu, sehingga pembaca bingung karena belum tahu tujuan dan jalannya kunjungan. Pilihan B salah karena urutan itu penting, C salah karena kesan ditulis di akhir, dan D salah karena tujuan justru wajib ada di bagian awal.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab D: Menulis Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "D: Menulis Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah laporan singkat berikut.\n\"Kami mengunjungi Museum Fatahillah. Kami melihat koleksi senjata dan foto-foto lama. Kami sangat senang.\"\n\nUnsur ADiKSiMBa apa saja yang belum terjawab dalam laporan itu?\n\nA. Kapan perjalanan dilakukan dan siapa saja yang ikut.\nB. Apa yang dilihat selama kunjungan.\nC. Bagaimana perasaan penulis selama kunjungan.\nD. Di mana museum itu berada.",
+    "pilihan": [
+      "Kapan perjalanan dilakukan dan siapa saja yang ikut.",
+      "Apa yang dilihat selama kunjungan.",
+      "Bagaimana perasaan penulis selama kunjungan.",
+      "Di mana museum itu berada."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Laporan itu sudah menjawab \"apa\" (mengunjungi Museum Fatahillah dan melihat koleksi senjata serta foto lama), \"di mana\" (Museum Fatahillah), dan \"bagaimana\" perasaannya (sangat senang). Namun, laporan itu tidak menyebut kapan perjalanan dilakukan dan siapa saja yang ikut — padahal kedua unsur itu harus ada agar laporan lengkap. Jadi unsur yang belum terjawab adalah \"kapan\" dan \"siapa\".",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab D: Menulis Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "D: Menulis Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi menulis dua draf bagian akhir untuk laporan kunjungannya ke Monas.\nDraf 1: \"Aku senang bisa melihat Monas dari dekat dan belajar bahwa Monas dibangun untuk mengenang perjuangan rakyat Indonesia. Lain kali, aku ingin mengajak keluargaku ke sana.\"\n\nDraf 2: \"Aku tidak suka Monas karena panas sekali dan aku ingin cepat pulang, jadi aku tidak belajar apa-apa.\"\n\nDraf manakah yang lebih tepat sebagai bagian akhir laporan perjalanan, dan mengapa?\n\nA. Draf 1, karena berisi kesan, hal yang dipelajari, dan rencana untuk perjalanan selanjutnya.\nB. Draf 2, karena lebih singkat dan jujur.\nC. Draf 2, karena kesan buruk juga boleh ditulis apa adanya.\nD. Keduanya sama baiknya sebagai bagian akhir laporan.",
+    "pilihan": [
+      "Draf 1, karena berisi kesan, hal yang dipelajari, dan rencana untuk perjalanan selanjutnya.",
+      "Draf 2, karena lebih singkat dan jujur.",
+      "Draf 2, karena kesan buruk juga boleh ditulis apa adanya.",
+      "Keduanya sama baiknya sebagai bagian akhir laporan."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bagian akhir laporan berisi kesan, hal yang dipelajari, dan rencana atau saran untuk perjalanan selanjutnya. Draf 1 memenuhi ketiganya: Budi senang (kesan), belajar tentang makna Monas (hal yang dipelajari), dan ingin mengajak keluarga (rencana). Draf 2 hanya berisi keluhan tanpa hal yang dipelajari dan tanpa rencana, sehingga kurang tepat sebagai penutup laporan. Pilihan B dan C salah karena singkat dan jujur saja tidak cukup — bagian akhir harus menyampaikan kesan yang bermakna dan apa yang dipelajari.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab D: Menulis Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "D: Menulis Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bacalah laporan Lani berikut.\n\"Kami berangkat pukul 07.00 dengan bus sekolah. Di Lawang Sewu, pemandu menjelaskan bahwa gedung ini dulu kantor kereta api. Setelah itu, kami melihat seribu pintu dan berfoto bersama. Lalu kami naik kereta api ke Bandung.\"\n\nApa kesalahan dalam laporan Lani?\n\nA. Lani tidak menuliskan kesan di akhir laporan.\nB. Kalimat terakhir menambah kejadian yang tidak terjadi dalam kunjungan itu.\nC. Lani tidak menuliskan jam berangkat.\nD. Lani tidak menyebutkan nama pemandu wisata.",
+    "pilihan": [
+      "Lani tidak menuliskan kesan di akhir laporan.",
+      "Kalimat terakhir menambah kejadian yang tidak terjadi dalam kunjungan itu.",
+      "Lani tidak menuliskan jam berangkat.",
+      "Lani tidak menyebutkan nama pemandu wisata."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Laporan perjalanan harus berisi fakta yang benar-benar dialami atau diamati selama kunjungan. Kunjungan Lani hanya ke Lawang Sewu dengan bus sekolah — kalimat terakhir, \"Lalu kami naik kereta api ke Bandung,\" menambah kejadian yang tidak terjadi dalam kunjungan itu, sehingga laporan menjadi tidak benar. Pilihan A salah karena kesan memang belum ditulis, tetapi itu bukan kesalahan isi yang paling utama; C salah karena jam berangkat sudah ditulis (pukul 07.00); D salah karena nama pemandu bukan unsur yang wajib ada.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab D: Menulis Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "D: Menulis Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan teks laporan perjalanan?\nA. Tulisan berisi hasil kunjungan atau perjalanan ke suatu tempat berdasarkan pengamatan atau pengalaman, ditulis dalam bahasa Indonesia yang baik dan benar.\nB. Tulisan berisi rencana perjalanan yang akan dilakukan minggu depan.\nC. Tulisan berisi cerita khayalan tentang perjalanan ke tempat yang tidak pernah dikunjungi.\nD. Tulisan berisi daftar barang yang harus dibawa saat bepergian.",
+    "pilihan": [
+      "Tulisan berisi hasil kunjungan atau perjalanan ke suatu tempat berdasarkan pengamatan atau pengalaman, ditulis dalam bahasa Indonesia yang baik dan benar.",
+      "Tulisan berisi rencana perjalanan yang akan dilakukan minggu depan.",
+      "Tulisan berisi cerita khayalan tentang perjalanan ke tempat yang tidak pernah dikunjungi.",
+      "Tulisan berisi daftar barang yang harus dibawa saat bepergian."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Laporan perjalanan adalah tulisan yang berisi hasil dari kunjungan atau perjalanan ke suatu tempat, berdasarkan pengamatan atau pengalaman orang yang melakukan perjalanan, dan ditulis dalam bahasa Indonesia yang baik dan benar. Pilihan B salah karena laporan berisi perjalanan yang sudah dilakukan, bukan rencana. Pilihan C salah karena laporan berisi fakta, bukan khayalan. Pilihan D salah karena daftar barang bukan laporan perjalanan.",
+    "rujukan": "Bahasa Indonesia Kelas 4, Bab 4: Laporan tentang Tempat Bersejarah, Sub-bab D: Menulis Teks Laporan Perjalanan",
+    "jenjang": "kelas-4",
+    "mapel": "bi",
+    "bab": "Bab 04: Laporan tentang Tempat Bersejarah",
+    "sub_bab": "D: Menulis Teks Laporan Perjalanan",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  }
+]

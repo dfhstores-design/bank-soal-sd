@@ -23,9 +23,10 @@ EXPECTED_COUNTS = {
     "seni": 105,
     "inggris": 75,
     "pai": 195,
+    "bi": 80,
 }
 
-MAPEL_ORDER = ["mtk", "tik", "pjok", "seni", "inggris", "pai"]
+MAPEL_ORDER = ["mtk", "tik", "pjok", "seni", "inggris", "pai", "bi"]
 
 JENJANG = "kelas-4"
 TANGGAL = "2026-11-25"
