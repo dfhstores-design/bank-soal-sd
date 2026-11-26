@@ -1,0 +1,1502 @@
+[
+  {
+    "pertanyaan": "Rina mengayuh sepedanya pelan-pelan, sedangkan Budi mengayuh sepedanya dengan kencang. Siapa yang memiliki energi gerak lebih besar?\nA. Rina, karena sepedanya bergerak lebih pelan\nB. Budi, karena sepedanya bergerak lebih cepat\nC. Sama besar, karena keduanya sama-sama naik sepeda\nD. Tidak ada yang memiliki energi gerak",
+    "pilihan": [
+      "Rina, karena sepedanya bergerak lebih pelan",
+      "Budi, karena sepedanya bergerak lebih cepat",
+      "Sama besar, karena keduanya sama-sama naik sepeda",
+      "Tidak ada yang memiliki energi gerak"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Energi gerak dimiliki oleh benda yang bergerak. Semakin cepat benda bergerak, semakin besar energi geraknya. Karena Budi mengayuh sepedanya lebih cepat daripada Rina, energi gerak Budi lebih besar.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab A: Bentuk-Bentuk Energi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "A: Bentuk-Bentuk Energi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Malam hari listrik padam. Ibu menyalakan lilin supaya rumah menjadi terang. Bentuk energi yang membuat rumah menjadi terang itu adalah ....\nA. Energi gerak\nB. Energi bunyi\nC. Energi cahaya\nD. Energi listrik",
+    "pilihan": [
+      "Energi gerak",
+      "Energi bunyi",
+      "Energi cahaya",
+      "Energi listrik"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Lilin yang menyala menghasilkan energi cahaya, dan cahaya itulah yang membuat rumah menjadi terang. Energi gerak ada pada benda yang bergerak, energi bunyi ada pada benda yang bergetar, sedangkan energi listrik tidak ada karena listrik sedang padam.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab A: Bentuk-Bentuk Energi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "A: Bentuk-Bentuk Energi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Baterai menyimpan energi listrik, makanya bisa menyalakan jam dinding.\" Apakah perkataan Dodi benar?\nA. Benar, karena baterai memang menyimpan energi listrik\nB. Salah; baterai menyimpan energi kimia yang berubah menjadi energi listrik saat dipakai\nC. Salah; baterai menyimpan energi panas\nD. Benar, karena baterai menyimpan energi gerak",
+    "pilihan": [
+      "Benar, karena baterai memang menyimpan energi listrik",
+      "Salah; baterai menyimpan energi kimia yang berubah menjadi energi listrik saat dipakai",
+      "Salah; baterai menyimpan energi panas",
+      "Benar, karena baterai menyimpan energi gerak"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Baterai menyimpan energi kimia, bukan energi listrik. Saat baterai dipakai, energi kimia di dalamnya berubah menjadi energi listrik, dan energi listrik itulah yang menyalakan jam dinding.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab A: Bentuk-Bentuk Energi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "A: Bentuk-Bentuk Energi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Benda berikut yang menghasilkan energi bunyi adalah ....\nA. Senar gitar yang dipetik\nB. Lampu yang menyala\nC. Setrika yang panas\nD. Kipas angin yang berputar",
+    "pilihan": [
+      "Senar gitar yang dipetik",
+      "Lampu yang menyala",
+      "Setrika yang panas",
+      "Kipas angin yang berputar"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Energi bunyi dihasilkan oleh benda yang bergetar. Senar gitar yang dipetik bergetar sehingga menghasilkan bunyi. Lampu yang menyala menghasilkan energi cahaya, setrika yang panas menghasilkan energi panas, dan kipas angin yang berputar memiliki energi gerak.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab A: Bentuk-Bentuk Energi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "A: Bentuk-Bentuk Energi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Energi adalah ....\nA. Benda yang bergerak cepat\nB. Cahaya yang dihasilkan lampu\nC. Panas yang dihasilkan api\nD. Kemampuan benda untuk melakukan kerja atau usaha",
+    "pilihan": [
+      "Benda yang bergerak cepat",
+      "Cahaya yang dihasilkan lampu",
+      "Panas yang dihasilkan api",
+      "Kemampuan benda untuk melakukan kerja atau usaha"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Energi adalah kemampuan benda untuk melakukan kerja atau usaha. Benda yang bergerak cepat memiliki energi gerak, lampu menghasilkan energi cahaya, dan api menghasilkan energi panas — ketiganya adalah contoh bentuk energi, bukan pengertian energi itu sendiri.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab A: Bentuk-Bentuk Energi\n## Sub-bab B: Perubahan Energi di Sekitar Kita",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "A: Bentuk-Bentuk Energi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani menyalakan kipas angin di kamarnya. Baling-baling kipas berputar dan terasa angin sejuk. Perubahan energi yang terjadi pada kipas angin adalah ....\nA. Energi listrik berubah menjadi energi cahaya\nB. Energi listrik berubah menjadi energi gerak\nC. Energi gerak berubah menjadi energi listrik\nD. Energi panas berubah menjadi energi gerak",
+    "pilihan": [
+      "Energi listrik berubah menjadi energi cahaya",
+      "Energi listrik berubah menjadi energi gerak",
+      "Energi gerak berubah menjadi energi listrik",
+      "Energi panas berubah menjadi energi gerak"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Kipas angin bekerja dengan mengubah energi listrik dari stopkontak menjadi energi gerak yang memutar baling-baling. Putaran baling-baling itulah yang menghasilkan angin. Pilihan A salah karena kipas tidak menghasilkan cahaya, C terbalik (itu yang terjadi pada pembangkit listrik tenaga angin), dan D salah karena kipas tidak memakai energi panas.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab B: Perubahan Energi di Sekitar Kita",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "B: Perubahan Energi di Sekitar Kita",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di rumah Sinta, ibu sedang menyetrika baju sedangkan Sinta menyalakan lampu belajar. Perubahan energi yang terjadi pada kedua alat itu adalah ....\nA. Setrika: listrik menjadi panas; lampu: listrik menjadi cahaya\nB. Setrika: listrik menjadi cahaya; lampu: listrik menjadi panas\nC. Setrika: kimia menjadi panas; lampu: kimia menjadi cahaya\nD. Setrika: listrik menjadi gerak; lampu: listrik menjadi bunyi",
+    "pilihan": [
+      "Setrika: listrik menjadi panas; lampu: listrik menjadi cahaya",
+      "Setrika: listrik menjadi cahaya; lampu: listrik menjadi panas",
+      "Setrika: kimia menjadi panas; lampu: kimia menjadi cahaya",
+      "Setrika: listrik menjadi gerak; lampu: listrik menjadi bunyi"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Setrika mengubah energi listrik menjadi energi panas untuk merapikan pakaian, sedangkan lampu mengubah energi listrik menjadi energi cahaya untuk menerangi ruangan. Pilihan B menukar keduanya, C salah karena kedua alat memakai listrik dari stopkontak bukan energi kimia, dan D salah karena setrika tidak bergerak dan lampu tidak berbunyi.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab B: Perubahan Energi di Sekitar Kita",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "B: Perubahan Energi di Sekitar Kita",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi menyalakan senternya saat mati lampu. Urutan perubahan energi yang terjadi di dalam senter adalah ....\nA. Energi listrik berubah menjadi energi kimia, lalu menjadi energi cahaya\nB. Energi cahaya berubah menjadi energi listrik, lalu menjadi energi kimia\nC. Energi kimia berubah menjadi energi listrik, lalu menjadi energi cahaya\nD. Energi kimia berubah menjadi energi cahaya, lalu menjadi energi listrik",
+    "pilihan": [
+      "Energi listrik berubah menjadi energi kimia, lalu menjadi energi cahaya",
+      "Energi cahaya berubah menjadi energi listrik, lalu menjadi energi kimia",
+      "Energi kimia berubah menjadi energi listrik, lalu menjadi energi cahaya",
+      "Energi kimia berubah menjadi energi cahaya, lalu menjadi energi listrik"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Di dalam senter, baterai menyimpan energi kimia. Saat senter dinyalakan, energi kimia berubah menjadi energi listrik yang mengalir, lalu energi listrik itu berubah menjadi energi cahaya pada bohlam lampu senter. Jadi urutannya kimia → listrik → cahaya. Pilihan lain salah urutannya.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab B: Perubahan Energi di Sekitar Kita",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "B: Perubahan Energi di Sekitar Kita",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi berkata, \"Kipas angin mengubah energi gerak menjadi energi listrik, karena baling-balingnya bergerak.\" Apakah perkataan Budi benar?\nA. Benar, karena baling-baling kipas yang bergerak menghasilkan listrik\nB. Benar, karena semua alat yang bergerak mengubah gerak menjadi listrik\nC. Salah; kipas angin mengubah energi listrik menjadi energi gerak, bukan sebaliknya\nD. Salah; kipas angin mengubah energi listrik menjadi energi cahaya",
+    "pilihan": [
+      "Benar, karena baling-baling kipas yang bergerak menghasilkan listrik",
+      "Benar, karena semua alat yang bergerak mengubah gerak menjadi listrik",
+      "Salah; kipas angin mengubah energi listrik menjadi energi gerak, bukan sebaliknya",
+      "Salah; kipas angin mengubah energi listrik menjadi energi cahaya"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Budi salah dan arah perubahannya terbalik. Kipas angin memakai energi listrik dari stopkontak untuk memutar baling-baling — jadi listrik berubah menjadi gerak. Yang mengubah gerak menjadi listrik adalah pembangkit listrik, misalnya kincir angin yang diputar angin untuk menghasilkan listrik, bukan kipas angin di rumah.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab B: Perubahan Energi di Sekitar Kita",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "B: Perubahan Energi di Sekitar Kita",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perubahan energi dari satu bentuk menjadi bentuk energi yang lain disebut ....\nA. Fotosintesis\nB. Transformasi energi\nC. Gaya magnet\nD. Pembangkit listrik",
+    "pilihan": [
+      "Fotosintesis",
+      "Transformasi energi",
+      "Gaya magnet",
+      "Pembangkit listrik"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Perubahan bentuk energi — misalnya listrik menjadi cahaya pada lampu atau listrik menjadi gerak pada kipas angin — disebut transformasi energi. Fotosintesis adalah perubahan cahaya matahari menjadi energi kimia pada tumbuhan, gaya magnet adalah gaya tarik-menarik magnet, dan pembangkit listrik adalah tempat menghasilkan listrik — ketiganya bukan nama untuk perubahan bentuk energi secara umum.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab B: Perubahan Energi di Sekitar Kita\n## Sub-bab C: Fotosintesis, Proses Penting di Bumi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "B: Perubahan Energi di Sekitar Kita",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina menanam dua tanaman yang sama. Tanaman A diletakkan di dekat jendela yang terkena cahaya matahari, sedangkan tanaman B diletakkan di dalam lemari yang gelap. Setelah dua minggu, tanaman A tumbuh subur, sedangkan tanaman B layu dan mati. Apa penyebabnya?\nA. Tanaman B mati karena tidak disiram, sedangkan tanaman A disiram setiap hari.\nB. Tanaman A tumbuh subur karena daunnya mendapat cahaya matahari untuk berfotosintesis, sedangkan tanaman B tidak bisa berfotosintesis tanpa cahaya.\nC. Tanaman A tumbuh subur karena potnya lebih besar daripada pot tanaman B.\nD. Tanaman B mati karena lemari terlalu dingin, sedangkan tanaman A dekat jendela yang hangat.",
+    "pilihan": [
+      "Tanaman B mati karena tidak disiram, sedangkan tanaman A disiram setiap hari.",
+      "Tanaman A tumbuh subur karena daunnya mendapat cahaya matahari untuk berfotosintesis, sedangkan tanaman B tidak bisa berfotosintesis tanpa cahaya.",
+      "Tanaman A tumbuh subur karena potnya lebih besar daripada pot tanaman B.",
+      "Tanaman B mati karena lemari terlalu dingin, sedangkan tanaman A dekat jendela yang hangat."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Fotosintesis membutuhkan energi cahaya matahari. Tanaman A mendapat cahaya sehingga daunnya bisa berfotosintesis dan membuat makanan untuk tumbuh. Tanaman B di tempat gelap tidak mendapat cahaya, jadi tidak bisa berfotosintesis dan tidak dapat membuat makanan — akhirnya layu dan mati. Pilihan A salah karena soal tidak menyebut perbedaan penyiraman; C dan D bukan penyebab utamanya.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab C: Fotosintesis, Proses Penting di Bumi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "C: Fotosintesis, Proses Penting di Bumi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Tumbuhan mengambil makanan dari dalam tanah, sama seperti kita makan nasi.\" Sinta berkata, \"Tumbuhan membuat makanannya sendiri di daun, dari air dan karbon dioksida dengan bantuan cahaya matahari.\" Siapa yang benar?\nA. Sinta benar, karena tumbuhan membuat makanan sendiri melalui fotosintesis di daun.\nB. Dodi benar, karena akar tumbuhan menyerap makanan jadi dari dalam tanah.\nC. Keduanya benar, karena tumbuhan mengambil makanan dari tanah sekaligus membuat makanan di daun.\nD. Keduanya salah, karena tumbuhan tidak membutuhkan makanan sama sekali.",
+    "pilihan": [
+      "Sinta benar, karena tumbuhan membuat makanan sendiri melalui fotosintesis di daun.",
+      "Dodi benar, karena akar tumbuhan menyerap makanan jadi dari dalam tanah.",
+      "Keduanya benar, karena tumbuhan mengambil makanan dari tanah sekaligus membuat makanan di daun.",
+      "Keduanya salah, karena tumbuhan tidak membutuhkan makanan sama sekali."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Sinta yang benar. Tumbuhan membuat makanannya sendiri melalui fotosintesis: air diserap akar dari tanah, karbon dioksida diambil daun dari udara, lalu keduanya diolah di daun dengan bantuan cahaya matahari dan klorofil menjadi makanan (glukosa). Akar menyerap air dan mineral, bukan makanan jadi — jadi Dodi salah.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab C: Fotosintesis, Proses Penting di Bumi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "C: Fotosintesis, Proses Penting di Bumi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Udara di sekitar taman yang banyak tumbuhannya terasa segar dan sejuk. Mengapa demikian?\nA. Karena tumbuhan mengeluarkan oksigen hasil fotosintesis ke udara, dan oksigen itulah yang kita hirup.\nB. Karena tumbuhan menyerap semua udara kotor sehingga udara menjadi bersih.\nC. Karena daun-daun tumbuhan menahan panas matahari sehingga udara menjadi dingin.\nD. Karena tumbuhan mengeluarkan karbon dioksida yang membuat udara terasa segar.",
+    "pilihan": [
+      "Karena tumbuhan mengeluarkan oksigen hasil fotosintesis ke udara, dan oksigen itulah yang kita hirup.",
+      "Karena tumbuhan menyerap semua udara kotor sehingga udara menjadi bersih.",
+      "Karena daun-daun tumbuhan menahan panas matahari sehingga udara menjadi dingin.",
+      "Karena tumbuhan mengeluarkan karbon dioksida yang membuat udara terasa segar."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Salah satu hasil fotosintesis adalah oksigen, yang dilepaskan daun ke udara. Oksigen adalah gas yang kita hirup saat bernapas, sehingga udara di sekitar banyak tumbuhan terasa segar. Pilihan D salah karena karbon dioksida justru diserap (diambil) tumbuhan dari udara, bukan dikeluarkan.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab C: Fotosintesis, Proses Penting di Bumi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "C: Fotosintesis, Proses Penting di Bumi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi menempelkan selembar kertas hitam pada sebagian daun tanaman, sehingga bagian daun itu tidak terkena cahaya matahari. Setelah beberapa hari, bagian daun yang tertutup kertas itu menjadi pucat dan lemah, sedangkan bagian yang tidak tertutup tetap hijau dan sehat. Apa yang terjadi pada bagian daun yang tertutup kertas?\nA. Bagian itu tetap berfotosintesis karena klorofil masih ada di dalam daun.\nB. Bagian itu tidak bisa berfotosintesis karena klorofil tidak mendapat cahaya matahari untuk menangkap energi.\nC. Bagian itu berfotosintesis lebih cepat karena terlindung dari panas matahari.\nD. Bagian itu berubah menjadi akar karena tidak lagi berfungsi sebagai daun.",
+    "pilihan": [
+      "Bagian itu tetap berfotosintesis karena klorofil masih ada di dalam daun.",
+      "Bagian itu tidak bisa berfotosintesis karena klorofil tidak mendapat cahaya matahari untuk menangkap energi.",
+      "Bagian itu berfotosintesis lebih cepat karena terlindung dari panas matahari.",
+      "Bagian itu berubah menjadi akar karena tidak lagi berfungsi sebagai daun."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Klorofil adalah zat hijau daun yang menangkap energi cahaya matahari untuk memulai fotosintesis. Bagian daun yang tertutup kertas hitam tidak menerima cahaya, sehingga klorofil di sana tidak bisa menangkap energi dan fotosintesis tidak terjadi di bagian itu — daun pun menjadi pucat dan lemah. Bagian yang tidak tertutup tetap mendapat cahaya, jadi tetap berfotosintesis dan sehat.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab C: Fotosintesis, Proses Penting di Bumi",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "C: Fotosintesis, Proses Penting di Bumi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Zat hijau yang ada di dalam daun dan bertugas menangkap energi cahaya matahari untuk fotosintesis disebut ....\nA. Klorofil\nB. Stomata\nC. Kloroplas\nD. Karbohidrat",
+    "pilihan": [
+      "Klorofil",
+      "Stomata",
+      "Kloroplas",
+      "Karbohidrat"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Klorofil adalah zat hijau daun yang menangkap energi cahaya matahari untuk memulai proses fotosintesis. Klorofil inilah yang membuat daun tampak berwarna hijau. Stomata adalah mulut daun tempat masuknya karbon dioksida; kloroplas adalah bagian sel daun tempat fotosintesis berlangsung; karbohidrat adalah hasil (makanan) fotosintesis, bukan penangkap cahaya.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab C: Fotosintesis, Proses Penting di Bumi\n## Sub-bab D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "C: Fotosintesis, Proses Penting di Bumi",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Ibu memasak nasi dengan kompor gas. Perubahan energi yang terjadi pada kompor gas adalah ....\nA. Energi listrik berubah menjadi energi cahaya\nB. Energi gerak berubah menjadi energi bunyi\nC. Energi kimia berubah menjadi energi panas\nD. Energi panas berubah menjadi energi listrik",
+    "pilihan": [
+      "Energi listrik berubah menjadi energi cahaya",
+      "Energi gerak berubah menjadi energi bunyi",
+      "Energi kimia berubah menjadi energi panas",
+      "Energi panas berubah menjadi energi listrik"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Gas LPG yang dipakai kompor menyimpan energi kimia. Saat gas dibakar, energi kimia itu berubah menjadi energi panas yang dipakai untuk memasak nasi (sebagian kecil juga menjadi cahaya api). Jadi kompor gas mengubah energi kimia menjadi energi panas.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani menyalakan kipas angin, sedangkan Budi menyalakan setrika. Manakah pernyataan yang benar tentang perubahan energi pada kedua alat itu?\nA. Kipas angin dan setrika sama-sama mengubah energi listrik menjadi energi panas\nB. Kipas angin mengubah energi gerak menjadi energi listrik, sedangkan setrika mengubah energi listrik menjadi energi panas\nC. Kipas angin dan setrika sama-sama memakai energi kimia dari baterai\nD. Keduanya memakai energi listrik, tetapi kipas angin mengubahnya menjadi energi gerak sedangkan setrika mengubahnya menjadi energi panas",
+    "pilihan": [
+      "Kipas angin dan setrika sama-sama mengubah energi listrik menjadi energi panas",
+      "Kipas angin mengubah energi gerak menjadi energi listrik, sedangkan setrika mengubah energi listrik menjadi energi panas",
+      "Kipas angin dan setrika sama-sama memakai energi kimia dari baterai",
+      "Keduanya memakai energi listrik, tetapi kipas angin mengubahnya menjadi energi gerak sedangkan setrika mengubahnya menjadi energi panas"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Kipas angin dan setrika sama-sama memakai energi listrik, tetapi diubah menjadi bentuk yang berbeda sesuai kebutuhannya: kipas angin mengubah energi listrik menjadi energi gerak (baling-baling berputar), sedangkan setrika mengubah energi listrik menjadi energi panas (untuk melicinkan pakaian). Inilah alasan manusia mengubah bentuk energi — bentuk awalnya sama, hasil akhirnya disesuaikan dengan kebutuhan.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Manusia bisa menciptakan energi baru, misalnya dengan membangun pembangkit listrik.\" Apakah perkataan Dodi benar?\nA. Salah; manusia tidak dapat menciptakan energi, pembangkit listrik hanya mengubah bentuk energi yang sudah ada menjadi energi listrik\nB. Benar, karena pembangkit listrik membuat energi dari ketiadaan\nC. Benar, karena listrik adalah energi baru yang tidak ada di alam\nD. Salah; pembangkit listrik tidak menghasilkan energi sama sekali",
+    "pilihan": [
+      "Salah; manusia tidak dapat menciptakan energi, pembangkit listrik hanya mengubah bentuk energi yang sudah ada menjadi energi listrik",
+      "Benar, karena pembangkit listrik membuat energi dari ketiadaan",
+      "Benar, karena listrik adalah energi baru yang tidak ada di alam",
+      "Salah; pembangkit listrik tidak menghasilkan energi sama sekali"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Energi tidak dapat diciptakan dan tidak dapat dimusnahkan — energi hanya dapat diubah bentuknya. Pembangkit listrik tidak menciptakan energi dari ketiadaan; ia mengubah bentuk energi yang sudah ada di alam (misalnya energi gerak air, energi panas bumi, atau energi kimia batu bara) menjadi energi listrik. Jadi perkataan Dodi salah.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Malam hari rumah Sinta gelap dan gerah. Ia menyalakan lampu dan kipas angin. Perubahan energi yang terjadi adalah ....\nA. Lampu mengubah energi gerak menjadi energi cahaya, sedangkan kipas angin mengubah energi panas menjadi energi gerak\nB. Lampu mengubah energi listrik menjadi energi cahaya dan kipas angin mengubah energi listrik menjadi energi gerak\nC. Lampu dan kipas angin sama-sama mengubah energi kimia menjadi energi listrik\nD. Lampu mengubah energi cahaya menjadi energi listrik dan kipas angin mengubah energi listrik menjadi energi bunyi",
+    "pilihan": [
+      "Lampu mengubah energi gerak menjadi energi cahaya, sedangkan kipas angin mengubah energi panas menjadi energi gerak",
+      "Lampu mengubah energi listrik menjadi energi cahaya dan kipas angin mengubah energi listrik menjadi energi gerak",
+      "Lampu dan kipas angin sama-sama mengubah energi kimia menjadi energi listrik",
+      "Lampu mengubah energi cahaya menjadi energi listrik dan kipas angin mengubah energi listrik menjadi energi bunyi"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Sinta butuh dua hal yang berbeda: cahaya untuk menerangi rumah dan angin untuk menyejukkan ruangan. Keduanya memakai energi listrik sebagai bahan awal, tetapi diubah menjadi bentuk yang berbeda: lampu mengubah energi listrik menjadi energi cahaya, sedangkan kipas angin mengubah energi listrik menjadi energi gerak. Satu bentuk energi awal dapat diubah menjadi berbagai bentuk energi sesuai kebutuhan manusia.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Mengapa manusia perlu mengubah bentuk energi?\nA. Karena energi di alam sudah habis sehingga manusia harus membuat energi yang baru\nB. Karena manusia tidak dapat menciptakan energi, maka bentuk energi yang ada diubah agar dapat dipakai untuk kebutuhan sehari-hari\nC. Karena semua energi yang ada di alam berbentuk energi listrik\nD. Karena mengubah bentuk energi membuat jumlah energi menjadi bertambah",
+    "pilihan": [
+      "Karena energi di alam sudah habis sehingga manusia harus membuat energi yang baru",
+      "Karena manusia tidak dapat menciptakan energi, maka bentuk energi yang ada diubah agar dapat dipakai untuk kebutuhan sehari-hari",
+      "Karena semua energi yang ada di alam berbentuk energi listrik",
+      "Karena mengubah bentuk energi membuat jumlah energi menjadi bertambah"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Manusia tidak dapat menciptakan energi dari ketiadaan, jadi manusia memanfaatkan energi yang sudah ada di alam dengan mengubah bentuknya agar sesuai kebutuhan: energi kimia gas diubah menjadi panas untuk memasak, energi listrik diubah menjadi cahaya untuk penerangan, dan energi kimia bensin diubah menjadi gerak untuk kendaraan. Jumlah energi tidak bertambah karena diubah — energi hanya berpindah bentuk.",
+    "rujukan": "IPAS Kelas 4, Bab 1: Bentuk-Bentuk Energi dan Perubahannya, Sub-bab D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 01: Bentuk-Bentuk Energi dan Perubahannya",
+    "sub_bab": "D: Mengapa Manusia Mengubah Bentuk Energi?",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan gaya?\nA. Tarikan atau dorongan yang diberikan pada suatu benda\nB. Gerakan benda yang sangat cepat\nC. Bentuk benda yang berubah karena dipanaskan\nD. Bunyi yang dihasilkan benda saat dipukul",
+    "pilihan": [
+      "Tarikan atau dorongan yang diberikan pada suatu benda",
+      "Gerakan benda yang sangat cepat",
+      "Bentuk benda yang berubah karena dipanaskan",
+      "Bunyi yang dihasilkan benda saat dipukul"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Gaya adalah tarikan atau dorongan yang diberikan pada suatu benda. Pilihan B salah karena kecepatan adalah akibat dari gerak, bukan pengertian gaya; C salah karena perubahan bentuk akibat panas bukan gaya; D salah karena bunyi bukan pengertian gaya.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab A: Pengertian Gaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "A: Pengertian Gaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi membuka pintu kamarnya dengan menarik gagang pintu ke arah badannya. Setelah masuk, ia menutup pintu itu dengan mendorongnya menjauhi badannya. Pasangan gaya yang benar untuk kedua kegiatan itu adalah ....\nA. Membuka pintu = dorongan; menutup pintu = tarikan\nB. Membuka pintu = tarikan; menutup pintu = dorongan\nC. Membuka pintu = tarikan; menutup pintu = tarikan\nD. Membuka pintu = dorongan; menutup pintu = dorongan",
+    "pilihan": [
+      "Membuka pintu = dorongan; menutup pintu = tarikan",
+      "Membuka pintu = tarikan; menutup pintu = dorongan",
+      "Membuka pintu = tarikan; menutup pintu = tarikan",
+      "Membuka pintu = dorongan; menutup pintu = dorongan"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menarik gagang pintu ke arah badan adalah tarikan, karena benda bergerak mendekati tubuh. Mendorong pintu menjauhi badan adalah dorongan, karena benda bergerak menjauhi tubuh. Jadi membuka pintu = tarikan dan menutup pintu = dorongan.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab A: Pengertian Gaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "A: Pengertian Gaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta berkata, \"Gaya itu hanya dorongan. Menarik benda bukan gaya, karena bendanya ditarik, bukan didorong.\" Apakah perkataan Sinta benar?\nA. Benar, karena gaya hanya bisa mendorong benda menjauh\nB. Benar, karena tarikan tidak bisa menggerakkan benda\nC. Salah; menarik benda juga gaya — contohnya menarik tali ember dari sumur membuat ember yang diam menjadi bergerak naik\nD. Salah; menarik benda bukan gaya, tetapi mendorong benda juga bukan gaya",
+    "pilihan": [
+      "Benar, karena gaya hanya bisa mendorong benda menjauh",
+      "Benar, karena tarikan tidak bisa menggerakkan benda",
+      "Salah; menarik benda juga gaya — contohnya menarik tali ember dari sumur membuat ember yang diam menjadi bergerak naik",
+      "Salah; menarik benda bukan gaya, tetapi mendorong benda juga bukan gaya"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Gaya ada dua macam: tarikan dan dorongan. Menarik tali ember dari sumur adalah tarikan, dan tarikan itu membuat ember yang semula diam menjadi bergerak naik — jadi menarik benda jelas termasuk gaya. Pilihan D salah karena mendorong benda juga gaya.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab A: Pengertian Gaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "A: Pengertian Gaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina menarik kursi ke arah dirinya, sedangkan Budi mendorong kursi yang sama menjauhi dirinya. Manakah kegiatan yang menggunakan gaya tarik?\nA. Kegiatan Rina, karena kursi bergerak mendekati tubuhnya\nB. Kegiatan Budi, karena kursi bergerak menjauhi tubuhnya\nC. Kegiatan Rina dan Budi, karena keduanya sama-sama menggerakkan kursi\nD. Tidak ada, karena kursi hanya bisa digerakkan dengan dorongan",
+    "pilihan": [
+      "Kegiatan Rina, karena kursi bergerak mendekati tubuhnya",
+      "Kegiatan Budi, karena kursi bergerak menjauhi tubuhnya",
+      "Kegiatan Rina dan Budi, karena keduanya sama-sama menggerakkan kursi",
+      "Tidak ada, karena kursi hanya bisa digerakkan dengan dorongan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Tarikan adalah gaya yang membuat benda bergerak mendekati tubuh atau sumber gaya — itulah yang dilakukan Rina. Dorongan membuat benda bergerak menjauhi tubuh — itulah yang dilakukan Budi. Jadi hanya kegiatan Rina yang menggunakan gaya tarik.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab A: Pengertian Gaya",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "A: Pengertian Gaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sebuah gerobak berisi buku diam di tempat. Ayah mendorong gerobak itu dari belakang, dan gerobak pun bergerak maju. Gaya apa yang bekerja pada gerobak, dan apa buktinya?\nA. Tarikan; buktinya gerobak bergerak mendekati ayah\nB. Tarikan; buktinya gerobak tetap diam di tempat\nC. Dorongan; buktinya gerobak tidak berubah bentuk\nD. Dorongan; buktinya gerobak yang semula diam menjadi bergerak",
+    "pilihan": [
+      "Tarikan; buktinya gerobak bergerak mendekati ayah",
+      "Tarikan; buktinya gerobak tetap diam di tempat",
+      "Dorongan; buktinya gerobak tidak berubah bentuk",
+      "Dorongan; buktinya gerobak yang semula diam menjadi bergerak"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Ayah mendorong gerobak dari belakang, jadi gaya yang bekerja adalah dorongan — benda bergerak menjauhi tubuh ayah. Buktinya, gerobak yang semula diam menjadi bergerak maju. Pilihan A salah karena gerobak menjauhi ayah, bukan mendekatinya; B salah karena gerobak bergerak, bukan tetap diam; C salah karena bukti gaya di sini adalah perubahan gerak, bukan bentuk.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab A: Pengertian Gaya\n## Sub-bab B: Pengaruh Gaya terhadap Gerak Benda",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "A: Pengertian Gaya",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina dan Sinta sama-sama mendorong ayunan yang diam. Rina mendorong pelan, Sinta mendorong kuat. Ayunan yang didorong Sinta bergerak lebih jauh daripada ayunan yang didorong Rina. Apa kesimpulan yang tepat dari kejadian itu?\nA. Gaya tidak memengaruhi gerak ayunan\nB. Makin besar gaya yang diberikan, makin besar perubahan gerak benda\nC. Ayunan bergerak karena tertiup angin\nD. Gaya hanya bisa menghentikan benda yang bergerak",
+    "pilihan": [
+      "Gaya tidak memengaruhi gerak ayunan",
+      "Makin besar gaya yang diberikan, makin besar perubahan gerak benda",
+      "Ayunan bergerak karena tertiup angin",
+      "Gaya hanya bisa menghentikan benda yang bergerak"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Ayunan yang sama, didorong dengan kekuatan berbeda, bergerak sejauh yang berbeda — dorongan Sinta yang lebih kuat membuat ayunannya bergerak lebih jauh. Ini menunjukkan bahwa besar gaya memengaruhi besar perubahan gerak benda: benda yang bergerak makin cepat (atau makin jauh geraknya) jika diberi gaya tambahan yang lebih besar.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab B: Pengaruh Gaya terhadap Gerak Benda",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "B: Pengaruh Gaya terhadap Gerak Benda",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Seorang kiper menangkap bola yang meluncur kencang ke arah gawang. Setelah ditangkap, bola berhenti di tangan kiper. Pengaruh gaya apakah yang terjadi pada bola itu?\nA. Benda diam menjadi bergerak\nB. Arah gerak benda berubah\nC. Bentuk benda berubah\nD. Benda bergerak menjadi diam",
+    "pilihan": [
+      "Benda diam menjadi bergerak",
+      "Arah gerak benda berubah",
+      "Bentuk benda berubah",
+      "Benda bergerak menjadi diam"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Bola yang sedang bergerak kencang ditangkap oleh kiper, lalu berhenti. Tangan kiper memberikan gaya yang menghentikan gerak bola. Jadi pengaruh gaya di sini adalah membuat benda yang bergerak menjadi diam. Contoh lain: sepeda yang melaju berhenti saat direm, atau mobil yang berhenti karena direm.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab B: Pengaruh Gaya terhadap Gerak Benda",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "B: Pengaruh Gaya terhadap Gerak Benda",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Saat aku menekan plastisin sampai pipih, itu berarti gaya mengubah arah gerak plastisin.\" Apakah perkataan Dodi benar?\nA. Salah; menekan plastisin mengubah bentuk benda, bukan arah geraknya\nB. Benar; semua gaya pasti mengubah arah gerak benda\nC. Salah; plastisin tidak bisa berubah bentuk\nD. Benar; plastisin yang ditekan akan bergerak ke arah lain",
+    "pilihan": [
+      "Salah; menekan plastisin mengubah bentuk benda, bukan arah geraknya",
+      "Benar; semua gaya pasti mengubah arah gerak benda",
+      "Salah; plastisin tidak bisa berubah bentuk",
+      "Benar; plastisin yang ditekan akan bergerak ke arah lain"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Menekan plastisin membuat bentuknya berubah — dari gumpalan menjadi pipih. Itu adalah pengaruh gaya mengubah bentuk benda, bukan mengubah arah gerak. Arah gerak berubah contohnya pada bola yang dipukul sehingga berbalik arah, atau kendaraan yang dibelokkan ke kanan atau ke kiri. Plastisin sendiri jelas bisa berubah bentuk saat ditekan, dicubit, atau digulung.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab B: Pengaruh Gaya terhadap Gerak Benda",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "B: Pengaruh Gaya terhadap Gerak Benda",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pemain kasti memukul bola yang meluncur ke arahnya. Bola yang tadinya meluncur ke arah pemain, setelah dipukul meluncur kembali ke arah pelempar. Pengaruh gaya apakah yang terjadi pada bola itu?\nA. Benda diam menjadi bergerak\nB. Benda bergerak menjadi diam\nC. Kecepatan benda bertambah\nD. Arah gerak benda berubah",
+    "pilihan": [
+      "Benda diam menjadi bergerak",
+      "Benda bergerak menjadi diam",
+      "Kecepatan benda bertambah",
+      "Arah gerak benda berubah"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Bola yang datang ke arah pemain, setelah dipukul, berbalik meluncur ke arah pelempar — arah geraknya berubah 180 derajat karena gaya pukulan. Itulah pengaruh gaya mengubah arah gerak benda. Bola memang sempat berhenti sesaat saat dipukul, tetapi perubahan yang paling jelas dan ditanyakan di sini adalah arah geraknya yang berbalik.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab B: Pengaruh Gaya terhadap Gerak Benda",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "B: Pengaruh Gaya terhadap Gerak Benda",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Berikut ini yang merupakan pengaruh gaya terhadap gerak benda adalah ....\nA. Mengubah warna benda\nB. Membuat benda diam menjadi bergerak\nC. Membuat benda menjadi lebih berat\nD. Membuat benda menjadi lebih besar",
+    "pilihan": [
+      "Mengubah warna benda",
+      "Membuat benda diam menjadi bergerak",
+      "Membuat benda menjadi lebih berat",
+      "Membuat benda menjadi lebih besar"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Gaya dapat membuat benda diam menjadi bergerak, misalnya meja yang diam mulai bergerak saat didorong, atau kelereng yang disentil mulai menggelinding. Lima pengaruh gaya terhadap benda adalah: benda diam menjadi bergerak, benda bergerak menjadi diam, mengubah arah gerak, mengubah kecepatan gerak, dan mengubah bentuk benda. Warna, berat, dan ukuran benda bukan pengaruh gaya terhadap gerak benda.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab B: Pengaruh Gaya terhadap Gerak Benda\n## Sub-bab C: Menyelidiki Gaya Gesek",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "B: Pengaruh Gaya terhadap Gerak Benda",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani mendorong sebuah kardus kosong dengan dorongan yang sama, sekali di lantai keramik yang licin dan sekali di atas karpet. Di mana kardus itu berhenti lebih cepat?\nA. Di lantai keramik, karena permukaannya licin sehingga gaya geseknya besar.\nB. Di atas karpet, karena permukaan karpet kasar sehingga gaya geseknya besar dan cepat menghentikan kardus.\nC. Sama cepatnya, karena dorongan yang diberikan Rani sama besar.\nD. Di lantai keramik, karena kardus menjadi lebih berat saat berada di atas karpet.",
+    "pilihan": [
+      "Di lantai keramik, karena permukaannya licin sehingga gaya geseknya besar.",
+      "Di atas karpet, karena permukaan karpet kasar sehingga gaya geseknya besar dan cepat menghentikan kardus.",
+      "Sama cepatnya, karena dorongan yang diberikan Rani sama besar.",
+      "Di lantai keramik, karena kardus menjadi lebih berat saat berada di atas karpet."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Permukaan yang kasar seperti karpet memberi gaya gesek yang besar, sehingga gerak kardus cepat terhambat dan berhenti lebih cepat. Sebaliknya, lantai keramik yang licin memberi gaya gesek yang kecil, jadi kardus meluncur lebih jauh sebelum berhenti. Pilihan A salah karena permukaan licin justru memberi gesekan kecil, C salah karena permukaan ikut menentukan seberapa cepat benda berhenti, dan D salah karena berat kardus tidak berubah.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab C: Menyelidiki Gaya Gesek",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "C: Menyelidiki Gaya Gesek",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta meluncurkan sebuah kelereng dengan dorongan yang sama di tiga lintasan: kertas amplas, papan kayu, dan kain licin. Urutan jarak luncuran kelereng dari yang paling jauh ke yang paling pendek adalah ....\nA. Kertas amplas – papan kayu – kain licin\nB. Papan kayu – kain licin – kertas amplas\nC. Kain licin – kertas amplas – papan kayu\nD. Kain licin – papan kayu – kertas amplas",
+    "pilihan": [
+      "Kertas amplas – papan kayu – kain licin",
+      "Papan kayu – kain licin – kertas amplas",
+      "Kain licin – kertas amplas – papan kayu",
+      "Kain licin – papan kayu – kertas amplas"
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Kain licin memberi gaya gesek paling kecil, jadi kelereng meluncur paling jauh di atasnya. Kertas amplas paling kasar, sehingga gaya geseknya paling besar dan kelereng berhenti paling cepat. Papan kayu berada di tengah-tengah: lebih kasar daripada kain, tetapi lebih licin daripada amplas. Jadi urutan dari yang paling jauh adalah kain licin, papan kayu, lalu kertas amplas.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab C: Menyelidiki Gaya Gesek",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "C: Menyelidiki Gaya Gesek",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Gaya gesek itu selalu merugikan karena menghambat gerak benda.\" Apakah perkataan Dodi benar?\nA. Benar, karena gesekan membuat semua benda menjadi sulit bergerak.\nB. Benar, karena tanpa gesekan semua benda akan bergerak lebih cepat.\nC. Salah; tanpa gaya gesek kita tidak bisa berjalan karena kaki akan tergelincir, dan rem tidak bisa menghentikan sepeda.\nD. Salah; gaya gesek hanya terjadi pada ban kendaraan, bukan pada benda lain.",
+    "pilihan": [
+      "Benar, karena gesekan membuat semua benda menjadi sulit bergerak.",
+      "Benar, karena tanpa gesekan semua benda akan bergerak lebih cepat.",
+      "Salah; tanpa gaya gesek kita tidak bisa berjalan karena kaki akan tergelincir, dan rem tidak bisa menghentikan sepeda.",
+      "Salah; gaya gesek hanya terjadi pada ban kendaraan, bukan pada benda lain."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Gaya gesek memang menghambat gerak, tetapi ia juga sangat bermanfaat. Tanpa gesekan, kaki kita akan tergelincir saat berjalan, ban tidak bisa mencengkeram jalan, dan rem tidak bisa menghentikan roda. Jadi perkataan Dodi salah. Pilihan D juga salah karena gaya gesek terjadi di semua permukaan yang bersentuhan, bukan hanya pada ban.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab C: Menyelidiki Gaya Gesek",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "C: Menyelidiki Gaya Gesek",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Setelah hujan, jalan di depan sekolah menjadi licin dan beberapa anak terpeleset. Agar anak-anak tidak terpeleset, tindakan yang paling tepat adalah ....\nA. Menaburkan pasir di atas jalan yang licin.\nB. Menyiram jalan dengan air sabun supaya lebih licin.\nC. Memberi oli pada permukaan jalan.\nD. Memasang roda di bawah sepatu anak-anak.",
+    "pilihan": [
+      "Menaburkan pasir di atas jalan yang licin.",
+      "Menyiram jalan dengan air sabun supaya lebih licin.",
+      "Memberi oli pada permukaan jalan.",
+      "Memasang roda di bawah sepatu anak-anak."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pasir membuat permukaan jalan menjadi kasar, sehingga gaya gesek membesar dan kaki tidak mudah tergelincir. Pilihan B salah karena air sabun justru membuat jalan makin licin dan gesekan makin kecil. Pilihan C salah karena oli adalah pelumas yang memperkecil gesekan. Pilihan D salah karena roda memperkecil gesekan, sehingga anak justru makin mudah terpeleset.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab C: Menyelidiki Gaya Gesek",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "C: Menyelidiki Gaya Gesek",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Gaya gesek adalah ....\nA. Gaya tarik benda oleh magnet.\nB. Gaya yang muncul ketika dua permukaan benda bersentuhan dan arahnya berlawanan dengan arah gerak benda.\nC. Gaya dorong yang berasal dari otot manusia.\nD. Gaya yang membuat benda jatuh ke tanah.",
+    "pilihan": [
+      "Gaya tarik benda oleh magnet.",
+      "Gaya yang muncul ketika dua permukaan benda bersentuhan dan arahnya berlawanan dengan arah gerak benda.",
+      "Gaya dorong yang berasal dari otot manusia.",
+      "Gaya yang membuat benda jatuh ke tanah."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Gaya gesek muncul saat dua permukaan benda saling bersentuhan dan arahnya selalu berlawanan dengan arah gerak benda, sehingga gerak benda terhambat. Pilihan A adalah gaya magnet, C adalah gaya otot, dan D adalah gaya gravitasi.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab C: Menyelidiki Gaya Gesek\n## Sub-bab D: Menyelidiki Gaya Magnet",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "C: Menyelidiki Gaya Gesek",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sinta melakukan percobaan. Ia mendekatkan sebuah magnet ke empat benda yang tersebar di atas meja: paku besi, kancing plastik, pensil kayu, dan koin aluminium. Benda manakah yang akan menempel pada magnet?\nA. Kancing plastik dan pensil kayu\nB. Koin aluminium dan kancing plastik\nC. Paku besi saja\nD. Keempat benda itu semuanya",
+    "pilihan": [
+      "Kancing plastik dan pensil kayu",
+      "Koin aluminium dan kancing plastik",
+      "Paku besi saja",
+      "Keempat benda itu semuanya"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Magnet hanya menarik benda yang terbuat dari bahan tertentu, yaitu besi, baja, nikel, dan kobalt. Dari keempat benda itu, hanya paku besi yang terbuat dari besi. Kancing plastik, pensil kayu, dan koin aluminium bukan benda magnetik, jadi tidak akan menempel pada magnet.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab D: Menyelidiki Gaya Magnet",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "D: Menyelidiki Gaya Magnet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani memegang dua magnet batang. Mula-mula ia mendekatkan ujung kutub utara magnet pertama ke ujung kutub utara magnet kedua, dan kedua magnet itu saling menjauh. Lalu ia membalik salah satu magnet sehingga kutub utara bertemu kutub selatan, dan kedua magnet itu saling menempel. Apa kesimpulan dari percobaan Rani?\nA. Semua kutub magnet selalu tarik-menarik\nB. Kutub magnet yang senama tolak-menolak, sedangkan kutub yang berbeda tarik-menarik\nC. Kutub utara selalu lebih kuat daripada kutub selatan\nD. Magnet hanya bekerja jika kedua ujungnya sama",
+    "pilihan": [
+      "Semua kutub magnet selalu tarik-menarik",
+      "Kutub magnet yang senama tolak-menolak, sedangkan kutub yang berbeda tarik-menarik",
+      "Kutub utara selalu lebih kuat daripada kutub selatan",
+      "Magnet hanya bekerja jika kedua ujungnya sama"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Saat kutub utara didekatkan ke kutub utara, kedua magnet saling menjauh — itu artinya kutub yang senama tolak-menolak. Saat kutub utara didekatkan ke kutub selatan, kedua magnet saling menempel — itu artinya kutub yang berbeda tarik-menarik. Inilah aturan dasar interaksi kutub magnet.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab D: Menyelidiki Gaya Magnet",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "D: Menyelidiki Gaya Magnet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Jarum jahit Dodi terjatuh dan terselip di antara tumpukan kertas di lantai. Ia tidak mau mengobrak-abrik kertas itu satu per satu. Alat dan cara manakah yang paling tepat untuk menemukan jarum itu?\nA. Menyapu kertas dengan sapu lidi, karena jarum akan ikut tersapu\nB. Menempelkan magnet di atas tumpukan kertas, karena gaya magnet menembus kertas tipis dan menarik jarum besi\nC. Menyiram tumpukan kertas dengan air, karena jarum akan mengapung\nD. Menunggu sampai jarum itu bergerak sendiri keluar dari tumpukan kertas",
+    "pilihan": [
+      "Menyapu kertas dengan sapu lidi, karena jarum akan ikut tersapu",
+      "Menempelkan magnet di atas tumpukan kertas, karena gaya magnet menembus kertas tipis dan menarik jarum besi",
+      "Menyiram tumpukan kertas dengan air, karena jarum akan mengapung",
+      "Menunggu sampai jarum itu bergerak sendiri keluar dari tumpukan kertas"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Jarum jahit terbuat dari baja/besi, jadi benda magnetik yang bisa ditarik magnet. Gaya magnet dapat menembus penghalang tipis seperti kertas, sehingga magnet yang ditempelkan di atas tumpukan kertas tetap bisa menarik jarum yang ada di bawahnya. Pilihan A tidak tepat karena jarum kecil bisa tersangkut di sapu; C salah karena jarum tidak mengapung; D salah karena jarum tidak bisa bergerak sendiri.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab D: Menyelidiki Gaya Magnet",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "D: Menyelidiki Gaya Magnet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Budi memperhatikan kompas ayahnya. Ke mana pun kompas itu dibawa dan diputar, jarumnya selalu kembali menunjuk arah utara dan selatan. Mengapa jarum kompas selalu begitu?\nA. Karena jarum kompas adalah magnet kecil yang tertarik oleh medan magnet Bumi\nB. Karena jarum kompas terbuat dari besi yang sangat berat\nC. Karena jarum kompas digerakkan oleh angin dari arah utara\nD. Karena jarum kompas ditempeli lem yang mengarah ke utara",
+    "pilihan": [
+      "Karena jarum kompas adalah magnet kecil yang tertarik oleh medan magnet Bumi",
+      "Karena jarum kompas terbuat dari besi yang sangat berat",
+      "Karena jarum kompas digerakkan oleh angin dari arah utara",
+      "Karena jarum kompas ditempeli lem yang mengarah ke utara"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Jarum kompas adalah sebuah magnet kecil berbentuk jarum. Bumi sendiri memiliki medan magnet, sehingga jarum magnet itu selalu tertarik dan menunjuk ke arah kutub utara dan kutub selatan Bumi. Karena itulah kompas bisa dipakai sebagai penunjuk arah ke mana pun dibawa.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab D: Menyelidiki Gaya Magnet",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "D: Menyelidiki Gaya Magnet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Setiap magnet memiliki dua ujung yang disebut kutub. Dua kutub magnet itu adalah ....\nA. Kutub timur dan kutub barat\nB. Kutub atas dan kutub bawah\nC. Kutub utara dan kutub selatan\nD. Kutub besar dan kutub kecil",
+    "pilihan": [
+      "Kutub timur dan kutub barat",
+      "Kutub atas dan kutub bawah",
+      "Kutub utara dan kutub selatan",
+      "Kutub besar dan kutub kecil"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Setiap magnet, apa pun bentuknya, selalu memiliki dua kutub, yaitu kutub utara (U) dan kutub selatan (S). Kutub utara adalah ujung magnet yang selalu mengarah ke utara, sedangkan kutub selatan mengarah ke selatan.",
+    "rujukan": "IPAS Kelas 4, Bab 2: Gaya di Sekitar Kita, Sub-bab D: Menyelidiki Gaya Magnet",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 02: Gaya di Sekitar Kita",
+    "sub_bab": "D: Menyelidiki Gaya Magnet",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pada peta desaku tertulis skala 1 : 200.000. Artinya, jarak 1 cm pada peta sama dengan 2 km jarak sebenarnya. Rani mengukur jarak dari rumahnya ke sekolah pada peta, hasilnya 3 cm. Berapa jarak sebenarnya dari rumah Rani ke sekolah?\nA. 2 km\nB. 3 km\nC. 6 km\nD. 200 km",
+    "pilihan": [
+      "2 km",
+      "3 km",
+      "6 km",
+      "200 km"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Skala 1 : 200.000 berarti 1 cm pada peta sama dengan 200.000 cm atau 2 km jarak sebenarnya. Jarak pada peta 3 cm, jadi jarak sebenarnya adalah 3 × 2 km = 6 km. Pilihan A salah karena 2 km hanya untuk 1 cm, bukan 3 cm. Pilihan B salah karena angka 3 cm pada peta bukan 3 km. Pilihan D salah karena 200.000 adalah angka skala, bukan jarak dalam kilometer.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab A: Mengenal Peta",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "A: Mengenal Peta",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Peta tidak perlu dilengkapi legenda, karena simbol-simbol pada peta sudah jelas dengan sendirinya.\" Apakah perkataan Dodi benar?\nA. Benar, karena semua orang pasti tahu arti setiap simbol pada peta\nB. Benar, karena legenda hanya hiasan tambahan pada peta\nC. Salah; legenda menjelaskan arti simbol-simbol pada peta, tanpa legenda pembaca bisa salah menafsirkan simbol\nD. Salah; legenda hanya berisi judul peta, bukan arti simbol",
+    "pilihan": [
+      "Benar, karena semua orang pasti tahu arti setiap simbol pada peta",
+      "Benar, karena legenda hanya hiasan tambahan pada peta",
+      "Salah; legenda menjelaskan arti simbol-simbol pada peta, tanpa legenda pembaca bisa salah menafsirkan simbol",
+      "Salah; legenda hanya berisi judul peta, bukan arti simbol"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Legenda adalah keterangan yang menjelaskan arti simbol-simbol pada peta. Tanpa legenda, pembaca tidak tahu apakah garis biru itu sungai atau jalan, dan apakah segitiga itu gunung atau tempat lain — sehingga bisa salah membaca peta. Jadi perkataan Dodi salah. Pilihan D juga salah karena legenda berisi arti simbol, sedangkan judul peta adalah nama peta itu sendiri.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab A: Mengenal Peta",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "A: Mengenal Peta",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan keterangan peta desa berikut.\n> Pada peta desa, panah mata angin menunjuk ke atas sebagai arah utara. Rumah Rani berada di bagian kanan atas peta, sedangkan sungai mengalir di bagian bawah peta.\n\nBerdasarkan keterangan itu, di mana letak rumah Rani dan sungai?\n\nA. Rumah Rani di timur laut, sungai di selatan\nB. Rumah Rani di barat daya, sungai di utara\nC. Rumah Rani di selatan, sungai di timur laut\nD. Rumah Rani di utara, sungai di barat daya",
+    "pilihan": [
+      "Rumah Rani di timur laut, sungai di selatan",
+      "Rumah Rani di barat daya, sungai di utara",
+      "Rumah Rani di selatan, sungai di timur laut",
+      "Rumah Rani di utara, sungai di barat daya"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Arah utara pada peta berada di atas. Bagian kanan atas peta berarti arah timur laut (antara timur dan utara), jadi rumah Rani berada di timur laut. Bagian bawah peta berarti arah selatan, jadi sungai berada di selatan. Pilihan B, C, dan D menukar arah-arah tersebut.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab A: Mengenal Peta",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "A: Mengenal Peta",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dina melihat tiga simbol pada sebuah peta: gambar segitiga kecil, garis biru yang berliku-liku, dan titik hitam. Apa arti ketiga simbol itu?\nA. Segitiga = gunung, garis biru = sungai, titik hitam = kota\nB. Segitiga = kota, garis biru = jalan raya, titik hitam = gunung\nC. Segitiga = sungai, garis biru = gunung, titik hitam = jalan raya\nD. Segitiga = danau, garis biru = kota, titik hitam = sungai",
+    "pilihan": [
+      "Segitiga = gunung, garis biru = sungai, titik hitam = kota",
+      "Segitiga = kota, garis biru = jalan raya, titik hitam = gunung",
+      "Segitiga = sungai, garis biru = gunung, titik hitam = jalan raya",
+      "Segitiga = danau, garis biru = kota, titik hitam = sungai"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pada peta, simbol segitiga biasanya menunjukkan gunung, garis biru yang berliku menunjukkan sungai, dan simbol titik menunjukkan kota atau tempat tertentu. Pilihan B, C, dan D menukar arti simbol-simbol itu, sehingga salah.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab A: Mengenal Peta",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "A: Mengenal Peta",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Peta adalah ....\nA. Gambar seluruh atau sebagian permukaan bumi pada bidang datar dengan skala tertentu\nB. Foto udara suatu daerah yang dicetak apa adanya tanpa diperkecil\nC. Daftar nama-nama kota dan desa di suatu daerah\nD. Gambar pemandangan alam yang dilukis dengan indah",
+    "pilihan": [
+      "Gambar seluruh atau sebagian permukaan bumi pada bidang datar dengan skala tertentu",
+      "Foto udara suatu daerah yang dicetak apa adanya tanpa diperkecil",
+      "Daftar nama-nama kota dan desa di suatu daerah",
+      "Gambar pemandangan alam yang dilukis dengan indah"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Peta adalah gambaran seluruh atau sebagian permukaan bumi pada bidang datar yang diperkecil dengan menggunakan skala tertentu. Pilihan B salah karena peta bukan sekadar foto — peta digambar dengan skala dan dilengkapi simbol serta legenda. Pilihan C salah karena daftar nama bukan peta, dan D salah karena lukisan pemandangan bukan peta.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab A: Mengenal Peta\n## Sub-bab B: Bentang Alam Daerahku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "A: Mengenal Peta",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keluarga Rina mempunyai dua lahan: satu di dataran rendah dekat sungai, satu lagi di dataran tinggi yang udaranya sejuk. Mereka ingin menanam padi dan menanam teh. Pasangan lahan dan tanaman yang paling tepat adalah ....\nA. Padi di dataran tinggi dan teh di dataran rendah\nB. Padi di dataran rendah dan teh di dataran tinggi\nC. Padi dan teh sama-sama di dataran rendah\nD. Padi dan teh sama-sama di dataran tinggi",
+    "pilihan": [
+      "Padi di dataran tinggi dan teh di dataran rendah",
+      "Padi di dataran rendah dan teh di dataran tinggi",
+      "Padi dan teh sama-sama di dataran rendah",
+      "Padi dan teh sama-sama di dataran tinggi"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Dataran rendah (0–200 mdpl) tanahnya datar dan airnya cukup, sehingga cocok untuk sawah padi. Dataran tinggi udaranya sejuk dan tanahnya subur, sehingga cocok untuk perkebunan teh, kopi, dan sayuran seperti kentang. Jadi padi ditanam di dataran rendah, teh ditanam di dataran tinggi. Pilihan A menukar keduanya, sedangkan C dan D mengabaikan perbedaan kebutuhan kedua tanaman itu.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab B: Bentang Alam Daerahku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "B: Bentang Alam Daerahku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pak Jono tinggal di daerah pantai. Setiap pagi ia pergi melaut, dan pada musim kemarau ia juga membuat garam dari air laut. Mengapa pekerjaan Pak Jono cocok dengan tempat tinggalnya?\nA. Karena pantai adalah perbatasan darat dan laut, sehingga laut menyediakan ikan dan air laut untuk dibuat garam\nB. Karena pantai tanahnya paling subur untuk menanam padi\nC. Karena di pantai udaranya paling sejuk untuk berkebun teh\nD. Karena pantai berada di ketinggian lebih dari 600 meter di atas permukaan laut",
+    "pilihan": [
+      "Karena pantai adalah perbatasan darat dan laut, sehingga laut menyediakan ikan dan air laut untuk dibuat garam",
+      "Karena pantai tanahnya paling subur untuk menanam padi",
+      "Karena di pantai udaranya paling sejuk untuk berkebun teh",
+      "Karena pantai berada di ketinggian lebih dari 600 meter di atas permukaan laut"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Pantai adalah daerah perbatasan antara daratan dan laut. Laut di dekat pantai menyediakan ikan yang ditangkap nelayan, dan air laut yang dijemur di bawah matahari dapat mengkristal menjadi garam. Itulah sebabnya pekerjaan Pak Jono cocok dengan tempat tinggalnya. Pilihan B salah karena sawah padi cocoknya di dataran rendah, C salah karena teh cocoknya di dataran tinggi yang sejuk, dan D salah karena pantai justru berada di ketinggian sekitar 0 meter di atas permukaan laut.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab B: Bentang Alam Daerahku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "B: Bentang Alam Daerahku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Dataran tinggi itu sama saja dengan dataran rendah, jadi di dataran tinggi juga bisa dibuat tambak garam dan pelabuhan.\" Apakah perkataan Dodi benar?\nA. Benar, karena semua bentang alam bisa dimanfaatkan untuk apa saja\nB. Benar, karena dataran tinggi dekat dengan laut seperti dataran rendah\nC. Salah; dataran tinggi letaknya jauh di atas permukaan laut dan udaranya sejuk, sehingga cocok untuk perkebunan dan wisata, bukan tambak garam atau pelabuhan\nD. Salah; dataran tinggi hanya bisa dipakai untuk menanam padi",
+    "pilihan": [
+      "Benar, karena semua bentang alam bisa dimanfaatkan untuk apa saja",
+      "Benar, karena dataran tinggi dekat dengan laut seperti dataran rendah",
+      "Salah; dataran tinggi letaknya jauh di atas permukaan laut dan udaranya sejuk, sehingga cocok untuk perkebunan dan wisata, bukan tambak garam atau pelabuhan",
+      "Salah; dataran tinggi hanya bisa dipakai untuk menanam padi"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Dataran tinggi berada lebih dari 500 meter di atas permukaan laut, jauh dari laut dan udaranya sejuk — karena itu cocok untuk perkebunan teh, kopi, dan sayuran serta tempat wisata. Tambak garam dan pelabuhan butuh air laut, jadi cocoknya di daerah pantai, bukan di dataran tinggi. Pilihan D juga salah karena padi justru cocoknya di dataran rendah, bukan dataran tinggi.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab B: Bentang Alam Daerahku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "B: Bentang Alam Daerahku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Desa Suka Makmur terletak di sebuah lembah di antara dua bukit. Tanah di sana subur dan dialiri sungai kecil. Kegiatan warga yang paling sesuai dengan keadaan desa itu adalah ....\nA. Membuat garam dari air laut di tepi pantai\nB. Menanam sayuran dan padi serta membangun rumah di tanah yang subur itu\nC. Menambang emas di puncak gunung yang tinggi\nD. Membuka perkebunan teh di dataran tinggi yang sejuk",
+    "pilihan": [
+      "Membuat garam dari air laut di tepi pantai",
+      "Menanam sayuran dan padi serta membangun rumah di tanah yang subur itu",
+      "Menambang emas di puncak gunung yang tinggi",
+      "Membuka perkebunan teh di dataran tinggi yang sejuk"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Lembah adalah daerah rendah yang diapit gunung atau bukit, tanahnya subur dan sering dialiri sungai. Karena itu lembah dimanfaatkan penduduk untuk lahan pertanian — menanam sayuran dan padi — serta sebagai tempat permukiman. Pilihan A butuh laut, C butuh gunung tinggi, dan D butuh dataran tinggi — ketiganya tidak sesuai dengan keadaan desa yang berada di lembah.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab B: Bentang Alam Daerahku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "B: Bentang Alam Daerahku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Bentang alam adalah ....\nA. Bentuk permukaan bumi, seperti dataran, pegunungan, pantai, sungai, dan danau\nB. Gambar peta yang menunjukkan jalan dan kota\nC. Bangunan yang dibuat manusia, seperti jembatan dan waduk\nD. Nama-nama pulau yang ada di Indonesia",
+    "pilihan": [
+      "Bentuk permukaan bumi, seperti dataran, pegunungan, pantai, sungai, dan danau",
+      "Gambar peta yang menunjukkan jalan dan kota",
+      "Bangunan yang dibuat manusia, seperti jembatan dan waduk",
+      "Nama-nama pulau yang ada di Indonesia"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Bentang alam adalah bentuk-bentuk permukaan bumi yang terbentuk secara alami, misalnya dataran rendah, dataran tinggi, pegunungan, pantai, lembah, sungai, dan danau. Pilihan B salah karena peta adalah gambaran permukaan bumi, bukan bentang alam itu sendiri. Pilihan C salah karena jembatan dan waduk adalah bentang buatan manusia. Pilihan D salah karena nama pulau bukan bentuk permukaan bumi.",
+    "rujukan": "IPAS Kelas 4, Bab 3: Daerah Tempat Tinggalku, Sub-bab B: Bentang Alam Daerahku",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 03: Daerah Tempat Tinggalku",
+    "sub_bab": "B: Bentang Alam Daerahku",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Selama bulan Juli, di desa Sinta langit cerah setiap hari, matahari terasa sangat terik, dan tanah di sawah mulai kering dan retak. Musim apa yang sedang terjadi di desa Sinta?\nA. Musim hujan, karena bulan Juli termasuk musim hujan\nB. Musim kemarau, karena matahari terik, langit cerah, dan tanah mengering\nC. Musim gugur, karena daun-daun berguguran\nD. Musim semi, karena bunga-bunga bermekaran",
+    "pilihan": [
+      "Musim hujan, karena bulan Juli termasuk musim hujan",
+      "Musim kemarau, karena matahari terik, langit cerah, dan tanah mengering",
+      "Musim gugur, karena daun-daun berguguran",
+      "Musim semi, karena bunga-bunga bermekaran"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Bulan Juli termasuk musim kemarau di Indonesia (sekitar April–September). Ciri-cirinya tampak jelas pada cerita: langit cerah, matahari sangat terik, dan tanah mengering sampai retak karena hujan jarang turun. Pilihan A salah karena musim hujan terjadi sekitar Oktober–Maret. Pilihan C dan D salah karena musim gugur dan musim semi hanya ada di negara beriklim subtropis, bukan di Indonesia.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab A: Musim dan Iklim di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "A: Musim dan Iklim di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi mempunyai saudara di Jepang. Pada bulan Januari, saudaranya mengirim foto sedang bermain salju di halaman rumahnya. Dodi heran, karena di Indonesia pada bulan Januari tidak pernah turun salju. Mengapa hal itu bisa terjadi?\nA. Karena Jepang lebih dekat dengan matahari daripada Indonesia\nB. Karena Indonesia beriklim tropis dan hanya punya dua musim, sedangkan Jepang beriklim subtropis dengan empat musim termasuk musim dingin yang bersalju\nC. Karena di Indonesia bulan Januari selalu musim kemarau\nD. Karena salju hanya turun di desa, bukan di kota",
+    "pilihan": [
+      "Karena Jepang lebih dekat dengan matahari daripada Indonesia",
+      "Karena Indonesia beriklim tropis dan hanya punya dua musim, sedangkan Jepang beriklim subtropis dengan empat musim termasuk musim dingin yang bersalju",
+      "Karena di Indonesia bulan Januari selalu musim kemarau",
+      "Karena salju hanya turun di desa, bukan di kota"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Indonesia beriklim tropis karena terletak di garis khatulistiwa, jadi hanya memiliki dua musim — hujan dan kemarau — dan tidak pernah mengalami musim dingin bersalju. Jepang beriklim subtropis dengan empat musim, salah satunya musim dingin, sehingga pada bulan Januari di sana bisa turun salju. Pilihan A salah karena jarak ke matahari bukan penyebabnya. Pilihan C salah karena bulan Januari di Indonesia justru termasuk musim hujan. Pilihan D salah karena salju berkaitan dengan iklim, bukan desa atau kota.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab A: Musim dan Iklim di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "A: Musim dan Iklim di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Indonesia terletak di garis khatulistiwa, sehingga disinari matahari sepanjang tahun. Apa akibatnya bagi musim di Indonesia?\nA. Indonesia memiliki empat musim seperti negara di Eropa\nB. Indonesia hanya memiliki dua musim, yaitu musim hujan dan musim kemarau, tanpa musim dingin\nC. Indonesia tidak pernah mengalami hujan sepanjang tahun\nD. Indonesia memiliki musim salju setiap bulan Desember",
+    "pilihan": [
+      "Indonesia memiliki empat musim seperti negara di Eropa",
+      "Indonesia hanya memiliki dua musim, yaitu musim hujan dan musim kemarau, tanpa musim dingin",
+      "Indonesia tidak pernah mengalami hujan sepanjang tahun",
+      "Indonesia memiliki musim salju setiap bulan Desember"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Karena terletak di garis khatulistiwa, Indonesia menerima sinar matahari sepanjang tahun dan suhunya selalu hangat. Akibatnya Indonesia tidak mengalami musim dingin dan hanya memiliki dua musim, yaitu musim hujan dan musim kemarau. Pilihan A salah karena empat musim hanya ada di negara subtropis. Pilihan C salah karena musim hujan justru membawa banyak hujan. Pilihan D salah karena Indonesia tidak pernah turun salju.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab A: Musim dan Iklim di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "A: Musim dan Iklim di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rani berkata, \"Musim hujan di Indonesia terjadi pada bulan April sampai September, sedangkan musim kemarau terjadi pada bulan Oktober sampai Maret.\" Apakah perkataan Rani benar?\nA. Benar, karena musim hujan selalu datang setelah musim kemarau\nB. Benar, karena bulan April sampai September adalah bulan-bulan yang basah\nC. Salah; musim hujan terjadi sekitar Oktober sampai Maret, sedangkan musim kemarau sekitar April sampai September\nD. Salah; di Indonesia tidak ada musim hujan maupun musim kemarau",
+    "pilihan": [
+      "Benar, karena musim hujan selalu datang setelah musim kemarau",
+      "Benar, karena bulan April sampai September adalah bulan-bulan yang basah",
+      "Salah; musim hujan terjadi sekitar Oktober sampai Maret, sedangkan musim kemarau sekitar April sampai September",
+      "Salah; di Indonesia tidak ada musim hujan maupun musim kemarau"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Rani terbalik. Musim hujan di Indonesia terjadi sekitar bulan Oktober sampai Maret, ditandai hujan yang sering turun. Musim kemarau terjadi sekitar bulan April sampai September, ditandai matahari terik dan hujan yang jarang turun. Pilihan A salah karena urutan yang benar justru sebaliknya. Pilihan D salah karena Indonesia jelas memiliki dua musim.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab A: Musim dan Iklim di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "A: Musim dan Iklim di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Iklim adalah ....\nA. Keadaan udara di suatu tempat pada hari ini saja\nB. Rata-rata kondisi cuaca di suatu wilayah dalam jangka waktu yang panjang\nC. Hujan deras yang turun pada musim hujan\nD. Suhu udara yang terasa panas pada siang hari",
+    "pilihan": [
+      "Keadaan udara di suatu tempat pada hari ini saja",
+      "Rata-rata kondisi cuaca di suatu wilayah dalam jangka waktu yang panjang",
+      "Hujan deras yang turun pada musim hujan",
+      "Suhu udara yang terasa panas pada siang hari"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Iklim adalah rata-rata kondisi cuaca di suatu wilayah dalam jangka waktu yang panjang, biasanya puluhan tahun. Contohnya, Indonesia beriklim tropis dengan dua musim. Pilihan A adalah pengertian cuaca, bukan iklim, karena cuaca hanya keadaan udara sesaat. Pilihan C dan D hanyalah contoh keadaan cuaca, bukan pengertian iklim.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab A: Musim dan Iklim di Indonesia\n## Sub-bab B: Pentingnya Memprediksi Musim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "A: Musim dan Iklim di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "BMKG memperkirakan musim hujan tahun ini datang lebih lambat dari biasanya. Pak Tono seorang petani padi di desanya. Apa yang sebaiknya dilakukan Pak Tono?\nA. Tetap menanam padi seperti biasa, karena padi bisa tumbuh tanpa air.\nB. Menunda menanam padi sampai hujan datang, sambil menyiapkan saluran air dan bibit.\nC. Menanam padi di musim kemarau yang kering agar panen lebih cepat.\nD. Membiarkan sawahnya kosong sepanjang tahun karena musim hujan tidak jadi datang.",
+    "pilihan": [
+      "Tetap menanam padi seperti biasa, karena padi bisa tumbuh tanpa air.",
+      "Menunda menanam padi sampai hujan datang, sambil menyiapkan saluran air dan bibit.",
+      "Menanam padi di musim kemarau yang kering agar panen lebih cepat.",
+      "Membiarkan sawahnya kosong sepanjang tahun karena musim hujan tidak jadi datang."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Padi membutuhkan banyak air, jadi petani harus menanam saat musim hujan. Karena musim hujan diperkirakan datang terlambat, Pak Tono sebaiknya menunda menanam dan memanfaatkan waktu untuk menyiapkan saluran air serta bibit. Pilihan A salah karena padi tidak bisa tumbuh tanpa air yang cukup; C salah karena menanam padi di musim kemarau yang kering membuat tanaman kekurangan air; D salah karena musim hujan hanya terlambat, bukan tidak datang sama sekali.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab B: Pentingnya Memprediksi Musim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "B: Pentingnya Memprediksi Musim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua keadaan berikut.\n1. Musim hujan: angin kencang, gelombang laut tinggi, langit sering mendung.\n2. Musim kemarau: angin sepoi-sepoi, laut tenang, langit cerah.\n\nManakah pernyataan yang benar tentang nelayan pada kedua musim itu?\n\nA. Nelayan lebih mudah melaut jauh pada musim hujan karena gelombangnya tinggi.\nB. Nelayan tidak bisa melaut sama sekali pada musim kemarau karena lautnya terlalu tenang.\nC. Nelayan lebih mudah melaut pada musim kemarau karena laut tenang dan cuaca cerah, sedangkan pada musim hujan melaut menjadi berbahaya.\nD. Musim tidak memengaruhi nelayan karena ikan selalu ada di laut sepanjang tahun.",
+    "pilihan": [
+      "Nelayan lebih mudah melaut jauh pada musim hujan karena gelombangnya tinggi.",
+      "Nelayan tidak bisa melaut sama sekali pada musim kemarau karena lautnya terlalu tenang.",
+      "Nelayan lebih mudah melaut pada musim kemarau karena laut tenang dan cuaca cerah, sedangkan pada musim hujan melaut menjadi berbahaya.",
+      "Musim tidak memengaruhi nelayan karena ikan selalu ada di laut sepanjang tahun."
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Pada musim kemarau laut relatif tenang dan cuaca cerah, sehingga nelayan mudah melaut lebih jauh dan hasil tangkapan lebih terjamin. Pada musim hujan, angin kencang dan gelombang tinggi membatasi nelayan tradisional untuk melaut karena berbahaya. Pilihan A salah karena gelombang tinggi justru menyulitkan dan membahayakan; B salah karena laut tenang justru memudahkan melaut; D salah karena musim memengaruhi angin, gelombang, dan hasil tangkapan nelayan.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab B: Pentingnya Memprediksi Musim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "B: Pentingnya Memprediksi Musim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "BMKG memperkirakan hujan lebat akan turun terus-menerus selama seminggu di daerah tempat tinggal Sinta. Apa yang sebaiknya dilakukan warga di daerah Sinta?\nA. Membersihkan selokan dan menyiapkan barang-barang penting di tempat yang aman dari banjir.\nB. Membiarkan selokan tersumbat sampah karena air hujan akan membersihkannya sendiri.\nC. Menjemur pakaian dan hasil panen di luar rumah selama hujan lebat.\nD. Menebang semua pohon di sekitar rumah agar tidak ada yang tumbang.",
+    "pilihan": [
+      "Membersihkan selokan dan menyiapkan barang-barang penting di tempat yang aman dari banjir.",
+      "Membiarkan selokan tersumbat sampah karena air hujan akan membersihkannya sendiri.",
+      "Menjemur pakaian dan hasil panen di luar rumah selama hujan lebat.",
+      "Menebang semua pohon di sekitar rumah agar tidak ada yang tumbang."
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Hujan lebat yang terus-menerus bisa menyebabkan banjir dan tanah longsor. Warga sebaiknya bersiap: membersihkan selokan agar air mengalir lancar dan menyiapkan barang-barang penting di tempat yang aman. Inilah gunanya memprediksi musim dan cuaca — masyarakat bisa bersiap sebelum bencana datang. Pilihan B salah karena selokan tersumbat justru memperparah banjir; C salah karena menjemur saat hujan lebat tidak ada gunanya; D salah karena pohon justru membantu menahan tanah, bukan penyebab banjir.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab B: Pentingnya Memprediksi Musim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "B: Pentingnya Memprediksi Musim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Memprediksi musim itu tidak penting, karena musim hujan dan musim kemarau selalu datang pada waktu yang sama setiap tahun.\" Apakah perkataan Dodi benar?\nA. Benar, karena awal musim tidak pernah berubah.\nB. Benar, karena petani dan nelayan tidak perlu tahu kapan musim berganti.\nC. Salah; memprediksi musim tidak penting hanya bagi petani, tetapi penting bagi nelayan.\nD. Salah; awal musim bisa bergeser — misalnya karena musim pancaroba atau El Niño — sehingga petani dan nelayan perlu prakiraan musim untuk merencanakan kegiatan mereka.",
+    "pilihan": [
+      "Benar, karena awal musim tidak pernah berubah.",
+      "Benar, karena petani dan nelayan tidak perlu tahu kapan musim berganti.",
+      "Salah; memprediksi musim tidak penting hanya bagi petani, tetapi penting bagi nelayan.",
+      "Salah; awal musim bisa bergeser — misalnya karena musim pancaroba atau El Niño — sehingga petani dan nelayan perlu prakiraan musim untuk merencanakan kegiatan mereka."
+    ],
+    "jawaban_benar": "D",
+    "pembahasan": "Perkataan Dodi salah. Awal musim hujan dan musim kemarau bisa bergeser dari tahun ke tahun, misalnya karena musim pancaroba (masa peralihan) atau El Niño yang membuat musim kemarau lebih panjang. Karena itu petani perlu prakiraan musim untuk menentukan waktu menanam dan panen, dan nelayan perlu tahu kapan laut aman untuk melaut. Pilihan A salah karena awal musim bisa bergeser; B salah karena petani dan nelayan justru sangat membutuhkan informasi musim; C salah karena memprediksi musim penting bagi petani maupun nelayan.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab B: Pentingnya Memprediksi Musim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "B: Pentingnya Memprediksi Musim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Memprediksi musim adalah ....\nA. Menentukan sendiri kapan musim hujan dan musim kemarau harus datang.\nB. Memperkirakan kapan musim hujan atau musim kemarau akan datang berdasarkan prakiraan cuaca BMKG dan tanda-tanda alam.\nC. Mengubah musim kemarau menjadi musim hujan dengan cara tertentu.\nD. Menghafal nama-nama bulan dalam satu tahun.",
+    "pilihan": [
+      "Menentukan sendiri kapan musim hujan dan musim kemarau harus datang.",
+      "Memperkirakan kapan musim hujan atau musim kemarau akan datang berdasarkan prakiraan cuaca BMKG dan tanda-tanda alam.",
+      "Mengubah musim kemarau menjadi musim hujan dengan cara tertentu.",
+      "Menghafal nama-nama bulan dalam satu tahun."
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Memprediksi musim berarti memperkirakan kapan musim hujan atau musim kemarau akan datang, berdasarkan prakiraan cuaca dari BMKG dan tanda-tanda alam. Prakiraan ini membantu petani, nelayan, dan masyarakat merencanakan kegiatan dan bersiap menghadapi musim yang akan datang. Pilihan A salah karena manusia tidak bisa menentukan datangnya musim; C salah karena musim tidak bisa diubah; D salah karena menghafal nama bulan bukan memprediksi musim.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab B: Pentingnya Memprediksi Musim\n## Sub-bab C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "B: Pentingnya Memprediksi Musim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Keluarga Sinta tinggal di desa. Ayah Sinta menanam padi di sawah, Ibu Sinta memelihara ayam di pekarangan, dan kakek Sinta menanam jahe di kebun belakang rumah. Manakah pernyataan yang benar tentang pemanfaatan sumber daya hayati oleh keluarga Sinta?\nA. Hanya padi yang termasuk sumber daya hayati, sedangkan ayam dan jahe bukan\nB. Padi dimanfaatkan sebagai makanan pokok, ayam sebagai sumber telur dan daging, jahe sebagai tanaman obat\nC. Ayam dipelihara hanya untuk hiasan, sedangkan padi dan jahe dijual ke pasar\nD. Semua yang ditanam dan dipelihara keluarga Sinta hanya untuk dijual, bukan untuk dipakai sendiri",
+    "pilihan": [
+      "Hanya padi yang termasuk sumber daya hayati, sedangkan ayam dan jahe bukan",
+      "Padi dimanfaatkan sebagai makanan pokok, ayam sebagai sumber telur dan daging, jahe sebagai tanaman obat",
+      "Ayam dipelihara hanya untuk hiasan, sedangkan padi dan jahe dijual ke pasar",
+      "Semua yang ditanam dan dipelihara keluarga Sinta hanya untuk dijual, bukan untuk dipakai sendiri"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Ketiganya adalah sumber daya hayati karena berasal dari makhluk hidup. Padi diolah menjadi beras sebagai makanan pokok, ayam menghasilkan telur dan daging sebagai sumber pangan, dan jahe dimanfaatkan sebagai tanaman obat. Pilihan A salah karena ayam dan jahe juga makhluk hidup. Pilihan C dan D salah karena pemanfaatannya jauh lebih luas dari sekadar hiasan atau dijual.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di sekolah, ada dua kelompok yang membuat prakarya. Kelompok Rani membuat meja kecil dari kayu jati, sedangkan kelompok Budi membuat meja kecil dari batu bata. Setelah jadi, meja kelompok Rani lebih ringan dan mudah dipindah. Apa yang dapat disimpulkan dari kegiatan itu?\nA. Kayu adalah sumber daya hayati yang dapat dimanfaatkan sebagai bahan bangunan dan perabot\nB. Batu bata lebih baik daripada kayu karena berasal dari makhluk hidup\nC. Kayu tidak bisa dipakai sebagai bahan bangunan karena terlalu ringan\nD. Semua bahan bangunan harus berasal dari tumbuhan",
+    "pilihan": [
+      "Kayu adalah sumber daya hayati yang dapat dimanfaatkan sebagai bahan bangunan dan perabot",
+      "Batu bata lebih baik daripada kayu karena berasal dari makhluk hidup",
+      "Kayu tidak bisa dipakai sebagai bahan bangunan karena terlalu ringan",
+      "Semua bahan bangunan harus berasal dari tumbuhan"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Kayu berasal dari pohon, yaitu makhluk hidup, sehingga termasuk sumber daya hayati. Kayu sudah lama dimanfaatkan manusia sebagai bahan bangunan dan perabot — meja, kursi, lemari, dan rumah. Pilihan B salah karena batu bata bukan berasal dari makhluk hidup, melainkan dari tanah liat yang dibakar. Pilihan C salah karena justru ringan adalah kelebihan kayu, dan D salah karena bahan bangunan juga bisa berasal dari sumber daya nonhayati seperti batu dan pasir.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Sumber daya hayati tidak akan pernah habis, jadi kita boleh mengambil sebanyak-banyaknya tanpa perlu menanam kembali.\" Apakah perkataan Dodi benar?\nA. Benar, karena tumbuhan dan hewan selalu bertambah sendiri tanpa bantuan manusia\nB. Benar, karena Indonesia punya hutan yang sangat luas sehingga tidak mungkin habis\nC. Salah; sumber daya hayati memang dapat diperbarui, tetapi harus dimanfaatkan dengan bijak dan ditanam atau dipelihara kembali agar tetap lestari\nD. Salah; sumber daya hayati tidak bisa dimanfaatkan sama sekali",
+    "pilihan": [
+      "Benar, karena tumbuhan dan hewan selalu bertambah sendiri tanpa bantuan manusia",
+      "Benar, karena Indonesia punya hutan yang sangat luas sehingga tidak mungkin habis",
+      "Salah; sumber daya hayati memang dapat diperbarui, tetapi harus dimanfaatkan dengan bijak dan ditanam atau dipelihara kembali agar tetap lestari",
+      "Salah; sumber daya hayati tidak bisa dimanfaatkan sama sekali"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Sumber daya hayati memang dapat diperbarui — tumbuhan bisa ditanam lagi dan hewan bisa dikembangbiakkan — tetapi bukan berarti tidak bisa habis. Jika ditebang dan ditangkap terus-menerus tanpa ditanam atau dipelihara kembali, hutan bisa gundul dan hewan bisa punah. Karena itu pemanfaatannya harus bijak dan lestari. Pilihan D salah karena sumber daya hayati justru sangat bermanfaat bagi kehidupan manusia.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Desa Sukamaju memiliki banyak pohon kelapa. Warga desa memanfaatkannya dengan berbagai cara: buahnya diminum airnya dan dimakan dagingnya, daunnya dianyam menjadi ketupat, dan batangnya dipakai sebagai bahan bangunan. Ada seorang warga yang ingin menebang semua pohon kelapa sekaligus untuk dijual kayunya. Tindakan yang paling bijak adalah ....\nA. Menebang semua pohon kelapa sekaligus agar mendapat uang banyak dalam sekali jual\nB. Menebang sebagian pohon saja dan menanam pohon kelapa baru sebagai pengganti, agar desa tetap punya pohon kelapa\nC. Membiarkan pohon kelapa itu saja tanpa dimanfaatkan sama sekali\nD. Menebang semua pohon kelapa lalu menggantinya dengan pohon plastik",
+    "pilihan": [
+      "Menebang semua pohon kelapa sekaligus agar mendapat uang banyak dalam sekali jual",
+      "Menebang sebagian pohon saja dan menanam pohon kelapa baru sebagai pengganti, agar desa tetap punya pohon kelapa",
+      "Membiarkan pohon kelapa itu saja tanpa dimanfaatkan sama sekali",
+      "Menebang semua pohon kelapa lalu menggantinya dengan pohon plastik"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pohon kelapa adalah sumber daya hayati yang sangat bermanfaat — hampir semua bagiannya bisa dipakai. Tindakan bijak adalah menebang secukupnya saja dan menanam pohon baru sebagai pengganti, supaya sumber daya itu tetap tersedia untuk warga desa di masa depan. Pilihan A salah karena menebang semuanya sekaligus akan menghabiskan sumber daya desa. Pilihan C salah karena sumber daya hayati memang boleh dimanfaatkan, asalkan bijak. Pilihan D salah karena pohon plastik bukan makhluk hidup dan tidak menghasilkan buah atau daun yang bisa dimanfaatkan.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sumber daya alam hayati adalah ....\nA. Sumber daya alam yang berasal dari makhluk hidup, seperti tumbuhan dan hewan\nB. Sumber daya alam yang berasal dari benda mati, seperti batu dan pasir\nC. Sumber daya alam yang berasal dari dalam tanah, seperti minyak bumi dan batu bara\nD. Sumber daya alam yang berasal dari udara, seperti angin dan sinar matahari",
+    "pilihan": [
+      "Sumber daya alam yang berasal dari makhluk hidup, seperti tumbuhan dan hewan",
+      "Sumber daya alam yang berasal dari benda mati, seperti batu dan pasir",
+      "Sumber daya alam yang berasal dari dalam tanah, seperti minyak bumi dan batu bara",
+      "Sumber daya alam yang berasal dari udara, seperti angin dan sinar matahari"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Sumber daya alam hayati berasal dari makhluk hidup, yaitu tumbuhan dan hewan. Contohnya padi, jagung, kayu, ikan, susu, telur, dan daging. Pilihan B, C, dan D adalah sumber daya alam nonhayati, karena berasal dari benda tidak hidup: batu dan pasir, minyak bumi dan batu bara, serta angin dan sinar matahari.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab C: Pemanfaatan Sumber Daya Hayati di Indonesia\n## Sub-bab D: Perubahan Iklim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "C: Pemanfaatan Sumber Daya Hayati di Indonesia",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Pak Darman seorang petani. Dulu ia bisa menanam padi setiap awal musim hujan yang datangnya teratur. Beberapa tahun terakhir, musim hujan datang terlambat, lalu kemarau menjadi sangat panjang sehingga sawahnya kering dan gagal panen. Apa yang paling mungkin menyebabkan hal itu?\nA. Pak Darman menanam padi terlalu banyak\nB. Perubahan iklim membuat pola musim menjadi tidak menentu\nC. Sawah Pak Darman terlalu dekat dengan jalan raya\nD. Pak Darman lupa menyiram tanamannya setiap hari",
+    "pilihan": [
+      "Pak Darman menanam padi terlalu banyak",
+      "Perubahan iklim membuat pola musim menjadi tidak menentu",
+      "Sawah Pak Darman terlalu dekat dengan jalan raya",
+      "Pak Darman lupa menyiram tanamannya setiap hari"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Perubahan iklim mengubah pola cuaca dalam jangka panjang, sehingga musim hujan dan musim kemarau tidak lagi datang teratur seperti dulu. Kemarau yang makin panjang membuat tanah kering dan tanaman gagal panen. Pilihan A salah karena jumlah tanaman bukan penyebab musim berubah; C salah karena jarak sawah dari jalan tidak memengaruhi musim; D salah karena menyiram setiap hari tidak bisa mengatasi kemarau panjang yang disebabkan perubahan iklim.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab D: Perubahan Iklim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "D: Perubahan Iklim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Perhatikan dua kegiatan berikut.\n1. Menebang banyak pohon di hutan untuk membuka lahan.\n2. Menanam pohon di lahan kosong di sekitar sekolah.\n\nManakah pernyataan yang benar tentang kedua kegiatan itu?\n\nA. Kegiatan 1 mempercepat perubahan iklim, sedangkan kegiatan 2 membantu menguranginya\nB. Kegiatan 1 dan 2 sama-sama mempercepat perubahan iklim\nC. Kegiatan 1 membantu mengurangi perubahan iklim, sedangkan kegiatan 2 mempercepatnya\nD. Kegiatan 1 dan 2 tidak ada hubungannya dengan perubahan iklim",
+    "pilihan": [
+      "Kegiatan 1 mempercepat perubahan iklim, sedangkan kegiatan 2 membantu menguranginya",
+      "Kegiatan 1 dan 2 sama-sama mempercepat perubahan iklim",
+      "Kegiatan 1 membantu mengurangi perubahan iklim, sedangkan kegiatan 2 mempercepatnya",
+      "Kegiatan 1 dan 2 tidak ada hubungannya dengan perubahan iklim"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Menebang hutan mempercepat perubahan iklim karena pohon yang ditebang tidak lagi menyerap karbon dioksida dari udara, sehingga gas rumah kaca makin menumpuk. Sebaliknya, menanam pohon membantu mengurangi perubahan iklim karena pohon menyerap karbon dioksida dan menghasilkan oksigen. Jadi kedua kegiatan itu berlawanan pengaruhnya terhadap iklim.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab D: Perubahan Iklim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "D: Perubahan Iklim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Perubahan iklim itu urusan alam saja. Manusia tidak menyebabkan dan tidak bisa berbuat apa-apa.\" Apakah perkataan Dodi benar?\nA. Benar, karena iklim hanya berubah karena letusan gunung berapi\nB. Benar, karena manusia terlalu kecil untuk memengaruhi iklim Bumi\nC. Salah; kegiatan manusia seperti membakar bahan bakar dan menebang hutan adalah penyebab utama perubahan iklim, dan manusia bisa menguranginya dengan menanam pohon dan menghemat energi\nD. Salah; perubahan iklim hanya terjadi di negara lain, bukan di Indonesia",
+    "pilihan": [
+      "Benar, karena iklim hanya berubah karena letusan gunung berapi",
+      "Benar, karena manusia terlalu kecil untuk memengaruhi iklim Bumi",
+      "Salah; kegiatan manusia seperti membakar bahan bakar dan menebang hutan adalah penyebab utama perubahan iklim, dan manusia bisa menguranginya dengan menanam pohon dan menghemat energi",
+      "Salah; perubahan iklim hanya terjadi di negara lain, bukan di Indonesia"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Perkataan Dodi salah. Penyebab terbesar perubahan iklim adalah kegiatan manusia: membakar bahan bakar fosil, asap kendaraan dan pabrik, serta menebang hutan menghasilkan gas rumah kaca yang memerangkap panas di atmosfer. Manusia juga bisa mengurangi perubahan iklim, misalnya dengan menanam pohon, menghemat listrik, dan mengurangi sampah plastik. Pilihan A salah karena letusan gunung bukan penyebab utama; D salah karena perubahan iklim juga terjadi di Indonesia — musim yang tidak menentu dan banjir sudah kita rasakan.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab D: Perubahan Iklim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "D: Perubahan Iklim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Di desa Rani, hujan turun sangat deras dalam waktu singkat sehingga selokan meluap dan jalan tergenang banjir. Warga ingin mengurangi banjir seperti itu di masa depan. Tindakan yang paling tepat dilakukan warga adalah ....\nA. Menebang pohon di tepi sungai supaya air mengalir lebih cepat\nB. Menanam pohon, menjaga selokan tetap bersih, dan mengurangi sampah plastik\nC. Membakar sampah plastik di pinggir jalan supaya selokan tidak tersumbat\nD. Membiarkan saja karena banjir sudah biasa terjadi setiap tahun",
+    "pilihan": [
+      "Menebang pohon di tepi sungai supaya air mengalir lebih cepat",
+      "Menanam pohon, menjaga selokan tetap bersih, dan mengurangi sampah plastik",
+      "Membakar sampah plastik di pinggir jalan supaya selokan tidak tersumbat",
+      "Membiarkan saja karena banjir sudah biasa terjadi setiap tahun"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Menanam pohon membantu tanah menyerap air hujan dan mengurangi banjir, selokan yang bersih membuat air mengalir lancar, dan mengurangi sampah plastik mencegah selokan tersumbat — ketiganya mengurangi dampak hujan deras yang makin sering terjadi akibat perubahan iklim. Pilihan A salah karena menebang pohon justru mempercepat perubahan iklim dan mengurangi serapan air; C salah karena membakar plastik menghasilkan asap dan gas rumah kaca; D salah karena membiarkan saja berarti tidak berusaha mengurangi masalahnya.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab D: Perubahan Iklim",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "D: Perubahan Iklim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan perubahan iklim?\nA. Perubahan cuaca dari hari ke hari, misalnya hari ini hujan dan besok cerah\nB. Perubahan jangka panjang pada pola cuaca suatu daerah, misalnya musim menjadi tidak menentu dari tahun ke tahun\nC. Perubahan suhu udara dari pagi yang sejuk menjadi siang yang panas\nD. Perubahan arah angin yang terjadi setiap pergantian musim",
+    "pilihan": [
+      "Perubahan cuaca dari hari ke hari, misalnya hari ini hujan dan besok cerah",
+      "Perubahan jangka panjang pada pola cuaca suatu daerah, misalnya musim menjadi tidak menentu dari tahun ke tahun",
+      "Perubahan suhu udara dari pagi yang sejuk menjadi siang yang panas",
+      "Perubahan arah angin yang terjadi setiap pergantian musim"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Perubahan iklim adalah perubahan jangka panjang pada pola cuaca suatu daerah — misalnya musim hujan dan kemarau yang dari tahun ke tahun menjadi tidak menentu, atau suhu rata-rata Bumi yang makin panas. Pilihan A salah karena cuaca yang berubah dari hari ke hari hanyalah perubahan cuaca, bukan iklim; C salah karena panas di siang hari adalah perubahan cuaca harian; D salah karena arah angin yang berubah tiap musim adalah hal yang biasa, bukan perubahan iklim.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab D: Perubahan Iklim\n## Sub-bab E: Efek Rumah Kaca",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "D: Perubahan Iklim",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Rina berkunjung ke kebun bunga. Di sana ada sebuah rumah kaca, yaitu bangunan berdinding dan beratap kaca bening tempat menanam bunga. Begitu masuk, Rina merasa udara di dalam rumah kaca lebih hangat daripada di luar, padahal cuaca di luar sedang mendung. Mengapa demikian?\nA. Karena kaca rumah kaca menghasilkan panas sendiri seperti kompor\nB. Karena panas matahari yang masuk ke dalam rumah kaca terperangkap dan tidak bisa keluar dengan mudah\nC. Karena bunga-bunga di dalam rumah kaca mengeluarkan api\nD. Karena rumah kaca itu dibangun di atas tanah yang panas",
+    "pilihan": [
+      "Karena kaca rumah kaca menghasilkan panas sendiri seperti kompor",
+      "Karena panas matahari yang masuk ke dalam rumah kaca terperangkap dan tidak bisa keluar dengan mudah",
+      "Karena bunga-bunga di dalam rumah kaca mengeluarkan api",
+      "Karena rumah kaca itu dibangun di atas tanah yang panas"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Rumah kaca bekerja dengan cara membiarkan panas matahari masuk melalui kaca bening, tetapi panas itu sulit keluar lagi karena terhalang kaca. Akibatnya panas menumpuk di dalam dan suhunya menjadi lebih hangat daripada di luar. Inilah asal nama \"efek rumah kaca\": gas-gas di atmosfer bekerja seperti kaca itu, menahan panas bumi agar tidak semuanya lepas ke angkasa. Pilihan A, C, dan D salah karena kaca dan bunga tidak menghasilkan panas sendiri.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab E: Efek Rumah Kaca",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "E: Efek Rumah Kaca",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Desa A dikelilingi hutan dan kebun yang rindang, sedangkan Desa B dikelilingi pabrik dan jalan raya yang selalu dipenuhi kendaraan bermotor. Manakah pernyataan yang benar tentang kedua desa itu?\nA. Desa B menghasilkan gas rumah kaca lebih banyak, karena asap kendaraan dan pabrik melepaskan karbon dioksida ke udara\nB. Desa A menghasilkan gas rumah kaca lebih banyak, karena pepohonan mengeluarkan asap\nC. Kedua desa menghasilkan gas rumah kaca yang sama banyak, karena gas tidak bisa berpindah tempat\nD. Desa B menghasilkan gas rumah kaca lebih sedikit, karena asap pabrik langsung hilang tertiup angin",
+    "pilihan": [
+      "Desa B menghasilkan gas rumah kaca lebih banyak, karena asap kendaraan dan pabrik melepaskan karbon dioksida ke udara",
+      "Desa A menghasilkan gas rumah kaca lebih banyak, karena pepohonan mengeluarkan asap",
+      "Kedua desa menghasilkan gas rumah kaca yang sama banyak, karena gas tidak bisa berpindah tempat",
+      "Desa B menghasilkan gas rumah kaca lebih sedikit, karena asap pabrik langsung hilang tertiup angin"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Asap kendaraan bermotor dan asap pabrik mengandung karbon dioksida, salah satu gas rumah kaca. Makin banyak kendaraan dan pabrik, makin banyak karbon dioksida yang dilepas ke udara. Sebaliknya, pepohonan di Desa A justru menyerap karbon dioksida dari udara untuk berfotosintesis, sehingga gas rumah kacanya lebih sedikit. Pilihan B salah karena pohon tidak mengeluarkan asap; C salah karena jumlah gas bergantung pada sumbernya; D salah karena asap tidak hilang begitu saja, gasnya tetap berada di atmosfer.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab E: Efek Rumah Kaca",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "E: Efek Rumah Kaca",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Dodi berkata, \"Efek rumah kaca itu selalu buruk bagi kehidupan, jadi sebaiknya gas rumah kaca dihilangkan semuanya dari udara.\" Apakah perkataan Dodi benar?\nA. Benar, karena tanpa gas rumah kaca bumi akan menjadi lebih sejuk dan nyaman\nB. Benar, karena gas rumah kaca hanya berasal dari asap pabrik yang berbahaya\nC. Salah; efek rumah kaca yang wajar justru membuat bumi tetap hangat sehingga makhluk hidup bisa tinggal di dalamnya\nD. Salah; gas rumah kaca tidak ada hubungannya dengan suhu bumi",
+    "pilihan": [
+      "Benar, karena tanpa gas rumah kaca bumi akan menjadi lebih sejuk dan nyaman",
+      "Benar, karena gas rumah kaca hanya berasal dari asap pabrik yang berbahaya",
+      "Salah; efek rumah kaca yang wajar justru membuat bumi tetap hangat sehingga makhluk hidup bisa tinggal di dalamnya",
+      "Salah; gas rumah kaca tidak ada hubungannya dengan suhu bumi"
+    ],
+    "jawaban_benar": "C",
+    "pembahasan": "Efek rumah kaca yang wajar sebenarnya diperlukan: gas rumah kaca menahan sebagian panas bumi sehingga suhu bumi tetap hangat dan nyaman untuk ditinggali. Tanpa efek rumah kaca sama sekali, bumi akan menjadi terlalu dingin. Yang berbahaya adalah bila gas rumah kaca menjadi berlebihan karena ulah manusia, sehingga panas yang terperangkap terlalu banyak dan suhu bumi naik terus — itulah pemanasan global. Pilihan A salah karena bumi tanpa gas rumah kaca akan terlalu dingin, bukan nyaman; B salah karena gas rumah kaca juga ada secara alami; D salah karena gas rumah kacalah yang menahan panas bumi.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab E: Efek Rumah Kaca",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "E: Efek Rumah Kaca",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Sekolah Sinta ingin ikut mengurangi efek rumah kaca. Dari kegiatan berikut, manakah yang paling membantu mengurangi gas rumah kaca di udara?\nA. Membakar sampah daun di halaman sekolah setiap hari\nB. Menanam pohon di halaman sekolah dan merawatnya sampai besar\nC. Menyalakan semua lampu kelas sepanjang hari, termasuk saat istirahat\nD. Meminta semua siswa diantar ke sekolah dengan mobil sendiri-sendiri",
+    "pilihan": [
+      "Membakar sampah daun di halaman sekolah setiap hari",
+      "Menanam pohon di halaman sekolah dan merawatnya sampai besar",
+      "Menyalakan semua lampu kelas sepanjang hari, termasuk saat istirahat",
+      "Meminta semua siswa diantar ke sekolah dengan mobil sendiri-sendiri"
+    ],
+    "jawaban_benar": "B",
+    "pembahasan": "Pohon menyerap karbon dioksida dari udara untuk berfotosintesis, sehingga menanam dan merawat pohon benar-benar mengurangi gas rumah kaca di udara. Pilihan A salah karena membakar sampah justru melepaskan karbon dioksida dan asap ke udara. Pilihan C salah karena lampu yang menyala terus memakai listrik lebih banyak, dan sebagian listrik dihasilkan dari pembakaran bahan bakar yang melepaskan karbon dioksida. Pilihan D salah karena makin banyak mobil, makin banyak asap kendaraan yang dilepas ke udara.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab E: Efek Rumah Kaca",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "E: Efek Rumah Kaca",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  },
+  {
+    "pertanyaan": "Gas rumah kaca adalah ....\nA. Gas di atmosfer yang menahan panas bumi agar tidak semuanya lepas ke angkasa, contohnya karbon dioksida dan metana\nB. Gas yang hanya ada di dalam rumah kaca tempat menanam bunga\nC. Gas beracun yang membuat semua makhluk hidup langsung mati\nD. Gas yang membuat udara menjadi dingin dan sejuk",
+    "pilihan": [
+      "Gas di atmosfer yang menahan panas bumi agar tidak semuanya lepas ke angkasa, contohnya karbon dioksida dan metana",
+      "Gas yang hanya ada di dalam rumah kaca tempat menanam bunga",
+      "Gas beracun yang membuat semua makhluk hidup langsung mati",
+      "Gas yang membuat udara menjadi dingin dan sejuk"
+    ],
+    "jawaban_benar": "A",
+    "pembahasan": "Gas rumah kaca adalah gas-gas di atmosfer, misalnya karbon dioksida dan metana, yang menahan panas yang dipantulkan bumi sehingga panas tidak semuanya lepas ke angkasa. Karena itulah suhu bumi tetap hangat. Pilihan B salah karena gas rumah kaca ada di atmosfer bumi, bukan hanya di rumah kaca; C salah karena gas ini tidak langsung mematikan; D salah karena gas ini menahan panas, bukan mendinginkan udara.",
+    "rujukan": "IPAS Kelas 4, Bab 4: Indonesia sebagai Negara Tropis, Sub-bab E: Efek Rumah Kaca",
+    "jenjang": "kelas-4",
+    "mapel": "ipas",
+    "bab": "Bab 04: Indonesia sebagai Negara Tropis",
+    "sub_bab": "E: Efek Rumah Kaca",
+    "sumber": "Kurasi internal",
+    "status": "draf",
+    "pembuat": "Kurasi internal",
+    "tanggal": "2026-11-25"
+  }
+]
