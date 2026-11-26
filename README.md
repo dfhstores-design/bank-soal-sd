@@ -6,7 +6,7 @@ Bank soal untuk Kelas 1-6 SD yang dipakai aplikasi belajar (saat ini dipakai Nar
 
 Repo ini berisi soal-soal SD dalam bentuk file Markdown dan hasil build-nya berupa JSON.
 
-Saat ini yang tersedia baru **Kelas 4**, sebanyak **58 modul Markdown** dengan total **975 soal**: 970 berstatus **draf** dan 5 soal PAI Bab 4 berstatus **lolos** tinjauan. Rincian per mata pelajaran:
+Saat ini yang tersedia baru **Kelas 4**, sebanyak **62 modul Markdown** dengan total **1.055 soal**: 1.050 berstatus **draf** dan 5 soal PAI Bab 4 berstatus **lolos** tinjauan. Rincian per mata pelajaran:
 
 | Mata pelajaran | Jumlah soal | Modul |
 |---|---|---|
@@ -18,7 +18,7 @@ Saat ini yang tersedia baru **Kelas 4**, sebanyak **58 modul Markdown** dengan t
 | PAI | 195 | 11 |
 | BI | 80 | 4 |
 | PP | 70 | 4 |
-| IPAS | 75 | 4 |
+| IPAS | 155 | 8 |
 
 Yang masih kosong:
 - **Kelas 1-3 dan Kelas 5-6** — belum diisi.
@@ -52,7 +52,7 @@ Soal dikurasi dari buku Erlangga Kelas 4 (mengacu daftar isi buku) dan dibuat de
      ```
      python3 scripts/build-json.py
      ```
-     Script ini memvalidasi jumlah soal per mapel secara ketat (harus persis 975 total). Jika tidak cocok, build gagal.
+     Script ini memvalidasi jumlah soal per mapel secara ketat (harus persis 1.055 total). Jika tidak cocok, build gagal.
 
 3. **Baca satu soal dari JSON.** Setiap soal punya 14 field. Contoh field penting:
 
@@ -78,7 +78,7 @@ Soal dikurasi dari buku Erlangga Kelas 4 (mengacu daftar isi buku) dan dibuat de
 
    Field yang perlu diperhatikan saat menampilkan soal: `pertanyaan`, `pilihan` (array 4 string, A-D), `jawaban_benar` (A/B/C/D), `pembahasan`, dan `status`.
 
-4. **Catatan penting:** 970 soal berstatus **draf**; lima soal PAI Bab 4 yang sudah lolos tinjauan berstatus **lolos**. Periksa field `status` sebelum memakai soal ke anak dan jangan menganggap soal draf sebagai soal final.
+4. **Catatan penting:** 1.050 soal berstatus **draf**; lima soal PAI Bab 4 yang sudah lolos tinjauan berstatus **lolos**. Periksa field `status` sebelum memakai soal ke anak dan jangan menganggap soal draf sebagai soal final.
 
 ## Cara menyumbang soal
 
