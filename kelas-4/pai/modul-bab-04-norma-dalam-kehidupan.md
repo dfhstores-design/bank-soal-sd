@@ -6,7 +6,7 @@
 - **Verifikasi mission control (25 Nov 2026, Soal 1–15):** semua soal dibaca dan jawabannya dicek satu-satu — semuanya benar. Tidak ada soal yang ditandai PERLU TINJAUAN.
 - **Aturan variasi kuat (Andri, 25 Nov 2026, Soal 1–15):** ketiga sub-bab masing-masing 4/5 variasi kuat. Catatan: tidak ada teks ayat/hadis yang dikutip dalam soal-soal ini.
 - **File sumber per sub-bab:** `pai/bab-04/sub-A.md`, `pai/bab-04/sub-B.md`, `pai/bab-04/sub-C.md`
-- **Catatan kontribusi (26 Nov 2026):** Soal 16–20 berasal dari ayah iko, dibuat 25 Nov 2026, dikirim melalui generator, dan disetujui dalam checklist D-035 (7/7); statusnya lolos. Blok Sub-bab B tambahan diletakkan di akhir agar 15 soal asli dan JSON terdahulu tetap utuh.
+- **Catatan kontribusi (26 Nov 2026):** Soal 16–20 berasal dari ayah iko, dibuat 25 Nov 2026, dikirim melalui generator, dan disetujui dalam checklist D-035 (7/7); statusnya lolos. Blok kontribusi ditempatkan di dalam Sub-bab B, sebelum Sub-bab C; metadata rujukan Soal 10 menjaga keluaran JSON 190 soal lama tetap utuh.
 
 ---
 
@@ -158,6 +158,7 @@ D. Norma agama, karena berbohong langsung dihukum Tuhan di dunia
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"rujukan":"PAI Kelas 4, Bab 4, Sub-bab B\n## Sub-bab C: Manfaat Norma dalam Kehidupan"} -->
 **Pertanyaan:** Raka bertemu gurunya di pagi hari. Ia tersenyum dan mengucapkan, "Selamat pagi, Bu." Perbuatan Raka termasuk norma yang mana?
 
 A. Norma hukum, karena ada aturannya di undang-undang
@@ -171,90 +172,7 @@ D. Norma kesusilaan, karena hati nurani Raka menyuruhnya berbohong
 
 **Rujukan:** PAI Kelas 4, Bab 4, Sub-bab B
 
-
-## Sub-bab C: Manfaat Norma dalam Kehidupan
-
-### Soal 11
-**Pertanyaan:** Di sebuah persimpangan, tidak ada satu pun pengendara yang mematuhi lampu lalu lintas: semua menerobos saat lampu merah. Apa yang kemungkinan besar terjadi?
-
-A. Lalu lintas menjadi lebih cepat dan lancar
-B. Terjadi kecelakaan dan kekacauan, karena tidak ada yang merasa aman di jalan
-C. Semua pengendara sampai tujuan lebih awal dengan selamat
-D. Tidak terjadi apa-apa, karena lampu lalu lintas tidak penting
-
-**Jawaban benar:** B
-
-**Pembahasan:** Norma — termasuk norma hukum seperti aturan lalu lintas — dibuat supaya kehidupan berjalan aman dan tertib. Kalau semua melanggar, kendaraan saling berebut jalan dan tabrakan mudah terjadi. Inilah manfaat norma: mencegah benturan antar kepentingan dan menciptakan rasa aman.
-
-**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
-
 ---
-
-### Soal 12
-**Pertanyaan:** Kelas 4A mematuhi aturan kelas: antre saat ke kantin, tidak berteriak, dan mengembalikan barang pinjaman. Kelas 4B tidak mematuhi aturan apa pun. Kelas mana yang suasananya lebih mendukung belajar, dan mengapa?
-
-A. Kelas 4B, karena bebas tanpa aturan membuat anak lebih kreatif
-B. Kelas 4A, karena norma membuat kehidupan kelas tertib, aman, dan damai sehingga semua bisa belajar dengan tenang
-C. Keduanya sama, karena aturan tidak memengaruhi belajar
-D. Kelas 4B, karena aturan kelas hanya membatasi gerak siswa
-
-**Jawaban benar:** B
-
-**Pembahasan:** Salah satu manfaat norma adalah membuat kehidupan lebih teratur dan damai. Di kelas 4A yang patuh aturan, suasana tenang dan tertib sehingga belajar berjalan baik. Di kelas 4B yang tanpa aturan, kegaduhan membuat belajar terganggu.
-
-**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
-
----
-
-### Soal 13
-**Pertanyaan:** Budi berkata, "Norma itu membatasi kebebasan kita, jadi hidup akan lebih baik kalau tidak ada norma sama sekali." Apakah perkataan Budi benar?
-
-A. Benar, karena tanpa norma semua orang bebas berbuat apa saja
-B. Benar, karena norma hanya menyusahkan orang yang taat
-C. Salah; norma justru melindungi kebebasan setiap orang supaya tidak saling berbenturan — tanpa norma, yang kuat akan menindas yang lemah
-D. Salah; norma memang membatasi kebebasan, tetapi itu tidak ada manfaatnya
-
-**Jawaban benar:** C
-
-**Pembahasan:** Norma memang membatasi perilaku, tetapi batasan itu melindungi semua orang: kebebasan seseorang berhenti ketika mulai merugikan orang lain. Tanpa norma, tidak ada yang mencegah orang bertindak semena-mena, sehingga yang lemah dirugikan dan keadilan hilang.
-
-**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
-
----
-
-### Soal 14
-**Pertanyaan:** Saat istirahat, Dina mengantre dengan tertib di kantin walaupun antreannya panjang. Ia tidak menyerobot ke depan. Manfaat norma apa yang terlihat dari sikap Dina?
-
-A. Norma membuat antrean menjadi lebih panjang
-B. Norma membuat Dina mendapat makanan lebih cepat dari yang lain
-C. Norma menciptakan ketertiban dan keadilan: semua mendapat giliran sesuai urutan, tidak ada yang dirugikan
-D. Norma membuat kantin menjadi sepi
-
-**Jawaban benar:** C
-
-**Pembahasan:** Antre dengan tertib adalah contoh nyata manfaat norma: kehidupan menjadi teratur dan adil. Semua orang mendapat giliran sesuai urutan kedatangannya, tidak ada yang menyerobot dan tidak ada yang dirugikan.
-
-**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
-
----
-
-### Soal 15
-**Pertanyaan:** Manakah di bawah ini yang merupakan manfaat mematuhi norma dalam kehidupan sehari-hari?
-
-A. Kehidupan menjadi kacau dan tidak teratur
-B. Setiap orang bebas bertindak semena-mena
-C. Terciptanya kehidupan yang tertib, aman, dan damai
-D. Tidak ada lagi aturan yang perlu ditaati
-
-**Jawaban benar:** C
-
-**Pembahasan:** Mematuhi norma membuat kehidupan bermasyarakat lebih teratur, aman, tenteram, dan damai. Norma menjadi pedoman hidup dan bertindak, mencegah benturan antar kepentingan, dan membantu tercapainya tujuan bersama.
-
-**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
-
----
-
-## Sub-bab B: Macam-Macam Norma
 
 ### Soal 16
 <!-- Metadata soal: {"sumber":"Kontribusi via generator (disetujui D-035, 2026-11-26)","status":"lolos","pembuat":"ayah iko","tanggal":"2026-11-25"} -->
@@ -338,3 +256,85 @@ D. (1) dan (3)
 **Pembahasan:** Mengucapkan permisi (3) termasuk norma kesopanan, sedangkan membayar pajak (4) termasuk norma hukum karena diatur oleh negara.
 
 **Rujukan:** Buku Pendidikan Agama Islam dan Budi Pekerti Kelas 4, Bab 4: Norma dalam Kehidupan, Sub-bab B: Macam-Macam Norma
+
+---
+
+## Sub-bab C: Manfaat Norma dalam Kehidupan
+
+### Soal 11
+**Pertanyaan:** Di sebuah persimpangan, tidak ada satu pun pengendara yang mematuhi lampu lalu lintas: semua menerobos saat lampu merah. Apa yang kemungkinan besar terjadi?
+
+A. Lalu lintas menjadi lebih cepat dan lancar
+B. Terjadi kecelakaan dan kekacauan, karena tidak ada yang merasa aman di jalan
+C. Semua pengendara sampai tujuan lebih awal dengan selamat
+D. Tidak terjadi apa-apa, karena lampu lalu lintas tidak penting
+
+**Jawaban benar:** B
+
+**Pembahasan:** Norma — termasuk norma hukum seperti aturan lalu lintas — dibuat supaya kehidupan berjalan aman dan tertib. Kalau semua melanggar, kendaraan saling berebut jalan dan tabrakan mudah terjadi. Inilah manfaat norma: mencegah benturan antar kepentingan dan menciptakan rasa aman.
+
+**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
+
+---
+
+### Soal 12
+**Pertanyaan:** Kelas 4A mematuhi aturan kelas: antre saat ke kantin, tidak berteriak, dan mengembalikan barang pinjaman. Kelas 4B tidak mematuhi aturan apa pun. Kelas mana yang suasananya lebih mendukung belajar, dan mengapa?
+
+A. Kelas 4B, karena bebas tanpa aturan membuat anak lebih kreatif
+B. Kelas 4A, karena norma membuat kehidupan kelas tertib, aman, dan damai sehingga semua bisa belajar dengan tenang
+C. Keduanya sama, karena aturan tidak memengaruhi belajar
+D. Kelas 4B, karena aturan kelas hanya membatasi gerak siswa
+
+**Jawaban benar:** B
+
+**Pembahasan:** Salah satu manfaat norma adalah membuat kehidupan lebih teratur dan damai. Di kelas 4A yang patuh aturan, suasana tenang dan tertib sehingga belajar berjalan baik. Di kelas 4B yang tanpa aturan, kegaduhan membuat belajar terganggu.
+
+**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
+
+---
+
+### Soal 13
+**Pertanyaan:** Budi berkata, "Norma itu membatasi kebebasan kita, jadi hidup akan lebih baik kalau tidak ada norma sama sekali." Apakah perkataan Budi benar?
+
+A. Benar, karena tanpa norma semua orang bebas berbuat apa saja
+B. Benar, karena norma hanya menyusahkan orang yang taat
+C. Salah; norma justru melindungi kebebasan setiap orang supaya tidak saling berbenturan — tanpa norma, yang kuat akan menindas yang lemah
+D. Salah; norma memang membatasi kebebasan, tetapi itu tidak ada manfaatnya
+
+**Jawaban benar:** C
+
+**Pembahasan:** Norma memang membatasi perilaku, tetapi batasan itu melindungi semua orang: kebebasan seseorang berhenti ketika mulai merugikan orang lain. Tanpa norma, tidak ada yang mencegah orang bertindak semena-mena, sehingga yang lemah dirugikan dan keadilan hilang.
+
+**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
+
+---
+
+### Soal 14
+**Pertanyaan:** Saat istirahat, Dina mengantre dengan tertib di kantin walaupun antreannya panjang. Ia tidak menyerobot ke depan. Manfaat norma apa yang terlihat dari sikap Dina?
+
+A. Norma membuat antrean menjadi lebih panjang
+B. Norma membuat Dina mendapat makanan lebih cepat dari yang lain
+C. Norma menciptakan ketertiban dan keadilan: semua mendapat giliran sesuai urutan, tidak ada yang dirugikan
+D. Norma membuat kantin menjadi sepi
+
+**Jawaban benar:** C
+
+**Pembahasan:** Antre dengan tertib adalah contoh nyata manfaat norma: kehidupan menjadi teratur dan adil. Semua orang mendapat giliran sesuai urutan kedatangannya, tidak ada yang menyerobot dan tidak ada yang dirugikan.
+
+**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C
+
+---
+
+### Soal 15
+**Pertanyaan:** Manakah di bawah ini yang merupakan manfaat mematuhi norma dalam kehidupan sehari-hari?
+
+A. Kehidupan menjadi kacau dan tidak teratur
+B. Setiap orang bebas bertindak semena-mena
+C. Terciptanya kehidupan yang tertib, aman, dan damai
+D. Tidak ada lagi aturan yang perlu ditaati
+
+**Jawaban benar:** C
+
+**Pembahasan:** Mematuhi norma membuat kehidupan bermasyarakat lebih teratur, aman, tenteram, dan damai. Norma menjadi pedoman hidup dan bertindak, mencegah benturan antar kepentingan, dan membantu tercapainya tujuan bersama.
+
+**Rujukan:** PAI Kelas 4, Bab 4, Sub-bab C

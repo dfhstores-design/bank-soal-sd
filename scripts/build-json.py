@@ -57,9 +57,9 @@ RE_FIELD_RUJUKAN = re.compile(r"^\*\*Rujukan:\*\*\s*(.*)$", re.MULTILINE)
 RE_PILIHAN = re.compile(r"^([A-D])\.\s+(.*)$")
 
 # Metadata opsional per soal ditulis sebagai komentar HTML JSON di modul.
-# Hanya empat field provenance/status ini yang boleh dioverride.
+# Hanya field provenance/status dan rujukan lama yang boleh dioverride.
 RE_METADATA = re.compile(r"^<!-- Metadata soal: (\{.*\}) -->$", re.MULTILINE)
-METADATA_FIELDS = {"sumber", "status", "pembuat", "tanggal"}
+METADATA_FIELDS = {"sumber", "status", "pembuat", "tanggal", "rujukan"}
 
 
 def die(msg):
