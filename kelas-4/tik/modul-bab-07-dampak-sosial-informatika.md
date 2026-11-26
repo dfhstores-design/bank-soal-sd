@@ -12,6 +12,7 @@
 ## Sub-bab A: Dampak Positif dan Negatif Perangkat TIK
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina tinggal jauh dari neneknya. Dengan ponsel, Rina bisa menelepon dan melihat wajah neneknya setiap minggu. Hal itu menunjukkan salah satu dampak positif perangkat TIK, yaitu ....
 A. Membuat kita malas belajar
 B. Membuat mata cepat lelah
@@ -22,6 +23,7 @@ D. Membuat kita kecanduan gim
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab A
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pak Guru memberi tugas mencari gambar hewan langka. Budi membuka internet dan menemukan banyak gambar beserta penjelasannya dalam waktu singkat. Hal ini menunjukkan perangkat TIK dapat ....
 A. Membantu belajar dan mencari informasi dengan cepat
 B. Membuat Budi lupa waktu bermain
@@ -32,6 +34,7 @@ D. Membuat Budi malas membaca buku
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab A
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi bermain gim di tablet dari pulang sekolah sampai malam tanpa berhenti. Akibatnya, ia lupa mengerjakan PR dan bangun kesiangan keesokan harinya. Dampak negatif yang dialami Dodi adalah ....
 A. Ia menjadi lebih pintar
 B. Ia kecanduan gim sehingga melupakan tugas dan kewajibannya
@@ -42,6 +45,7 @@ D. Ia lebih banyak bergerak
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab A
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta membaca pesan di internet yang mengatakan bahwa besok sekolah libur. Ternyata pesan itu tidak benar dan Sinta terlambat masuk sekolah. Hal yang dialami Sinta menunjukkan salah satu dampak negatif perangkat TIK, yaitu ....
 A. Internet membuat belajar lebih cepat
 B. Internet membantu Sinta berkomunikasi
@@ -52,6 +56,7 @@ D. Adanya informasi yang tidak benar (hoaks) di internet
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab A
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang BUKAN contoh dampak positif perangkat TIK?
 A. Raka belajar mengetik dan membuat presentasi di komputer
 B. Ibu menelepon ayah yang sedang bekerja di luar kota
@@ -66,6 +71,7 @@ D. Sinta mencari bahan tugas tentang tumbuhan di internet
 ## Sub-bab B: Etika Berkomunikasi Digital
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan etika berkomunikasi digital?
 A. Aturan memakai komputer supaya cepat
 B. Cara mengetik dengan sepuluh jari
@@ -76,6 +82,7 @@ D. Cara membuat akun media sosial
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab B
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina ingin mengirim pesan kepada gurunya lewat chat. Manakah pesan yang paling sopan?
 A. "Bu, tugasnya apa ya? Terima kasih, Bu."
 B. "Bu, tugasnya apa? Cepetan jawab dong."
@@ -86,6 +93,7 @@ D. "Bu, aku nggak mau ngerjain tugas."
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab B
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka menerima pesan di grup kelas yang mengatakan sekolah libur besok, padahal belum ada pengumuman resmi dari guru. Apa yang sebaiknya dilakukan Raka?
 A. Langsung meneruskan pesan itu ke semua grup
 B. Menambah-nambahi cerita supaya lebih seru
@@ -96,6 +104,7 @@ D. Tidak langsung meneruskan, dan bertanya dulu kepada guru apakah kabar itu ben
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab B
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di grup chat kelas, ada teman yang mengejek hasil gambar Beni. Sikap yang benar adalah ....
 A. Ikut mengejek supaya ramai
 B. Membiarkan saja karena bukan urusanku
@@ -106,6 +115,7 @@ D. Membalas dengan ejekan yang lebih kasar
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab B
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebelum mengirim pesan di internet, apa yang sebaiknya kita lakukan?
 A. Langsung mengirim secepat mungkin
 B. Membaca lagi pesan itu dan memikirkan apakah kata-katanya sopan dan benar
@@ -120,6 +130,7 @@ D. Mengirim pesan yang sama berulang-ulang
 ## Sub-bab C: Hak Karya Digital
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan hak karya digital?
 A. Hak semua orang untuk memakai gambar, lagu, dan video apa pun di internet secara bebas
 B. Hak pembuat karya digital atas hasil karyanya, seperti gambar, lagu, video, dan tulisan
@@ -130,6 +141,7 @@ D. Hak pembeli untuk menjual kembali lagu dan film yang sudah dibeli
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab C
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang termasuk karya digital yang dilindungi hak karya digital?
 A. Meja dan kursi di ruang kelas
 B. Buku tulis dan pensil
@@ -140,6 +152,7 @@ D. Sepeda dan bola di halaman sekolah
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab C
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta ingin memakai gambar dari internet untuk tugas sekolahnya. Cara Sinta yang paling tepat adalah ....
 A. Meminta izin kepada pembuat gambar dan menyebutkan nama pembuatnya
 B. Mengunduh gambar lalu mengaku bahwa gambar itu buatannya sendiri
@@ -150,6 +163,7 @@ D. Menghapus nama pembuat gambar supaya tidak ketahuan
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab C
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah perbuatan berikut yang TIDAK menghargai hak karya digital?
 A. Membeli lagu dari toko musik resmi di internet
 B. Menyebutkan nama pembuat gambar saat memakai gambarnya untuk tugas
@@ -160,6 +174,7 @@ D. Mengunduh film bajakan lalu mengunggahnya dan mengaku sebagai film buatan sen
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab C
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Mengapa kita harus menyebutkan sumber saat memakai karya orang lain di internet?
 A. Supaya tugas terlihat lebih panjang
 B. Supaya pembuat karya dihargai dan semua orang tahu siapa pembuat aslinya
@@ -178,6 +193,7 @@ Soal tambahan ini dibuat mengikuti aturan variasi kuat: soal menuntut anak menal
 ### Sub-bab A: Dampak Positif dan Negatif Perangkat TIK
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta memakai tablet 30 menit untuk belajar, lalu berhenti. Dodi memakai tablet 5 jam setiap hari untuk bermain gim. Siapa yang mendapat manfaat dan siapa yang dirugikan, dan mengapa?
 A. Sinta mendapat manfaat, Dodi dirugikan — Sinta memakai tablet untuk belajar lalu berhenti, sedangkan Dodi kecanduan gim, lupa tugas, dan badannya tidak sehat
 B. Dodi mendapat manfaat, Sinta dirugikan — Dodi berlatih bermain gim setiap hari, sedangkan Sinta terlalu cepat berhenti belajar
@@ -188,6 +204,7 @@ D. Keduanya sama-sama dirugikan, karena memakai tablet selalu merugikan
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab A
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi bermain gim semalaman setiap hari selama seminggu. Apa yang terjadi pada tugas dan kesehatannya?
 A. Tugasnya selesai lebih cepat dan badannya menjadi lebih segar
 B. Tugas tidak dikerjakan, badan lelah, mata merah, dan bangun kesiangan
@@ -200,6 +217,7 @@ D. Tidak terjadi apa-apa, karena bermain gim tidak berpengaruh pada tugas dan ke
 ### Sub-bab B: Etika Berkomunikasi Digital
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina mengirim pesan ke grup kelas: "Tugasnya gampang banget, yang nggak bisa berarti bodoh!" Apa yang salah dari pesan itu dan bagaimana seharusnya Dina menulisnya?
 A. Tidak ada yang salah, pesan itu hanya berkata jujur
 B. Pesan itu mengejek dan merendahkan teman; seharusnya Dina menulis dengan sopan, misalnya menawarkan bantuan kepada teman yang kesulitan
@@ -212,6 +230,7 @@ D. Pesan itu salah karena terlalu pendek; seharusnya ditulis lebih panjang
 ### Sub-bab C: Hak Karya Digital
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Gambar yang dibuat Sinta dipakai orang lain tanpa izin, lalu diakui sebagai karya orang itu. Apa yang dirasakan Sinta dan apa yang seharusnya dilakukan orang itu?
 A. Sinta senang karena gambarnya dipakai orang lain; orang itu tidak perlu berbuat apa-apa
 B. Sinta sedih dan kecewa; orang itu seharusnya meminta izin dan menyebutkan nama Sinta sebagai pembuatnya
@@ -222,6 +241,7 @@ D. Sinta harus menghapus gambarnya supaya tidak dipakai orang lain
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 7, Sub-bab C
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka memakai lagu untuk video tugasnya. Cara pertama: membeli lagu dari toko resmi. Cara kedua: mengunduh lagu dari situs bajakan. Mana yang menghargai pembuat karya dan mengapa?
 A. Membeli dari toko resmi, karena pembuat lagu mendapat penghargaan dan penghasilan dari karyanya
 B. Mengunduh dari situs bajakan, karena lagunya gratis dan mudah didapat

@@ -12,6 +12,7 @@
 ## Sub-bab A: Pola Bilangan
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka menulis barisan bilangan: 6, 11, 16, 22, 26. Ia berkata aturannya bertambah 5 setiap langkah. Apakah barisan Raka benar? Bilangan manakah yang salah, dan seharusnya berapa?
 
 A. Bilangan 22 salah; seharusnya 21
@@ -28,6 +29,7 @@ D. Semua bilangan sudah benar
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Barisan bilangan 4, 9, 14, 19, ... aturannya bertambah 5. Mulai suku ke-5, Rani mengubah aturannya menjadi bertambah 10. Berapa bilangan ke-6 pada barisan baru itu?
 
 A. 29
@@ -44,6 +46,7 @@ D. 44
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Barisan A: 3, 8, 13, 18, ... Barisan P: 8, 13, 18, 23, ... Barisan Q: 8, 16, 24, 32, ... Barisan manakah yang aturannya sama dengan Barisan A?
 
 A. Barisan P, karena sama-sama bertambah 5
@@ -60,6 +63,7 @@ D. Tidak ada, karena angka awalnya berbeda
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menabung Rp5.000 pada minggu pertama, lalu setiap minggu ia menambah tabungannya Rp5.000. Budi menabung Rp10.000 pada minggu pertama, lalu setiap minggu ia menambah tabungannya Rp2.000. Pada minggu ke-4, siapa yang menabung lebih banyak pada minggu itu, dan berapa selisihnya?
 
 A. Dina; Rp20.000, selisihnya Rp4.000 dari Budi
@@ -76,6 +80,7 @@ D. Dina; Rp15.000, selisihnya Rp1.000 dari Budi
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan barisan bilangan: 50, 45, ..., 35, 30. Bilangan yang hilang pada barisan itu adalah ....
 
 A. 40
@@ -93,6 +98,7 @@ D. 45
 ## Sub-bab B: Pola Gambar
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menyusun pola gambar berulang: lingkaran, segitiga, persegi, lingkaran, segitiga, persegi, lingkaran, segitiga, lingkaran. Ada satu gambar yang menyimpang dari pola. Gambar ke berapa yang menyimpang, dan seharusnya gambar apa?
 
 A. Gambar ke-9 menyimpang; seharusnya persegi
@@ -109,6 +115,7 @@ D. Tidak ada gambar yang menyimpang
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi membuat segitiga berantai dari batang korek api. Gambar 1 memakai 3 batang (1 segitiga), Gambar 2 memakai 5 batang (2 segitiga berantai), Gambar 3 memakai 7 batang (3 segitiga berantai). Jika pola ini diteruskan, berapa batang yang dibutuhkan untuk Gambar 5?
 
 A. 9 batang
@@ -125,6 +132,7 @@ D. 15 batang
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ada dua pola bintang yang bertumbuh. Pola A: 2, 4, 6, 8 bintang. Pola B: 3, 6, 9, 12 bintang. Jika kedua pola diteruskan sampai langkah ke-6, pola mana yang mempunyai bintang lebih banyak, dan berapa selisihnya?
 
 A. Pola A lebih banyak; selisihnya 6 bintang
@@ -141,6 +149,7 @@ D. Pola B lebih banyak; selisihnya 3 bintang
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta merangkai manik-manik dengan pola berulang: merah, kuning, kuning, merah, kuning, kuning, merah, kuning, kuning, ... Manik ke-10 berwarna apa?
 
 A. Merah
@@ -157,6 +166,7 @@ D. Tidak bisa ditentukan
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta menyusun kelereng membentuk pola bertumbuh: langkah ke-1 ada 2 kelereng, langkah ke-2 ada 5 kelereng, langkah ke-3 ada 8 kelereng. Sinta berkata langkah ke-4 ada 10 kelereng. Apakah perkataan Sinta benar?
 
 A. Benar, langkah ke-4 ada 10 kelereng

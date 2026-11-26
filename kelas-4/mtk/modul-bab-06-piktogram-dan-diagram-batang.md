@@ -12,6 +12,7 @@
 ## Sub-bab A: Penyajian Data dalam Bentuk Tabel
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina membuat tabel jumlah buku yang dibaca siswa kelas 4 selama 4 bulan. Tabelnya sebagai berikut.
 
 | Bulan | Januari | Februari | Maret | April | Jumlah |
@@ -34,6 +35,7 @@ D. Tidak bisa ditentukan, karena datanya belum lengkap
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tabel berikut menunjukkan data kegiatan ekstrakurikuler yang diikuti siswa kelas 4.
 
 | Kegiatan | Sepak Bola | Pramuka | Tari | Melukis |
@@ -56,6 +58,7 @@ D. Tabel tidak berubah, karena jumlah siswa di kelas tetap sama
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dua anak menyajikan data buah kesukaan 30 siswa kelas 4 dalam bentuk tabel.
 
 Tabel Rani:
@@ -89,6 +92,7 @@ D. Tabel Budi, karena nama buahnya disusun menurut abjad
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Guru bertanya kepada 15 siswa tentang warna kesukaan mereka. Jawabannya sebagai berikut.
 
 Merah, Biru, Merah, Hijau, Biru, Biru, Merah, Kuning, Hijau, Biru, Merah, Kuning, Biru, Hijau, Merah
@@ -109,6 +113,7 @@ D. Merah 6, Biru 5, Hijau 2, Kuning 2
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tabel berikut menunjukkan banyak pengunjung perpustakaan sekolah dalam satu minggu.
 
 | Hari | Senin | Selasa | Rabu | Kamis | Jumat |
@@ -132,6 +137,7 @@ D. Rabu; selisihnya 10 pengunjung
 ## Sub-bab B: Penyajian Data dalam Bentuk Piktogram (Diagram Gambar)
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah piktogram menunjukkan buah yang terjual di toko Pak Budi. Keterangan di bawah piktogram: 1 gambar buah mewakili 5 buah. Gambar apel ada 4, gambar jeruk ada 6. Dina berkata, "Apel yang terjual ada 4 buah." Apakah perkataan Dina benar?
 
 A. Benar, karena gambar apel ada 4
@@ -148,6 +154,7 @@ D. Benar, karena kunci piktogram adalah 5 buah
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Piktogram di perpustakaan menunjukkan buku yang dibaca siswa: hari Senin ada 6 gambar buku, hari Selasa ada 4 gambar buku. Kuncinya: 1 gambar mewakili 5 buku. Jika kunci itu diubah menjadi 1 gambar mewakili 10 buku, berapa buku yang dibaca pada hari Senin, dan bagaimana perubahannya?
 
 A. 30 buku, tetap sama seperti semula
@@ -164,6 +171,7 @@ D. 50 buku, bertambah 20 buku
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Piktogram kue yang terjual di kantin menunjukkan: kue cokelat 5 gambar penuh, kue keju 3 gambar penuh ditambah 1 setengah gambar. Kuncinya: 1 gambar mewakili 4 kue. Berapa kue keju yang terjual, dan berapa selisihnya dengan kue cokelat?
 
 A. 14 kue; selisihnya 6 kue dari kue cokelat
@@ -180,6 +188,7 @@ D. 13 kue; selisihnya 7 kue dari kue cokelat
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Piktogram olahraga favorit siswa kelas 4 menunjukkan: sepak bola 6 gambar, bulu tangkis 4 gambar, renang 2 gambar. Kuncinya: 1 gambar mewakili 2 siswa. Raka berkata, "Siswa yang suka sepak bola jumlahnya sama dengan siswa yang suka bulu tangkis dan renang digabung." Apakah perkataan Raka benar?
 
 A. Salah; sepak bola lebih sedikit dari gabungan keduanya
@@ -196,6 +205,7 @@ D. Benar; sepak bola 12 siswa, gabungan bulu tangkis dan renang juga 12 siswa
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Piktogram hewan peliharaan siswa menunjukkan gambar kucing sebanyak 5 gambar. Kuncinya: 1 gambar mewakili 2 hewan. Berapa ekor kucing peliharaan siswa itu?
 
 A. 5 ekor
@@ -213,6 +223,7 @@ D. 3 ekor
 ## Sub-bab C: Penyajian Data dalam Bentuk Diagram Batang
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina membuat diagram batang "Buah Kesukaan Siswa Kelas 4". Datanya: Apel 14 siswa, Anggur 9 siswa, Melon 11 siswa. Tetapi pada diagram Dina, batang Apel digambar lebih pendek daripada batang Anggur. Apa yang salah dari diagram Dina, dan mengapa diagram seperti itu bisa menyesatkan?
 
 A. Tidak ada yang salah; tinggi batang boleh bebas asalkan warnanya berbeda
@@ -229,6 +240,7 @@ D. Tidak ada yang salah; yang penting angkanya ditulis di bawah batang
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang pengunjung perpustakaan menunjukkan data: Senin 20 orang, Selasa 28 orang, Rabu 16 orang, Kamis 32 orang, Jumat 38 orang. Hari Jumat adalah hari tersibuk. Lalu pada hari Sabtu datang 45 pengunjung. Apa yang terjadi dengan kesimpulan "Jumat hari tersibuk" itu?
 
 A. Tetap benar, karena Jumat selalu menjadi hari tersibuk
@@ -245,6 +257,7 @@ D. Menjadi salah; hari tersibuk sekarang adalah Rabu dengan 16 pengunjung
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Data hewan peliharaan siswa kelas 4 adalah: kelinci 12 ekor, hamster 8 ekor, burung 6 ekor, ikan 10 ekor. Data yang sama disajikan dua cara: diagram batang dan piktogram (1 gambar mewakili 2 ekor hewan). Dina ingin cepat tahu selisih banyak kelinci dan burung. Cara penyajian mana yang lebih mudah dipakai Dina, dan mengapa?
 
 A. Piktogram, karena gambar hewan lebih menarik dilihat
@@ -261,6 +274,7 @@ D. Keduanya sama sulitnya, karena datanya sama
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang penjualan jus di kantin menunjukkan data: Senin 10 gelas, Selasa 14 gelas, Rabu 12 gelas, Kamis 18 gelas, Jumat 22 gelas. Kesimpulan manakah yang benar dari diagram itu?
 
 A. Penjualan jus turun terus dari Senin sampai Jumat
@@ -277,6 +291,7 @@ D. Penjualan jus hari Senin sama banyak dengan hari Jumat
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang lomba olahraga menunjukkan data: Lari 18 siswa, Basket 12 siswa, Sepak Bola 15 siswa, Voli 9 siswa. Berapa jumlah siswa yang mengikuti lomba Lari dan Voli jika digabung?
 
 A. 27 siswa

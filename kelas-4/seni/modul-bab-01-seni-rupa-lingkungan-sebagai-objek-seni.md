@@ -12,6 +12,7 @@
 ## Sub-bab A: Menggambar Rumah
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka menggambar rumah tetangganya dari ujung jalan yang jauh, tetapi ia menggambar rumah itu besar memenuhi kertas. Apa yang salah dari gambar Raka?
 
 A. Tidak ada yang salah; ukuran gambar boleh bebas
@@ -28,6 +29,7 @@ D. Salah; rumah dari jauh seharusnya digambar dengan warna yang lebih gelap
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menggambar rumah dengan atap yang lebih sempit daripada dindingnya, sehingga ujung atap tidak menutupi dinding. Gambar siapakah yang lebih benar — Dina, atau Sinta yang menggambar atap lebih lebar dari dindingnya? Mengapa?
 
 A. Dina, karena atap yang sempit membuat rumah terlihat modern
@@ -44,6 +46,7 @@ D. Keduanya sama benar, karena lebar atap tidak penting dalam menggambar
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi tidak sabar. Ia langsung mewarnai kertas tanpa membuat sketsa dan tanpa menentukan sudut pandang dulu. Apa yang kemungkinan besar terjadi pada gambar Budi?
 
 A. Gambarnya pasti lebih bagus, karena langsung diwarnai
@@ -60,6 +63,7 @@ D. Tidak terjadi apa-apa, karena sketsa tidak ada gunanya
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani berkata, "Rumah tradisional dan rumah modern itu sama saja, yang penting ada atap dan dinding." Apakah perkataan Rani benar?
 
 A. Benar, karena semua rumah pasti punya atap dan dinding
@@ -76,6 +80,7 @@ D. Salah; rumah tradisional tidak mempunyai dinding
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan sketsa dalam menggambar rumah?
 
 A. Gambar akhir yang sudah diwarnai dengan rapi
@@ -93,6 +98,7 @@ D. Cara menggambar rumah dari sudut yang paling jauh
 ## Sub-bab B: Tekstur
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta menggambar batu di atas kertas sampai terlihat kasar dan berpori. Ia berkata, "Gambar batuku bertekstur nyata, karena terlihat kasar." Apakah perkataan Sinta benar?
 
 A. Benar, karena gambarnya memang terlihat kasar
@@ -109,6 +115,7 @@ D. Salah; gambar di kertas tidak bisa mempunyai tekstur sama sekali
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi memegang dua benda dengan mata tertutup: selembar amplas dan selembar foto bebatuan. Keduanya terasa berbeda. Manakah yang bertekstur nyata, dan mengapa?
 
 A. Foto bebatuan, karena gambar batunya terlihat kasar
@@ -125,6 +132,7 @@ D. Keduanya semu, karena Budi memegangnya dengan mata tertutup
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina meletakkan selembar kertas tipis di atas sepotong kulit kayu, lalu menggosok kertas itu dengan pensil. Apa yang terjadi pada kertas Dina?
 
 A. Tidak terjadi apa-apa, karena pensil tidak bisa menembus kertas
@@ -141,6 +149,7 @@ D. Kulit kayu menjadi halus seperti kertas
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka ingin membuat tekstur kasar yang benar-benar bisa diraba pada lempengan tanah liatnya. Cara manakah yang paling tepat untuk Raka?
 
 A. Menggambar garis-garis kasar di atas tanah liat dengan pensil
@@ -157,6 +166,7 @@ D. Membiarkan tanah liat mengering tanpa disentuh sama sekali
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan tekstur dalam seni rupa?
 
 A. Warna-warna cerah pada sebuah karya seni

@@ -12,6 +12,7 @@
 ## Sub-bab A: Menyimak Teks Petunjuk Arah
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Simaklah teks petunjuk arah berikut.
 
 "Dari gerbang sekolah, berjalan lurus sampai lapangan. Setelah itu, belok kanan. Perpustakaan berada di sebelah kiri, di samping ruang guru."
@@ -32,6 +33,7 @@ D. Belok kiri di gerbang sekolah.
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi memberi petunjuk arah kepada temannya:
 
 "Dari rumahku, berjalanlah, lalu belok. Setelah itu, rumah Andi ada di sana."
@@ -52,6 +54,7 @@ D. Budi tidak menyebut jam berangkat yang tepat.
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Simaklah teks petunjuk arah berikut.
 
 "Dari halte bus, berjalan lurus sampai pertigaan. Belok kiri, lalu berjalan lurus melewati masjid. Rumah Pak RT berada di sebelah kanan jalan, tepat di depan warung Bu Sari."
@@ -72,6 +75,7 @@ D. Di depan masjid, di sebelah kiri jalan.
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Simaklah teks petunjuk arah berikut.
 
 "Untuk sampai ke taman, berjalan lurus sampai pertigaan, lalu belok kanan. Setelah belok, berjalan lurus sampai menemukan taman di sebelah kiri jalan."
@@ -92,6 +96,7 @@ D. Sinta harus kembali ke rumah dan mengulang dari awal.
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan teks petunjuk arah?
 
 A. Teks yang berisi petunjuk atau arahan tentang jalan yang harus ditempuh untuk sampai ke suatu tempat.
@@ -109,6 +114,7 @@ D. Teks yang berisi gambar peta suatu daerah.
 ## Sub-bab B: Membaca Teks Petunjuk Arah
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks petunjuk arah berikut!
 
 > Dari gerbang sekolah, berjalanlah lurus ke Jalan Melati. Di pertigaan pertama, beloklah ke kanan. Perpustakaan berada di sebelah kiri jalan, tepat di samping kantor pos.
@@ -129,6 +135,7 @@ D. Di ujung Jalan Melati, di seberang kantor pos
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks petunjuk arah berikut!
 
 > Dari sekolah, berjalanlah lurus ke Jalan Kenanga. Di ujung jalan, beloklah ke kanan menuju Jalan Mawar. Rumah Dina ada di sebelah kiri Jalan Kenanga.
@@ -149,6 +156,7 @@ D. Rumah Dina berada di Jalan Kenanga, padahal rutenya sudah berbelok ke Jalan M
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah dua teks petunjuk arah berikut!
 
 > Teks 1: Dari rumah, berjalanlah lurus sampai pertigaan, lalu beloklah ke kiri. Perpustakaan berada di sebelah kiri jalan.
@@ -171,6 +179,7 @@ D. Perpustakaan dicapai dengan belok kanan di perempatan.
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks petunjuk arah berikut!
 
 > Dari rumah Sinta, berjalanlah lurus melewati masjid. Di perempatan setelah masjid, beloklah ke kanan. Rumah Budi ada di sebelah kiri jalan, di depan warung.
@@ -191,6 +200,7 @@ D. Sebelum sampai di masjid
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam petunjuk "Di pertigaan, beloklah ke kiri", kata "pertigaan" berarti ....
 
 A. Jalan yang bercabang empat
@@ -208,6 +218,7 @@ D. Jalan yang lurus tanpa belokan
 ## Sub-bab C: Menceritakan Kembali isi Teks Petunjuk Arah
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks petunjuk arah berikut.
 
 "Untuk sampai ke perpustakaan, berjalanlah lurus dari gerbang sekolah. Setelah melewati lapangan, beloklah ke kanan. Perpustakaan ada di sebelah kiri, di samping ruang guru."
@@ -228,6 +239,7 @@ D. Belum tepat, karena ia tidak menyebutkan warna gedung perpustakaan.
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks petunjuk arah berikut.
 
 "Dari kelas empat, berjalanlah lurus sampai ke ujung koridor. Beloklah ke kiri, lalu lurus sampai melewati kantin. Toilet ada di sebelah kanan, di samping taman."
@@ -248,6 +260,7 @@ D. "Dari kelas empat, berjalanlah lurus sampai ke ujung koridor. Beloklah ke kir
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani dan Budi menceritakan kembali petunjuk menuju ruang UKS. Teks aslinya berbunyi: "Dari lapangan, berjalanlah lurus sampai pertigaan. Beloklah ke kiri dan berjalanlah sampai pohon mangga besar. Ruang UKS ada di sebelah kanan, di samping ruang guru."
 
 Rani bercerita: "Dari lapangan, jalan lurus, lalu belok kiri di depan pohon mangga. Ruang UKS ada di sebelah kanan."
@@ -270,6 +283,7 @@ D. Budi, karena ia memakai kata-kata yang sama persis dengan teks.
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks petunjuk arah berikut.
 
 "Keluar dari rumah, beloklah ke kanan. Berjalanlah lurus sampai jembatan kecil, lalu menyeberanglah. Warung Bu Sari ada di sebelah kiri setelah jembatan."
@@ -290,6 +304,7 @@ D. Warung Bu Sari akan pindah ke sebelah kanan.
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan menceritakan kembali isi teks petunjuk arah?
 
 A. Menyalin teks petunjuk arah kata demi kata tanpa mengubah apa pun.
@@ -307,6 +322,7 @@ D. Menghafal teks petunjuk arah lalu mengucapkannya dengan cepat.
 ## Sub-bab D: Menulis Teks Petunjuk Arah
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menulis petunjuk arah ke rumahnya seperti ini:
 
 1. Belok ke kiri di pertigaan.
@@ -329,6 +345,7 @@ D. Karena Rani memakai kata "belok ke kiri"
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi ingin menulis petunjuk arah dari sekolah ke rumahnya untuk teman barunya yang belum pernah ke sana. Kalimat manakah yang paling baik untuk ditulis Budi?
 
 A. "Jalan saja terus, nanti juga sampai."
@@ -345,6 +362,7 @@ D. "Pergi ke arah sana, lalu ke arah situ, rumahku ada di situ."
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan petunjuk arah berikut!
 
 "Cara menuju perpustakaan: Pertama, keluar dari kelas. Kemudian, belok ke kiri. Setelah itu, jalan lurus sampai ujung lorong. Terakhir, perpustakaan ada di sebelah kanan."
@@ -365,6 +383,7 @@ D. Petunjuk ini memakai kata-kata yang sulit
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ada dua petunjuk arah menuju lapangan:
 
 Petunjuk 1: "Dari rumah, jalan lurus, belok kanan di tikungan, lapangan ada di sebelah kiri dekat pohon beringin besar."
@@ -387,6 +406,7 @@ D. Keduanya sama baiknya
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Teks petunjuk arah adalah ....
 
 A. teks yang berisi langkah-langkah menuju suatu tempat yang disusun secara berurutan

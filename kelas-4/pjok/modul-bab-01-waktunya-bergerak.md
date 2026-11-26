@@ -12,6 +12,7 @@
 ## Sub-bab A: Gerak Berpindah Tempat (Lokomotor)
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka melakukan gerakan membungkuk di tempat, lalu berkata bahwa itu adalah gerak berpindah tempat (lokomotor). Apakah perkataan Raka benar?
 
 A. Benar, karena membungkuk menggerakkan badan
@@ -28,6 +29,7 @@ D. Salah, karena membungkuk adalah gerak menggunakan benda
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berlari zig-zag melewati cone, sedangkan Budi berlari lurus di lapangan. Mana yang lebih melatih kelincahan, dan mengapa?
 
 A. Budi, karena lari lurus lebih cepat
@@ -44,6 +46,7 @@ D. Budi, karena tidak ada rintangan yang menghalangi larinya
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jarak cone pada lintasan lari zig-zag dirapatkan, sehingga cone yang satu dengan yang lain menjadi lebih dekat. Apa yang terjadi pada lari Dina?
 
 A. Ia bisa berlari lebih cepat dari sebelumnya
@@ -60,6 +63,7 @@ D. Ia tidak perlu lagi mengubah arah saat berlari
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebelum berlari melewati lintasan rintangan, apa yang paling tepat dilakukan?
 
 A. Langsung berlari secepat mungkin supaya cepat selesai
@@ -76,6 +80,7 @@ D. Berlari sambil menutup mata supaya lebih berani
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah gerakan berikut yang termasuk gerak berpindah tempat (lokomotor)?
 
 A. Berlari
@@ -93,6 +98,7 @@ D. Memutar badan
 ## Sub-bab B: Gerak Tanpa Berpindah Tempat (Non-lokomotor)
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka melakukan dua gerakan: membungkuk, lalu melompat ke depan. Ia berkata keduanya adalah gerak tanpa berpindah tempat (non-lokomotor). Apakah perkataan Raka benar?
 
 A. Benar, karena keduanya dilakukan di tempat yang sama
@@ -109,6 +115,7 @@ D. Benar, karena keduanya sama-sama menggerakkan kaki
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta mengayunkan lengan di tempat, sedangkan Dodi melempar bola kepada temannya. Gerakan siapakah yang termasuk gerak tanpa berpindah tempat (non-lokomotor)?
 
 A. Dodi, karena melempar memakai tangan
@@ -125,6 +132,7 @@ D. Tidak ada, karena keduanya berpindah tempat
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta membungkuk dengan cepat dan tiba-tiba tanpa pemanasan. Apa yang bisa terjadi pada tubuhnya?
 
 A. Badannya langsung menjadi lebih lentur
@@ -141,6 +149,7 @@ D. Tidak terjadi apa-apa pada tubuhnya
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat membungkuk untuk menyentuh ujung kaki, bagaimana cara yang aman?
 
 A. Membungkuk secepat mungkin sambil menghentak
@@ -157,6 +166,7 @@ D. Membungkuk dengan mata tertutup
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Gerak tanpa berpindah tempat disebut gerak ....
 
 A. Lokomotor
@@ -174,6 +184,7 @@ D. Gerak di air
 ## Sub-bab C: Gerak Menggunakan Benda (Manipulatif)
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi menangkap bola dengan tangan yang kaku dan jari-jari yang rapat. Bola sering memantul dari tangannya dan jatuh. Apa yang salah dari cara Dodi menangkap bola?
 
 A. Tangannya terlalu rileks
@@ -190,6 +201,7 @@ D. Bolanya terlalu ringan untuk ditangkap
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mengoper bola mendatar kepada teman yang berdiri dekat, sedangkan Sinta mengoper bola melambung kepada teman yang jauh dan terhalang lawan. Siapa yang memilih cara operan yang tepat, dan mengapa?
 
 A. Hanya Rani, karena operan mendatar selalu lebih baik
@@ -206,6 +218,7 @@ D. Keduanya salah, karena operan harus selalu mendatar
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi menendang bola ke arah gawang tanpa melihat ke arah gawang itu. Apa yang bisa terjadi?
 
 A. Bola pasti masuk ke gawang
@@ -222,6 +235,7 @@ D. Tidak terjadi apa-apa
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebelum memukul bola dengan pemukul, apa yang harus diperhatikan?
 
 A. Berdiri sedekat mungkin dengan teman
@@ -238,6 +252,7 @@ D. Menutup mata saat memukul supaya lebih berani
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Gerak menggunakan benda disebut gerak ....
 
 A. Lokomotor
@@ -255,6 +270,7 @@ D. Gerak di air
 ## Sub-bab D: Gerak di Air
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berenang sendiri di kolam yang dalam tanpa pengawasan guru dan tanpa pelampung. Apa yang salah dari perbuatan Budi?
 
 A. Tidak ada yang salah, karena berenang sendiri lebih bebas
@@ -271,6 +287,7 @@ D. Benar, asalkan Budi sudah bisa berenang
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Mengapa berjalan di dalam air terasa lebih berat daripada berjalan di darat?
 
 A. Karena air membuat badan menjadi lebih ringan
@@ -287,6 +304,7 @@ D. Karena air lebih dingin daripada udara
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta sedang berada di kolam dan kakinya tidak menyentuh dasar kolam, lalu ia mulai panik. Apa yang sebaiknya ia lakukan?
 
 A. Meronta-ronta sekuat tenaga supaya cepat sampai ke tepi
@@ -303,6 +321,7 @@ D. Berteriak sambil menutup mata dan mulut
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebelum masuk ke kolam, apa yang paling tepat dilakukan?
 
 A. Langsung melompat ke bagian kolam yang paling dalam
@@ -319,6 +338,7 @@ D. Tidak perlu melakukan apa-apa
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Mengapung adalah ....
 
 A. Berjalan di dasar kolam

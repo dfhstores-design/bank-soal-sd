@@ -13,6 +13,7 @@
 ## Sub-bab A: Mengenal Proses Desain
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan proses desain?
 A. Cara menghafal pelajaran dengan cepat
 B. Langkah-langkah merancang dan membuat sebuah karya untuk menyelesaikan masalah
@@ -23,6 +24,7 @@ D. Cara menyimpan file di komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab A
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah urutan tahapan proses desain yang benar?
 A. Membuat karya — menguji — mengenali masalah — membuat rencana
 B. Menguji — membuat rencana — mengenali masalah — membuat karya
@@ -33,6 +35,7 @@ D. Membuat rencana — menguji — membuat karya — mengenali masalah
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab A
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta melihat pensil teman-temannya berserakan di meja. Ia ingin membuat tempat pensil dari kardus bekas. Langkah pertama yang dilakukan Sinta adalah ....
 A. Mengenali masalah: pensil berserakan dan butuh tempat
 B. Langsung menggunting kardus tanpa rencana
@@ -43,6 +46,7 @@ D. Membuang semua pensil yang berserakan
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab A
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebelum membuat tempat pensil dari kardus, Dina menggambar bentuk tempat pensil di kertas dan menulis bahan-bahan yang dibutuhkan. Kegiatan Dina adalah tahap ....
 A. Menguji karya
 B. Memperbaiki karya
@@ -53,6 +57,7 @@ D. Membuat rencana (sketsa)
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab A
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah tempat pensil selesai dibuat, Raka mencoba memasukkan pensil ke dalamnya. Ternyata tempat pensil itu mudah miring. Apa yang sebaiknya dilakukan Raka?
 A. Membuang tempat pensil itu dan tidak membuat lagi
 B. Menguji dan memperbaiki: memperkuat bagian bawah tempat pensil lalu mencoba lagi
@@ -67,6 +72,7 @@ D. Memakai tempat pensil untuk menyimpan benda lain
 ## Sub-bab B: Membuat Game Bunyi Alat Musik
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa tujuan dari game bunyi alat musik yang dibuat pada proyek ini?
 A. Menonton video alat musik tanpa suara
 B. Mendengarkan sebuah bunyi lalu menebak alat musik yang menghasilkannya
@@ -77,6 +83,7 @@ D. Menggambar alat musik sebanyak-banyaknya
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab B
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bunyi "Jreng... jreng..." dihasilkan oleh alat musik yang dimainkan dengan cara dipetik. Alat musik itu adalah ....
 A. Drum
 B. Seruling
@@ -87,6 +94,7 @@ D. Tamborin
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab B
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bunyi "Dug... dug... dum..." dihasilkan oleh alat musik yang dimainkan dengan cara dipukul. Alat musik itu adalah ....
 A. Drum
 B. Piano
@@ -97,6 +105,7 @@ D. Seruling
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab B
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutan langkah membuat game bunyi alat musik yang benar adalah ....
 A. Menguji game — memilih alat musik dan bunyinya — membuat tombol dan aturan main — memperbaiki kesalahan
 B. Memperbaiki kesalahan — menguji game — membuat tombol dan aturan main — memilih alat musik dan bunyinya
@@ -107,6 +116,7 @@ D. Memilih alat musik dan bunyinya — membuat tombol dan aturan main — menguj
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab B
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah game bunyi alat musik selesai dibuat, apa yang sebaiknya dilakukan sebelum game itu dimainkan teman-teman?
 A. Menguji game dengan memainkannya sendiri dan meminta teman mencoba, lalu memperbaiki bagian yang salah
 B. Langsung membagikan game tanpa dicoba terlebih dahulu
@@ -125,6 +135,7 @@ Soal tambahan ini dibuat mengikuti aturan variasi kuat Andri (25 Nov 2026): soal
 ### Sub-bab A: Mengenal Proses Desain
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina dan Raka sama-sama akan membuat poster kelas. Dina menggambar sketsa posternya dulu di kertas dan menulis bahan yang dibutuhkan. Raka langsung menggunting dan menempel kertas tanpa membuat rencana. Siapa yang hasil karyanya lebih mungkin berhasil dan mengapa?
 A. Raka, karena bekerja tanpa rencana lebih cepat selesai
 B. Dina, karena sketsa dan rencana membantu menghindari kesalahan ukuran dan bahan
@@ -135,6 +146,7 @@ D. Raka, karena sketsa hanya membuang waktu
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab A
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta selesai membuat rak buku dari kardus, lalu rak itu langsung dipakai teman-teman tanpa diuji dulu. Apa yang bisa terjadi?
 A. Rak buku pasti kuat karena baru dibuat
 B. Cacat pada rak buku baru ketahuan setelah dipakai, dan tidak sempat diperbaiki
@@ -145,6 +157,7 @@ D. Tidak terjadi apa-apa, karena menguji hanya perlu untuk permainan
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab A
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi membuat permainan papan dari kardus tanpa menggambar sketsa dan tanpa mengujinya. Setelah jadi, ternyata papan permainannya terlalu kecil sehingga pion tidak muat. Tahap apa yang dilewati Budi dan apa akibatnya?
 A. Ia melewati tahap mengenali masalah; akibatnya ia tidak tahu harus membuat apa
 B. Ia melewati tahap membuat rencana dan menguji; akibatnya ukuran salah dan tidak sempat diperbaiki
@@ -157,6 +170,7 @@ D. Ia tidak melewati tahap apa pun; papan yang kecil sudah benar
 ### Sub-bab B: Membuat Game Bunyi Alat Musik
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di dalam game bunyi alat musik, tombol bunyi gitar salah dipasangkan dengan gambar drum. Apa yang terjadi saat pemain menebak bunyi itu?
 A. Pemain yang menebak dengan benar justru disalahkan, sehingga gamenya jadi tidak adil
 B. Pemain mendapat poin lebih banyak
@@ -167,6 +181,7 @@ D. Bunyi gitar berubah menjadi bunyi drum
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab B
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Game A hanya memakai 2 alat musik yang bunyinya sangat berbeda, sedangkan game B memakai 6 alat musik yang bunyinya mirip-mirip. Mana yang lebih menantang dan mengapa?
 A. Game A, karena hanya ada 2 alat musik
 B. Game B, karena bunyi yang mirip lebih sulit dibedakan
@@ -177,6 +192,7 @@ D. Game A, karena bunyi yang berbeda lebih sulit diingat
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 8, Sub-bab B
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta membuat game bunyi alat musik, tetapi ia memakai bunyi yang sama untuk dua alat musik yang berbeda. Apakah gamenya bagus? Mengapa?
 A. Ya, karena pemain tidak perlu menghafal banyak bunyi
 B. Tidak, karena pemain tidak bisa membedakan kedua alat musik itu — tiap alat musik perlu bunyi yang berbeda

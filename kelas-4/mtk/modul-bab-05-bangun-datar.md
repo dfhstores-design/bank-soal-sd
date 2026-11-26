@@ -12,6 +12,7 @@
 ## Sub-bab A: Segi Banyak
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menggambar empat bangun: persegi, segitiga sama sisi, segilima beraturan, dan belah ketupat. Tiga bangun di antaranya adalah segi banyak beraturan. Bangun manakah yang BUKAN segi banyak beraturan, dan mengapa?
 
 A. Persegi, karena sudutnya siku-siku
@@ -28,6 +29,7 @@ D. Segilima beraturan, karena mempunyai 5 sisi
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka menggambar sebuah persegi, lalu ia memotong satu sudutnya dengan garis lurus. Bangun baru yang terbentuk sekarang mempunyai berapa sisi, dan disebut apa?
 
 A. Tetap 4 sisi, tetap disebut segiempat
@@ -44,6 +46,7 @@ D. Menjadi 6 sisi, disebut segienam
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Persegi panjang adalah segi banyak beraturan, karena keempat sudutnya sama besar." Apakah perkataan Raka benar?
 
 A. Benar, karena semua sudut persegi panjang sama besar
@@ -60,6 +63,7 @@ D. Salah; persegi panjang bukan segi banyak karena sisinya melengkung
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi menggambar sebuah bangun datar tertutup yang mempunyai 6 sisi. Namun, satu di antara keenam sisinya melengkung, sedangkan lima sisi lainnya lurus. Apakah bangun Budi termasuk segi banyak? Mengapa?
 
 A. Ya, karena bangun itu tertutup dan mempunyai 6 sisi
@@ -76,6 +80,7 @@ D. Tidak, karena bangun bersisi 6 harus disebut segilima
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan segi banyak?
 
 A. Bangun datar tertutup yang dibatasi oleh ruas-ruas garis lurus
@@ -93,6 +98,7 @@ D. Bangun ruang yang mempunyai banyak sisi
 ## Sub-bab B: Segitiga
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mempunyai 4 segitiga kertas dengan panjang sisi sebagai berikut. Segitiga A: 5 cm, 5 cm, 8 cm. Segitiga B: 6 cm, 6 cm, 6 cm. Segitiga C: 4 cm, 6 cm, 7 cm. Segitiga D: 7 cm, 7 cm, 7 cm. Segitiga manakah yang merupakan segitiga sembarang?
 
 A. Segitiga A, karena dua sisinya sama panjang
@@ -109,6 +115,7 @@ D. Segitiga D, karena ketiga sisinya sama panjang
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah segitiga siku-siku mempunyai satu sudut 90°. Jika sudut itu diperbesar menjadi 120°, sedangkan dua sudut lainnya mengecil, segitiga itu berubah menjadi segitiga apa?
 
 A. Segitiga lancip, karena semua sudutnya menjadi kecil
@@ -125,6 +132,7 @@ D. Segitiga sama sisi, karena sudutnya menjadi sama besar
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani membuat segitiga dengan panjang sisi 6 cm, 6 cm, dan 10 cm. Dodi membuat segitiga dengan panjang sisi 6 cm, 8 cm, dan 10 cm. Segitiga siapa yang merupakan segitiga sama kaki, dan mengapa?
 
 A. Segitiga Dodi, karena sisinya 6 cm, 8 cm, dan 10 cm
@@ -141,6 +149,7 @@ D. Keduanya sama kaki, karena sama-sama mempunyai sisi 6 cm
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Segitiga dengan sudut 100°, 40°, dan 40° adalah segitiga lancip, karena ada dua sudut lancip di dalamnya." Apakah perkataan Budi benar?
 
 A. Benar, karena dua sudutnya memang lancip
@@ -157,6 +166,7 @@ D. Salah; segitiga itu segitiga siku-siku, karena jumlah sudutnya 180°
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Segitiga yang ketiga sisinya sama panjang dan ketiga sudutnya sama besar disebut segitiga ....
 
 A. Sama kaki
@@ -174,6 +184,7 @@ D. Siku-siku
 ## Sub-bab C: Segi Empat
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina mempunyai bingkai foto berbentuk persegi panjang. Bingkai itu tidak sengaja terdorong sehingga bentuknya menjadi miring: sudut-sudutnya tidak lagi siku-siku, tetapi sisi-sisi yang berhadapan tetap sama panjang dan tetap sejajar. Bangun apakah bingkai Dina sekarang?
 
 A. Persegi, karena sisinya tetap sama panjang
@@ -190,6 +201,7 @@ D. Layang-layang, karena sisinya menjadi miring
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menggambar empat bangun segi empat: persegi dengan sisi 5 cm, belah ketupat dengan sisi 5 cm, layang-layang dengan sisi 5 cm dan 3 cm, dan persegi dengan sisi 4 cm. Tiga dari bangun itu mempunyai keempat sisi yang sama panjang. Bangun manakah yang berbeda dari ketiganya?
 
 A. Persegi dengan sisi 5 cm
@@ -206,6 +218,7 @@ D. Persegi dengan sisi 4 cm
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Persegi dan belah ketupat itu sama saja, karena keempat sisinya sama panjang." Apakah perkataan Sinta benar? Apa yang membedakan kedua bangun itu?
 
 A. Benar, keduanya memang bangun yang sama
@@ -222,6 +235,7 @@ D. Benar, karena keduanya mempunyai 4 sumbu simetri
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Layang-layang dan belah ketupat itu sama, karena keduanya mempunyai dua pasang sisi yang sama panjang." Apakah Dodi benar? Di mana letak perbedaan keduanya?
 
 A. Benar, keduanya memang bangun yang sama
@@ -238,6 +252,7 @@ D. Benar, karena keduanya mempunyai diagonal yang sama panjang
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah papan berbentuk segi empat. Dua sisi yang berhadapan sejajar dan sama panjang, dua sisi lainnya juga sejajar dan sama panjang, tetapi tidak ada satu pun sudutnya yang siku-siku. Bangun apakah papan itu?
 
 A. Persegi panjang, karena sisi berhadapannya sama panjang
@@ -255,6 +270,7 @@ D. Trapesium, karena mempunyai sepasang sisi sejajar
 ## Sub-bab D: Komposisi dan Dekomposisi Bangun Datar
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka mempunyai dua segitiga siku-siku yang sama besar. Bangun manakah yang TIDAK dapat dibentuk Raka dari kedua segitiga itu?
 
 A. Persegi panjang
@@ -271,6 +287,7 @@ D. Lingkaran
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina mempunyai dua segitiga siku-siku sama kaki yang sama besar. Mula-mula ia menempelkan keduanya pada sisi miringnya sehingga membentuk persegi. Lalu ia membalik satu segitiga dan menempelkannya pada salah satu sisi tegaknya. Bangun apa yang terbentuk sekarang?
 
 A. Tetap persegi
@@ -287,6 +304,7 @@ D. Persegi panjang yang lebih besar
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi membuat sebuah persegi dari 4 segitiga siku-siku sama kaki yang kecil. Sinta membuat persegi yang sama besar dari 2 segitiga siku-siku sama kaki yang besar. Siapa yang memakai potongan lebih sedikit, dan apakah kedua cara sama-sama benar?
 
 A. Sinta, 2 potong; kedua cara sama-sama benar
@@ -303,6 +321,7 @@ D. Sinta, tetapi cara Sinta salah karena segitiganya terlalu besar
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah bangun berbentuk huruf L tersusun dari dua persegi panjang. Dodi berkata bangun L itu hanya bisa dipecah dengan satu cara saja. Apakah Dodi benar?
 
 A. Benar, hanya ada satu cara memotong bangun L
@@ -319,6 +338,7 @@ D. Benar, karena bangun L bukan bangun datar
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi memotong sebuah trapesium sama kaki dengan dua garis tegak sehingga menjadi 1 persegi panjang di tengah dan 2 segitiga di kiri dan kanan. Budi berkata kedua segitiga itu adalah segitiga sama sisi. Apakah Budi benar?
 
 A. Benar, karena kedua segitiga itu sama besar

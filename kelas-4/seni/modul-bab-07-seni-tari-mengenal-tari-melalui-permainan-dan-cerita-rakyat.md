@@ -12,6 +12,7 @@
 ## Sub-bab A: Gerak dan Makna Permainan Tradisional
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menari dengan gerakan ukel, yaitu memutar pergelangan tangannya dengan lemah gemulai. Sinta menari dengan gerakan menirukan kupu-kupu yang sedang terbang. Gerakan siapa yang mempunyai makna, dan mengapa?
 
 A. Dina, karena gerakan ukel menirukan kupu-kupu
@@ -28,6 +29,7 @@ D. Tidak ada, karena gerakan tari hanya untuk memperindah penampilan
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Gerak ukel adalah gerak maknawi, karena pergelangan tangan yang diputar itu menunjukkan kupu-kupu sedang terbang." Apakah perkataan Budi benar?
 
 A. Benar, karena semua gerakan tangan yang diputar pasti bermakna
@@ -44,6 +46,7 @@ D. Salah; ukel bukan gerakan tari sama sekali
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah kelompok membuat tarian dari permainan gobak sodor. Semua penari berlari bebas ke segala arah tanpa ada yang menjaga garis dan tanpa ada yang berusaha menerobos. Apa yang hilang dari tarian mereka?
 
 A. Tidak ada yang hilang, karena tarian memang bebas bergerak ke mana saja
@@ -60,6 +63,7 @@ D. Makna permainan gobak sodor hilang, karena tarian itu tidak lagi menunjukkan 
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani membuat tarian dari permainan engklek. Gerakan manakah yang paling tepat untuk menunjukkan ciri khas permainan engklek dalam tariannya?
 
 A. Melompat dengan satu kaki dari satu kotak ke kotak lain, diawali gerakan melempar gaco
@@ -76,6 +80,7 @@ D. Duduk bersila sambil membagi-bagikan biji ke lubang-lubang kecil
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan gerak maknawi dalam tari?
 
 A. Gerakan tari yang tidak mempunyai makna dan hanya berfungsi memperindah tarian
@@ -93,6 +98,7 @@ D. Gerakan memutar pergelangan tangan dengan lemah gemulai
 ## Sub-bab B: Tari Cerita Rakyat
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berkata, "Cerita rakyat itu ditulis oleh pengarang terkenal, dan ceritanya di mana-mana selalu sama persis." Apakah perkataan Dina benar?
 
 A. Benar, karena cerita rakyat selalu ditulis dan diterbitkan dalam buku
@@ -109,6 +115,7 @@ D. Salah; cerita rakyat hanya boleh diceritakan oleh guru di sekolah
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ada dua cerita binatang: cerita pertama sudah diceritakan turun-temurun sejak zaman dahulu secara lisan; cerita kedua berjudul "Ular Naga Si Banyak Kawan", ditulis oleh pengarang tertentu dan ceritanya dikembangkan dari mitos Ular Naga. Cerita manakah yang termasuk fabel modern, dan mengapa?
 
 A. Cerita pertama, karena sudah ada sejak zaman dahulu
@@ -125,6 +132,7 @@ D. Tidak ada, karena fabel modern tidak memakai tokoh binatang
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam cerita "Ular Naga Si Banyak Kawan", Ular Naga sebenarnya baik hati dan ingin punya banyak teman, tetapi binatang lain takut kepadanya karena tubuhnya besar, bersisik tajam, dan bermahkota tanduk. Pesan moral apa yang paling tepat dari cerita itu?
 
 A. Binatang yang besar dan menyeramkan memang harus dijauhi
@@ -141,6 +149,7 @@ D. Jangan menilai seseorang hanya dari fisiknya, dan jangan berburuk sangka sebe
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah kelompok akan menarikan tokoh Ular Naga dari cerita "Ular Naga Si Banyak Kawan" pada adegan ketika ia sedang mencari teman dengan ramah. Gerakan manakah yang paling tepat untuk menunjukkan sifat Ular Naga yang baik hati itu?
 
 A. Gerakan meliuk-liuk perlahan dan gemulai, dengan tangan terulur seolah mengajak berteman
@@ -157,6 +166,7 @@ D. Gerakan melompat-lompat tinggi sambil menggeram keras
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan cerita rakyat?
 
 A. Cerita baru yang ditulis pengarang terkenal dan diterbitkan dalam satu versi saja

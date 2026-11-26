@@ -12,6 +12,7 @@
 ## Sub-bab A: Lingkungan Kita sedang Terancam
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di desa Rani, air sungai yang dulu jernih dan banyak ikannya kini menjadi keruh, berbau, dan dipenuhi sampah plastik. Ikan-ikan di sungai itu pun banyak yang mati. Apa penyebab yang paling mungkin dari keadaan sungai itu?
 
 A. Warga desa membuang sampah dan limbah rumah tangga ke sungai
@@ -28,6 +29,7 @@ D. Air sungai memang selalu keruh pada musim hujan
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua jalan berikut.
 
 Jalan A: Setiap hari dilalui ratusan kendaraan bermotor, asapnya tebal, dan udara di sekitarnya terasa pengap. Banyak warga di sana sering batuk.
@@ -49,6 +51,7 @@ D. Udara di Jalan B lebih kotor karena pohon mengeluarkan asap
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Sampah plastik itu tidak berbahaya, karena plastik bisa hilang sendiri dalam waktu semalam." Apakah perkataan Dodi benar?
 
 A. Benar, karena plastik akan larut begitu terkena air hujan
@@ -65,6 +68,7 @@ D. Salah; plastik memang berbahaya, tetapi hanya bagi hewan di laut, bukan bagi 
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Hutan di dekat desa Sinta ditebang habis untuk membuka lahan. Beberapa bulan kemudian, mata air di desa itu mengering, dan saat hujan deras, tanah longsor menimbun jalan desa. Apa hubungan antara penebangan hutan dan kejadian itu?
 
 A. Tidak ada hubungan; mata air mengering dan tanah longsor terjadi karena musim saja
@@ -81,6 +85,7 @@ D. Tanah longsor terjadi karena jalan desa terlalu sempit
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pencemaran lingkungan adalah ....
 
 A. Masuknya zat atau benda berbahaya ke dalam lingkungan sehingga udara, air, atau tanah menjadi kotor dan merugikan makhluk hidup
@@ -98,6 +103,7 @@ D. Banyaknya kendaraan yang lewat di jalan raya
 ## Sub-bab B: Mengurangi Jejak Karbon
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rumah Sinta hanya berjarak 500 meter dari sekolah. Selama ini Sinta diantar ayahnya naik motor setiap hari. Jika Sinta ingin mengurangi jejak karbonnya, tindakan yang paling tepat adalah ....
 
 A. Tetap diantar naik motor, tetapi berangkat lebih pagi agar tidak macet
@@ -114,6 +120,7 @@ D. Berangkat naik motor, tetapi memakai masker supaya tidak menghirup asap
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua keluarga berikut.
 
 Keluarga A: Ayah, Ibu, dan dua anak berangkat ke tempat yang sama dengan empat motor berbeda-beda.
@@ -135,6 +142,7 @@ D. Jejak karbon Keluarga B lebih besar, karena angkutan umum lebih besar daripad
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Supaya sampah plastik di rumahku cepat hilang dan tidak menumpuk, aku membakarnya di halaman. Itu juga mengurangi jejak karbon, kan?" Apakah perkataan Dodi benar?
 
 A. Salah; membakar sampah plastik justru melepaskan gas karbon dioksida dan asap berbahaya ke udara, sehingga jejak karbon bertambah
@@ -151,6 +159,7 @@ D. Salah; membakar sampah memang menghasilkan gas, tetapi gas itu langsung hilan
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kelas 4, semua lampu dan kipas angin menyala sepanjang hari, padahal pada siang hari cahaya matahari sudah cukup terang dan udara di kelas sejuk karena banyak jendela. Apa akibat kebiasaan itu terhadap jejak karbon, dan apa yang sebaiknya dilakukan?
 
 A. Tidak ada akibat, karena listrik tidak menghasilkan gas karbon
@@ -167,6 +176,7 @@ D. Jejak karbon bertambah, tetapi tidak ada yang bisa dilakukan karena lampu mem
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jejak karbon adalah ....
 
 A. Bekas telapak kaki yang tertinggal di tanah setelah kita berjalan
@@ -184,6 +194,7 @@ D. Jumlah pohon yang kita tanam di sekitar rumah
 ## Sub-bab C: Lestari Budayaku, Lestari Jati Diriku
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina hafal banyak lagu dari luar negeri dan selalu meniru gaya berpakaian artis luar negeri. Namun, ia tidak bisa berbahasa daerahnya sendiri dan tidak pernah mengikuti upacara adat di desanya. Apa yang sebaiknya dilakukan Dina agar ia tidak kehilangan jati dirinya?
 
 A. Berhenti total menonton apa pun dari luar negeri
@@ -200,6 +211,7 @@ D. Menyimpan pakaian adatnya di lemari dan tidak pernah memakainya
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua desa berikut.
 
 Desa A: warganya menjaga hutan larangan adat — tidak ada yang boleh menebang pohon di sana, dan setiap tahun mereka mengadakan upacara adat untuk mengucap syukur atas hasil hutan.
@@ -221,6 +233,7 @@ D. Kedua desa sama-sama menjaga lingkungan dan budayanya
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Budaya lama itu sudah ketinggalan zaman dan tidak perlu dipelajari lagi. Yang penting kita mengikuti budaya yang sedang tren saja." Apakah perkataan Budi benar?
 
 A. Benar, karena budaya lama sudah tidak berguna di zaman sekarang
@@ -237,6 +250,7 @@ D. Salah; budaya lama memang tidak perlu dipelajari, tetapi tren luar negeri jug
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani pandai menari tari tradisional daerahnya dan sering tampil di acara sekolah. Ia juga rajin ikut kerja bakti membersihkan sungai di desanya setiap bulan. Menurutmu, apa yang ditunjukkan oleh sikap Rani?
 
 A. Rani hanya peduli pada kesenian, bukan pada lingkungan
@@ -253,6 +267,7 @@ D. Menari tradisional dan membersihkan sungai tidak ada hubungannya sama sekali
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jati diri adalah ....
 
 A. Ciri khas yang membedakan suatu masyarakat atau bangsa, misalnya bahasa, kesenian, dan adat istiadatnya

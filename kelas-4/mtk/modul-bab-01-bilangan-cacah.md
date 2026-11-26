@@ -13,6 +13,7 @@
 ## Sub-bab A: Membaca dan Menulis Lambang Bilangan Cacah sampai 10.000
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bilangan 4.805 dibaca ....
 A. empat ribu delapan ratus lima puluh
 B. empat ribu delapan ratus lima
@@ -23,6 +24,7 @@ D. empat ribu lima
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Lambang bilangan dari "tujuh ribu tiga puluh dua" adalah ....
 A. 7.032
 B. 7.320
@@ -33,6 +35,7 @@ D. 7.32
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bilangan 1.460 dibaca ....
 A. satu ribu empat ratus enam puluh
 B. seribu empat puluh enam
@@ -43,6 +46,7 @@ D. seribu enam ratus empat puluh
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Lambang bilangan dari "sembilan ribu dua ratus empat" adalah ....
 A. 9.204
 B. 9.240
@@ -53,6 +57,7 @@ D. 9.402
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bilangan 6.009 dibaca ....
 A. enam ribu sembilan ratus sembilan
 B. enam ribu sembilan puluh
@@ -67,6 +72,7 @@ D. enam ribu sembilan ratus
 ## Sub-bab B: Nilai Tempat Bilangan Cacah sampai 10.000
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapa nilai angka 6 pada bilangan 6.735?
 A. 6
 B. 60
@@ -77,6 +83,7 @@ D. 6.000
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Angka 3 pada bilangan 5.382 menempati nilai tempat apa?
 A. Ribuan
 B. Ratusan
@@ -87,6 +94,7 @@ D. Satuan
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bilangan yang terdiri dari 4 ribuan + 2 ratusan + 0 puluhan + 7 satuan adalah ....
 A. 4.270
 B. 4.207
@@ -97,6 +105,7 @@ D. 4.702
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pada bilangan 10.000, angka 1 menempati nilai tempat apa?
 A. Ribuan
 B. Puluh ribuan
@@ -107,6 +116,7 @@ D. Satuan
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pada bilangan 3.045, angka 0 menempati nilai tempat apa?
 A. Ribuan
 B. Ratusan
@@ -121,6 +131,7 @@ D. Satuan
 ## Sub-bab C: Membandingkan dan Mengurutkan Bilangan Cacah sampai 10.000
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tanda perbandingan yang tepat untuk 7.305 ... 7.350 adalah ....
 A. <
 B. >
@@ -131,6 +142,7 @@ D. ≠
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab C
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu membeli 1 kg mangga seharga Rp8.450,00 dan 1 kg jeruk seharga Rp8.540,00. Buah yang harganya lebih murah adalah ....
 A. Mangga
 B. Jeruk
@@ -141,6 +153,7 @@ D. Tidak dapat ditentukan
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab C
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutan bilangan 3.815, 3.851, 3.581, 3.518 dari yang terkecil ke yang terbesar adalah ....
 A. 3.518, 3.581, 3.815, 3.851
 B. 3.581, 3.518, 3.851, 3.815
@@ -151,6 +164,7 @@ D. 3.518, 3.815, 3.581, 3.851
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab C
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutan bilangan 9.876, 987, 9.786, 8.769 dari yang terbesar ke yang terkecil adalah ....
 A. 9.876, 9.786, 8.769, 987
 B. 9.876, 9.786, 987, 8.769
@@ -161,6 +175,7 @@ D. 8.769, 9.786, 9.876, 987
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab C
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bilangan yang lebih besar dari 4.275 tetapi lebih kecil dari 4.725 adalah ....
 A. 4.257
 B. 4.527
@@ -175,6 +190,7 @@ D. 4.725
 ## Sub-bab D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Susunlah bilangan dari nilai tempat berikut: 5 ribuan + 2 ratusan + 7 puluhan + 3 satuan. Bilangan berapakah yang terbentuk?
 A. 5.273
 B. 5.372
@@ -185,6 +201,7 @@ D. 5.237
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Uraikan bilangan 8.406 menjadi penjumlahan nilai tempatnya. Bentuk dekomposisi yang tepat adalah …
 A. 8.000 + 400 + 60 + 0
 B. 800 + 400 + 6
@@ -195,6 +212,7 @@ D. 8.000 + 40 + 6
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 4.000 + 900 + 50 + 7?
 A. 4.597
 B. 4.975
@@ -205,6 +223,7 @@ D. 4.957
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dita mempunyai uang: 2 lembar uang Rp1.000, 5 lembar uang Rp100, 4 koin Rp10, dan 8 koin Rp1. Berapa jumlah uang Dita?
 A. Rp2.584
 B. Rp2.548
@@ -215,6 +234,7 @@ D. Rp2.845
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bilangan 7.090 dapat diuraikan menjadi …
 A. 7 ribuan + 9 ratusan + 0 puluhan + 0 satuan
 B. 7 ribuan + 0 ratusan + 9 puluhan + 0 satuan
@@ -229,6 +249,7 @@ D. 7 ribuan + 9 puluhan + 0 ratusan + 0 satuan
 ## Sub-bab E: Penjumlahan Bilangan Cacah sampai 10.000
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 2.345 + 3.421?
 A. 5.766
 B. 5.676
@@ -239,6 +260,7 @@ D. 6.766
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab E
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 4.587 + 2.368?
 A. 6.955
 B. 6.855
@@ -249,6 +271,7 @@ D. 7.955
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab E
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu membeli beras seharga Rp4.750,00 dan minyak goreng seharga Rp3.850,00. Berapa rupiah yang harus dibayar Ibu seluruhnya?
 A. Rp8.500,00
 B. Rp8.600,00
@@ -259,6 +282,7 @@ D. Rp7.600,00
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab E
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah perpustakaan mempunyai 5.275 buku cerita dan 3.849 buku pelajaran. Berapa jumlah seluruh buku di perpustakaan itu?
 A. 9.124 buku
 B. 9.214 buku
@@ -269,6 +293,7 @@ D. 9.024 buku
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab E
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 3.456 + 2.789 + 1.234?
 A. 7.479
 B. 7.379
@@ -283,6 +308,7 @@ D. 6.479
 ## Sub-bab F: Pengurangan Bilangan Cacah sampai 1.000
 
 ### Soal 26
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 486 − 231?
 A. 245
 B. 265
@@ -293,6 +319,7 @@ D. 355
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab F
 
 ### Soal 27
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 743 − 128?
 A. 605
 B. 625
@@ -303,6 +330,7 @@ D. 615
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab F
 
 ### Soal 28
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu membeli 950 butir telur untuk dijual di warung. Sampai sore hari, 375 butir telur sudah terjual. Berapa butir telur yang tersisa?
 A. 565
 B. 575
@@ -313,6 +341,7 @@ D. 675
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab F
 
 ### Soal 29
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** 865 − ___ = 419. Bilangan berapakah yang tepat untuk mengisi titik-titik tersebut?
 A. 446
 B. 436
@@ -323,6 +352,7 @@ D. 546
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab F
 
 ### Soal 30
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di perpustakaan sekolah terdapat 628 buku. Sebanyak 249 buku sedang dipinjam oleh siswa. Berapa buku yang masih ada di perpustakaan?
 A. 369
 B. 389
@@ -337,6 +367,7 @@ D. 379
 ## Sub-bab G: Perkalian Bilangan Cacah sampai 1.000
 
 ### Soal 31
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 47 × 6?
 A. 262
 B. 272
@@ -347,6 +378,7 @@ D. 292
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab G
 
 ### Soal 32
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 128 × 4?
 A. 412
 B. 512
@@ -357,6 +389,7 @@ D. 522
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab G
 
 ### Soal 33
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu membeli 6 ikat bayam di pasar. Setiap ikat berisi 24 batang bayam. Berapa batang bayam yang dibeli Ibu seluruhnya?
 A. 124
 B. 134
@@ -367,6 +400,7 @@ D. 154
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab G
 
 ### Soal 34
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ayah membeli 3 karung beras. Setiap karung berisi 250 kg beras. Berapa kg beras yang dibeli Ayah seluruhnya?
 A. 650
 B. 700
@@ -377,6 +411,7 @@ D. 750
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab G
 
 ### Soal 35
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** ___ × 6 = 342. Bilangan berapakah yang tepat untuk mengisi titik-titik tersebut?
 A. 57
 B. 52
@@ -391,6 +426,7 @@ D. 67
 ## Sub-bab H: Pembagian Bilangan Cacah sampai 100
 
 ### Soal 36
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berapakah hasil dari 63 : 7?
 A. 7
 B. 8
@@ -401,6 +437,7 @@ D. 10
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab H
 
 ### Soal 37
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu membuat 60 kue. Kue-kue itu dimasukkan ke dalam 6 kotak dengan jumlah yang sama banyak. Berapa kue dalam setiap kotak?
 A. 6 kue
 B. 10 kue
@@ -411,6 +448,7 @@ D. 12 kue
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab H
 
 ### Soal 38
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan pengurangan berulang berikut: 42 − 7 − 7 − 7 − 7 − 7 − 7 = 0. Pengurangan berulang tersebut sama dengan pembagian ....
 A. 42 : 7 = 6
 B. 42 : 6 = 7
@@ -421,6 +459,7 @@ D. 42 : 7 = 7
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab H
 
 ### Soal 39
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pak Guru membagikan 56 pensil kepada 7 anak sama banyak. Berapa pensil yang diterima setiap anak?
 A. 6 pensil
 B. 7 pensil
@@ -431,6 +470,7 @@ D. 8 pensil
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab H
 
 ### Soal 40
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu mempunyai 50 jeruk. Setiap plastik berisi 6 jeruk. Berapa plastik penuh yang didapat Ibu dan berapa sisa jeruknya?
 A. 8 plastik, sisa 4 jeruk
 B. 8 plastik, sisa 2 jeruk
@@ -445,6 +485,7 @@ D. 9 plastik, sisa 2 jeruk
 ## Sub-bab I: Kelipatan dan Faktor
 
 ### Soal 41
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah bilangan berikut yang merupakan kelipatan 7?
 A. 26
 B. 35
@@ -455,6 +496,7 @@ D. 50
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab I
 
 ### Soal 42
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah bilangan berikut yang BUKAN faktor dari 36?
 A. 4
 B. 9
@@ -465,6 +507,7 @@ D. 12
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab I
 
 ### Soal 43
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bilangan manakah yang merupakan kelipatan persekutuan dari 3 dan 4?
 A. 18
 B. 24
@@ -475,6 +518,7 @@ D. 40
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab I
 
 ### Soal 44
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah bilangan berikut yang merupakan faktor persekutuan dari 12 dan 18?
 A. 4
 B. 6
@@ -485,6 +529,7 @@ D. 12
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab I
 
 ### Soal 45
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu mempunyai 30 kue. Kue itu akan dimasukkan ke dalam beberapa kotak dengan jumlah yang sama banyak di setiap kotak dan tidak ada sisa. Manakah jumlah kotak berikut yang TIDAK mungkin?
 A. 5 kotak
 B. 6 kotak
@@ -503,6 +548,7 @@ Soal tambahan ini dibuat mengikuti aturan baru Andri (25 Nov 2026): soal tidak t
 ### Sub-bab A: Membaca dan Menulis Lambang Bilangan Cacah sampai 10.000
 
 ### Soal 46
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi membaca bilangan 3.009 sebagai "tiga ribu sembilan ratus sembilan". Di mana letak kesalahan Andi, dan bagaimana bacaan yang benar?
 A. Kesalahannya pada angka 3; bacaan yang benar adalah "sembilan ribu tiga"
 B. Kesalahannya pada angka 9; bacaan yang benar adalah "tiga ribu sembilan"
@@ -513,6 +559,7 @@ D. Tidak ada kesalahan; bacaan Andi sudah benar
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 47
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Angka 0 pada tempat ratusan bilangan 5.080 dihapus. Bagaimana bilangan itu dibaca sekarang dan berapa selisih nilainya dengan bilangan semula?
 A. Menjadi 580 dan selisihnya 4.500
 B. Menjadi 5.800 dan selisihnya 720
@@ -523,6 +570,7 @@ D. Menjadi 5.008 dan selisihnya 72
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab A
 
 ### Soal 48
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sekolah A mempunyai 6.250 siswa, sedangkan sekolah B mempunyai 6.025 siswa. Tuliskan kedua bilangan itu dalam kata-kata, lalu tentukan sekolah mana yang siswanya lebih banyak.
 A. Sekolah A lebih banyak, karena 6.250 dibaca "enam ribu dua ratus lima puluh" dan 6.025 dibaca "enam ribu dua puluh lima"
 B. Sekolah B lebih banyak, karena 6.025 dibaca "enam ribu dua ratus lima"
@@ -535,6 +583,7 @@ D. Sekolah A lebih banyak, karena 6.250 dibaca "enam ribu dua puluh lima"
 ### Sub-bab B: Nilai Tempat Bilangan Cacah sampai 10.000
 
 ### Soal 49
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** "Aku bilangan 4 angka. Angka ribuanku 6, ratusanku 0, puluhanku 3, satuanku 8." Bilangan berapakah aku, dan berapa nilai angka 3?
 A. 6.380; nilai angka 3 adalah 300
 B. 6.038; nilai angka 3 adalah 30
@@ -545,6 +594,7 @@ D. 6.308; nilai angka 3 adalah 300
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 50
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tukar tempat angka 5 dan angka 4 pada bilangan 5.432. Berapa bilangan barunya dan berapa selisihnya dengan bilangan semula?
 A. 4.532; selisihnya 900
 B. 4.352; selisihnya 1.080
@@ -555,6 +605,7 @@ D. 5.432; selisihnya 0
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab B
 
 ### Soal 51
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah timbangan digital menunjukkan 7.050 gram. Angka 5 pada bilangan itu menempati nilai tempat apa dan berapa nilainya dalam gram?
 A. Ratusan; nilainya 500 gram
 B. Puluhan; nilainya 50 gram
@@ -567,6 +618,7 @@ D. Ribuan; nilainya 5.000 gram
 ### Sub-bab D: Komposisi dan Dekomposisi Bilangan Cacah sampai 10.000
 
 ### Soal 52
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tuliskan 4.560 dalam bentuk dekomposisi lain selain 4.000 + 500 + 60. Bentuk dekomposisi manakah yang benar?
 A. 45 ratusan + 60
 B. 4 ribuan + 65 puluhan
@@ -577,6 +629,7 @@ D. 4 ribuan + 6 ratusan
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab D
 
 ### Soal 53
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menguraikan 2.708 menjadi 2.000 + 70 + 8. Apakah uraian Dina benar? Perbaiki dan jelaskan.
 A. Benar, karena 2.000 + 70 + 8 = 2.708
 B. Salah; yang benar 2.000 + 700 + 8, karena angka 7 menempati tempat ratusan
@@ -589,6 +642,7 @@ D. Salah; yang benar 2.000 + 70 + 80, karena angka 0 harus dihitung
 ### Sub-bab I: Kelipatan dan Faktor
 
 ### Soal 54
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Lampu merah berkedip setiap 4 detik dan lampu biru berkedip setiap 6 detik. Keduanya berkedip bersama-sama pada detik ke-0. Pada detik ke berapa keduanya berkedip bersama lagi untuk pertama kalinya?
 A. Detik ke-10
 B. Detik ke-12
@@ -599,6 +653,7 @@ D. Detik ke-8
 **Rujukan:** Matematika Erlangga Kelas 4, Bab 1, Sub-bab I
 
 ### Soal 55
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jika suatu bilangan adalah kelipatan 6, apakah bilangan itu pasti kelipatan 2 dan kelipatan 3? Jelaskan dengan contoh.
 A. Ya, karena 6 = 2 × 3, jadi setiap kelipatan 6 juga kelipatan 2 dan kelipatan 3; contohnya 12 dan 18
 B. Tidak, karena kelipatan 6 hanya kelipatan 6 saja, bukan kelipatan bilangan lain

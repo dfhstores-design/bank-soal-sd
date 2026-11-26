@@ -12,6 +12,7 @@
 ## Sub-bab A: Keragaman sebagai Sunatullah
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta pindah ke sekolah baru. Teman-teman barunya berasal dari suku yang berbeda-beda — ada yang dari Jawa, Sunda, dan Bugis; bahasa dan makanan mereka pun berbeda. Sikap Sinta yang paling tepat adalah ....
 
 A. Hanya berteman dengan teman yang sukunya sama dengannya
@@ -28,6 +29,7 @@ D. Meminta teman-temannya mengubah kebiasaan agar sama dengannya
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Manusia berbeda-beda suku dan agama itu hanya kebetulan, bukan ketetapan Allah." Apakah perkataan Budi benar?
 
 A. Benar, karena perbedaan terjadi begitu saja tanpa diatur
@@ -44,6 +46,7 @@ D. Salah; semua manusia sebenarnya sama dan tidak ada perbedaan apa pun
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di Kelas 4A, anak-anak hanya mau berkelompok dengan teman yang sukunya sama. Di Kelas 4B, anak-anak berkelompok campur dari berbagai suku dan saling membantu. Kelas mana yang sesuai dengan tujuan Allah menciptakan keragaman?
 
 A. Kelas 4A, karena berteman dengan yang sama lebih nyaman
@@ -60,6 +63,7 @@ D. Kelas 4A, karena keragaman sebaiknya tidak dicampur-campur
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bayangkan semua orang di Indonesia mempunyai suku, bahasa, dan makanan yang sama persis. Apa yang akan hilang dari kehidupan kita?
 
 A. Tidak ada yang hilang, hidup justru menjadi lebih mudah
@@ -76,6 +80,7 @@ D. Bahasa daerah akan semakin beragam
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan keragaman sebagai sunnatullah?
 
 A. Perbedaan di antara manusia adalah ketetapan Allah yang tidak bisa dihindari dan harus disyukuri
@@ -93,6 +98,7 @@ D. Perbedaan di antara manusia membuat manusia tidak bisa hidup rukun
 ## Sub-bab B: Ajaran Kebaikan dari Agama Islam dan Selain Islam
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menemukan dompet teman sekelasnya yang berbeda agama jatuh di halaman sekolah. Sikap Rani yang sesuai dengan ajaran kebaikan adalah ....
 
 A. Mengambil uang di dalamnya, karena pemiliknya berbeda agama dengannya
@@ -109,6 +115,7 @@ D. Memberikannya hanya kepada teman yang seagama dengannya
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Bersikap jujur itu hanya diajarkan oleh agama Islam saja, agama lain tidak mengajarkannya." Apakah perkataan Dodi benar?
 
 A. Benar, karena kejujuran hanya ada dalam ajaran Islam
@@ -125,6 +132,7 @@ D. Salah; kejujuran bukan ajaran agama mana pun
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Mencuri itu boleh, asal yang dicuri adalah orang yang berbeda agama denganku." Apakah perkataan Sinta benar?
 
 A. Benar, karena pemilik barangnya berbeda agama
@@ -141,6 +149,7 @@ D. Salah; mencuri dibolehkan kalau tidak ada yang melihat
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tetangga Budi yang berbeda agama sedang sakit dan tidak bisa keluar rumah. Sikap Budi yang sesuai dengan ajaran kebaikan adalah ....
 
 A. Membiarkannya saja, karena berbeda agama dengannya
@@ -157,6 +166,7 @@ D. Mendoakan yang buruk untuknya
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kebaikan dalam Islam adalah akhlak mulia. Akhlak mulia itu meliputi ....
 
 A. Akhlak kepada Allah Swt., kepada sesama manusia, dan kepada alam sekitar
@@ -174,6 +184,7 @@ D. Memiliki banyak teman yang seagama saja
 ## Sub-bab C: Toleransi Antarumat Agama
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Teman Sinta yang berbeda agama sedang beribadah di rumahnya. Sikap Sinta yang menunjukkan toleransi adalah ....
 
 A. Mengganggu ibadahnya supaya ia berhenti
@@ -190,6 +201,7 @@ D. Mengejek cara ibadahnya di depan teman-teman
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi membiarkan temannya beribadah menurut agamanya dan tidak memaksakan keyakinannya. Budi memaksa temannya mengikuti keyakinannya supaya sama dengannya. Siapa di antara mereka yang bersikap toleran, dan mengapa?
 
 A. Budi, karena memaksa itu tanda peduli pada teman
@@ -206,6 +218,7 @@ D. Tidak ada, karena toleransi berarti tidak mempunyai agama
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Bersikap toleran berarti kita harus mengikuti semua ajaran agama lain." Apakah perkataan Dodi benar?
 
 A. Benar, karena menghormati berarti harus mengikuti semua ajarannya
@@ -222,6 +235,7 @@ D. Salah; toleransi berarti tidak boleh berteman dengan orang yang berbeda agama
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sebuah kelas, semua anak saling menghormati keyakinan teman-temannya: tidak ada yang mengejek, tidak ada yang memaksa, dan semua saling mengerti. Apa yang terjadi pada kelas itu?
 
 A. Kelas menjadi rukun dan damai, semua anak merasa dihargai
@@ -238,6 +252,7 @@ D. Tidak ada yang berubah pada kelas itu
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan toleransi antarumat beragama?
 
 A. Sikap saling menghargai dan menghormati keyakinan orang lain

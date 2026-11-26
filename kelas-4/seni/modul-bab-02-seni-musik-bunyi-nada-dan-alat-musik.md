@@ -12,6 +12,7 @@
 ## Sub-bab A: Bunyi
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Bunyi klakson motor dan bunyi angin yang bertiup sama-sama bunyi kuat, karena keduanya terdengar jelas." Apakah perkataan Raka benar?
 
 A. Benar, karena kedua bunyi itu memang terdengar jelas
@@ -28,6 +29,7 @@ D. Salah; bunyi angin termasuk bunyi kuat, sedangkan klakson termasuk bunyi lema
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina memetik senar gitar dengan pelan, lalu memetiknya lagi dengan keras. Apa yang terjadi pada bunyi gitar itu?
 
 A. Bunyinya tetap sama, karena senarnya sama
@@ -44,6 +46,7 @@ D. Petikan keras membuat senar berhenti bergetar sehingga tidak berbunyi
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan daftar bunyi berikut: (1) kicau burung, (2) bunyi kentongan, (3) suara hujan, (4) bunyi bel sepeda. Kelompok manakah yang benar tentang bunyi alam dan bunyi buatan?
 
 A. Bunyi alam: kicau burung dan suara hujan; bunyi buatan: kentongan dan bel sepeda
@@ -60,6 +63,7 @@ D. Semua bunyi itu bunyi alam, karena terdengar di luar rumah
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di perpustakaan, siswa harus berbicara dengan suara pelan. Mengapa aturan itu ada, jika dilihat dari kuat lemahnya bunyi?
 
 A. Karena suara pelan adalah bunyi kuat yang membantu orang lain berkonsentrasi
@@ -76,6 +80,7 @@ D. Karena suara pelan membuat buku di perpustakaan tidak rusak
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan bunyi?
 
 A. Cahaya yang berasal dari benda yang bersinar
@@ -93,6 +98,7 @@ D. Warna suara yang dihasilkan oleh alat musik saja
 ## Sub-bab B: Nada
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Seorang penyanyi seriosa bernyanyi dengan suara melengking, sedangkan seorang bapak berbicara dengan suara berat. Nada siapakah yang lebih tinggi, dan mengapa?
 
 A. Nada bapak lebih tinggi, karena suara laki-laki dewasa lebih berat
@@ -109,6 +115,7 @@ D. Nada bapak lebih tinggi, karena ia berbicara lebih keras
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Senar gitar ditekan di tengah sehingga bagian senar yang bergetar menjadi lebih pendek. Apa yang terjadi pada nada yang dihasilkan senar itu?
 
 A. Nadanya menjadi lebih rendah, karena senarnya lebih pendek
@@ -125,6 +132,7 @@ D. Senar tidak lagi berbunyi, karena ditekan
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Tangga nada diatonis terdiri dari lima nada, yaitu do, re, mi, fa, dan sol." Apakah perkataan Budi benar?
 
 A. Benar, karena tangga nada memang hanya mempunyai lima nada
@@ -141,6 +149,7 @@ D. Salah; tangga nada diatonis terdiri dari tiga nada saja
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah lagu ditulis dalam notasi angka: 5 3 0 2 1. Apa arti angka 0 dalam notasi itu saat lagu dinyanyikan?
 
 A. Nada do yang dibunyikan sangat keras
@@ -157,6 +166,7 @@ D. Tanda lagu harus diulang dari awal
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan nada?
 
 A. Bunyi yang beraturan, yang tinggi rendahnya ditentukan oleh cepat lambatnya getaran
@@ -174,6 +184,7 @@ D. Getaran yang tidak beraturan dan tidak mempunyai tinggi rendah
 ## Sub-bab C: Alat Musik
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan empat alat musik berikut: tamborin, marakas, angklung, dan kastanyet. Tiga di antaranya adalah alat musik ritmis. Alat musik manakah yang berbeda dari ketiganya?
 
 A. Tamborin, karena dimainkan dengan cara dipukul
@@ -190,6 +201,7 @@ D. Kastanyet, karena suaranya paling nyaring
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah kelompok akan tampil menyanyikan lagu, tetapi tidak ada satu pun alat musik ritmis yang dimainkan. Apa yang kemungkinan besar terjadi pada penampilan mereka?
 
 A. Lagunya menjadi lebih merdu, karena tidak ada suara tambahan
@@ -206,6 +218,7 @@ D. Tidak ada yang berubah, karena alat ritmis tidak berpengaruh pada lagu
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Gendang itu alat musik melodis, karena kalau dipukul keras suaranya tinggi dan kalau dipukul pelan suaranya rendah." Apakah perkataan Dodi benar?
 
 A. Benar, karena keras lemahnya pukulan mengubah tinggi rendah nada gendang
@@ -222,6 +235,7 @@ D. Salah; gendang bukan alat musik sama sekali
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelompok Sinta akan tampil di pentas seni. Sinta ditugaskan memainkan melodi lagu, sedangkan Budi ditugaskan menjaga ketukan lagu. Alat musik manakah yang paling tepat untuk masing-masing?
 
 A. Sinta memakai tamborin dan Budi memakai pianika
@@ -238,6 +252,7 @@ D. Keduanya memakai tamborin, karena tamborin bisa memainkan melodi dan ketukan
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan alat musik ritmis?
 
 A. Alat musik yang dapat menghasilkan nada tinggi dan rendah untuk memainkan melodi

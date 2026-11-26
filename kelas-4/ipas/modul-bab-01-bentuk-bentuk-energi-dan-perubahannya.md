@@ -12,6 +12,7 @@
 ## Sub-bab A: Bentuk-Bentuk Energi
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina mengayuh sepedanya pelan-pelan, sedangkan Budi mengayuh sepedanya dengan kencang. Siapa yang memiliki energi gerak lebih besar?
 
 A. Rina, karena sepedanya bergerak lebih pelan
@@ -28,6 +29,7 @@ D. Tidak ada yang memiliki energi gerak
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Malam hari listrik padam. Ibu menyalakan lilin supaya rumah menjadi terang. Bentuk energi yang membuat rumah menjadi terang itu adalah ....
 
 A. Energi gerak
@@ -44,6 +46,7 @@ D. Energi listrik
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Baterai menyimpan energi listrik, makanya bisa menyalakan jam dinding." Apakah perkataan Dodi benar?
 
 A. Benar, karena baterai memang menyimpan energi listrik
@@ -60,6 +63,7 @@ D. Benar, karena baterai menyimpan energi gerak
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Benda berikut yang menghasilkan energi bunyi adalah ....
 
 A. Senar gitar yang dipetik
@@ -76,6 +80,7 @@ D. Kipas angin yang berputar
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Energi adalah ....
 
 A. Benda yang bergerak cepat
@@ -93,6 +98,7 @@ D. Kemampuan benda untuk melakukan kerja atau usaha
 ## Sub-bab B: Perubahan Energi di Sekitar Kita
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menyalakan kipas angin di kamarnya. Baling-baling kipas berputar dan terasa angin sejuk. Perubahan energi yang terjadi pada kipas angin adalah ....
 
 A. Energi listrik berubah menjadi energi cahaya
@@ -109,6 +115,7 @@ D. Energi panas berubah menjadi energi gerak
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di rumah Sinta, ibu sedang menyetrika baju sedangkan Sinta menyalakan lampu belajar. Perubahan energi yang terjadi pada kedua alat itu adalah ....
 
 A. Setrika: listrik menjadi panas; lampu: listrik menjadi cahaya
@@ -125,6 +132,7 @@ D. Setrika: listrik menjadi gerak; lampu: listrik menjadi bunyi
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi menyalakan senternya saat mati lampu. Urutan perubahan energi yang terjadi di dalam senter adalah ....
 
 A. Energi listrik berubah menjadi energi kimia, lalu menjadi energi cahaya
@@ -141,6 +149,7 @@ D. Energi kimia berubah menjadi energi cahaya, lalu menjadi energi listrik
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Kipas angin mengubah energi gerak menjadi energi listrik, karena baling-balingnya bergerak." Apakah perkataan Budi benar?
 
 A. Benar, karena baling-baling kipas yang bergerak menghasilkan listrik
@@ -157,6 +166,7 @@ D. Salah; kipas angin mengubah energi listrik menjadi energi cahaya
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perubahan energi dari satu bentuk menjadi bentuk energi yang lain disebut ....
 
 A. Fotosintesis
@@ -174,6 +184,7 @@ D. Pembangkit listrik
 ## Sub-bab C: Fotosintesis, Proses Penting di Bumi
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina menanam dua tanaman yang sama. Tanaman A diletakkan di dekat jendela yang terkena cahaya matahari, sedangkan tanaman B diletakkan di dalam lemari yang gelap. Setelah dua minggu, tanaman A tumbuh subur, sedangkan tanaman B layu dan mati. Apa penyebabnya?
 
 A. Tanaman B mati karena tidak disiram, sedangkan tanaman A disiram setiap hari.
@@ -190,6 +201,7 @@ D. Tanaman B mati karena lemari terlalu dingin, sedangkan tanaman A dekat jendel
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Tumbuhan mengambil makanan dari dalam tanah, sama seperti kita makan nasi." Sinta berkata, "Tumbuhan membuat makanannya sendiri di daun, dari air dan karbon dioksida dengan bantuan cahaya matahari." Siapa yang benar?
 
 A. Sinta benar, karena tumbuhan membuat makanan sendiri melalui fotosintesis di daun.
@@ -206,6 +218,7 @@ D. Keduanya salah, karena tumbuhan tidak membutuhkan makanan sama sekali.
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Udara di sekitar taman yang banyak tumbuhannya terasa segar dan sejuk. Mengapa demikian?
 
 A. Karena tumbuhan mengeluarkan oksigen hasil fotosintesis ke udara, dan oksigen itulah yang kita hirup.
@@ -222,6 +235,7 @@ D. Karena tumbuhan mengeluarkan karbon dioksida yang membuat udara terasa segar.
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi menempelkan selembar kertas hitam pada sebagian daun tanaman, sehingga bagian daun itu tidak terkena cahaya matahari. Setelah beberapa hari, bagian daun yang tertutup kertas itu menjadi pucat dan lemah, sedangkan bagian yang tidak tertutup tetap hijau dan sehat. Apa yang terjadi pada bagian daun yang tertutup kertas?
 
 A. Bagian itu tetap berfotosintesis karena klorofil masih ada di dalam daun.
@@ -238,6 +252,7 @@ D. Bagian itu berubah menjadi akar karena tidak lagi berfungsi sebagai daun.
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Zat hijau yang ada di dalam daun dan bertugas menangkap energi cahaya matahari untuk fotosintesis disebut ....
 
 A. Klorofil
@@ -255,6 +270,7 @@ D. Karbohidrat
 ## Sub-bab D: Mengapa Manusia Mengubah Bentuk Energi?
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu memasak nasi dengan kompor gas. Perubahan energi yang terjadi pada kompor gas adalah ....
 
 A. Energi listrik berubah menjadi energi cahaya
@@ -271,6 +287,7 @@ D. Energi panas berubah menjadi energi listrik
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menyalakan kipas angin, sedangkan Budi menyalakan setrika. Manakah pernyataan yang benar tentang perubahan energi pada kedua alat itu?
 
 A. Kipas angin dan setrika sama-sama mengubah energi listrik menjadi energi panas
@@ -287,6 +304,7 @@ D. Keduanya memakai energi listrik, tetapi kipas angin mengubahnya menjadi energ
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Manusia bisa menciptakan energi baru, misalnya dengan membangun pembangkit listrik." Apakah perkataan Dodi benar?
 
 A. Salah; manusia tidak dapat menciptakan energi, pembangkit listrik hanya mengubah bentuk energi yang sudah ada menjadi energi listrik
@@ -303,6 +321,7 @@ D. Salah; pembangkit listrik tidak menghasilkan energi sama sekali
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Malam hari rumah Sinta gelap dan gerah. Ia menyalakan lampu dan kipas angin. Perubahan energi yang terjadi adalah ....
 
 A. Lampu mengubah energi gerak menjadi energi cahaya, sedangkan kipas angin mengubah energi panas menjadi energi gerak
@@ -319,6 +338,7 @@ D. Lampu mengubah energi cahaya menjadi energi listrik dan kipas angin mengubah 
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Mengapa manusia perlu mengubah bentuk energi?
 
 A. Karena energi di alam sudah habis sehingga manusia harus membuat energi yang baru

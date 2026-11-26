@@ -12,6 +12,7 @@
 ## Unit 6: You Must Be on Time
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Class starts at seven o'clock. Rina arrives at school at seven o'clock. Budi arrives at half past seven. Who follows the school rule "You must be on time"?
 
 A. Budi, because he arrives at half past seven.
@@ -28,6 +29,7 @@ D. Nobody, because the rule is about homework.
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "You mustn't listen to the teacher in class." What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -44,6 +46,7 @@ D. He should say "You must shout in class."
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Look at the clock. It is half past seven. Class starts at seven o'clock. What does it mean for Sinta, who is still at home?
 
 A. She is late, because class started thirty minutes ago and she must hurry to school.
@@ -60,6 +63,7 @@ D. She is free today, because class is finished.
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** In class, Rani raises her hand before she speaks. Dodi shouts the answer without raising his hand. Who follows the school rules, and why?
 
 A. Dodi, because shouting shows he knows the answer.
@@ -76,6 +80,7 @@ D. Rani, because the rule is "You must raise your hand" and "You mustn't shout i
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** What time is it? The clock shows nine o'clock.
 
 A. It is half past nine.

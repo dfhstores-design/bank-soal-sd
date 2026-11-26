@@ -12,6 +12,7 @@
 ## Sub-bab A: Penulisan Algoritma
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan menulis algoritma?
 A. Menggambar komputer
 B. Menuliskan langkah-langkah penyelesaian masalah secara jelas dan berurutan
@@ -22,6 +23,7 @@ D. Menyalin teks dari buku ke dalam komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab A
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan algoritma mencuci tangan berikut: (1) Basahi tangan dengan air bersih. (2) Oleskan sabun ke telapak tangan. (3) Gosok tangan hingga bersih. (4) Keringkan tangan dengan handuk. Langkah yang hilang dari algoritma tersebut adalah ....
 A. Membilas tangan dengan air bersih
 B. Memakai sarung tangan
@@ -32,6 +34,7 @@ D. Mengeringkan handuk
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab A
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah penulisan algoritma menyikat gigi yang benar?
 A. Bilas mulut — oleskan pasta gigi — gosok gigi — ambil sikat gigi
 B. Gosok gigi — ambil sikat gigi — bilas mulut — oleskan pasta gigi
@@ -42,6 +45,7 @@ D. Oleskan pasta gigi — bilas sikat gigi — ambil sikat gigi — gosok gigi
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab A
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi menulis algoritma membuat jus buah: (1) Siapkan blender, buah, gula, dan air. (2) Nyalakan blender dan tunggu hingga halus. (3) Masukkan buah, gula, dan air ke dalam blender. (4) Tuang jus ke dalam gelas. Apa yang salah dari penulisan algoritma Andi?
 A. Tidak ada yang salah
 B. Langkah 2 dan 3 tertukar — buah harus dimasukkan dulu, baru blender dinyalakan
@@ -52,6 +56,7 @@ D. Blender tidak perlu disiapkan
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab A
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Algoritma dapat ditulis dalam bentuk ....
 A. Kalimat dan diagram alir (flowchart)
 B. Hanya gambar pemandangan
@@ -66,6 +71,7 @@ D. Lagu dan puisi
 ## Sub-bab B: Istilah dalam Pemrograman
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan program?
 A. Gambar yang dipajang di dinding kelas
 B. Kumpulan instruksi yang ditulis agar komputer mengerjakan sesuatu
@@ -76,6 +82,7 @@ D. Nama sebuah permainan di komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab B
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani membuat animasi kucing berjalan dengan menyusun blok-blok berwarna di Scratch. Scratch adalah contoh ....
 A. Perangkat keras
 B. Jaringan internet
@@ -86,6 +93,7 @@ D. Pemrogram (orang yang menulis program)
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab B
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di Scratch, gambar kucing oranye yang bisa digerakkan dan diberi perintah disebut ....
 A. Sprite
 B. Stage
@@ -96,6 +104,7 @@ D. Script
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab B
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menyusun beberapa blok perintah menjadi satu rangkaian agar kucingnya berjalan lalu bersuara. Rangkaian blok perintah itu disebut ....
 A. Stage
 B. Backdrop
@@ -106,6 +115,7 @@ D. Script
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab B
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Untuk menjalankan program yang sudah dibuat di Scratch, tombol apa yang harus ditekan?
 A. Tombol stop berbentuk segi enam merah
 B. Tombol bendera hijau
@@ -122,6 +132,7 @@ D. Tombol power pada CPU
 ### Sub-bab B: Istilah dalam Pemrograman
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka sudah menyusun blok agar kucing berjalan, tapi lupa mengeklik tombol bendera hijau. Apa yang terjadi?
 A. Kucing langsung berjalan sendiri
 B. Program tidak berjalan, kucing tetap diam
@@ -132,6 +143,7 @@ D. Semua blok hilang dari layar
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab B
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina membuat game memancing di Scratch. Latarnya laut biru, dan ada ikan yang berenang ke sana kemari. Mana yang sprite dan mana yang stage?
 A. Ikan = stage, laut = sprite
 B. Ikan = sprite, laut = stage
@@ -142,6 +154,7 @@ D. Ikan dan laut sama-sama stage
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 6, Sub-bab B
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta ingin kucingnya berjalan dulu, baru bersuara. Tapi ia menyusun blok "bersuara" di atas blok "berjalan". Apa yang terjadi saat program dijalankan, dan bagaimana memperbaikinya?
 A. Kucing berjalan dulu baru bersuara; tidak perlu diperbaiki
 B. Kucing bersuara dulu baru berjalan; tukar urutan bloknya supaya blok "berjalan" di atas

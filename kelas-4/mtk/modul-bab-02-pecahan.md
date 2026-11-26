@@ -12,6 +12,7 @@
 ## Sub-bab A: Pembilang Satu
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani memotong sebuah kue menjadi 4 bagian, tetapi potongannya tidak sama besar — ada yang besar, ada yang kecil. Rani berkata satu potong kue itu adalah 1/4 bagian kue. Apakah ucapan Rani benar?
 
 A. Benar, karena kue itu dipotong menjadi 4 bagian
@@ -28,6 +29,7 @@ D. Salah, karena kue seharusnya dipotong menjadi 2 bagian
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu mempunyai dua kue yang sama besar. Kue pertama dipotong menjadi 2 bagian sama besar, kue kedua dipotong menjadi 4 bagian sama besar. Dina makan 1 potong dari kue pertama, Sinta makan 1 potong dari kue kedua. Siapa yang makan kue lebih banyak?
 
 A. Sinta, karena kue kedua dipotong menjadi lebih banyak bagian
@@ -44,6 +46,7 @@ D. Sinta, karena 4 lebih besar dari 2
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sepotong pita dibagi menjadi 2 bagian sama besar, sehingga setiap bagian adalah 1/2 pita. Lalu setiap bagian itu dibagi lagi menjadi 2 bagian sama besar. Berapa bagian seluruhnya sekarang, dan setiap bagian menjadi berapa bagian pita?
 
 A. 3 bagian, setiap bagian 1/3 pita
@@ -60,6 +63,7 @@ D. 6 bagian, setiap bagian 1/6 pita
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutkan pecahan 1/3, 1/2, dan 1/5 dari yang terbesar ke yang terkecil.
 
 A. 1/5, 1/3, 1/2
@@ -76,6 +80,7 @@ D. 1/2, 1/5, 1/3
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebatang cokelat dibagi menjadi 6 bagian sama besar. Budi mengambil 1 bagian cokelat itu. Pecahan yang menunjukkan bagian cokelat yang diambil Budi adalah ....
 
 A. 1/6
@@ -93,6 +98,7 @@ D. 6/6
 ## Sub-bab B: Penyebut Sama
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani dan Raka makan pizza yang sama besar, dipotong menjadi 8 bagian sama besar. Rani makan 3/8 bagian, sedangkan Raka makan 5/8 bagian. Lalu Rani makan lagi 2/8 bagian. Sekarang, siapa yang makan pizza lebih banyak?
 
 A. Rani, karena ia makan dua kali
@@ -109,6 +115,7 @@ D. Tidak bisa ditentukan
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menghitung 2/5 + 3/5 = 5/10, karena ia menjumlahkan pembilang dan penyebutnya. Apakah hitungan Dina benar, dan berapa hasil yang benar?
 
 A. Benar, hasilnya 5/10
@@ -125,6 +132,7 @@ D. Salah; hasil yang benar adalah 2/10
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu memotong kue menjadi 10 bagian sama besar. Andi makan 3/10 bagian, lalu adiknya makan 4/10 bagian. Berapa sisa kue Ibu sekarang?
 
 A. 3/10 bagian
@@ -141,6 +149,7 @@ D. 10/10 bagian
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Tiga kelompok mendapat kertas warna dari lembar yang sama besar: kelompok A mendapat 2/8 bagian, kelompok B 5/8 bagian, dan kelompok C 3/8 bagian. Urutkan ketiga kelompok dari yang mendapat bagian paling besar, lalu tentukan selisih bagian kelompok terbesar dan kelompok terkecil.
 
 A. B, C, A; selisihnya 3/8
@@ -157,6 +166,7 @@ D. C, B, A; selisihnya 1/8
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pecahan 2/7 dan 5/7 disebut pecahan berpenyebut sama karena ....
 
 A. Pembilangnya sama
@@ -174,6 +184,7 @@ D. Keduanya lebih kecil dari 1
 ## Sub-bab C: Senilai
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan pecahan senilai?
 
 A. Pecahan yang pembilangnya sama
@@ -190,6 +201,7 @@ D. Pecahan yang pembilangnya lebih besar dari penyebutnya
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta makan 2/4 bagian kue, sedangkan Budi makan 1/2 bagian kue yang sama besarnya. Sinta berkata, "Aku makan lebih banyak dari Budi, karena aku makan 2 bagian dan Budi hanya 1 bagian." Apakah perkataan Sinta benar?
 
 A. Benar, karena 2 lebih besar dari 1
@@ -206,6 +218,7 @@ D. Benar, karena 4 lebih besar dari 2
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berkata, "2/3 senilai dengan 2/4, karena pembilangnya sama-sama 2." Apakah Dina benar? Pecahan manakah yang benar-benar senilai dengan 2/3?
 
 A. Salah; 2/3 senilai dengan 4/6
@@ -222,6 +235,7 @@ D. Benar, karena 2/4 nilainya lebih kecil dari 2/3
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu mengambil pecahan 1/3, lalu mengalikan pembilangnya dengan 2 tetapi penyebutnya dengan 3, sehingga diperoleh 2/9. Apakah 2/9 senilai dengan 1/3? Mengapa?
 
 A. Ya, karena pembilangnya dikali 2
@@ -238,6 +252,7 @@ D. Tidak, karena pembilang dan penyebut harus dikali bilangan yang sama; 1/3 yan
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di dalam sebuah kotak ada 10 kelereng. Sebanyak 6 kelereng berwarna merah, jadi bagian kelereng merah adalah 6/10. Pecahan manakah yang senilai dengan 6/10?
 
 A. 2/5
@@ -255,6 +270,7 @@ D. 1/2
 ## Sub-bab D: Pecahan Desimal Persepuluhan dan Perseratusan
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di toko, pensil A harganya Rp 2,5 ribu dan pensil B harganya Rp 2,05 ribu. Pensil mana yang lebih mahal?
 
 A. Pensil B, karena 05 lebih besar dari 5
@@ -271,6 +287,7 @@ D. Pensil B, karena harganya ditulis lebih panjang
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani membaca bilangan 0,25 sebagai "nol koma dua puluh lima". Apa kesalahan Rani, dan bagaimana bacaan yang benar?
 
 A. Tidak ada kesalahan; bacaan Rani sudah benar
@@ -287,6 +304,7 @@ D. Kesalahannya pada kata "nol"; yang benar "kosong koma dua puluh lima"
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ibu membeli 0,5 kg gula. Budi salah menulisnya menjadi 0,05 kg di daftar belanja. Apa yang terjadi dengan nilai yang ditulis Budi?
 
 A. Nilainya tetap sama, karena angka 5-nya sama
@@ -303,6 +321,7 @@ D. Nilainya menjadi 5 kg
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata bahwa angka 4 pada bilangan 0,47 bernilai 4. Apakah perkataan Sinta benar?
 
 A. Benar, karena angka 4 memang bernilai 4
@@ -319,6 +338,7 @@ D. Benar, karena 0,47 dibaca "nol koma empat puluh tujuh"
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pecahan tujuh persepuluh ditulis dalam bentuk desimal menjadi ....
 
 A. 0,7
@@ -336,6 +356,7 @@ D. 7,0
 ## Sub-bab E: Hubungan Pecahan Desimal Persepuluhan dan Perseratusan
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berkata, "0,5 sama dengan 0,50." Raka tidak setuju, "0,50 lebih besar, karena angkanya lebih banyak." Siapa yang benar dan mengapa?
 
 A. Raka benar, karena 50 lebih besar dari 5
@@ -352,6 +373,7 @@ D. Keduanya benar, karena 0,5 dan 0,50 sama-sama lebih kecil dari 1
 ---
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "0,45 lebih besar dari 0,5, karena 45 lebih besar dari 5." Di mana letak kesalahan Budi?
 
 A. Budi salah menghitung: 45 sebenarnya lebih kecil dari 5
@@ -368,6 +390,7 @@ D. Budi benar; 0,45 memang lebih besar dari 0,5
 ---
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta menulis harga sebuah pensil 0,7 pada label. Temannya menambahkan angka 0 di belakang koma sehingga tertulis 0,70. Apa yang terjadi pada harga pensil itu?
 
 A. Harganya menjadi 10 kali lebih mahal
@@ -384,6 +407,7 @@ D. Harganya berubah menjadi 7,0
 ---
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mempunyai pita sepanjang 0,4 meter, sedangkan pita Dina sepanjang 0,38 meter. Pita siapa yang lebih panjang, dan berapa selisihnya?
 
 A. Pita Dina lebih panjang; selisihnya 0,02 meter
@@ -400,6 +424,7 @@ D. Pita Rani lebih panjang; selisihnya 0,34 meter
 ---
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah bilangan berikut yang nilainya BERBEDA dari 0,6?
 
 A. 0,60

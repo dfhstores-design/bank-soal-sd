@@ -12,6 +12,7 @@
 ## Sub-bab A: Makna dan Penerapan Sila-Sila Pancasila
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sekolah, Sinta sedang berdoa di musala sebelum pulang. Rani menunggunya di luar dengan tenang tanpa mengajak bicara atau mengganggunya. Sikap Rani mencerminkan sila Pancasila yang mana?
 
 A. Sila kedua, karena Rani bersikap sopan kepada temannya
@@ -28,6 +29,7 @@ D. Sila kelima, karena Rani bersikap adil kepada temannya
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi mengejek bekal makan siang Budi karena lauknya berbeda dengan lauk teman-teman lain. Menurutmu, sikap Dodi bertentangan dengan sila Pancasila yang mana, dan sikap apa yang seharusnya ia tunjukkan?
 
 A. Bertentangan dengan sila pertama; seharusnya Dodi ikut berdoa bersama Budi
@@ -44,6 +46,7 @@ D. Bertentangan dengan sila keempat; seharusnya Dodi bermusyawarah dengan Budi
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4 akan memilih tempat untuk karyawisata. Ibu guru meminta setiap anak menyampaikan pendapatnya, lalu kelas memutuskan bersama lewat pemungutan suara. Cara kelas 4 mengambil keputusan ini mencerminkan sila Pancasila yang mana?
 
 A. Sila keempat, karena keputusan diambil lewat musyawarah dan pemungutan suara
@@ -60,6 +63,7 @@ D. Sila kelima, karena tempat karyawisata dipilih yang paling murah
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setiap hari Jumat, seluruh siswa Kelas 4 membersihkan kelas dan halaman sekolah bersama-sama. Ada yang menyapu, ada yang mengepel, ada yang menyiram tanaman. Tidak ada yang hanya menonton. Kegiatan ini paling tepat mencerminkan sila Pancasila yang mana?
 
 A. Sila pertama, karena kegiatan ini dilakukan setiap hari Jumat
@@ -76,6 +80,7 @@ D. Sila ketiga, karena siswa bergotong royong menjaga persatuan dan kebersamaan
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sila kelima Pancasila berbunyi "Keadilan Sosial bagi Seluruh Rakyat Indonesia". Apa makna sila kelima tersebut?
 
 A. Semua orang harus mempunyai harta yang sama banyak
@@ -93,6 +98,7 @@ D. Keadilan hanya berlaku untuk orang dewasa, bukan untuk anak-anak
 ## Sub-bab B: Tokoh-Tokoh Perumus Pancasila dan Keteladanannya
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta mendengar temannya berkata, "Nama Pancasila itu diberikan oleh Bung Karno dalam sidang BPUPKI tanggal 1 Juni 1945." Apakah pernyataan teman Sinta benar?
 
 A. Salah, karena nama Pancasila diberikan oleh Muhammad Yamin pada 29 Mei 1945
@@ -109,6 +115,7 @@ D. Benar, karena Soekarno menamai Pancasila setelah kemerdekaan diproklamasikan
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan tiga usulan berikut.
 
 1. Peri Kebangsaan
@@ -131,6 +138,7 @@ D. Nomor 1 dan 3
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kelas 4, teman-teman sedang bermusyawarah memilih ketua kelas. Rudi tidak setuju dengan pilihan Dina, tetapi Rudi tetap mendengarkan alasan Dina dengan tenang sebelum menyampaikan pendapatnya sendiri. Sikap Rudi meneladani para perumus Pancasila karena ....
 
 A. Para perumus Pancasila selalu memaksakan pendapatnya sendiri dalam sidang BPUPKI
@@ -147,6 +155,7 @@ D. Para perumus Pancasila tidak pernah berbeda pendapat satu sama lain
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi berkata, "Mohammad Hatta tidak menyampaikan rumusan dasar negara sendiri dalam sidang pertama BPUPKI, jadi ia tidak berjasa dalam perumusan Pancasila." Apakah pendapat Andi benar?
 
 A. Benar, karena hanya tokoh yang menyampaikan rumusan yang berjasa
@@ -163,6 +172,7 @@ D. Salah, karena Hattalah yang memberi nama Pancasila
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Siapakah tokoh yang menyampaikan gagasannya paling akhir dalam sidang pertama BPUPKI, yaitu pada tanggal 1 Juni 1945?
 
 A. Mr. Muhammad Yamin

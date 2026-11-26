@@ -12,6 +12,7 @@
 ## Sub-bab A: Percaya Diri
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani sudah berlatih membaca puisi dengan baik di rumah, tetapi ia takut tampil di depan kelas karena khawatir ditertawakan teman-temannya. Sikap percaya diri yang sebaiknya ditunjukkan Rani adalah ....
 
 A. Menolak tampil dan meminta guru menunjuk teman lain
@@ -28,6 +29,7 @@ D. Berpura-pura sakit supaya tidak perlu tampil
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi mendapat nilai matematika yang kurang bagus, lalu ia minder dan berhenti belajar karena merasa dirinya bodoh. Sinta juga mendapat nilai yang kurang bagus, tetapi ia terus berlatih, bertanya kepada guru, dan yakin nilainya bisa membaik. Siapa di antara mereka yang bersikap percaya diri, dan mengapa?
 
 A. Dodi, karena ia sadar akan kekurangannya
@@ -44,6 +46,7 @@ D. Tidak ada, karena nilai yang kurang bagus berarti tidak boleh percaya diri
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Percaya diri itu berarti merasa paling hebat dan boleh meremehkan teman yang lain." Apakah perkataan Budi benar?
 
 A. Benar, karena orang percaya diri memang harus merasa paling hebat
@@ -60,6 +63,7 @@ D. Salah; percaya diri berarti yakin pada kemampuan diri sendiri dengan tetap re
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Allah Swt. berfirman dalam Q.S. Ali Imran/3:139 yang artinya, "Dan janganlah kamu (merasa) lemah dan jangan (pula) bersedih hati, padahal kamu paling tinggi (derajatnya) jika kamu orang-orang mukmin." Pesan ayat ini bagi anak yang kurang percaya diri adalah ....
 
 A. Jangan merasa lemah dan bersedih hati; tetaplah semangat dan yakin karena Allah bersama orang-orang yang beriman
@@ -76,6 +80,7 @@ D. Terimalah bahwa dirimu memang paling lemah dan tidak bisa apa-apa
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan percaya diri?
 
 A. Merasa dirinya paling hebat dari semua orang
@@ -93,6 +98,7 @@ D. Selalu menang dalam setiap perlombaan
 ## Sub-bab B: Musyawarah
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4A akan memilih ketua kelas. Ada tiga calon yang maju. Cara yang sesuai dengan musyawarah adalah ....
 
 A. Guru langsung menunjuk ketua kelas tanpa bertanya kepada anak-anak
@@ -109,6 +115,7 @@ D. Ketua kelas dipilih dengan undian tanpa ada yang berpendapat
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4A menentukan tujuan karyawisata dengan cara berdiskusi: semua anak menyampaikan pendapat, lalu diputuskan bersama tujuan yang paling banyak disetujui. Kelas 4B menentukan tujuan karyawisata tanpa bertanya kepada anak-anak — wali kelas yang memutuskan sendiri. Kelas mana yang bermusyawarah, dan mengapa?
 
 A. Kelas 4B, karena keputusan guru pasti benar
@@ -125,6 +132,7 @@ D. Tidak ada, karena karyawisata tidak perlu musyawarah
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Dalam musyawarah, pendapatku harus selalu menang, kalau tidak aku tidak mau ikut lagi." Apakah perkataan Raka benar?
 
 A. Benar, karena pendapat yang paling bagus memang harus menang
@@ -141,6 +149,7 @@ D. Salah; dalam musyawarah tidak boleh ada yang menyampaikan pendapat
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga Dina bermusyawarah tentang liburan: hasilnya, keluarga memilih mengunjungi rumah nenek di desa, padahal Dina ingin pergi ke pantai. Sikap Dina yang sesuai dengan semangat musyawarah adalah ....
 
 A. Menerima keputusan bersama dengan lapang dada dan ikut gembira mengunjungi nenek
@@ -157,6 +166,7 @@ D. Mengajak adiknya mogok supaya liburan dibatalkan
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan musyawarah?
 
 A. Membicarakan suatu masalah bersama-sama untuk mencapai kesepakatan
@@ -174,6 +184,7 @@ D. Berdebat sampai ada yang menang dan ada yang kalah
 ## Sub-bab C: Persatuan
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Teman baru di kelas Sinta berasal dari suku yang berbeda dan diejek oleh beberapa anak karena logat bicaranya. Sikap Sinta yang menjaga persatuan adalah ....
 
 A. Ikut mengejek supaya diterima oleh teman-temannya
@@ -190,6 +201,7 @@ D. Menyarankan teman barunya pindah ke sekolah lain
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4A membersihkan kelas dengan gotong royong: semua anak ikut — ada yang menyapu, ada yang mengepel, ada yang merapikan meja. Kelas 4B hanya dua anak yang bekerja, sisanya menonton sambil bermain. Kelas mana yang menunjukkan persatuan, dan mengapa?
 
 A. Kelas 4A, karena semua anak bekerja sama dan saling membantu menyelesaikan tugas bersama
@@ -206,6 +218,7 @@ D. Tidak ada, karena membersihkan kelas tidak ada hubungannya dengan persatuan
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi berkata, "Persatuan itu berarti semua orang harus sama suku dan agamanya, kalau berbeda tidak bisa bersatu." Apakah perkataan Andi benar?
 
 A. Benar, karena orang yang berbeda pasti akan bertengkar
@@ -222,6 +235,7 @@ D. Salah; persatuan berarti tidak boleh berteman dengan orang yang berbeda
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi mendapat tugas kelompok bersama teman-teman yang berbeda agama dengannya. Sikap Budi yang menjaga persatuan dalam kerja kelompok itu adalah ....
 
 A. Menolak bekerja sama karena berbeda agama
@@ -238,6 +252,7 @@ D. Meminta guru mengganti anggota kelompoknya dengan teman yang seagama
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Semboyan negara Indonesia adalah Bhinneka Tunggal Ika. Apa arti semboyan itu?
 
 A. Berbeda-beda tetapi tetap satu jua

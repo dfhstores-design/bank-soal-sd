@@ -12,6 +12,7 @@
 ## Sub-bab A: Q.S. Al-Hujurat/49:13
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kelas, ada teman baru dari daerah lain yang logat bicaranya berbeda. Beberapa anak menertawakan logatnya. Menurut pesan Q.S. Al-Hujurat/49:13, sikap yang benar adalah ...
 
 A. Ikut menertawakan supaya diterima teman-teman
@@ -28,6 +29,7 @@ D. Meminta teman baru itu segera mengubah logatnya
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Orang yang paling mulia adalah orang yang paling kaya dan berasal dari keluarga terpandang." Apakah perkataan Raka sesuai dengan Q.S. Al-Hujurat/49:13?
 
 A. Sesuai, karena kekayaan menunjukkan kemuliaan seseorang
@@ -44,6 +46,7 @@ D. Tidak sesuai; yang paling mulia adalah orang yang paling banyak temannya
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan arti Q.S. Al-Hujurat/49:13 berikut: "Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu ...." Kata yang tepat untuk melengkapi arti ayat tersebut adalah ...
 
 A. saling mengenal
@@ -60,6 +63,7 @@ D. saling menjauhi
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina hanya mau berteman dengan anak yang satu suku dengannya. Budi berteman dengan siapa saja dan menghormati perbedaan suku teman-temannya. Siapa yang sikapnya sesuai dengan pesan Q.S. Al-Hujurat/49:13?
 
 A. Dina, karena berteman dengan yang sesuku lebih nyaman
@@ -76,6 +80,7 @@ D. Budi, karena ia menghormati perbedaan dan mau saling mengenal, seperti pesan 
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jika seseorang merasa sukunya paling mulia dan merendahkan suku lain, apa yang akan terjadi pada hubungannya dengan orang lain?
 
 A. Hubungannya dengan orang lain menjadi semakin baik
@@ -93,6 +98,7 @@ D. Semua orang akan menghormatinya karena sukunya
 ## Sub-bab B: Hadis Terkait Menjaga Hubungan Baik dengan Sesama
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rudi mendengar kabar buruk tentang temannya yang belum tentu benar, lalu langsung percaya dan menceritakannya kepada teman-teman lain. Menurut hadis tentang menjaga hubungan baik dengan sesama, sikap Rudi ...
 
 A. Benar, karena kabar itu harus segera disebarkan
@@ -109,6 +115,7 @@ D. Salah, karena Rudi seharusnya merahasiakan kabar itu dari guru
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta melihat temannya mendapat nilai lebih tinggi darinya. Ia merasa iri dan tidak mau lagi bermain dengan temannya itu. Menurut hadis, apa yang seharusnya dilakukan Sinta?
 
 A. Tetap iri, karena iri adalah hal yang wajar dan tidak apa-apa
@@ -125,6 +132,7 @@ D. Mencari-cari kesalahan temannya supaya ia tidak lagi dipuji guru
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Hadis tentang menjaga hubungan baik dengan sesama melarang beberapa perilaku berikut, KECUALI ...
 
 A. berburuk sangka kepada orang lain
@@ -141,6 +149,7 @@ D. saling memaafkan dan menjaga persaudaraan
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ani dan Budi bertengkar dan sudah lima hari tidak saling menyapa. Ani berkata ia tidak mau berbaikan dulu. Menurut hadis, apa yang sebaiknya dilakukan Ani dan Budi?
 
 A. Terus saling mendiamkan sampai salah satu dari mereka meminta maaf duluan
@@ -157,6 +166,7 @@ D. Segera berdamai dan saling memaafkan, karena seorang muslim tidak boleh mendi
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jika kebiasaan memata-matai dan mencari-cari kesalahan orang lain dibiarkan di kelas, apa akibatnya bagi persaudaraan antar teman?
 
 A. Kepercayaan antar teman hilang dan persaudaraan menjadi rusak
@@ -174,6 +184,7 @@ D. Semua teman akan saling memuji satu sama lain
 ## Sub-bab C: Cara Menjaga Hubungan Baik dengan Sesama
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Teman sebangku Dina kesulitan memahami pelajaran matematika. Sikap Dina yang menjaga hubungan baik dengan sesama adalah ...
 
 A. Mengejeknya karena tidak cepat paham
@@ -190,6 +201,7 @@ D. Menyuruhnya pindah bangku supaya tidak merepotkan
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka memanggil temannya dengan julukan yang buruk karena badannya gemuk. Menurut ajaran menjaga hubungan baik dengan sesama, sikap Raka ...
 
 A. Benar, karena julukan itu hanya bercanda
@@ -206,6 +218,7 @@ D. Salah, karena Raka seharusnya tidak memanggil temannya sama sekali
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Andi hanya mau berteman dengan anak yang satu daerah dengannya. Sinta berteman dengan siapa saja, termasuk teman dari daerah dan suku yang berbeda, dan ia menghormati kebiasaan mereka. Siapa yang menjaga hubungan baik dengan sesama?
 
 A. Andi, karena berteman dengan yang sedaerah lebih mudah
@@ -222,6 +235,7 @@ D. Keduanya sama salahnya
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di grup chat kelas, seseorang menyebarkan cerita buruk tentang seorang teman, padahal kebenarannya belum jelas. Sikap yang benar menurut ajaran menjaga hubungan baik adalah ...
 
 A. Ikut menyebarkannya supaya semua orang tahu
@@ -238,6 +252,7 @@ D. Tidak ikut menyebarkan, dan mengingatkan teman-teman untuk tidak berburuk san
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jika semua anak di kelas saling menghormati, berkata sopan, dan tolong-menolong, apa yang terjadi di kelas itu?
 
 A. Kelas menjadi rukun dan damai, sehingga belajar terasa nyaman

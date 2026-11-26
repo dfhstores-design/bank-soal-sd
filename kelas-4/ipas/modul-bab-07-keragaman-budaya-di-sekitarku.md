@@ -12,6 +12,7 @@
 ## Sub-bab A: Kearifan Lokal Sekitarku
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sebuah desa di Maluku, para tetua adat mengumumkan masa sasi: selama enam bulan, tidak ada warga yang boleh menangkap ikan di teluk desa. Mengapa warga desa membuat aturan seperti itu?
 
 A. Supaya warga desa tidak perlu bekerja di laut selama enam bulan
@@ -28,6 +29,7 @@ D. Supaya warga desa beralih menangkap ikan di sungai, bukan di laut
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua kearifan lokal berikut.
 
 (1) Subak di Bali: petani mengatur pembagian air dari mata air dan sungai ke sawah-sawah secara adil dan bergotong royong.
@@ -49,6 +51,7 @@ D. Subak dan Sasi sama-sama melarang warga menanam padi
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Kearifan lokal itu kebiasaan kuno yang sudah ketinggalan zaman, jadi tidak perlu lagi diikuti." Apakah perkataan Dodi benar?
 
 A. Benar, karena kebiasaan lama selalu lebih buruk daripada cara baru
@@ -65,6 +68,7 @@ D. Salah; kearifan lokal memang kuno, tetapi harus diikuti tanpa boleh dipertany
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di dekat desa Rani terdapat Hutan Larangan Adat. Aturan adatnya jelas: tidak boleh ada warga yang menebang pohon di hutan itu, dan pelanggarnya dikenai denda. Suatu hari, seorang warga mengajak ayah Rani menebang pohon di hutan itu untuk dijual kayunya. Sikap ayah Rani yang paling tepat adalah ....
 
 A. Ikut menebang diam-diam pada malam hari supaya tidak ketahuan
@@ -81,6 +85,7 @@ D. Membiarkan warga itu menebang sendiri, karena bukan urusan ayah Rani
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kearifan lokal adalah ....
 
 A. Nilai-nilai luhur dan kebiasaan baik masyarakat yang diwariskan turun-temurun untuk melindungi dan mengolah lingkungan hidup secara lestari
@@ -98,6 +103,7 @@ D. Cara hidup yang hanya boleh dilakukan oleh para tetua adat
 ## Sub-bab B: Keragaman Suku Bangsa di Indonesia
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di pameran budaya sekolah, ada tiga foto rumah adat: Rumah Gadang, Rumah Bolon, dan Rumah Kebaya. Pasangan rumah adat dan suku bangsanya yang benar adalah ....
 
 A. Rumah Gadang – suku Batak, Rumah Bolon – suku Minangkabau, Rumah Kebaya – suku Betawi
@@ -114,6 +120,7 @@ D. Rumah Gadang – suku Bugis, Rumah Bolon – suku Dayak, Rumah Kebaya – suk
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Suku bangsa di Indonesia berbeda-beda, jadi Indonesia mudah terpecah. Sebaiknya semua suku disamakan saja." Apakah perkataan Dodi benar?
 
 A. Benar, karena perbedaan suku selalu menimbulkan pertengkaran
@@ -130,6 +137,7 @@ D. Salah; di Indonesia sebenarnya hanya ada satu suku bangsa saja
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga Rani baru pindah ke Makassar. Tetangga mereka yang berasal dari suku Bugis sedang mengadakan acara adat di rumahnya. Sikap Rani dan keluarganya yang paling tepat adalah ....
 
 A. Mengejek acara adat itu karena berbeda dengan adat keluarga Rani
@@ -146,6 +154,7 @@ D. Melarang anak-anak keluar rumah sampai acara adat itu selesai
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua suku bangsa berikut.
 
 Suku Jawa: memakai bahasa Jawa dalam percakapan sehari-hari, terkenal dengan kain batik, dan senjata tradisionalnya keris.
@@ -167,6 +176,7 @@ D. Batik dan angklung berasal dari suku bangsa yang sama
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Suku bangsa adalah ....
 
 A. Kelompok masyarakat dengan kesamaan ciri fisik, bahasa, adat istiadat, dan kesenian
@@ -184,6 +194,7 @@ D. Kelompok masyarakat yang semuanya mempunyai pekerjaan yang sama
 ## Sub-bab C: Keragaman Agama di Indonesia
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kelas 4 ada lima anak yang beragama berbeda: Sinta beragama Islam, Dodi beragama Kristen, Made beragama Hindu, Budi beragama Buddha, dan Lina beragama Konghucu. Pasangan anak dan tempat ibadahnya yang benar adalah ....
 
 A. Sinta–pura, Dodi–masjid, Made–vihara, Budi–klenteng, Lina–gereja
@@ -200,6 +211,7 @@ D. Sinta–vihara, Dodi–klenteng, Made–gereja, Budi–masjid, Lina–pura
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Semua agama di Indonesia merayakan hari raya yang sama, yaitu Idul Fitri." Apakah perkataan Dodi benar?
 
 A. Benar, karena Idul Fitri adalah hari raya semua agama di Indonesia
@@ -216,6 +228,7 @@ D. Salah; di Indonesia hanya umat Islam yang mempunyai hari raya
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua peristiwa berikut.
 
 1. Made yang beragama Hindu merayakan Nyepi dengan berdiam diri di rumah tanpa menyalakan lampu dan tanpa bepergian.
@@ -237,6 +250,7 @@ D. Keduanya salah, karena hari besar agama seharusnya dirayakan dengan cara yang
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga tetangga Sinta yang beragama Konghucu sedang merayakan Imlek. Mereka menghias rumah dengan lampion merah dan membagikan angpau kepada anak-anak. Sikap Sinta yang paling tepat adalah ....
 
 A. Mengucapkan selamat dan menghormati perayaan mereka, tanpa mengganggu
@@ -253,6 +267,7 @@ D. Meminta mereka merayakan Imlek di tempat lain, jauh dari rumah Sinta
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keragaman agama di Indonesia artinya ....
 
 A. Semua penduduk Indonesia harus memeluk satu agama yang sama
@@ -270,6 +285,7 @@ D. Hanya ada satu tempat ibadah untuk semua agama di Indonesia
 ## Sub-bab D: Keragaman Budaya di Indonesia
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sebuah pawai budaya, tiga rombongan menampilkan tarian dari daerah masing-masing: rombongan pertama menarikan Tari Saman, rombongan kedua menarikan Tari Pendet, dan rombongan ketiga menarikan Tari Tortor. Apa yang dapat disimpulkan dari pawai itu?
 
 A. Semua daerah di Indonesia mempunyai tarian yang sama persis
@@ -286,6 +302,7 @@ D. Tarian daerah hanya boleh ditampilkan di daerah asalnya saja
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rendang dari Sumatera Barat terbuat dari daging dan santan dengan bumbu rempah yang kuat, gudeg dari Yogyakarta terbuat dari nangka muda yang manis, sedangkan papeda dari Papua terbuat dari sagu. Mengapa makanan khas tiap daerah berbeda-beda?
 
 A. Karena setiap daerah memakai bahan makanan yang tersedia di daerahnya dan cara memasak yang diwariskan turun-temurun
@@ -302,6 +319,7 @@ D. Karena bahan makanan di seluruh Indonesia memang selalu sama, hanya namanya y
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Budaya daerah lain tidak perlu dihargai, karena budaya daerahku sendiri sudah yang paling bagus." Apakah perkataan Dodi benar?
 
 A. Benar, karena setiap orang hanya boleh menghargai budayanya sendiri
@@ -318,6 +336,7 @@ D. Salah; budaya daerah lain harus dihilangkan supaya semua daerah mempunyai bud
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sekolah Sinta akan mengadakan pentas seni. Kelompok Sinta menampilkan tarian dari Jawa Barat dan membutuhkan alat musik tradisional dari daerah yang sama untuk mengiringinya. Alat musik manakah yang paling tepat mereka pilih?
 
 A. Sasando, karena alat musik itu berasal dari Nusa Tenggara Timur
@@ -334,6 +353,7 @@ D. Kolintang, karena alat musik itu berasal dari Minahasa, Sulawesi Utara
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keragaman budaya di Indonesia adalah ....
 
 A. Adanya berbagai macam budaya yang berbeda-beda di tiap daerah, seperti bahasa, pakaian adat, rumah adat, tarian, alat musik, upacara adat, dan makanan khas
@@ -351,6 +371,7 @@ D. Budaya dari luar negeri yang dipakai oleh semua masyarakat Indonesia
 ## Sub-bab E: Menghargai dan Menjaga Keragaman Budaya
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kelas 4, ada teman baru bernama Made dari Bali. Ia berbicara dengan logat yang berbeda dan membawa bekal makanan khas daerahnya. Dodi menertawakan logat Made, sedangkan Rina menyapa Made dengan ramah dan mau mencoba makanan bekalnya. Sikap siapakah yang menunjukkan penghargaan terhadap keragaman budaya?
 
 A. Dodi, karena menertawakan logat teman adalah cara bercanda yang wajar
@@ -367,6 +388,7 @@ D. Keduanya sama-sama tidak menghargai keragaman budaya
 ---
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sekolah Sinta mengadakan pentas seni. Ada dua kelompok yang tampil: Kelompok A menampilkan tari Saman dari Aceh dengan gerakan yang kompak, sedangkan Kelompok B menampilkan tari Kecak dari Bali dengan suara yang merdu. Setelah pentas, Budi berkata, "Tari daerahku yang paling bagus, tari daerah lain tidak usah ditampilkan lagi." Apakah perkataan Budi benar?
 
 A. Benar, karena setiap daerah memang harus menampilkan tariannya yang paling bagus saja
@@ -383,6 +405,7 @@ D. Salah; pentas seni seharusnya tidak menampilkan tarian daerah sama sekali
 ---
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kakek Rani pandai berbahasa Jawa dan sering bercerita memakai bahasa Jawa. Rani malu memakai bahasa Jawa di sekolah karena takut ditertawakan teman. Padahal, bahasa daerah adalah bagian dari budaya yang harus dijaga. Apa yang sebaiknya dilakukan Rani?
 
 A. Berhenti memakai bahasa Jawa selamanya agar tidak ditertawakan
@@ -399,6 +422,7 @@ D. Meminta kakeknya berhenti bercerita memakai bahasa Jawa
 ---
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di dekat rumah Dodi ada sebuah rumah adat yang sudah tua dan mulai rusak. Sebagian warga ingin membongkarnya dan menggantinya dengan bangunan baru, sedangkan sebagian warga ingin merawat dan memperbaikinya agar tetap berdiri. Manakah sikap yang paling tepat untuk menjaga keragaman budaya?
 
 A. Membongkar rumah adat itu, karena bangunan tua tidak berguna lagi
@@ -415,6 +439,7 @@ D. Menjual semua kayu dan ukiran rumah adat itu kepada orang lain
 ---
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Semboyan Bhinneka Tunggal Ika berarti ....
 
 A. Berbeda-beda tetapi tetap satu jua

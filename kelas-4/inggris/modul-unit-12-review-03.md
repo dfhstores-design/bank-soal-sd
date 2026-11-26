@@ -12,6 +12,7 @@
 ## Unit 12: How Often Do You Do the Laundry?
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina asks Budi, "How often do you do the laundry, Budi?" Which is the best answer for Budi?
 
 A. "I am nine years old."
@@ -28,6 +29,7 @@ D. "I like apples."
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "I do always the laundry on Sunday." What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -44,6 +46,7 @@ D. He should say, "I do the laundry on always Sunday."
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani does the laundry twice a week. Budi does the laundry once a week. Who does the laundry more often?
 
 A. Rani, because twice a week is more often than once a week.
@@ -60,6 +63,7 @@ D. Nobody, because they never do the laundry.
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta waters the plants every day. Which sentence is true about Sinta?
 
 A. She never waters the plants.
@@ -76,6 +80,7 @@ D. She always waters the plants.
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina cleans the floor with a broom every morning. What does Rina do every morning?
 
 A. She washes the dishes.
@@ -93,6 +98,7 @@ D. She waters the plants.
 ## Review 3 (Units 9–12)
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "He can swims very fast." What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -109,6 +115,7 @@ D. He should say, "He can swimming very fast."
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read about the season.
 
 "The leaves turn yellow and fall from the trees. The weather is cool, and people wear jackets."
@@ -129,6 +136,7 @@ D. Winter
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina asks Budi, "Do you know how to play chess?" Budi says, "Yes, I do. First, we ____."
 
 Which is the best answer for Budi?
@@ -147,6 +155,7 @@ D. swim in the pool
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Mother asks Sinta, "How often do you do the laundry?" Sinta says, "I do the laundry every Sunday." How often does Sinta do the laundry?
 
 A. Once a year
@@ -163,6 +172,7 @@ D. Once a week
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read about Budi.
 
 "Budi is good at playing chess. He plays chess every Saturday."

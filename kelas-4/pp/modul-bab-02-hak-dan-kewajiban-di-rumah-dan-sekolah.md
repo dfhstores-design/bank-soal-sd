@@ -12,6 +12,7 @@
 ## Sub-bab A: Pengertian Hak dan Kewajiban
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di rumah, Dina mendapatkan kasih sayang, makanan, dan tempat tinggal dari orang tuanya. Semua yang diterima Dina itu termasuk ....
 
 A. Kewajiban Dina
@@ -28,6 +29,7 @@ D. Aturan rumah
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Belajar itu kewajiban, jadi aku belajar hanya kalau sedang ingin saja." Apakah perkataan Budi benar?
 
 A. Benar, karena kewajiban boleh dilakukan kapan saja
@@ -44,6 +46,7 @@ D. Salah, karena belajar itu hadiah dari guru
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua hal berikut.
 
 (1) Sinta mendapat pelajaran dari guru.
@@ -65,6 +68,7 @@ D. Keduanya kewajiban
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Adi ingin bermain sepak bola sepulang sekolah, tetapi ia belum mengerjakan pekerjaan rumahnya. Apa yang sebaiknya dipahami Adi?
 
 A. Adi boleh bermain dulu karena bermain adalah kewajiban
@@ -81,6 +85,7 @@ D. Adi sebaiknya mengerjakan tugas dulu, karena hak didapat setelah kewajiban di
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kewajiban adalah ....
 
 A. Sesuatu yang harus dilaksanakan atau dilakukan seseorang sesuai aturan yang berlaku
@@ -98,6 +103,7 @@ D. Aturan yang hanya berlaku di sekolah
 ## Sub-bab B: Hak dan Kewajiban di Rumah
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani pulang sekolah dan merasa lapar. Ibu sudah menyiapkan makan siang di meja. Makan siang yang disiapkan Ibu itu merupakan ....
 
 A. Kewajiban Rani untuk memasak makan siang sendiri
@@ -114,6 +120,7 @@ D. Kewajiban Rani untuk mencuci piring setelah makan
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Aku berhak bermain sepuasnya, jadi aku tidak perlu merapikan mainan setelah bermain." Apakah perkataan Budi benar?
 
 A. Benar, karena bermain adalah hak anak
@@ -130,6 +137,7 @@ D. Salah; anak tidak boleh bermain sama sekali
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sore hari, Ibu meminta Sinta membantu menyiram tanaman di halaman rumah. Sikap Sinta yang paling tepat adalah ....
 
 A. Membantu Ibu menyiram tanaman
@@ -146,6 +154,7 @@ D. Membantu hanya kalau diberi uang jajan dulu
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan kegiatan berikut.
 
 1. Mendapatkan kasih sayang dari orang tua
@@ -169,6 +178,7 @@ D. 4 saja
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Hak adalah ....
 
 A. Segala sesuatu yang seharusnya diterima oleh seseorang
@@ -186,6 +196,7 @@ D. Tugas yang diberikan guru kepada murid
 ## Sub-bab C: Hak dan Kewajiban di Sekolah
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di kelas 4A, Bu Guru selalu memberi kesempatan bertanya hanya kepada beberapa anak yang duduk di depan. Anak-anak yang duduk di belakang tidak pernah ditanya. Hak murid yang dilanggar dalam kejadian ini adalah ....
 
 A. Hak mendapat pelajaran dari guru
@@ -202,6 +213,7 @@ D. Hak memakai fasilitas sekolah
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi melihat temannya mencoret-coret meja kelas dengan pulpen. Sikap Dodi yang paling tepat sebagai murid adalah ....
 
 A. Ikut mencoret meja supaya terlihat ramai
@@ -218,6 +230,7 @@ D. Mengingatkan temannya dengan sopan agar tidak merusak fasilitas sekolah
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani meminjam buku cerita dari perpustakaan sekolah untuk dibaca di rumah. Ia mengembalikan buku itu tepat waktu dan dalam keadaan baik. Manakah pernyataan yang benar tentang Rani?
 
 A. Rani melaksanakan haknya memakai fasilitas sekolah, dan kewajibannya mengembalikan buku tepat waktu
@@ -234,6 +247,7 @@ D. Rani melaksanakan haknya diperlakukan adil, dan kewajibannya menjaga kebersih
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat jam istirahat, Budi mengambil bola milik Sinta tanpa izin dan memakainya sendiri. Sinta pun tidak bisa bermain. Apa yang dilanggar Budi dalam kejadian ini?
 
 A. Budi melaksanakan haknya bermain saat istirahat
@@ -250,6 +264,7 @@ D. Budi melaksanakan haknya mendapat perlakuan adil dari guru
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Hak adalah ....
 
 A. Sesuatu yang harus dilakukan dengan penuh tanggung jawab

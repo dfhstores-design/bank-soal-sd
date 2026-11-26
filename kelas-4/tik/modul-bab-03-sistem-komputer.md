@@ -12,6 +12,7 @@
 ## Sub-bab A: Hardware (Perangkat Keras)
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan perangkat keras (hardware) komputer?
 A. Program yang memberi perintah kepada komputer
 B. Data yang disimpan di dalam komputer
@@ -22,6 +23,7 @@ D. Orang yang memakai komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab A
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang termasuk perangkat input?
 A. Monitor
 B. Keyboard
@@ -32,6 +34,7 @@ D. Speaker
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab A
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mengetik sebuah cerita di komputer, lalu cerita itu muncul di layar. Perangkat yang menampilkan cerita Rani adalah ....
 A. Monitor
 B. Mouse
@@ -42,6 +45,7 @@ D. CPU
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab A
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perangkat yang disebut "otak komputer" karena memproses semua data dan perintah adalah ....
 A. Monitor
 B. Printer
@@ -52,6 +56,7 @@ D. CPU (prosesor)
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab A
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pak Guru ingin hasil tugas siswa dicetak di atas kertas. Perangkat yang dipakai Pak Guru adalah ....
 A. Speaker
 B. Scanner
@@ -66,6 +71,7 @@ D. Mouse
 ## Sub-bab B: Software (Perangkat Lunak)
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan perangkat lunak (software)?
 A. Bagian komputer yang bisa disentuh dan dipegang
 B. Kumpulan instruksi atau program yang memberi perintah kepada komputer
@@ -76,6 +82,7 @@ D. Kotak tempat menyimpan semua bagian komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab B
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang merupakan perangkat lunak?
 A. Keyboard
 B. Monitor
@@ -86,6 +93,7 @@ D. Mouse
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab B
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menyalakan laptop, lalu muncul tampilan Windows. Windows pada laptop Rani adalah contoh ....
 A. Sistem operasi
 B. Perangkat keras
@@ -96,6 +104,7 @@ D. Permainan
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab B
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi ingin mengetik tugas cerita di komputer. Aplikasi yang paling tepat untuk Budi adalah ....
 A. Paint
 B. Google Chrome
@@ -106,6 +115,7 @@ D. Microsoft Word
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab B
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang BUKAN perangkat lunak?
 A. Google Chrome
 B. Printer
@@ -120,6 +130,7 @@ D. Permainan (game)
 ## Sub-bab C: Brainware (Pengguna)
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan brainware?
 A. Bagian komputer yang bisa dilihat dan disentuh
 B. Manusia yang menggunakan dan mengoperasikan komputer
@@ -130,6 +141,7 @@ D. Alat untuk mencetak tulisan dari komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab C
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah kegiatan berikut yang menunjukkan brainware?
 A. Monitor menampilkan gambar di layar
 B. Microsoft Word digunakan untuk mengetik
@@ -140,6 +152,7 @@ D. Keyboard ditekan lalu huruf muncul di layar
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab C
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah sistem komputer yang lengkap terdiri dari tiga komponen. Ketiga komponen itu adalah ....
 A. Hardware, software, dan brainware
 B. Monitor, keyboard, dan mouse
@@ -150,6 +163,7 @@ D. Internet, listrik, dan brainware
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab C
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di ruang komputer sekolah ada sebuah komputer yang sudah lengkap: ada monitor, keyboard, mouse, dan programnya. Namun, tidak ada satu pun siswa atau guru yang datang hari itu. Apa yang terjadi dengan komputer itu?
 A. Komputer mengerjakan tugas sendiri
 B. Komputer tetap diam dan tidak bisa dipakai
@@ -160,6 +174,7 @@ D. Komputer membuat tugas sendiri untuk siswa
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab C
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Siapa yang memberi perintah agar komputer mengetik huruf yang kita inginkan?
 A. Printer
 B. Monitor
@@ -178,6 +193,7 @@ Soal tambahan ini dibuat mengikuti aturan variasi kuat Andri (25 Nov 2026): soal
 ### Sub-bab A: Hardware (Perangkat Keras)
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani ingin menggambar di komputer. Ia mempunyai keyboard dan mouse. Perangkat mana yang paling membantunya menggambar dan mengapa?
 A. Keyboard, karena keyboard bisa menggambar garis dengan menekan tombol huruf
 B. Mouse, karena mouse bisa menggerakkan kursor dan menggambar bebas di layar
@@ -188,6 +204,7 @@ D. Mouse dan keyboard sama saja, keduanya bisa menggambar dengan sama baiknya
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab A
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** CPU sebuah komputer rusak. Apa yang terjadi pada monitor, keyboard, dan printer?
 A. Semuanya tetap bekerja seperti biasa, hanya lebih lambat
 B. Semuanya tidak bisa bekerja, karena tidak ada yang memproses data dan perintah
@@ -198,6 +215,7 @@ D. Hanya printer yang berhenti, monitor dan keyboard tetap bekerja
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab A
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Printer adalah perangkat input, karena kita memasukkan kertas ke dalamnya." Apakah Dodi benar? Jelaskan.
 A. Benar, karena kertas dimasukkan ke dalam printer
 B. Benar, karena printer menerima kertas dari kita
@@ -210,6 +228,7 @@ D. Salah, karena printer adalah perangkat lunak
 ### Sub-bab B: Software (Perangkat Lunak)
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta ingin membuat undangan ulang tahun yang berisi gambar dan tulisan. Ia mempunyai Paint dan Microsoft Word. Aplikasi mana yang lebih tepat dan mengapa?
 A. Paint, karena Paint bisa mengetik tulisan yang rapi seperti Word
 B. Microsoft Word, karena Word bisa menggabungkan tulisan yang rapi dengan gambar dalam satu undangan
@@ -220,6 +239,7 @@ D. Keduanya sama saja, hasilnya pasti sama
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab B
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Komputer dinyalakan, tetapi sistem operasinya rusak dan tidak bisa dipakai. Apa yang terjadi? Bisakah Budi langsung membuka Microsoft Word?
 A. Ya, Budi bisa langsung membuka Word karena Word tidak butuh sistem operasi
 B. Tidak, karena tanpa sistem operasi aplikasi tidak bisa dijalankan dan komputer tidak bisa dipakai
@@ -230,6 +250,7 @@ D. Ya, tetapi komputer hanya bisa dipakai untuk mengetik saja
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab B
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Google Chrome adalah perangkat keras, karena kita bisa melihatnya di layar." Apakah Raka benar? Jelaskan.
 A. Benar, karena semua yang terlihat di layar adalah perangkat keras
 B. Benar, karena Chrome bisa disentuh dengan jari di layar
@@ -242,6 +263,7 @@ D. Salah, karena Chrome adalah brainware
 ### Sub-bab C: Brainware (Pengguna)
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Semua program di komputer sekolah sudah terpasang lengkap, tetapi tidak ada satu pun orang di sekolah yang tahu cara memakainya. Apa yang terjadi dengan komputer itu?
 A. Komputer tetap bisa dipakai dengan baik, karena programnya sudah lengkap
 B. Komputer bekerja sendiri dan menyelesaikan tugas tanpa bantuan
@@ -252,6 +274,7 @@ D. Komputer otomatis mengajari dirinya sendiri cara bekerja
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 3, Sub-bab C
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** "Komputer di lab sudah paling canggih, jadi tugas pasti selesai dengan baik." Apakah pernyataan ini benar? Jelaskan.
 A. Benar, karena komputer canggih selalu menghasilkan tugas yang baik
 B. Benar, karena komputer canggih tidak pernah membuat kesalahan

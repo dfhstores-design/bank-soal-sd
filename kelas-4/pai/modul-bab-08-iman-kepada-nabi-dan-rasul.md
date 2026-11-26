@@ -12,6 +12,7 @@
 ## Sub-bab A: Pengertian Iman kepada Nabi dan Rasul
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina percaya dengan sepenuh hati bahwa Allah Swt. mengutus para nabi dan rasul untuk membimbing manusia ke jalan yang benar. Ia pun berusaha mengikuti ajaran yang dibawa para rasul. Sikap Dina menunjukkan bahwa ia ....
 
 A. beriman kepada nabi dan rasul
@@ -28,6 +29,7 @@ D. belum beriman kepada nabi dan rasul
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rukun iman ada enam. Raka hafal urutannya: (1) iman kepada Allah, (2) iman kepada malaikat, (3) iman kepada kitab-kitab Allah, (4) iman kepada nabi dan rasul, (5) iman kepada hari akhir, (6) iman kepada qada dan qadar. Iman kepada nabi dan rasul adalah rukun iman yang ke-....
 
 A. kedua
@@ -44,6 +46,7 @@ D. kelima
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Aku percaya Nabi Muhammad Saw. adalah utusan Allah, tetapi ajaran yang dibawanya tidak perlu diikuti." Apakah perkataan Budi benar?
 
 A. Benar, karena percaya saja sudah cukup
@@ -60,6 +63,7 @@ D. Salah; beriman kepada rasul berarti percaya bahwa ajaran yang dibawanya benar
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta mendengar cerita tentang Nabi Ibrahim a.s. yang tetap teguh menyembah Allah meskipun kaumnya menentangnya. Sinta lalu semakin yakin bahwa para nabi dan rasul benar-benar utusan Allah. Apa yang sebaiknya dilakukan Sinta setelah itu?
 
 A. Menghafal nama-nama nabi saja tanpa mengikuti ajarannya
@@ -76,6 +80,7 @@ D. Melupakan kisah itu karena sudah berlalu
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan beriman kepada nabi dan rasul?
 
 A. Menghafal nama-nama nabi dan rasul saja
@@ -93,6 +98,7 @@ D. Percaya bahwa hanya Nabi Muhammad Saw. yang diutus Allah
 ## Sub-bab B: Perbedaan Nabi dan Rasul
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Nabi Adam a.s. menerima wahyu dari Allah Swt. untuk dirinya sendiri, sedangkan Nabi Nuh a.s. menerima wahyu dan wajib menyampaikannya kepada kaumnya. Berdasarkan perbedaan itu, Nabi Adam a.s. dan Nabi Nuh a.s. berturut-turut adalah ....
 
 A. rasul dan nabi
@@ -109,6 +115,7 @@ D. rasul dan rasul
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berkata, "Semua nabi pasti rasul, karena semua nabi menerima wahyu dari Allah." Apakah perkataan Dina benar?
 
 A. Benar, karena nabi dan rasul itu sama saja
@@ -125,6 +132,7 @@ D. Salah; setiap rasul pasti seorang nabi, tetapi tidak semua nabi adalah rasul
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Guru menjelaskan bahwa Nabi Nuh a.s. adalah rasul pertama, sedangkan Nabi Adam a.s. adalah nabi pertama. Apa yang membedakan Nabi Nuh a.s. dari Nabi Adam a.s.?
 
 A. Nabi Nuh a.s. tidak menerima wahyu, Nabi Adam a.s. menerima wahyu
@@ -141,6 +149,7 @@ D. Nabi Nuh a.s. bukan manusia pilihan Allah
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua orang berikut. Orang pertama menerima wahyu dari Allah Swt. dan berdakwah mengajak kaumnya menyembah Allah. Orang kedua menerima wahyu dari Allah Swt. tetapi tidak diperintah untuk menyampaikannya kepada kaumnya. Siapakah orang pertama dan orang kedua itu?
 
 A. Orang pertama rasul, orang kedua nabi
@@ -157,6 +166,7 @@ D. Keduanya rasul
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa perbedaan utama antara nabi dan rasul?
 
 A. Nabi menerima wahyu untuk dirinya sendiri dan tidak wajib menyampaikannya, sedangkan rasul menerima wahyu dan wajib menyampaikannya kepada umat
@@ -174,6 +184,7 @@ D. Nabi tidak menerima wahyu, sedangkan rasul menerima wahyu
 ## Sub-bab C: Nama-Nama Nabi dan Rasul
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Nabi Musa a.s. menerima kitab Taurat, Nabi Daud a.s. menerima kitab Zabur, dan Nabi Isa a.s. menerima kitab Injil. Kitab suci yang diterima Nabi Muhammad Saw. adalah ....
 
 A. Taurat
@@ -190,6 +201,7 @@ D. Al-Qur'an
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Seorang nabi diperintah Allah Swt. untuk membuat bahtera besar karena kaumnya akan ditimpa banjir besar. Nabi yang dimaksud adalah ....
 
 A. Nabi Ibrahim a.s.
@@ -206,6 +218,7 @@ D. Nabi Yunus a.s.
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di antara lima nabi berikut — Nuh, Ibrahim, Musa, Isa, dan Muhammad — ada yang bergelar ulul azmi. Sekarang perhatikan empat nama ini: Hud, Saleh, Yusuf, dan Musa. Manakah yang termasuk rasul ulul azmi?
 
 A. Hud
@@ -222,6 +235,7 @@ D. Musa
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Nabi Adam a.s. adalah manusia pertama dan nabi pertama. Nabi Muhammad Saw. adalah nabi terakhir dan penutup para nabi. Apa yang dapat kita simpulkan dari kedua hal itu?
 
 A. Setelah Nabi Muhammad Saw. masih akan ada nabi lagi
@@ -238,6 +252,7 @@ D. Nabi Adam a.s. adalah rasul terakhir
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jumlah nabi dan rasul sangat banyak, tetapi ada sejumlah nama yang wajib diketahui oleh setiap muslim. Berapa jumlah nabi dan rasul yang wajib diketahui namanya?
 
 A. 10 orang
@@ -255,6 +270,7 @@ D. 100 orang
 ## Sub-bab D: Sifat-Sifat Rasul
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Nabi Muhammad Saw. dijuluki Al-Amin oleh kaumnya jauh sebelum beliau diangkat menjadi rasul, karena beliau selalu menjaga titipan dan tidak pernah mengkhianati kepercayaan orang lain. Sifat rasul yang ditunjukkan oleh julukan Al-Amin adalah ....
 
 A. Siddiq
@@ -271,6 +287,7 @@ D. Fatanah
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka menemukan dompet temannya yang jatuh di halaman sekolah. Ia segera mengembalikannya kepada pemiliknya tanpa mengambil isinya sedikit pun. Sikap Raka meneladani sifat rasul yang mana?
 
 A. Amanah, karena ia menjaga dan mengembalikan titipan yang bukan miliknya
@@ -287,6 +304,7 @@ D. Fatanah, karena ia berpikir cerdas
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Seorang rasul menerima wahyu dari Allah Swt. tentang perintah salat. Ia lalu menyampaikan perintah itu kepada seluruh umatnya tanpa menyembunyikan satu bagian pun. Sifat rasul yang ditunjukkan adalah ....
 
 A. Siddiq
@@ -303,6 +321,7 @@ D. Fatanah
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ketika menghadapi kaum yang menentang dan mengajukan banyak pertanyaan sulit, para rasul selalu dapat menjawab dengan bijaksana dan memberikan jalan keluar yang tepat. Hal itu menunjukkan sifat rasul yang disebut ....
 
 A. Siddiq
@@ -319,6 +338,7 @@ D. Fatanah
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pasangkan sifat wajib rasul dengan sifat mustahil yang menjadi lawannya! Pasangan yang benar adalah ....
 
 A. Siddiq — khianat
@@ -336,6 +356,7 @@ D. Fatanah — kizib
 ## Sub-bab E: Tujuan Diutusnya Para Rasul
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Suatu kaum menyembah berhala dan berbuat zalim kepada sesamanya. Allah Swt. lalu mengutus seorang rasul kepada mereka. Apa tujuan utama rasul itu diutus?
 
 A. Mengumpulkan harta untuk kaumnya
@@ -352,6 +373,7 @@ D. Mengajarkan kaum itu cara berdagang
 ---
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Rasul diutus Allah untuk mencari kekayaan dan kekuasaan bagi dirinya sendiri." Apakah perkataan Dodi benar?
 
 A. Benar, karena rasul adalah pemimpin yang harus kaya
@@ -368,6 +390,7 @@ D. Salah; rasul diutus hanya untuk beribadah sendiri
 ---
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Nabi Musa a.s. diutus untuk kaum Bani Israil, sedangkan Nabi Muhammad Saw. diutus untuk seluruh umat manusia. Apa perbedaan dari kedua hal itu?
 
 A. Para rasul terdahulu diutus untuk kaum tertentu, sedangkan Nabi Muhammad Saw. diutus untuk seluruh umat manusia
@@ -384,6 +407,7 @@ D. Nabi Musa a.s. diutus lebih akhir daripada Nabi Muhammad Saw.
 ---
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Seorang rasul menyampaikan kabar gembira kepada orang yang beriman dan berbuat baik, serta memberi peringatan kepada orang yang berbuat jahat. Apa manfaat dari kabar gembira dan peringatan itu bagi umatnya?
 
 A. Umat menjadi takut dan berhenti beribadah
@@ -400,6 +424,7 @@ D. Umat terdorong berbuat baik dan menjauhi kejahatan
 ---
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa tujuan Allah Swt. mengutus para rasul kepada manusia?
 
 A. Menyampaikan wahyu dan membimbing manusia ke jalan yang benar agar selamat di dunia dan akhirat
@@ -417,6 +442,7 @@ D. Membuat manusia takut kepada para rasul
 ## Sub-bab F: Penerapan Iman kepada Nabi dan Rasul
 
 ### Soal 26
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina memecahkan vas bunga di rumah temannya. Tidak ada yang melihat kejadian itu, tetapi Dina segera mengaku dan meminta maaf kepada pemilik rumah. Sikap Dina meneladani sifat rasul yang mana?
 
 A. Siddiq, karena ia berkata jujur meskipun tidak ada yang melihat
@@ -433,6 +459,7 @@ D. Fatanah, karena ia berpikir cepat
 ---
 
 ### Soal 27
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi dititipi uang kas kelas oleh wali kelas untuk membeli perlengkapan kebersihan. Budi membelanjakannya sesuai amanah dan melaporkan sisa uangnya dengan jujur. Sikap Budi meneladani sifat rasul yang mana?
 
 A. Siddiq
@@ -449,6 +476,7 @@ D. Fatanah
 ---
 
 ### Soal 28
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta baru saja belajar tentang cara wudu yang benar dari guru. Keesokan harinya, ia mengajarkan cara wudu itu kepada adiknya di rumah dengan sabar. Sikap Sinta meneladani sifat rasul yang mana?
 
 A. Siddiq, karena ia berkata jujur
@@ -465,6 +493,7 @@ D. Fatanah, karena ia belajar dengan cepat
 ---
 
 ### Soal 29
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dua teman Raka bertengkar di kelas. Raka tidak ikut memihak, melainkan menenangkan keduanya dan mengusulkan jalan keluar yang adil sehingga mereka berdamai. Sikap Raka meneladani sifat rasul yang mana?
 
 A. Siddiq
@@ -481,6 +510,7 @@ D. Fatanah
 ---
 
 ### Soal 30
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani rajin mempelajari kisah para nabi dan rasul, lalu ia berusaha meneladani akhlak mereka: jujur, dapat dipercaya, dan suka menolong. Apa hikmah yang diperoleh Rani dari imannya kepada nabi dan rasul?
 
 A. Rani menjadi pandai menghafal nama saja

@@ -12,6 +12,7 @@
 ## Sub-bab A: Macam-Macam Aktivitas Fisik
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan kegiatan berikut: (1) berjalan santai ke warung, (2) bermain sepak bola, (3) merapikan tempat tidur, (4) berlari cepat mengejar layang-layang. Kegiatan manakah yang termasuk aktivitas fisik berat, dan mana yang termasuk aktivitas fisik ringan?
 
 A. Berat: berjalan santai dan merapikan tempat tidur; ringan: sepak bola dan berlari cepat
@@ -28,6 +29,7 @@ D. Semua kegiatan itu aktivitas fisik ringan, karena dilakukan anak-anak
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menghabiskan sore harinya dengan bermain kejar-kejaran di lapangan, sedangkan Dodi menghabiskan sore harinya dengan duduk menonton televisi. Siapa yang melakukan aktivitas fisik, dan mengapa?
 
 A. Dodi, karena menonton televisi juga menggerakkan mata
@@ -44,6 +46,7 @@ D. Tidak ada, karena aktivitas fisik hanya dilakukan di sekolah
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi biasanya naik sepeda ke sekolah. Suatu hari sepedanya rusak, sehingga ia berjalan kaki ke sekolah. Apa yang terjadi pada aktivitas fisik Budi hari itu?
 
 A. Budi tidak melakukan aktivitas fisik sama sekali, karena tidak naik sepeda
@@ -60,6 +63,7 @@ D. Budi harus berlari supaya tetap berolahraga
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Menyapu halaman dan membantu ibu mencuci piring itu bukan aktivitas fisik, karena itu pekerjaan rumah, bukan olahraga." Apakah perkataan Sinta benar?
 
 A. Benar, karena pekerjaan rumah bukan olahraga
@@ -76,6 +80,7 @@ D. Salah; pekerjaan rumah hanya termasuk aktivitas fisik kalau dilakukan sambil 
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan aktivitas fisik?
 
 A. Segala gerakan tubuh yang membuat otot bekerja, seperti berjalan, berlari, bermain, dan membantu pekerjaan rumah
@@ -93,6 +98,7 @@ D. Kegiatan yang dilakukan hanya pada jam pelajaran PJOK
 ## Sub-bab B: Aktif dalam Berbagai Aktivitas Fisik
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka setiap hari berjalan kaki ke sekolah, bermain sepak bola saat istirahat, dan membantu ayahnya menyapu halaman di sore hari. Dodi setiap hari diantar motor ke sekolah, duduk di kelas saat istirahat, dan bermain gim di rumah sampai malam. Siapa yang lebih aktif bergerak, dan mengapa?
 
 A. Dodi, karena bermain gim juga menggerakkan jari
@@ -109,6 +115,7 @@ D. Tidak ada, karena keduanya tidak berolahraga di lapangan
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina ingin mulai berolahraga lari pagi sebelum berangkat sekolah. Apa yang paling tepat ia lakukan sebelum mulai berlari?
 
 A. Langsung berlari secepat mungkin supaya cepat selesai
@@ -125,6 +132,7 @@ D. Berlari tanpa alas kaki supaya kakinya kuat
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi sedang bermain bola di lapangan pada siang yang terik. Ia merasa pusing, napasnya terengah-engah, dan kakinya lemas. Apa yang sebaiknya Budi lakukan?
 
 A. Terus bermain sampai pertandingan selesai, karena berhenti berarti kalah
@@ -141,6 +149,7 @@ D. Duduk di tengah lapangan sambil menunggu pusingnya hilang sendiri tanpa minum
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Anak yang aktif itu hanya anak yang ikut klub olahraga. Anak yang tidak ikut klub tidak bisa disebut aktif." Apakah perkataan Sinta benar?
 
 A. Benar, karena hanya klub olahraga yang melatih tubuh
@@ -157,6 +166,7 @@ D. Salah; anak yang aktif itu hanya anak yang berlari setiap pagi
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah kegiatan berikut yang menunjukkan anak aktif dalam berbagai aktivitas fisik?
 
 A. Bermain gim di kamar sepanjang hari
@@ -174,6 +184,7 @@ D. Tidur siang sampai sore setiap hari
 ## Sub-bab C: Pentingnya Kebugaran Jasmani
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani berlari mengelilingi lapangan tiga kali tanpa berhenti dan napasnya tetap teratur. Budi baru berlari setengah lapangan sudah terengah-engah dan harus berhenti. Apa yang membedakan Rani dan Budi?
 
 A. Rani lebih tinggi badannya daripada Budi
@@ -190,6 +201,7 @@ D. Rani memakai sepatu yang lebih mahal daripada Budi
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina ingin melatih kekuatan otot lengannya, sedangkan Sinta ingin melatih kelenturan tubuhnya. Latihan manakah yang paling tepat untuk masing-masing?
 
 A. Dina: peregangan; Sinta: push-up
@@ -206,6 +218,7 @@ D. Dina: duduk diam; Sinta: tidur siang
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sejak rajin berolahraga, Andi merasa lebih mudah berkonsentrasi saat belajar dan tidur lebih nyenyak di malam hari. Mengapa olahraga bisa berpengaruh pada belajar dan tidur Andi?
 
 A. Karena olahraga membuat Andi lupa pada pelajaran
@@ -222,6 +235,7 @@ D. Karena olahraga membuat Andi mengantuk sepanjang hari
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Kebugaran jasmani itu hanya penting untuk atlet. Anak biasa tidak perlu bugar, yang penting bisa bermain." Apakah perkataan Raka benar?
 
 A. Benar, karena hanya atlet yang perlu berlari cepat
@@ -238,6 +252,7 @@ D. Salah; anak biasa justru tidak boleh berolahraga
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan kebugaran jasmani?
 
 A. Kondisi tubuh yang sehat dan kuat, sehingga mampu melakukan berbagai aktivitas sehari-hari tanpa cepat merasa lelah

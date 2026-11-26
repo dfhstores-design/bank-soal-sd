@@ -12,6 +12,7 @@
 ## Sub-bab A: Pengertian Gaya
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan gaya?
 
 A. Tarikan atau dorongan yang diberikan pada suatu benda
@@ -28,6 +29,7 @@ D. Bunyi yang dihasilkan benda saat dipukul
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi membuka pintu kamarnya dengan menarik gagang pintu ke arah badannya. Setelah masuk, ia menutup pintu itu dengan mendorongnya menjauhi badannya. Pasangan gaya yang benar untuk kedua kegiatan itu adalah ....
 
 A. Membuka pintu = dorongan; menutup pintu = tarikan
@@ -44,6 +46,7 @@ D. Membuka pintu = dorongan; menutup pintu = dorongan
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta berkata, "Gaya itu hanya dorongan. Menarik benda bukan gaya, karena bendanya ditarik, bukan didorong." Apakah perkataan Sinta benar?
 
 A. Benar, karena gaya hanya bisa mendorong benda menjauh
@@ -60,6 +63,7 @@ D. Salah; menarik benda bukan gaya, tetapi mendorong benda juga bukan gaya
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina menarik kursi ke arah dirinya, sedangkan Budi mendorong kursi yang sama menjauhi dirinya. Manakah kegiatan yang menggunakan gaya tarik?
 
 A. Kegiatan Rina, karena kursi bergerak mendekati tubuhnya
@@ -76,6 +80,7 @@ D. Tidak ada, karena kursi hanya bisa digerakkan dengan dorongan
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sebuah gerobak berisi buku diam di tempat. Ayah mendorong gerobak itu dari belakang, dan gerobak pun bergerak maju. Gaya apa yang bekerja pada gerobak, dan apa buktinya?
 
 A. Tarikan; buktinya gerobak bergerak mendekati ayah
@@ -93,6 +98,7 @@ D. Dorongan; buktinya gerobak yang semula diam menjadi bergerak
 ## Sub-bab B: Pengaruh Gaya terhadap Gerak Benda
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina dan Sinta sama-sama mendorong ayunan yang diam. Rina mendorong pelan, Sinta mendorong kuat. Ayunan yang didorong Sinta bergerak lebih jauh daripada ayunan yang didorong Rina. Apa kesimpulan yang tepat dari kejadian itu?
 
 A. Gaya tidak memengaruhi gerak ayunan
@@ -109,6 +115,7 @@ D. Gaya hanya bisa menghentikan benda yang bergerak
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Seorang kiper menangkap bola yang meluncur kencang ke arah gawang. Setelah ditangkap, bola berhenti di tangan kiper. Pengaruh gaya apakah yang terjadi pada bola itu?
 
 A. Benda diam menjadi bergerak
@@ -125,6 +132,7 @@ D. Benda bergerak menjadi diam
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Saat aku menekan plastisin sampai pipih, itu berarti gaya mengubah arah gerak plastisin." Apakah perkataan Dodi benar?
 
 A. Salah; menekan plastisin mengubah bentuk benda, bukan arah geraknya
@@ -141,6 +149,7 @@ D. Benar; plastisin yang ditekan akan bergerak ke arah lain
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pemain kasti memukul bola yang meluncur ke arahnya. Bola yang tadinya meluncur ke arah pemain, setelah dipukul meluncur kembali ke arah pelempar. Pengaruh gaya apakah yang terjadi pada bola itu?
 
 A. Benda diam menjadi bergerak
@@ -157,6 +166,7 @@ D. Arah gerak benda berubah
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Berikut ini yang merupakan pengaruh gaya terhadap gerak benda adalah ....
 
 A. Mengubah warna benda
@@ -174,6 +184,7 @@ D. Membuat benda menjadi lebih besar
 ## Sub-bab C: Menyelidiki Gaya Gesek
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mendorong sebuah kardus kosong dengan dorongan yang sama, sekali di lantai keramik yang licin dan sekali di atas karpet. Di mana kardus itu berhenti lebih cepat?
 
 A. Di lantai keramik, karena permukaannya licin sehingga gaya geseknya besar.
@@ -190,6 +201,7 @@ D. Di lantai keramik, karena kardus menjadi lebih berat saat berada di atas karp
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta meluncurkan sebuah kelereng dengan dorongan yang sama di tiga lintasan: kertas amplas, papan kayu, dan kain licin. Urutan jarak luncuran kelereng dari yang paling jauh ke yang paling pendek adalah ....
 
 A. Kertas amplas – papan kayu – kain licin
@@ -206,6 +218,7 @@ D. Kain licin – papan kayu – kertas amplas
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Gaya gesek itu selalu merugikan karena menghambat gerak benda." Apakah perkataan Dodi benar?
 
 A. Benar, karena gesekan membuat semua benda menjadi sulit bergerak.
@@ -222,6 +235,7 @@ D. Salah; gaya gesek hanya terjadi pada ban kendaraan, bukan pada benda lain.
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah hujan, jalan di depan sekolah menjadi licin dan beberapa anak terpeleset. Agar anak-anak tidak terpeleset, tindakan yang paling tepat adalah ....
 
 A. Menaburkan pasir di atas jalan yang licin.
@@ -238,6 +252,7 @@ D. Memasang roda di bawah sepatu anak-anak.
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Gaya gesek adalah ....
 
 A. Gaya tarik benda oleh magnet.
@@ -255,6 +270,7 @@ D. Gaya yang membuat benda jatuh ke tanah.
 ## Sub-bab D: Menyelidiki Gaya Magnet
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta melakukan percobaan. Ia mendekatkan sebuah magnet ke empat benda yang tersebar di atas meja: paku besi, kancing plastik, pensil kayu, dan koin aluminium. Benda manakah yang akan menempel pada magnet?
 
 A. Kancing plastik dan pensil kayu
@@ -271,6 +287,7 @@ D. Keempat benda itu semuanya
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani memegang dua magnet batang. Mula-mula ia mendekatkan ujung kutub utara magnet pertama ke ujung kutub utara magnet kedua, dan kedua magnet itu saling menjauh. Lalu ia membalik salah satu magnet sehingga kutub utara bertemu kutub selatan, dan kedua magnet itu saling menempel. Apa kesimpulan dari percobaan Rani?
 
 A. Semua kutub magnet selalu tarik-menarik
@@ -287,6 +304,7 @@ D. Magnet hanya bekerja jika kedua ujungnya sama
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jarum jahit Dodi terjatuh dan terselip di antara tumpukan kertas di lantai. Ia tidak mau mengobrak-abrik kertas itu satu per satu. Alat dan cara manakah yang paling tepat untuk menemukan jarum itu?
 
 A. Menyapu kertas dengan sapu lidi, karena jarum akan ikut tersapu
@@ -303,6 +321,7 @@ D. Menunggu sampai jarum itu bergerak sendiri keluar dari tumpukan kertas
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi memperhatikan kompas ayahnya. Ke mana pun kompas itu dibawa dan diputar, jarumnya selalu kembali menunjuk arah utara dan selatan. Mengapa jarum kompas selalu begitu?
 
 A. Karena jarum kompas adalah magnet kecil yang tertarik oleh medan magnet Bumi
@@ -319,6 +338,7 @@ D. Karena jarum kompas ditempeli lem yang mengarah ke utara
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setiap magnet memiliki dua ujung yang disebut kutub. Dua kutub magnet itu adalah ....
 
 A. Kutub timur dan kutub barat

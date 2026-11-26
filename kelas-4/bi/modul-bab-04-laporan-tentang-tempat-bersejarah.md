@@ -12,6 +12,7 @@
 ## Sub-bab A: Menyimak Teks Laporan Perjalanan
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Simaklah teks laporan perjalanan berikut.
 
 "Sabtu lalu, kelas kami berkunjung ke Museum Nasional di Jakarta. Di sana kami melihat prasasti batu kuno, arca-arca dari zaman kerajaan, dan keris-keris yang indah. Pemandu menjelaskan bahwa prasasti itu berisi tulisan dari zaman dahulu. Kami juga melihat naskah kuno yang ditulis di atas daun lontar."
@@ -32,6 +33,7 @@ D. Keris, tombak, dan sepeda motor zaman dahulu
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Simaklah dua teks laporan perjalanan berikut.
 
 > Laporan 1: "Kami berkunjung ke Candi Borobudur di Magelang, Jawa Tengah. Candi itu terbuat dari batu andesit. Di sana kami melihat banyak stupa dan arca Buddha."
@@ -54,6 +56,7 @@ D. Monas tingginya 132 meter dan terbuat dari batu andesit
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Simaklah teks laporan perjalanan berikut.
 
 "Pada hari Sabtu pagi, kami berkunjung ke Candi Prambanan di Yogyakarta. Pemandu kami bernama Pak Agus. Beliau menjelaskan bahwa di Candi Prambanan terdapat relief yang menceritakan kisah Ramayana. Kami juga melihat tiga candi utama untuk Dewa Brahma, Wisnu, dan Siwa."
@@ -76,6 +79,7 @@ D. Tiga candi utama seharusnya empat candi utama
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi dan Sinta menyimak laporan perjalanan yang sama tentang kunjungan ke Monumen Nasional (Monas). Isi laporan itu: Monas terletak di Jakarta, tingginya 132 meter, puncaknya dilapisi emas, dan dibangun untuk mengenang perjuangan rakyat Indonesia.
 
 Catatan Budi: "Monas di Jakarta, tinggi 132 meter."
@@ -98,6 +102,7 @@ D. Keduanya sama baiknya, karena sama-sama menyebut tempat dan tinggi Monas
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan laporan perjalanan?
 
 A. Cerita khayalan tentang perjalanan ke tempat yang tidak pernah ada
@@ -115,6 +120,7 @@ D. Daftar nama tempat wisata di sebuah kota
 ## Sub-bab B: Membaca Teks Laporan Perjalanan
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks laporan perjalanan berikut.
 
 > Pada hari Sabtu, 12 Oktober, kelas 4 mengunjungi Museum Nasional di Jakarta. Kami berangkat pukul 07.00 dan tiba pukul 08.30. Di sana kami melihat koleksi arca, prasasti, dan benda-benda peninggalan kerajaan. Yang paling menarik bagi kami adalah arca Ganesha dari abad ke-9. Bentuknya masih utuh dan ukirannya sangat halus, padahal arca itu sudah berumur lebih dari seribu tahun. Kami pulang pukul 12.00.
@@ -135,6 +141,7 @@ D. Arca itu ditemukan di halaman sekolah penulis laporan.
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah dua teks laporan perjalanan berikut.
 
 > Laporan 1: Pada hari Minggu, kelas 4 mengunjungi Candi Prambanan di Yogyakarta. Di sana kami melihat tiga candi utama, yaitu Candi Siwa, Candi Brahma, dan Candi Wisnu. Candi Siwa adalah candi yang paling tinggi di antara ketiganya.
@@ -157,6 +164,7 @@ D. Candi Brahma adalah candi yang paling tinggi di Prambanan.
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks laporan perjalanan berikut.
 
 > Pada hari Rabu, kelas 4 mengunjungi Candi Borobudur di Magelang, Jawa Tengah. Candi Borobudur dibangun pada abad ke-9. Di candi itu terdapat 72 stupa berlubang, dan di dalam setiap stupa ada patung Buddha. Kami mendaki candi sampai ke tingkat paling atas sambil melihat relief yang menceritakan kehidupan zaman dahulu.
@@ -177,6 +185,7 @@ D. Salah; menurut laporan, Candi Borobudur dibangun pada abad ke-9 tetapi tidak 
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks laporan perjalanan berikut.
 
 > Pada hari Sabtu, kelas 4 mengunjungi Monumen Nasional (Monas) di Jakarta. Kami berangkat dari sekolah pukul 07.00 dan tiba di Monas pukul 08.00. Setelah membeli tiket, kami naik lift ke puncak monumen dan melihat pemandangan Kota Jakarta dari atas. Kemudian kami turun dan makan siang bersama di taman sekitar Monas. Kami pulang pukul 13.00.
@@ -197,6 +206,7 @@ D. Berangkat dari sekolah → makan siang → membeli tiket → naik lift ke pun
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Laporan perjalanan adalah ....
 
 A. Tulisan berisi hasil pengamatan atau pengalaman selama melakukan perjalanan ke suatu tempat.
@@ -214,6 +224,7 @@ D. Daftar belanja yang dibawa selama perjalanan.
 ## Sub-bab C: Menceritakan Kembali Isi Teks Laporan Perjalanan
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks laporan perjalanan berikut.
 
 "Pagi hari, kami tiba di Museum Fatahillah di Jakarta. Pertama, kami melihat meriam Si Jagur di halaman museum. Setelah itu, kami masuk ke ruang penjara bawah tanah dan membayangkan kehidupan tahanan zaman dahulu. Terakhir, kami melihat koleksi keramik kuno di dalam museum."
@@ -234,6 +245,7 @@ D. Belum tepat, karena ia tidak menyebutkan warna keramik kuno itu.
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks laporan perjalanan berikut.
 
 "Pada hari Sabtu, kelas kami mengunjungi Candi Borobudur di Magelang. Kami naik ke atas candi melalui tangga dan melihat relief yang menceritakan kisah kehidupan Buddha. Dari puncak candi, kami melihat pemandangan sawah dan perbukitan yang indah. Kami pulang dengan rasa kagum."
@@ -254,6 +266,7 @@ D. "Pada hari Sabtu, kelas kami mengunjungi Candi Borobudur di Magelang. Kami na
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani dan Budi menceritakan kembali laporan perjalanan ke Monumen Nasional. Teks aslinya berbunyi: "Minggu lalu, aku dan keluargaku mengunjungi Monumen Nasional di Jakarta. Kami naik lift sampai ke puncak tugu dan melihat pemandangan kota Jakarta dari ketinggian. Setelah itu, kami turun dan melihat diorama sejarah perjuangan bangsa di museum bawah tugu. Aku jadi semakin bangga menjadi anak Indonesia."
 
 Rani bercerita: "Minggu lalu, aku dan keluargaku pergi ke Monas di Jakarta. Kami naik lift ke puncak untuk melihat kota dari atas, lalu melihat diorama sejarah perjuangan di museum bawah tugu. Aku semakin bangga menjadi anak Indonesia."
@@ -276,6 +289,7 @@ D. Rani, karena ia menyalin teks asli kata demi kata.
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah teks laporan perjalanan berikut.
 
 "Candi Prambanan dibangun pada abad ke-9 dan merupakan candi Hindu terbesar di Indonesia. Kami mengunjungi candi itu bersama guru dan teman-teman. Kami melihat relief Ramayana yang terukir di dinding candi."
@@ -296,6 +310,7 @@ D. Candi Prambanan akan berpindah ke tempat lain.
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan menceritakan kembali isi teks laporan perjalanan?
 
 A. Menyalin teks laporan perjalanan kata demi kata tanpa mengubah apa pun.
@@ -313,6 +328,7 @@ D. Menghafal teks laporan perjalanan lalu mengucapkannya dengan cepat.
 ## Sub-bab D: Menulis Teks Laporan Perjalanan
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rudi menulis laporan kunjungan ke Candi Borobudur. Ia menyusun laporannya seperti ini:
 
 1. Kesan dan saran untuk kunjungan berikutnya.
@@ -335,6 +351,7 @@ D. Tujuan kunjungan tidak perlu ditulis dalam laporan perjalanan.
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah laporan singkat berikut.
 
 "Kami mengunjungi Museum Fatahillah. Kami melihat koleksi senjata dan foto-foto lama. Kami sangat senang."
@@ -355,6 +372,7 @@ D. Di mana museum itu berada.
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi menulis dua draf bagian akhir untuk laporan kunjungannya ke Monas.
 
 Draf 1: "Aku senang bisa melihat Monas dari dekat dan belajar bahwa Monas dibangun untuk mengenang perjuangan rakyat Indonesia. Lain kali, aku ingin mengajak keluargaku ke sana."
@@ -377,6 +395,7 @@ D. Keduanya sama baiknya sebagai bagian akhir laporan.
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah laporan Lani berikut.
 
 "Kami berangkat pukul 07.00 dengan bus sekolah. Di Lawang Sewu, pemandu menjelaskan bahwa gedung ini dulu kantor kereta api. Setelah itu, kami melihat seribu pintu dan berfoto bersama. Lalu kami naik kereta api ke Bandung."
@@ -397,6 +416,7 @@ D. Lani tidak menyebutkan nama pemandu wisata.
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan teks laporan perjalanan?
 
 A. Tulisan berisi hasil kunjungan atau perjalanan ke suatu tempat berdasarkan pengamatan atau pengalaman, ditulis dalam bahasa Indonesia yang baik dan benar.

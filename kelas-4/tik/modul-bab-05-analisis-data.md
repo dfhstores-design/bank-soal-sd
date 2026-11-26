@@ -12,6 +12,7 @@
 ## Sub-bab A: Data
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan data?
 A. Cerita yang dibuat-buat tanpa bukti
 B. Kumpulan fakta, angka, atau informasi yang diperoleh dari pengamatan
@@ -22,6 +23,7 @@ D. Gambar yang dipajang di dinding kelas
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab A
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang merupakan data berupa angka?
 A. Warna biru
 B. Nama "Sinta"
@@ -32,6 +34,7 @@ D. Gambar kucing
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab A
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Guru mencatat warna kesukaan siswa kelas 4: 8 siswa suka biru, 6 siswa suka merah, dan 5 siswa suka hijau. Catatan guru itu adalah contoh ....
 A. Data
 B. Permainan
@@ -42,6 +45,7 @@ D. Lagu
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab A
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani ingin tahu makanan kesukaan teman-teman sekelasnya. Cara yang tepat untuk mendapatkan data itu adalah ....
 A. Menebak-nebak sendiri tanpa bertanya
 B. Bertanya langsung kepada teman-temannya dan mencatat jawabannya
@@ -52,6 +56,7 @@ D. Menunggu sampai ada yang memberitahu tanpa bertanya
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab A
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang BUKAN data berupa angka?
 A. Nilai ulangan 90
 B. Tinggi badan 130 cm
@@ -66,6 +71,7 @@ D. Nama hewan peliharaan "Milo"
 ## Sub-bab B: Data dalam Bentuk Diagram
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan diagram batang?
 A. Tabel yang berisi baris dan kolom untuk menunjukkan data
 B. Penyajian data dengan batang-batang persegi panjang yang tingginya menunjukkan banyak data
@@ -76,6 +82,7 @@ D. Garis yang menghubungkan titik-titik data dari waktu ke waktu
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab B
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang "Warna Kesukaan Siswa Kelas 4" menunjukkan data berikut: Merah 6 siswa, Biru 10 siswa, Hijau 8 siswa, Kuning 4 siswa. Berapa banyak siswa yang menyukai warna biru?
 A. 4 siswa
 B. 6 siswa
@@ -86,6 +93,7 @@ D. 10 siswa
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab B
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang "Jumlah Siswa Kelas 4" menunjukkan data berikut: Kelas 4A 24 siswa, Kelas 4B 28 siswa, Kelas 4C 20 siswa, Kelas 4D 26 siswa. Kelas manakah yang jumlah siswanya paling banyak?
 A. Kelas 4A
 B. Kelas 4B
@@ -96,6 +104,7 @@ D. Kelas 4D
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab B
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang "Kegiatan Ekstrakurikuler yang Diikuti Siswa Kelas 4" menunjukkan data berikut: Sepak Bola 14 siswa, Pramuka 10 siswa, Tari 6 siswa, Melukis 8 siswa. Berapa selisih banyak siswa yang mengikuti Sepak Bola dan Tari?
 A. 8 siswa
 B. 4 siswa
@@ -106,6 +115,7 @@ D. 10 siswa
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab B
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang "Buku yang Dipinjam dari Perpustakaan" menunjukkan data berikut: Senin 12 buku, Selasa 18 buku, Rabu 15 buku. Berapa jumlah seluruh buku yang dipinjam selama tiga hari itu?
 A. 35 buku
 B. 40 buku
@@ -124,6 +134,7 @@ Soal tambahan ini dibuat mengikuti aturan variasi kuat: soal menuntut anak menal
 ### Sub-bab A: Data
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani hanya bertanya kepada 3 dari 30 teman sekelasnya tentang makanan kesukaan, lalu ia menyimpulkan makanan kesukaan seluruh kelas. Apakah kesimpulan Rani bisa dipercaya?
 A. Ya, karena 3 teman sudah cukup mewakili seluruh kelas
 B. Tidak, karena datanya terlalu sedikit dan tidak mewakili seluruh kelas
@@ -134,6 +145,7 @@ D. Tidak, karena makanan kesukaan tidak bisa dihitung
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab A
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta mengukur tinggi badan teman-temannya dengan meteran, sedangkan Dodi menebak tinggi badan dari penampilan. Cara siapa yang datanya lebih dapat dipercaya dan mengapa?
 A. Dodi, karena menebak lebih cepat daripada mengukur
 B. Sinta, karena datanya berasal dari pengukuran nyata, bukan tebakan
@@ -146,6 +158,7 @@ D. Dodi, karena penampilan sudah cukup untuk mengetahui tinggi badan
 ### Sub-bab B: Data dalam Bentuk Diagram
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang "Warna Kesukaan Siswa Kelas 4" menunjukkan data berikut: Merah 6 siswa, Biru 10 siswa, Hijau 8 siswa, Kuning 4 siswa. Warna apa yang paling sedikit disukai, dan apa yang sebaiknya dilakukan guru kalau mau membeli kertas warna untuk kelas?
 A. Kuning paling sedikit (4 siswa); guru sebaiknya membeli kertas biru paling banyak dan kertas kuning paling sedikit
 B. Merah paling sedikit (6 siswa); guru sebaiknya membeli kertas merah paling banyak
@@ -156,6 +169,7 @@ D. Hijau paling sedikit (8 siswa); guru sebaiknya membeli semua warna sama banya
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab B
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Diagram batang "Kegiatan Ekstrakurikuler yang Diikuti Siswa Kelas 4" menunjukkan data berikut: Sepak Bola 14 siswa, Pramuka 10 siswa, Tari 6 siswa, Melukis 8 siswa. Kemudian ada 4 siswa yang pindah dari kegiatan lain ke Sepak Bola. Berapa banyak siswa Sepak Bola sekarang, dan apakah Sepak Bola masih menjadi kegiatan yang paling banyak diikuti?
 A. 18 siswa; ya, masih paling banyak
 B. 10 siswa; tidak, Pramuka sekarang paling banyak
@@ -166,6 +180,7 @@ D. 18 siswa; tidak, Tari sekarang paling banyak
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 5, Sub-bab B
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menggambar diagram batang, tetapi batang "6 siswa" digambar lebih tinggi daripada batang "10 siswa". Apa yang salah dari diagram Dina, dan mengapa diagram seperti itu bisa menyesatkan orang yang membacanya?
 A. Tidak ada yang salah; tinggi batang boleh bebas asalkan warnanya berbeda
 B. Salah; tinggi batang harus sesuai dengan nilainya, kalau tidak pembaca bisa mengira yang 6 lebih banyak dari yang 10

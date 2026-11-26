@@ -13,6 +13,7 @@
 ## Sub-bab A: Pengertian Norma
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Raka berkata, "Norma itu aturan yang boleh dilanggar kalau tidak ada yang melihat." Apakah perkataan Raka benar?
 
 A. Benar, karena norma hanya berlaku kalau ada yang mengawasi
@@ -29,6 +30,7 @@ D. Salah; norma hanya berlaku di sekolah, bukan di rumah
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sekolah ada aturan tertulis: "Siswa wajib memakai seragam." Di masyarakat ada aturan tidak tertulis: "Berbicaralah dengan sopan kepada orang yang lebih tua." Manakah pernyataan yang benar tentang kedua aturan itu?
 
 A. Hanya aturan tertulis yang disebut norma, karena aturan tidak tertulis bukan aturan
@@ -45,6 +47,7 @@ D. Keduanya bukan norma, karena norma hanya ada di dalam buku pelajaran
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sebuah kelas, tidak ada satu pun aturan atau norma yang berlaku: siswa boleh berteriak, boleh mengambil barang teman, dan boleh keluar masuk kelas sesuka hati. Apa yang kemungkinan besar terjadi di kelas itu?
 
 A. Kelas menjadi lebih menyenangkan karena semua bebas
@@ -61,6 +64,7 @@ D. Tidak terjadi apa-apa, karena aturan tidak memengaruhi suasana kelas
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berkata, "Norma itu hanya untuk orang dewasa. Anak-anak belum perlu mengikuti norma." Apakah perkataan Dina benar?
 
 A. Benar, karena anak-anak belum bisa memahami aturan
@@ -77,6 +81,7 @@ D. Salah; anak-anak hanya terikat norma di rumah, bukan di sekolah
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan norma?
 
 A. Aturan atau ketentuan yang mengikat warga kelompok dalam masyarakat
@@ -94,6 +99,7 @@ D. Nama sebuah permainan tradisional
 ## Sub-bab B: Macam-Macam Norma
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan empat perbuatan berikut: (1) melaksanakan salat lima waktu, (2) berkata jujur kepada teman, (3) mengucapkan salam saat bertemu guru, (4) berhenti saat lampu lalu lintas merah. Perbuatan manakah yang termasuk norma agama, dan mengapa?
 
 A. Perbuatan (2), karena kejujuran berasal dari hati nurani
@@ -110,6 +116,7 @@ D. Perbuatan (4), karena lampu lalu lintas dibuat oleh negara
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berbicara kasar kepada orang yang lebih tua. Andi mencuri sepeda temannya. Sanksi apa yang menanti masing-masing perbuatan itu?
 
 A. Keduanya sama: sama-sama dihukum penjara
@@ -126,6 +133,7 @@ D. Keduanya tidak mendapat sanksi apa pun, karena keduanya masih anak-anak
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina berkata, "Mencuri itu hanya melanggar norma kesopanan, karena mencuri itu perbuatan yang tidak sopan." Apakah perkataan Dina benar?
 
 A. Benar, karena mencuri memang perbuatan yang tidak sopan
@@ -142,6 +150,7 @@ D. Salah; mencuri tidak melanggar norma apa pun
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Setelah berbohong kepada ibunya, Sinta merasa tidak tenang dan menyesal sepanjang hari, padahal tidak ada yang memarahinya. Perasaan Sinta itu menunjukkan berlakunya norma yang mana?
 
 A. Norma hukum, karena berbohong bisa dihukum penjara
@@ -158,7 +167,7 @@ D. Norma agama, karena berbohong langsung dihukum Tuhan di dunia
 ---
 
 ### Soal 10
-<!-- Metadata soal: {"rujukan":"PAI Kelas 4, Bab 4, Sub-bab B\n## Sub-bab C: Manfaat Norma dalam Kehidupan"} -->
+<!-- Metadata soal: {"rujukan":"PAI Kelas 4, Bab 4, Sub-bab B\n## Sub-bab C: Manfaat Norma dalam Kehidupan","status":"lolos"} -->
 **Pertanyaan:** Raka bertemu gurunya di pagi hari. Ia tersenyum dan mengucapkan, "Selamat pagi, Bu." Perbuatan Raka termasuk norma yang mana?
 
 A. Norma hukum, karena ada aturannya di undang-undang
@@ -262,6 +271,7 @@ D. (1) dan (3)
 ## Sub-bab C: Manfaat Norma dalam Kehidupan
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sebuah persimpangan, tidak ada satu pun pengendara yang mematuhi lampu lalu lintas: semua menerobos saat lampu merah. Apa yang kemungkinan besar terjadi?
 
 A. Lalu lintas menjadi lebih cepat dan lancar
@@ -278,6 +288,7 @@ D. Tidak terjadi apa-apa, karena lampu lalu lintas tidak penting
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kelas 4A mematuhi aturan kelas: antre saat ke kantin, tidak berteriak, dan mengembalikan barang pinjaman. Kelas 4B tidak mematuhi aturan apa pun. Kelas mana yang suasananya lebih mendukung belajar, dan mengapa?
 
 A. Kelas 4B, karena bebas tanpa aturan membuat anak lebih kreatif
@@ -294,6 +305,7 @@ D. Kelas 4B, karena aturan kelas hanya membatasi gerak siswa
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi berkata, "Norma itu membatasi kebebasan kita, jadi hidup akan lebih baik kalau tidak ada norma sama sekali." Apakah perkataan Budi benar?
 
 A. Benar, karena tanpa norma semua orang bebas berbuat apa saja
@@ -310,6 +322,7 @@ D. Salah; norma memang membatasi kebebasan, tetapi itu tidak ada manfaatnya
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Saat istirahat, Dina mengantre dengan tertib di kantin walaupun antreannya panjang. Ia tidak menyerobot ke depan. Manfaat norma apa yang terlihat dari sikap Dina?
 
 A. Norma membuat antrean menjadi lebih panjang
@@ -326,6 +339,7 @@ D. Norma membuat kantin menjadi sepi
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah di bawah ini yang merupakan manfaat mematuhi norma dalam kehidupan sehari-hari?
 
 A. Kehidupan menjadi kacau dan tidak teratur

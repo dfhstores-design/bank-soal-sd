@@ -12,6 +12,7 @@
 ## Sub-bab A: Musim dan Iklim di Indonesia
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Selama bulan Juli, di desa Sinta langit cerah setiap hari, matahari terasa sangat terik, dan tanah di sawah mulai kering dan retak. Musim apa yang sedang terjadi di desa Sinta?
 
 A. Musim hujan, karena bulan Juli termasuk musim hujan
@@ -28,6 +29,7 @@ D. Musim semi, karena bunga-bunga bermekaran
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi mempunyai saudara di Jepang. Pada bulan Januari, saudaranya mengirim foto sedang bermain salju di halaman rumahnya. Dodi heran, karena di Indonesia pada bulan Januari tidak pernah turun salju. Mengapa hal itu bisa terjadi?
 
 A. Karena Jepang lebih dekat dengan matahari daripada Indonesia
@@ -44,6 +46,7 @@ D. Karena salju hanya turun di desa, bukan di kota
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Indonesia terletak di garis khatulistiwa, sehingga disinari matahari sepanjang tahun. Apa akibatnya bagi musim di Indonesia?
 
 A. Indonesia memiliki empat musim seperti negara di Eropa
@@ -60,6 +63,7 @@ D. Indonesia memiliki musim salju setiap bulan Desember
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani berkata, "Musim hujan di Indonesia terjadi pada bulan April sampai September, sedangkan musim kemarau terjadi pada bulan Oktober sampai Maret." Apakah perkataan Rani benar?
 
 A. Benar, karena musim hujan selalu datang setelah musim kemarau
@@ -76,6 +80,7 @@ D. Salah; di Indonesia tidak ada musim hujan maupun musim kemarau
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Iklim adalah ....
 
 A. Keadaan udara di suatu tempat pada hari ini saja
@@ -93,6 +98,7 @@ D. Suhu udara yang terasa panas pada siang hari
 ## Sub-bab B: Pentingnya Memprediksi Musim
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** BMKG memperkirakan musim hujan tahun ini datang lebih lambat dari biasanya. Pak Tono seorang petani padi di desanya. Apa yang sebaiknya dilakukan Pak Tono?
 
 A. Tetap menanam padi seperti biasa, karena padi bisa tumbuh tanpa air.
@@ -109,6 +115,7 @@ D. Membiarkan sawahnya kosong sepanjang tahun karena musim hujan tidak jadi data
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua keadaan berikut.
 
 1. Musim hujan: angin kencang, gelombang laut tinggi, langit sering mendung.
@@ -130,6 +137,7 @@ D. Musim tidak memengaruhi nelayan karena ikan selalu ada di laut sepanjang tahu
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** BMKG memperkirakan hujan lebat akan turun terus-menerus selama seminggu di daerah tempat tinggal Sinta. Apa yang sebaiknya dilakukan warga di daerah Sinta?
 
 A. Membersihkan selokan dan menyiapkan barang-barang penting di tempat yang aman dari banjir.
@@ -146,6 +154,7 @@ D. Menebang semua pohon di sekitar rumah agar tidak ada yang tumbang.
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Memprediksi musim itu tidak penting, karena musim hujan dan musim kemarau selalu datang pada waktu yang sama setiap tahun." Apakah perkataan Dodi benar?
 
 A. Benar, karena awal musim tidak pernah berubah.
@@ -162,6 +171,7 @@ D. Salah; awal musim bisa bergeser — misalnya karena musim pancaroba atau El N
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Memprediksi musim adalah ....
 
 A. Menentukan sendiri kapan musim hujan dan musim kemarau harus datang.
@@ -179,6 +189,7 @@ D. Menghafal nama-nama bulan dalam satu tahun.
 ## Sub-bab C: Pemanfaatan Sumber Daya Hayati di Indonesia
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga Sinta tinggal di desa. Ayah Sinta menanam padi di sawah, Ibu Sinta memelihara ayam di pekarangan, dan kakek Sinta menanam jahe di kebun belakang rumah. Manakah pernyataan yang benar tentang pemanfaatan sumber daya hayati oleh keluarga Sinta?
 
 A. Hanya padi yang termasuk sumber daya hayati, sedangkan ayam dan jahe bukan
@@ -195,6 +206,7 @@ D. Semua yang ditanam dan dipelihara keluarga Sinta hanya untuk dijual, bukan un
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di sekolah, ada dua kelompok yang membuat prakarya. Kelompok Rani membuat meja kecil dari kayu jati, sedangkan kelompok Budi membuat meja kecil dari batu bata. Setelah jadi, meja kelompok Rani lebih ringan dan mudah dipindah. Apa yang dapat disimpulkan dari kegiatan itu?
 
 A. Kayu adalah sumber daya hayati yang dapat dimanfaatkan sebagai bahan bangunan dan perabot
@@ -211,6 +223,7 @@ D. Semua bahan bangunan harus berasal dari tumbuhan
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Sumber daya hayati tidak akan pernah habis, jadi kita boleh mengambil sebanyak-banyaknya tanpa perlu menanam kembali." Apakah perkataan Dodi benar?
 
 A. Benar, karena tumbuhan dan hewan selalu bertambah sendiri tanpa bantuan manusia
@@ -227,6 +240,7 @@ D. Salah; sumber daya hayati tidak bisa dimanfaatkan sama sekali
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Desa Sukamaju memiliki banyak pohon kelapa. Warga desa memanfaatkannya dengan berbagai cara: buahnya diminum airnya dan dimakan dagingnya, daunnya dianyam menjadi ketupat, dan batangnya dipakai sebagai bahan bangunan. Ada seorang warga yang ingin menebang semua pohon kelapa sekaligus untuk dijual kayunya. Tindakan yang paling bijak adalah ....
 
 A. Menebang semua pohon kelapa sekaligus agar mendapat uang banyak dalam sekali jual
@@ -243,6 +257,7 @@ D. Menebang semua pohon kelapa lalu menggantinya dengan pohon plastik
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sumber daya alam hayati adalah ....
 
 A. Sumber daya alam yang berasal dari makhluk hidup, seperti tumbuhan dan hewan
@@ -260,6 +275,7 @@ D. Sumber daya alam yang berasal dari udara, seperti angin dan sinar matahari
 ## Sub-bab D: Perubahan Iklim
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Pak Darman seorang petani. Dulu ia bisa menanam padi setiap awal musim hujan yang datangnya teratur. Beberapa tahun terakhir, musim hujan datang terlambat, lalu kemarau menjadi sangat panjang sehingga sawahnya kering dan gagal panen. Apa yang paling mungkin menyebabkan hal itu?
 
 A. Pak Darman menanam padi terlalu banyak
@@ -276,6 +292,7 @@ D. Pak Darman lupa menyiram tanamannya setiap hari
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua kegiatan berikut.
 
 1. Menebang banyak pohon di hutan untuk membuka lahan.
@@ -297,6 +314,7 @@ D. Kegiatan 1 dan 2 tidak ada hubungannya dengan perubahan iklim
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Perubahan iklim itu urusan alam saja. Manusia tidak menyebabkan dan tidak bisa berbuat apa-apa." Apakah perkataan Dodi benar?
 
 A. Benar, karena iklim hanya berubah karena letusan gunung berapi
@@ -313,6 +331,7 @@ D. Salah; perubahan iklim hanya terjadi di negara lain, bukan di Indonesia
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di desa Rani, hujan turun sangat deras dalam waktu singkat sehingga selokan meluap dan jalan tergenang banjir. Warga ingin mengurangi banjir seperti itu di masa depan. Tindakan yang paling tepat dilakukan warga adalah ....
 
 A. Menebang pohon di tepi sungai supaya air mengalir lebih cepat
@@ -329,6 +348,7 @@ D. Membiarkan saja karena banjir sudah biasa terjadi setiap tahun
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan perubahan iklim?
 
 A. Perubahan cuaca dari hari ke hari, misalnya hari ini hujan dan besok cerah
@@ -346,6 +366,7 @@ D. Perubahan arah angin yang terjadi setiap pergantian musim
 ## Sub-bab E: Efek Rumah Kaca
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina berkunjung ke kebun bunga. Di sana ada sebuah rumah kaca, yaitu bangunan berdinding dan beratap kaca bening tempat menanam bunga. Begitu masuk, Rina merasa udara di dalam rumah kaca lebih hangat daripada di luar, padahal cuaca di luar sedang mendung. Mengapa demikian?
 
 A. Karena kaca rumah kaca menghasilkan panas sendiri seperti kompor
@@ -362,6 +383,7 @@ D. Karena rumah kaca itu dibangun di atas tanah yang panas
 ---
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Desa A dikelilingi hutan dan kebun yang rindang, sedangkan Desa B dikelilingi pabrik dan jalan raya yang selalu dipenuhi kendaraan bermotor. Manakah pernyataan yang benar tentang kedua desa itu?
 
 A. Desa B menghasilkan gas rumah kaca lebih banyak, karena asap kendaraan dan pabrik melepaskan karbon dioksida ke udara
@@ -378,6 +400,7 @@ D. Desa B menghasilkan gas rumah kaca lebih sedikit, karena asap pabrik langsung
 ---
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Efek rumah kaca itu selalu buruk bagi kehidupan, jadi sebaiknya gas rumah kaca dihilangkan semuanya dari udara." Apakah perkataan Dodi benar?
 
 A. Benar, karena tanpa gas rumah kaca bumi akan menjadi lebih sejuk dan nyaman
@@ -394,6 +417,7 @@ D. Salah; gas rumah kaca tidak ada hubungannya dengan suhu bumi
 ---
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sekolah Sinta ingin ikut mengurangi efek rumah kaca. Dari kegiatan berikut, manakah yang paling membantu mengurangi gas rumah kaca di udara?
 
 A. Membakar sampah daun di halaman sekolah setiap hari
@@ -410,6 +434,7 @@ D. Meminta semua siswa diantar ke sekolah dengan mobil sendiri-sendiri
 ---
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Gas rumah kaca adalah ....
 
 A. Gas di atmosfer yang menahan panas bumi agar tidak semuanya lepas ke angkasa, contohnya karbon dioksida dan metana

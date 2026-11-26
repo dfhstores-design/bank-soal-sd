@@ -12,6 +12,7 @@
 ## Sub-bab A: Sistem Tata Kelola Nasional
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jalan di depan rumah Rani rusak dan berlubang sehingga sulit dilewati. Ayah Rani ingin melaporkannya supaya diperbaiki. Kepada siapa sebaiknya laporan itu disampaikan pertama kali?
 
 A. Presiden, karena presiden adalah pemimpin tertinggi negara
@@ -28,6 +29,7 @@ D. Camat, karena camat memimpin kecamatan
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Lurah dan Kepala Desa sama-sama memimpin wilayah setingkat kelurahan/desa. Apa perbedaan cara keduanya menjadi pemimpin?
 
 A. Lurah memimpin kecamatan, sedangkan Kepala Desa memimpin kabupaten
@@ -44,6 +46,7 @@ D. Lurah dipilih oleh warga desa, sedangkan Kepala Desa diangkat oleh pemerintah
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Urutan tingkat pemerintahan dari yang paling kecil (paling dekat dengan warga) sampai yang paling besar adalah ....
 
 A. RT – RW – Kelurahan/Desa – Kecamatan – Kabupaten/Kota – Provinsi – Negara
@@ -60,6 +63,7 @@ D. RW – RT – Kecamatan – Kelurahan/Desa – Provinsi – Kabupaten/Kota �
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Banjir melanda beberapa kabupaten di satu provinsi. Siapa yang memimpin dan mengoordinasikan penanganan banjir di tingkat provinsi?
 
 A. Bupati, karena bupati memimpin kabupaten
@@ -76,6 +80,7 @@ D. Lurah, karena lurah paling dekat dengan warga
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sistem tata kelola nasional adalah ....
 
 A. Kumpulan lagu daerah dari seluruh Indonesia
@@ -93,6 +98,7 @@ D. Aturan tentang cara berpakaian di sekolah
 ## Sub-bab B: Hidup Bermasyarakat di RT dan RW
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Keluarga Pak Andi baru pindah ke sebuah rumah di lingkungan RT 05. Agar tercatat sebagai warga dan bisa menerima pengumuman kegiatan lingkungan, hal pertama yang sebaiknya dilakukan keluarga Pak Andi adalah ....
 
 A. Langsung memasang pagar tinggi di depan rumahnya
@@ -109,6 +115,7 @@ D. Pindah lagi ke RT lain yang lebih ramai
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Keamanan lingkungan itu urusan ketua RT saja, jadi warga lain tidak perlu ikut ronda malam." Apakah perkataan Dodi benar?
 
 A. Benar, karena ketua RT dipilih untuk menjaga keamanan sendirian
@@ -125,6 +132,7 @@ D. Salah; keamanan lingkungan adalah urusan polisi saja, ketua RT tidak ikut cam
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di lingkungan RT 03 ada dua kegiatan warga minggu ini: membersihkan selokan yang mampet dan menjaga lingkungan pada malam hari secara bergilir. Manakah pasangan kegiatan dan tujuannya yang benar?
 
 A. Membersihkan selokan adalah kerja bakti untuk kebersihan lingkungan; menjaga lingkungan malam hari adalah ronda untuk keamanan
@@ -141,6 +149,7 @@ D. Kedua kegiatan itu sama-sama ronda untuk keamanan lingkungan
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Selokan di depan rumah Sinta mampet dan airnya meluap ke jalan. Warga RT bermusyawarah di balai RT dan sepakat mengadakan kerja bakti membersihkan selokan pada hari Minggu pagi. Sikap Sinta dan keluarganya yang paling tepat adalah ....
 
 A. Membiarkan saja karena selokan itu bukan di depan rumah mereka
@@ -157,6 +166,7 @@ D. Ikut kerja bakti bersama warga, karena kebersihan lingkungan adalah tanggung 
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** RT adalah singkatan dari ....
 
 A. Rukun Tetangga, yaitu kumpulan beberapa rumah dalam satu wilayah kecil yang dipimpin seorang ketua RT
@@ -174,6 +184,7 @@ D. Rumah Tetangga, yaitu rumah yang bersebelahan dengan rumah kita
 ## Sub-bab C: Hidup Bermasyarakat di Kelurahan/Desa
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Ayah Rani membutuhkan surat keterangan domisili untuk keperluan administrasi. Ke mana Ayah Rani sebaiknya pergi?
 
 A. Ke kantor camat, karena semua surat dibuat di sana
@@ -190,6 +201,7 @@ D. Ke kantor polisi, karena surat keterangan hanya dibuat oleh polisi
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Desa Sukamaju dipimpin oleh seorang Kepala Desa, sedangkan Kelurahan Mawar dipimpin oleh seorang Lurah. Apa perbedaan cara kedua pemimpin itu mendapatkan jabatannya?
 
 A. Kepala Desa dan Lurah sama-sama dipilih langsung oleh warga
@@ -206,6 +218,7 @@ D. Kepala Desa dan Lurah sama-sama diangkat oleh presiden
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Lurah itu dipilih oleh warga, sama seperti Kepala Desa." Apakah perkataan Dodi benar?
 
 A. Benar, karena lurah dan kepala desa sama-sama pemimpin wilayah
@@ -222,6 +235,7 @@ D. Salah; lurah dipilih oleh camat, bukan oleh bupati/wali kota
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jalan di Desa Sukamaju rusak dan berlubang sehingga sulit dilalui. Warga ingin mengusulkan perbaikan jalan itu kepada pemerintah desa. Cara yang paling tepat adalah ....
 
 A. Menyampaikan usulan dalam musyawarah desa, agar dibahas bersama kepala desa dan BPD
@@ -238,6 +252,7 @@ D. Langsung pergi ke kantor presiden untuk mengusulkan perbaikan
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Wilayah yang terdiri atas beberapa dusun dan dipimpin oleh seorang Kepala Desa disebut ....
 
 A. Desa
@@ -255,6 +270,7 @@ D. Kabupaten
 ## Sub-bab D: Hidup Bermasyarakat di Kecamatan
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Jalan penghubung antara Desa Sukamaju dan Desa Sukamulya rusak parah sehingga anak-anak sulit berangkat ke sekolah. Warga kedua desa sepakat mengadukan masalah ini bersama-sama. Kepada siapa sebaiknya mereka mengadu?
 
 A. Kepada ketua RT, karena jalan itu berada di depan rumah warga
@@ -271,6 +287,7 @@ D. Kepada bupati, karena hanya bupati yang boleh memperbaiki jalan
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan tiga pemimpin berikut.
 
 1. Camat
@@ -293,6 +310,7 @@ D. Ketiganya sama, karena mereka memimpin wilayah yang sama luasnya
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Camat itu dipilih langsung oleh warga seperti kepala desa, jadi kalau warga tidak suka, mereka bisa tidak memilihnya lagi." Apakah perkataan Dodi benar?
 
 A. Salah, karena camat bukan dipilih warga, tetapi diangkat oleh bupati atau walikota dan berstatus ASN
@@ -309,6 +327,7 @@ D. Benar, karena camat dan kepala desa sama-sama dipilih dalam Pilkades
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kecamatan mengadakan kerja bakti membersihkan selokan di jalan kecamatan. Pak RT mengajak warga RT-nya ikut serta. Sikap warga yang paling tepat dalam kegiatan ini adalah ....
 
 A. Menonton saja dari rumah, karena membersihkan selokan adalah tugas camat
@@ -325,6 +344,7 @@ D. Ikut gotong royong membersihkan selokan, karena menjaga lingkungan kecamatan 
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kecamatan adalah ....
 
 A. Wilayah bagian dari kabupaten atau kota yang membawahi beberapa kelurahan dan desa, dipimpin oleh seorang camat
@@ -342,6 +362,7 @@ D. Wilayah yang sama dengan desa, hanya namanya saja yang berbeda
 ## Sub-bab E: Kerja Sama di Lingkungan RT hingga Kecamatan
 
 ### Soal 21
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di RT Sinta, saluran air tersumbat sampah sehingga air menggenang di jalan. Ketua RT mengajak semua warga kerja bakti membersihkan saluran air itu pada hari Minggu pagi. Sinta melihat ayahnya ikut membawa cangkul dan ember. Mengapa kerja bakti itu dilakukan bersama-sama, bukan oleh satu orang saja?
 
 A. Supaya pekerjaan berat cepat selesai dan terasa ringan
@@ -358,6 +379,7 @@ D. Supaya jalan menjadi tempat bermain anak-anak
 ---
 
 ### Soal 22
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua kegiatan berikut.
 
 (1) Warga RW mengadakan ronda malam bergiliran untuk menjaga keamanan lingkungan.
@@ -379,6 +401,7 @@ D. Keduanya bukan kerja sama, karena hanya dilakukan oleh warga RW saja
 ---
 
 ### Soal 23
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rumah Pak Budi kebanjiran. Tetangga-tetangganya datang membantu: ada yang membantu membersihkan lumpur, ada yang membawakan makanan, ada yang menampung keluarga Pak Budi di rumahnya. Sikap para tetangga itu menunjukkan kerja sama karena ....
 
 A. Mereka membantu tetangga yang kesusahan tanpa diminta imbalan
@@ -395,6 +418,7 @@ D. Mereka ingin Pak Budi pindah dari lingkungan itu
 ---
 
 ### Soal 24
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi berkata, "Kerja sama itu hanya perlu di lingkungan RT saja. Kalau sudah sampai tingkat kecamatan, biarlah pemerintah yang bekerja sendiri." Apakah pendapat Dodi benar?
 
 A. Benar, karena warga kecamatan tidak saling mengenal
@@ -411,6 +435,7 @@ D. Salah; kerja sama hanya berlaku di lingkungan sekolah, bukan di masyarakat
 ---
 
 ### Soal 25
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Gotong royong adalah ....
 
 A. Kegiatan bekerja bersama-sama secara sukarela untuk kepentingan bersama

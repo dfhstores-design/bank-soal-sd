@@ -12,6 +12,7 @@
 ## Sub-bab A: Mengenali Puisi Anak
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut!
 
 > Pagi datang membawa cerah
@@ -40,6 +41,7 @@ D. Delapan bait
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah bait puisi berikut!
 
 > Pagi datang membawa cerah
@@ -63,6 +65,7 @@ D. a-a-b-b, karena dua baris pertama berakhir dengan bunyi yang sama
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Perhatikan dua teks berikut!
 
 > Teks 1:
@@ -90,6 +93,7 @@ D. Teks 2, karena memakai kata "kemarin" yang menunjukkan waktu kejadian
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut!
 
 > Ibu memasak di dapur pagi hari
@@ -113,6 +117,7 @@ D. Cita-cita menjadi seorang koki
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan puisi?
 
 A. Karangan yang berisi cerita tentang perjalanan seseorang dari awal sampai akhir
@@ -130,6 +135,7 @@ D. Laporan tertulis tentang kejadian yang benar-benar terjadi
 ## Sub-bab B: Menguraikan Isi Puisi Anak
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut.
 
 > Layang-layangku terbang tinggi,
@@ -153,6 +159,7 @@ D. Penyair kehilangan hatinya karena layang-layang itu terbang jauh.
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut.
 
 > Di pagi hari aku menyiram bunga,
@@ -176,6 +183,7 @@ D. Suasana pagi hari yang cerah
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut.
 
 > Mentari pagi bersinar cerah,
@@ -199,6 +207,7 @@ D. Sekolah Sinta dekat dari rumahnya.
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah dua puisi berikut.
 
 > Puisi 1
@@ -229,6 +238,7 @@ D. Puisi 1 menggambarkan perasaan sedih, sedangkan Puisi 2 menggambarkan perasaa
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan menguraikan isi puisi?
 
 A. Menyalin puisi kata demi kata tanpa mengubah apa pun.
@@ -246,6 +256,7 @@ D. Menghitung jumlah baris dan bait dalam puisi.
 ## Sub-bab C: Menceritakan Kembali Isi Puisi Anak
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut.
 
 > **Pagi di Desaku**
@@ -271,6 +282,7 @@ D. Sinta menceritakan isi puisi dengan urutan yang benar.
 ---
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut.
 
 > **Layang-Layangku**
@@ -296,6 +308,7 @@ D. "Layang-layangku terbang tinggi, menari-nari di langit biru. Benangnya kupega
 ---
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut.
 
 > **Ibuku**
@@ -325,6 +338,7 @@ D. Budi, karena ceritanya lebih singkat dan mudah diingat.
 ---
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Bacalah puisi berikut.
 
 > **Bunga di Tamanku**
@@ -350,6 +364,7 @@ D. Kupu-kupu dalam cerita Dodi tidak datang beramai-ramai.
 ---
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan menceritakan kembali isi puisi?
 
 A. Menyalin puisi kata demi kata tanpa mengubah apa pun.
@@ -367,6 +382,7 @@ D. Menghafal puisi lalu mengucapkannya dengan suara keras.
 ## Sub-bab D: Menulis dan Membacakan Puisi Anak Sederhana
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta ingin menulis puisi tentang hujan. Ia mencatat langkah-langkahnya, tetapi urutannya masih acak.
 
 (1) Menulis bait-bait puisi dengan kata-kata yang indah.
@@ -389,6 +405,7 @@ D. (1) – (3) – (2)
 ---
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina menulis dua bait puisi tentang bunga mawar.
 
 Bait 1:
@@ -419,6 +436,7 @@ D. Bait 2, karena bunyi akhir semua barisnya berbeda-beda
 ---
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rudi menulis bait puisi tentang pagi hari dengan rima a-b-a-b, tetapi baris keempatnya belum selesai.
 
 > Mentari pagi bersinar terang
@@ -442,6 +460,7 @@ D. Embun pagi masih membasahi
 ---
 
 ### Soal 19
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi akan membacakan puisi tentang anak kucingnya yang hilang. Isi puisinya sedih karena ia sangat merindukan kucing itu. Cara membacakan puisi yang paling tepat adalah ....
 
 A. Membaca dengan cepat, suara keras, sambil tertawa
@@ -458,6 +477,7 @@ D. Membaca sambil berlari-lari kecil mengelilingi kelas
 ---
 
 ### Soal 20
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dalam sebuah puisi, kumpulan baris-baris puisi yang tersusun menjadi satu bagian disebut ....
 
 A. Bait

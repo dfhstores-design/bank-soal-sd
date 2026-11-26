@@ -12,6 +12,7 @@
 ## Sub-bab A: Jaringan Komputer
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan jaringan komputer?
 A. Satu komputer yang dipakai sendirian tanpa terhubung ke perangkat lain
 B. Dua atau lebih komputer yang saling terhubung dan dapat bertukar data serta berbagi sumber daya
@@ -22,6 +23,7 @@ D. Kabel yang dipakai untuk menyalakan komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab A
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Di laboratorium komputer sekolah, semua komputer saling terhubung dan dapat memakai satu printer yang sama. Keadaan ini adalah contoh ....
 A. Komputer yang rusak
 B. Perangkat lunak
@@ -32,6 +34,7 @@ D. Brainware
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab A
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina menyimpan tugas sekolah di komputer laboratorium. Dari komputer lain yang terhubung dalam jaringan yang sama, Rina dapat membuka tugas itu tanpa memakai flashdisk. Manfaat jaringan komputer yang ditunjukkan Rina adalah ....
 A. Berbagi data antar komputer
 B. Membuat komputer menyala lebih cepat
@@ -42,6 +45,7 @@ D. Mematikan semua komputer sekaligus
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab A
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang BUKAN contoh jaringan komputer?
 A. Komputer di rumah yang terhubung ke Wi-Fi dan dapat memakai printer yang sama dengan laptop ayah
 B. Komputer-komputer di laboratorium sekolah yang saling terhubung
@@ -52,6 +56,7 @@ D. Satu komputer yang berdiri sendiri dan tidak terhubung ke komputer lain
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab A
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dina mengirim gambar hasil karyanya dari komputernya ke komputer temannya melalui jaringan sekolah. Hal ini menunjukkan bahwa jaringan komputer dapat digunakan untuk ....
 A. Mempercepat komputer yang lambat
 B. Berkomunikasi dan bertukar informasi antar pengguna
@@ -66,6 +71,7 @@ D. Memperbaiki monitor yang rusak
 ## Sub-bab B: Internet
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa yang dimaksud dengan internet?
 A. Satu komputer yang sangat besar di dalam sekolah
 B. Kabel yang menghubungkan komputer dengan listrik
@@ -76,6 +82,7 @@ D. Program untuk mengetik tugas di komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab B
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani mendapat tugas IPA tentang daur hidup kupu-kupu. Cara tercepat mencari informasi itu dengan internet adalah ....
 A. Membuka peramban dan mencari informasi tentang daur hidup kupu-kupu
 B. Menunggu sampai ada teman yang bercerita tentang kupu-kupu
@@ -86,6 +93,7 @@ D. Menghapus semua file di komputer
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab B
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi ingin mengirim tugas cerita kepada Pak Guru lewat surat elektronik. Layanan internet yang dipakai Budi adalah ....
 A. Permainan daring
 B. Surat elektronik (email)
@@ -97,6 +105,7 @@ D. Pemutar musik
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab B
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Apa perbedaan internet dengan jaringan komputer di ruang komputer sekolah?
 A. Internet hanya ada di sekolah, jaringan sekolah ada di mana-mana
 B. Jaringan sekolah menghubungkan komputer di seluruh dunia
@@ -107,6 +116,7 @@ D. Internet menghubungkan komputer di berbagai negara, sedangkan jaringan sekola
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab B
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang BUKAN penggunaan internet yang baik untuk anak sekolah?
 A. Menonton video pembelajaran
 B. Mencari materi pelajaran untuk tugas sekolah
@@ -121,6 +131,7 @@ D. Mengikuti kelas daring bersama guru
 ## Sub-bab C: Cara Melindungi Data dan File
 
 ### Soal 11
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Mengapa data di komputer perlu dilindungi?
 A. Supaya komputer menyala lebih cepat
 B. Karena data bisa dicuri dan disalahgunakan oleh orang yang tidak bertanggung jawab
@@ -131,6 +142,7 @@ D. Supaya komputer tidak cepat panas
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab C
 
 ### Soal 12
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah kata sandi berikut yang paling kuat?
 A. "12345"
 B. "udin123"
@@ -141,6 +153,7 @@ D. "nama saya"
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab C
 
 ### Soal 13
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rani menerima pesan dari orang yang tidak dikenal di internet. Orang itu meminta nama lengkap dan alamat rumah Rani. Apa yang sebaiknya dilakukan Rani?
 A. Memberikan nama dan alamatnya supaya sopan
 B. Meminta kata sandi orang itu sebagai gantinya
@@ -151,6 +164,7 @@ D. Tidak memberikan data pribadinya dan memberi tahu guru atau orang tua
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab C
 
 ### Soal 14
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi selesai memakai komputer di perpustakaan sekolah. Sebelum pergi, apa yang harus Budi lakukan?
 A. Log out dari semua akun yang ia buka
 B. Membiarkan akunnya tetap terbuka supaya cepat dipakai lagi
@@ -161,6 +175,7 @@ D. Menulis kata sandinya di atas meja
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab C
 
 ### Soal 15
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Manakah berikut ini yang BUKAN cara melindungi data dan file?
 A. Membuat salinan cadangan file penting
 B. Memakai kata sandi yang kuat dan berbeda untuk setiap akun
@@ -179,6 +194,7 @@ Soal tambahan ini dibuat mengikuti aturan baru Andri (25 Nov 2026): topik dari b
 ### Sub-bab A: Jaringan Komputer
 
 ### Soal 16
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Kabel jaringan di laboratorium komputer sekolah terputus. Apa yang masih bisa dan tidak bisa lagi dilakukan komputer-komputer itu?
 A. Masih bisa berbagi printer, tetapi tidak bisa dipakai sendiri-sendiri
 B. Masih bisa dipakai sendiri-sendiri, tetapi tidak bisa lagi berbagi printer dan berbagi file
@@ -189,6 +205,7 @@ D. Tidak ada yang berubah, semua tetap bisa dilakukan seperti biasa
 **Rujukan:** Informatika Erlangga Kelas 4, Bab 4, Sub-bab A
 
 ### Soal 17
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Rina mau mengirim tugas ke temannya. Ia bisa memakai flashdisk atau mengirim lewat jaringan sekolah. Mana yang lebih praktis dan mengapa?
 A. Flashdisk, karena harus dibawa dan dicolokkan ke komputer teman
 B. Lewat jaringan sekolah, karena file bisa dibuka dari komputer mana pun yang terhubung tanpa membawa benda apa pun
@@ -201,6 +218,7 @@ D. Sama saja, karena keduanya sama-sama memerlukan kabel
 ### Sub-bab B: Internet
 
 ### Soal 18
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta mencari informasi di internet dan menemukan dua jawaban yang berbeda di dua situs tentang hal yang sama. Apa yang sebaiknya ia lakukan?
 A. Langsung memakai jawaban dari situs yang pertama ditemukan
 B. Memilih jawaban yang paling pendek supaya cepat selesai

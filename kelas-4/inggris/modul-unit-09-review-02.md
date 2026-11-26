@@ -12,6 +12,7 @@
 ## Unit 9: He's Good at Surfing
 
 ### Soal 1
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Budi can stand on a surfboard and ride big waves in the sea. Which sentence is true about Budi?
 
 A. He is good at swimming.
@@ -28,6 +29,7 @@ D. He can't surf.
 ---
 
 ### Soal 2
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Dodi says, "I am good at swim." What is wrong with his sentence?
 
 A. Nothing is wrong. The sentence is correct.
@@ -44,6 +46,7 @@ D. He should say, "I can swim good."
 ---
 
 ### Soal 3
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read about two children.
 
 Rani is good at swimming, but she can't ride a bike.
@@ -65,6 +68,7 @@ D. Nobody, because they can't swim.
 ---
 
 ### Soal 4
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Sinta can draw beautiful pictures, but she can't sing a song. Which sentence is correct about Sinta?
 
 A. She can sing, but she can't draw.
@@ -81,6 +85,7 @@ D. She can sing and draw.
 ---
 
 ### Soal 5
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** A person who stands on a board and rides the waves in the sea is a ___.
 
 A. Singer
@@ -98,6 +103,7 @@ D. Farmer
 ## Review 2 (Units 5–8)
 
 ### Soal 6
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read what Rina says.
 
 "I like English the most, but I don't like Math."
@@ -118,6 +124,7 @@ D. "Rina doesn't like English."
 ---
 
 ### Soal 7
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Which sentence is a school rule?
 
 A. "You must be late."
@@ -134,6 +141,7 @@ D. "You must do your homework."
 ---
 
 ### Soal 8
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Which sentence is correct?
 
 A. "I want to be an farmer."
@@ -150,6 +158,7 @@ D. "I want to be an teacher."
 ---
 
 ### Soal 9
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read the dialogue.
 
 Teacher: "Why do you want to be a pilot, Dodi?"
@@ -171,6 +180,7 @@ D. "Because I like swimming."
 ---
 
 ### Soal 10
+<!-- Metadata soal: {"status":"lolos"} -->
 **Pertanyaan:** Read about Rani.
 
 Rani likes Science the most. She wants to be a doctor because she likes helping sick people.
