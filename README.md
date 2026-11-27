@@ -127,3 +127,11 @@ Yang belum dilakukan — README ini akan diperbarui mengikuti perkembangan bank 
 - **Tinjauan guru** — 745 soal draf Kelas 4 masih menunggu ditinjau guru (D-014, batas 14 hari, D-028).
 - **Generator soal** — aplikasi form + Google Apps Script untuk guru/orang tua membuat soal sendiri (D-029), belum dibangun.
 - **Kiriman kontributor** — folder `singgah/` sudah siap menerima kiriman; proses tinjauannya berjalan mengikuti D-028.
+
+## Dukung NaraNusa
+
+Bank soal ini gratis dan terbuka untuk siapa saja (lisensi CC BY-NC 4.0). NaraNusa — aplikasi yang memakai soal-soal ini — gratis dan akan tetap gratis untuk semua anak. Kalau soal-soal ini membantu anakmu belajar, kamu bisa mendukung pengembangannya lewat Sociabuzz — sekadar traktir kopi, supaya saya bisa terus menambah soal dan fitur baru.
+
+[Dukung lewat Sociabuzz](https://sociabuzz.com/andri_ndi/tribe)
+
+Tentang pengembang: saya Andri, ayah dari seorang anak Kelas 4. NaraNusa saya buat karena saya ingin anak saya belajar dengan soal-soal yang sesuai bukunya, dengan cara yang menyenangkan.
